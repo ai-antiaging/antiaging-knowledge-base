@@ -3,7 +3,7 @@ title = '抗衰老科学前沿知识库'
 description = 'AI 驱动的抗衰老科学知识库，每日自动更新最新研究进展'
 languageCode = 'zh-CN'
 defaultContentLanguage = 'zh-cn'
-theme = 'hugo-blox'
+theme = 'hugo-book'
 
 enableGitInfo = true
 summaryLength = 30
@@ -42,5 +42,9 @@ summaryLength = 30
     endLevel = 3
 
 [params]
-  author = '抗衰小杨 · JVS Claw AI'
-  footer = '© 2026 抗衰老科学前沿知识库 | 由 JVS Claw AI 驱动'
+  BookTheme = 'auto'
+  BookRepo = 'https://github.com/muwangdao/antiaging-knowledge-base'
+  BookEditPath = 'edit/main'
+  BookDateFormat = '2006-01-02'
+  BookSearch = true
+  BookToC = true
