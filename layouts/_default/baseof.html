@@ -37,24 +37,21 @@
         .card h3 { margin-top: 0; color: #2d3748; }
         .card a { color: #667eea; text-decoration: none; }
         .card a:hover { text-decoration: underline; }
-        .toc { background: #f7fafc; padding: 15px 20px; border-radius: 8px; margin: 20px 0; }
-        .toc ul { list-style: none; margin: 0; }
-        .toc li { margin: 5px 0; }
         @media (max-width: 600px) { body { padding: 10px; } main { padding: 20px; } nav a { display: block; margin: 10px 0; } }
     </style>
 </head>
 <body>
     <header>
         <h1>{{ .Site.Title }}</h1>
-        <p>{{ .Site.Description }}</p>
+        <p>AI 驱动的抗衰老科学知识库</p>
     </header>
     
     <nav>
         <a href="{{ "/" | relURL }}"{{ if .IsHome }} class="active"{{ end }}>🏠 首页</a>
-        <a href="{{ "/docs/basics/" | relURL }}"{{ if eq .Title "基础理论：衰老的十二大标志物" }} class="active"{{ end }}>📖 基础理论</a>
-        <a href="{{ "/docs/interventions/" | relURL }}"{{ if eq .Title "干预方法库" }} class="active"{{ end }}>💊 干预方法</a>
-        <a href="{{ "/docs/research/" | relURL }}"{{ if eq .Title "研究前沿" }} class="active"{{ end }}>🔬 研究前沿</a>
-        <a href="{{ "/docs/about/" | relURL }}"{{ if eq .Title "关于本站" }} class="active"{{ end }}>ℹ️ 关于</a>
+        <a href="{{ "/basics/" | relURL }}"{{ if eq .Title "基础理论：衰老的十二大标志物" }} class="active"{{ end }}>📖 基础理论</a>
+        <a href="{{ "/interventions/" | relURL }}"{{ if eq .Title "干预方法库" }} class="active"{{ end }}>💊 干预方法</a>
+        <a href="{{ "/research/" | relURL }}"{{ if eq .Title "研究前沿" }} class="active"{{ end }}>🔬 研究前沿</a>
+        <a href="{{ "/about/" | relURL }}"{{ if eq .Title "关于本站" }} class="active"{{ end }}>ℹ️ 关于</a>
     </nav>
     
     <main>
@@ -64,11 +61,5 @@
     <footer>
         <p>© 2026 抗衰老科学前沿知识库 | 由 JVS Claw AI 驱动</p>
     </footer>
-</body>
-</html>
-    </footer>
-</body>
-</html>
-</footer>
 </body>
 </html>
