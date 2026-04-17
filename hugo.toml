@@ -1,4 +1,4 @@
-# Hugo 主配置文件（合并所有配置）
+# Hugo 主配置文件
 
 baseURL = 'https://muwangdao.github.io/antiaging-knowledge-base/'
 title = '抗衰老科学前沿知识库'
@@ -18,20 +18,6 @@ enableEmoji = true
 [minify]
   disableXML = false
   minifyOutput = true
-
-# 缓存配置
-[caches]
-  [caches.getresource]
-    dir = ':cacheDir/:project'
-    maxAge = -1
-  
-  [caches.getjson]
-    dir = ':cacheDir/:project'
-    maxAge = -1
-  
-  [caches.csv]
-    dir = ':cacheDir/:project'
-    maxAge = -1
 
 # 图片处理
 [imaging]
