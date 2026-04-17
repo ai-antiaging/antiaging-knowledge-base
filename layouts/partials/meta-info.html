@@ -1,0 +1,15 @@
+{{ if or .Site.Params.features.readingTime .Site.Params.features.lastModified }}
+<div class="meta-info">
+    {{ if .Site.Params.features.readingTime }}
+    <span>⏱️ 阅读时间：{{ .ReadingTime }} 分钟</span>
+    {{ end }}
+    
+    {{ if and .Site.Params.features.lastModified .Lastmod }}
+    <span>📅 最后更新：{{ .Lastmod.Format "2006-01-02" }}</span>
+    {{ end }}
+    
+    {{ if .Params.description }}
+    <span>📝 {{ .Params.description }}</span>
+    {{ end }}
+</div>
+{{ end }}

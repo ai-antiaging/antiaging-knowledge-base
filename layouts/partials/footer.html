@@ -1,0 +1,11 @@
+<footer>
+    <p>{{ .Site.Params.footer | default "© 2026 抗衰老科学前沿知识库" }}</p>
+    {{ with .Site.Params.social.github }}
+    <p style="margin-top: 10px;">
+        <a href="{{ . }}" target="_blank" rel="noopener">GitHub 仓库</a>
+    </p>
+    {{ end }}
+</footer>
+
+</body>
+</html>

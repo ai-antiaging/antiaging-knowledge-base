@@ -1,0 +1,36 @@
+name: Check Broken Links
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 6 * * *'  # 每天早上 6 点
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+      
+      - name: Build
+        run: hugo -D --minify
+      
+      - name: Check links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress ./public
+          fail: true
+      
+      - name: Create Issue On Fail
+        if: failure()
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: 发现失效链接
+          content-filepath: ./lychee/out.md
+          labels: bug, links

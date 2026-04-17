@@ -1,0 +1,40 @@
+# Hugo 主配置文件（合并所有配置）
+
+baseURL = 'https://muwangdao.github.io/antiaging-knowledge-base/'
+title = '抗衰老科学前沿知识库'
+description = 'AI 驱动的抗衰老科学知识库，每日自动更新最新研究进展'
+languageCode = 'zh-CN'
+defaultContentLanguage = 'zh-cn'
+
+# 性能优化
+enableGitInfo = true
+summaryLength = 30
+relativeURLs = true
+canonifyURLs = true
+enableRobotsTXT = true
+enableEmoji = true
+
+# 压缩输出
+minify:
+  disableXML: false
+  minifyOutput: true
+
+# 缓存配置
+caches:
+  getresource:
+    dir: :cacheDir/:project
+    maxAge: -1
+  
+  getjson:
+    dir: :cacheDir/:project
+    maxAge: -1
+  
+  csv:
+    dir: :cacheDir/:project
+    maxAge: -1
+
+# 图片处理
+imaging:
+  quality: 85
+  resampleFilter: CatmullRom
+  anchor: smart

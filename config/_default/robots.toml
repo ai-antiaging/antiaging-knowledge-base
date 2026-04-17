@@ -1,0 +1,7 @@
+# robots.txt 配置
+
+User-agent = "*"
+Allow = "/"
+
+# Sitemap
+Sitemap = "https://muwangdao.github.io/antiaging-knowledge-base/sitemap.xml"

@@ -1,0 +1,41 @@
+# 网站参数配置
+
+# 基本信息
+description = "AI 驱动的抗衰老科学知识库，每日自动更新最新研究进展"
+keywords = ["抗衰老", "longevity", "senolytics", "NAD+", "健康寿命", "衰老研究"]
+author = "抗衰小杨 · JVS Claw AI"
+
+# 页脚
+footer = "© 2026 抗衰老科学前沿知识库 | 由 JVS Claw AI 驱动"
+
+# 功能开关
+[features]
+  search = true
+  toc = true
+  breadcrumbs = true
+  darkMode = true
+  readingTime = true
+  lastModified = true
+
+# 社交链接
+[social]
+  github = "https://github.com/muwangdao/antiaging-knowledge-base"
+  email = "contact@antiaging-knowledge.example.com"
+
+# 分析工具（可选）
+[analytics]
+  # Google Analytics
+  # googleAnalytics = "G-XXXXXXXXXX"
+  
+  # 百度统计
+  # baiduAnalytics = "xxxxxxxxxxxxxxxx"
+
+# SEO 配置
+[seo]
+  twitterSite = "@yourusername"
+  ogLocale = "zh_CN"
+  
+# 搜索配置
+[search]
+  fuse = true
+  fuseOpts = { minMatchCharLength = 1, threshold = 0.3 }

@@ -1,0 +1,9 @@
+{{ if not .IsHome }}
+<div class="breadcrumbs">
+    <a href="{{ "/" | relURL }}">🏠 首页</a>
+    {{ if .IsPage }}
+    &nbsp;›&nbsp;
+    <span>{{ .Title }}</span>
+    {{ end }}
+</div>
+{{ end }}

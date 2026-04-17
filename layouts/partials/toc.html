@@ -1,0 +1,6 @@
+{{ if and .Site.Params.features.toc .TableOfContents (gt (len .TableOfContents) 50) }}
+<aside class="toc">
+    <h3>📑 目录</h3>
+    {{ .TableOfContents }}
+</aside>
+{{ end }}

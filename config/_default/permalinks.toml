@@ -1,0 +1,7 @@
+# 永久链接配置
+
+# 所有内容使用文件名作为 URL
+page = '/:filename/'
+
+# 章节使用章节名
+section = '/:section/'

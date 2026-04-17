@@ -1,5 +1,7 @@
 {{ define "main" }}
-{{ .Content }}
+<div class="content">
+    {{ .Content }}
+</div>
 
 <div class="card-grid">
     <div class="card">
@@ -32,4 +34,15 @@
         <p><a href="{{ "metabolism/" | relURL }}">探索代谢网络 →</a></p>
     </div>
 </div>
+
+{{ if .Site.Params.features.readingTime }}
+<div style="margin-top: 40px; padding: 20px; background: var(--bg-secondary); border-radius: 8px;">
+    <h3 style="margin-top: 0;">📊 网站统计</h3>
+    <p>
+        <strong>总页面数：</strong>{{ len .Site.Pages }} |
+        <strong>总字数：</strong>{{ .Site.WordCount }} 字 |
+        <strong>预计阅读：</strong>{{ div .Site.WordCount 200 }} 分钟
+    </p>
+</div>
+{{ end }}
 {{ end }}
