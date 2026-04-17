@@ -1,0 +1,207 @@
+{{ if .Site.Params.features.search }}
+<div id="search-modal" class="search-modal" style="display: none;">
+    <div class="search-modal-content">
+        <div class="search-modal-header">
+            <h3>🔍 搜索结果</h3>
+            <button class="search-close" onclick="closeSearch()">×</button>
+        </div>
+        <div id="search-results" class="search-results">
+            <!-- 搜索结果将在这里显示 -->
+        </div>
+    </div>
+</div>
+
+<style>
+.search-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.search-modal-content {
+    background: white;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 700px;
+    max-height: 80vh;
+    overflow-y: auto;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+}
+
+.search-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 25px;
+    border-bottom: 1px solid var(--border);
+}
+
+.search-modal-header h3 {
+    margin: 0;
+    color: var(--text);
+}
+
+.search-close {
+    background: none;
+    border: none;
+    font-size: 28px;
+    color: var(--text-light);
+    cursor: pointer;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-close:hover {
+    color: var(--text);
+}
+
+.search-results {
+    padding: 25px;
+}
+
+.search-result-item {
+    padding: 15px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.search-result-item:last-child {
+    border-bottom: none;
+}
+
+.search-result-item a {
+    font-size: 1.1em;
+    font-weight: 500;
+    color: var(--primary);
+    text-decoration: none;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.search-result-item a:hover {
+    text-decoration: underline;
+}
+
+.search-result-desc {
+    color: var(--text-light);
+    font-size: 0.95em;
+    line-height: 1.5;
+}
+
+.search-no-results {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-light);
+}
+
+@media (max-width: 768px) {
+    .search-modal-content {
+        width: 95%;
+        margin: 0 auto;
+    }
+}
+</style>
+
+<script>
+const sitePages = [
+    {{ range .Site.Pages }}
+    {
+        title: {{ .Title | jsonify }},
+        url: {{ .Permalink | jsonify }},
+        desc: {{ with .Description }}{{ . | jsonify }}{{ else }}""{{ end }},
+        section: {{ .Section | jsonify }}
+    },
+    {{ end }}
+];
+
+function searchSite() {
+    const query = document.getElementById('search-input').value.trim();
+    if (query.length < 2) return;
+    
+    showModal();
+    displayResults(query);
+}
+
+function displayResults(query) {
+    const resultsContainer = document.getElementById('search-results');
+    const queryLower = query.toLowerCase();
+    
+    const results = sitePages.filter(page => 
+        page.title.toLowerCase().includes(queryLower) || 
+        page.desc.toLowerCase().includes(queryLower) ||
+        page.section.toLowerCase().includes(queryLower)
+    );
+    
+    if (results.length === 0) {
+        resultsContainer.innerHTML = `
+            <div class="search-no-results">
+                <p>😕 未找到相关结果</p>
+                <p style="font-size: 0.9em; margin-top: 10px;">尝试其他关键词</p>
+            </div>
+        `;
+        return;
+    }
+    
+    // 高亮函数
+    function highlight(text, query) {
+        const regex = new RegExp(`(${query})`, 'gi');
+        return text.replace(regex, '<mark style="background: #fef3c7; padding: 2px 4px; border-radius: 3px;">$1</mark>');
+    }
+    
+    resultsContainer.innerHTML = results.map(result => `
+        <div class="search-result-item">
+            <a href="${result.url}">${highlight(result.title, query)}</a>
+            ${result.desc ? `<div class="search-result-desc">${highlight(result.desc, query)}</div>` : ''}
+        </div>
+    `).join('');
+}
+
+function showModal() {
+    document.getElementById('search-modal').style.display = 'flex';
+    document.getElementById('search-results').innerHTML = '<p style="text-align: center; color: var(--text-light); padding: 40px;">搜索中...</p>';
+}
+
+function closeSearch() {
+    document.getElementById('search-modal').style.display = 'none';
+    document.getElementById('search-input').value = '';
+}
+
+// 点击模态框外部关闭
+document.addEventListener('click', function(event) {
+    const modal = document.getElementById('search-modal');
+    if (event.target === modal) {
+        closeSearch();
+    }
+});
+
+// ESC 键关闭
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+        closeSearch();
+    }
+});
+
+// 回车搜索
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('search-input');
+    if (searchInput) {
+        searchInput.addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                searchSite();
+            }
+        });
+    }
+});
+</script>
+{{ end }}
