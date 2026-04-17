@@ -23,10 +23,14 @@ geekdocCollapseSection: false
 
 | 日期 | 标题 | 期刊 |
 |------|------|------|
+| 2026-04-17 | Hidden in plain sight: UN High-Level Meeting missed the mark on chronic pain and mobility impairment | J Glob Health |
+| 2026-04-16 | Reply to Letter: Your Best Life: Aging with Grace-Keys to Success in the Autumn of Life | Clin Orthop Relat Res |
+| 2026-04-16 | Growth versus Decline: Root Aging and Plant Performance | Plant Cell |
+| 2026-04-16 | Clinical Diagnosis of AD, LATE, and AD+LATE: Relevant Considerations for Patients and Research | Neurology |
+| 2026-04-16 | Supporting self-determination in ageing adults with intellectual disabilities through virtual reality | Disabil Rehabil Assist Technol |
 | 2026-04-14 | Translating cellular senescence research | Nat Rev Endocrinol |
 | 2026-04-14 | Circulating Metabolites Treat TMJ-OA | J Extracell Vesicles |
-| 2026-04-14 | Senolytics reduce kidney inflammation | EBioMedicine |
 
 ---
 
-*最后更新：2026-04-15*
+*最后更新：2026-04-17*
