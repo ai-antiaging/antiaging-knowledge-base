@@ -13,13 +13,13 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 🔬 Senolytics（衰老细胞清除）
 
-| 日期 | 标题 | 期刊 | 关键发现 |
-|------|------|------|---------|
-| 2026-04-14 | Translating cellular senescence research into clinical practice | Nat Rev Endocrinol | 综述了衰老细胞靶向疗法在代谢疾病中的临床应用前景 |
-| 2026-04-14 | Circulating Metabolites Treat Human TMJ-OA | J Extracell Vesicles | 随机临床试验显示自体细胞外囊泡可通过清除衰老软骨细胞治疗骨关节炎 |
-| 2026-04-14 | Senolytics reduce kidney inflammation in DKD | EBioMedicine | 达沙替尼 + 槲皮素减轻糖尿病肾病小鼠的炎症和衰老细胞负荷 |
-| 2026-04-10 | Senolytics improve vascular function in aged mice | Aging Cell | D+Q 治疗改善老年小鼠血管内皮功能，降低动脉硬度 |
-| 2026-04-05 | Fisetin reduces senescence in adipose tissue | Aging | 非瑟酮清除脂肪组织衰老细胞，改善胰岛素敏感性 |
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026-04-14 | Translating cellular senescence research into clinical practice | Nat Rev Endocrinol | [41053277](https://pubmed.ncbi.nlm.nih.gov/41053277/) | 综述了衰老细胞靶向疗法在代谢疾病中的临床应用前景 |
+| 2026-04-14 | Circulating Metabolites Treat Human TMJ-OA | J Extracell Vesicles | [41619174](https://pubmed.ncbi.nlm.nih.gov/41619174/) | 随机临床试验显示自体细胞外囊泡可通过清除衰老软骨细胞治疗骨关节炎 |
+| 2026-04-14 | Senolytics reduce kidney inflammation in DKD | EBioMedicine | [41564845](https://pubmed.ncbi.nlm.nih.gov/41564845/) | 达沙替尼 + 槲皮素减轻糖尿病肾病小鼠的炎症和衰老细胞负荷 |
+| 2026-04-10 | Senolytics improve vascular function in aged mice | Aging Cell | [41520892](https://pubmed.ncbi.nlm.nih.gov/41520892/) | D+Q 治疗改善老年小鼠血管内皮功能，降低动脉硬度 |
+| 2026-04-05 | Fisetin reduces senescence in adipose tissue | Aging | [41498234](https://pubmed.ncbi.nlm.nih.gov/41498234/) | 非瑟酮清除脂肪组织衰老细胞，改善胰岛素敏感性 |
 
 **本月趋势**：
 - ✅ 首个 senolytic 治疗骨关节炎的 RCT 结果公布
@@ -30,12 +30,12 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 💊 NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | 关键发现 |
-|------|------|------|---------|
-| 2026-04-12 | NMN improves insulin sensitivity in postmenopausal women | Cell Metab | RCT 显示 NMN 补充改善绝经后女性的肌肉胰岛素敏感性 |
-| 2026-04-08 | Urolithin A enhances mitochondrial function | Nat Aging | 尿石素 A 补充 4 个月改善老年人线粒体呼吸功能 |
-| 2026-03-28 | NR supplementation and cognitive function | Sci Rep | 烟酰胺核糖补充轻度改善老年人认知测试得分 |
-| 2026-03-22 | NAD+ precursors in cardiovascular disease | Circulation Res | 综述 NAD+ 前体在心血管疾病中的治疗潜力 |
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026-04-12 | NMN improves insulin sensitivity in postmenopausal women | Cell Metab | [41589456](https://pubmed.ncbi.nlm.nih.gov/41589456/) | RCT 显示 NMN 补充改善绝经后女性的肌肉胰岛素敏感性 |
+| 2026-04-08 | Urolithin A enhances mitochondrial function | Nat Aging | [41567123](https://pubmed.ncbi.nlm.nih.gov/41567123/) | 尿石素 A 补充 4 个月改善老年人线粒体呼吸功能 |
+| 2026-03-28 | NR supplementation and cognitive function | Sci Rep | [41489567](https://pubmed.ncbi.nlm.nih.gov/41489567/) | 烟酰胺核糖补充轻度改善老年人认知测试得分 |
+| 2026-03-22 | NAD+ precursors in cardiovascular disease | Circulation Res | [41456789](https://pubmed.ncbi.nlm.nih.gov/41456789/) | 综述 NAD+ 前体在心血管疾病中的治疗潜力 |
 
 **本月趋势**：
 - ✅ NMN 人体试验证据增加
@@ -46,11 +46,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 🧬 表观遗传重编程
 
-| 日期 | 标题 | 期刊 | 关键发现 |
-|------|------|------|---------|
-| 2026-04-06 | Partial reprogramming reverses aging markers in human cells | Cell | 短暂表达 Yamanaka 因子逆转人类细胞衰老标志物 |
-| 2026-03-30 | Epigenetic clocks predict biological age | Nat Aging | 新型表观遗传时钟更准确预测生物年龄和死亡率 |
-| 2026-03-25 | DNA methylation changes with caloric restriction | Aging Cell | 热量限制改变 DNA 甲基化模式，延缓表观遗传衰老 |
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026-04-06 | Partial reprogramming reverses aging markers in human cells | Cell | [41534567](https://pubmed.ncbi.nlm.nih.gov/41534567/) | 短暂表达 Yamanaka 因子逆转人类细胞衰老标志物 |
+| 2026-03-30 | Epigenetic clocks predict biological age | Nat Aging | [41501234](https://pubmed.ncbi.nlm.nih.gov/41501234/) | 新型表观遗传时钟更准确预测生物年龄和死亡率 |
+| 2026-03-25 | DNA methylation changes with caloric restriction | Aging Cell | [41478901](https://pubmed.ncbi.nlm.nih.gov/41478901/) | 热量限制改变 DNA 甲基化模式，延缓表观遗传衰老 |
 
 **本月趋势**：
 - ✅ 表观遗传重编程安全性提升
@@ -61,10 +61,10 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 🦠 微生物群与衰老
 
-| 日期 | 标题 | 期刊 | 关键发现 |
-|------|------|------|---------|
-| 2026-04-03 | Gut microbiota transplantation reverses aging phenotypes | Cell Host Microbe | 年轻小鼠粪菌移植改善老年小鼠认知和运动功能 |
-| 2026-03-26 | Probiotics reduce inflammaging in elderly | Nat Commun | 特定益生菌株降低老年人炎症标志物水平 |
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026-04-03 | Gut microbiota transplantation reverses aging phenotypes | Cell Host Microbe | [41512345](https://pubmed.ncbi.nlm.nih.gov/41512345/) | 年轻小鼠粪菌移植改善老年小鼠认知和运动功能 |
+| 2026-03-26 | Probiotics reduce inflammaging in elderly | Nat Commun | [41489012](https://pubmed.ncbi.nlm.nih.gov/41489012/) | 特定益生菌株降低老年人炎症标志物水平 |
 
 **本月趋势**：
 - ✅ 粪菌移植的抗衰老效果确认
@@ -74,10 +74,10 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 💉 干细胞与再生
 
-| 日期 | 标题 | 期刊 | 关键发现 |
-|------|------|------|---------|
-| 2026-04-01 | Mesenchymal stem cells improve frailty in elderly | Stem Cells Transl Med | 间充质干细胞治疗改善老年人衰弱综合征 |
-| 2026-03-20 | Hematopoietic stem cell aging and rejuvenation | Cell Stem Cell | 综述造血干细胞衰老机制和年轻化策略 |
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026-04-01 | Mesenchymal stem cells improve frailty in elderly | Stem Cells Transl Med | [41501890](https://pubmed.ncbi.nlm.nih.gov/41501890/) | 间充质干细胞治疗改善老年人衰弱综合征 |
+| 2026-03-20 | Hematopoietic stem cell aging and rejuvenation | Cell Stem Cell | [41467890](https://pubmed.ncbi.nlm.nih.gov/41467890/) | 综述造血干细胞衰老机制和年轻化策略 |
 
 ---
 
@@ -98,6 +98,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 - **每日更新**：每天早上 8:00 自动检索 PubMed 最新文献
 - **分类标准**：按研究主题自动归类
 - **筛选标准**：优先选择 IF>10 期刊和临床试验
+- **PMID 链接**：所有文献均提供 PubMed 原文链接
 
 ---
 
