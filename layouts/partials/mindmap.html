@@ -1,55 +1,87 @@
 <div style="margin: 40px 0; padding: 30px; background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
-    <h2 style="text-align: center; color: var(--text); margin-bottom: 10px;">🧬 抗衰老知识体系思维导图</h2>
-    <p style="text-align: center; color: var(--text-light); margin-bottom: 30px;">点击节点可展开/收起，展示衰老机制与干预手段的完整关联</p>
+    <h2 style="text-align: center; color: var(--text); margin-bottom: 10px;">🧬 抗衰老知识体系</h2>
+    <p style="text-align: center; color: var(--text-light); margin-bottom: 30px;">展示衰老机制与干预手段的上下游关系</p>
     
     <div class="mermaid">
-mindmap
-  root((抗衰老知识体系))
-    基础理论
-      原发性标志物
-        基因组不稳定性
-        端粒磨损
-        表观遗传改变
-        蛋白质稳态丧失
-      拮抗性标志物
-        营养感应失调
-        线粒体功能障碍
-        细胞衰老
-      整合性标志物
-        干细胞耗竭
-        细胞间通讯改变
-        慢性炎症
-        微生物群失调
-        自噬功能障碍
-    干预方法
-      NAD+ 前体
-        NMN
-        NR
-      Sirtuin 激活剂
-        白藜芦醇
-      自噬激活剂
-        亚精胺
-        尿石素 A
-      Senolytics
-        达沙替尼和槲皮素
-        非瑟酮
-      其他
-        甘氨酸
-        二甲双胍
-    作用机制
-      提升 NAD 水平
-      激活自噬
-      清除衰老细胞
-      改善代谢
-    临床证据
-      高证据等级
-      中证据等级
-      低证据等级
-    争议领域
-      白藜芦醇有效性
-      NMN 长期安全性
-      二甲双胍健康人群使用
-      雷帕霉素免疫抑制
+flowchart TD
+    subgraph 衰老机制
+        A1[基因组不稳定性]
+        A2[端粒磨损]
+        A3[表观遗传改变]
+        A4[蛋白质稳态丧失]
+        A5[营养感应失调]
+        A6[线粒体功能障碍]
+        A7[细胞衰老]
+        A8[干细胞耗竭]
+        A9[慢性炎症]
+    end
+    
+    subgraph 核心通路
+        B1[NAD+ 下降]
+        B2[mTOR 激活]
+        B3[自噬减弱]
+        B4[SASP 分泌]
+    end
+    
+    subgraph 干预手段
+        C1[NMN/NR]
+        C2[白藜芦醇]
+        C3[亚精胺]
+        C4[尿石素 A]
+        C5[Senolytics]
+        C6[二甲双胍]
+    end
+    
+    subgraph 下游效应
+        D1[胰岛素敏感性提升]
+        D2[线粒体功能改善]
+        D3[炎症降低]
+        D4[衰老细胞清除]
+    end
+    
+    A1 & A2 & A3 --> B1
+    A5 --> B2
+    A4 & A6 --> B3
+    A7 --> B4
+    
+    C1 --> B1
+    C2 --> B1
+    C3 --> B3
+    C4 --> B3
+    C5 --> B4
+    C6 --> B2
+    
+    B1 --> D1
+    B2 & B3 --> D2
+    B3 & B4 --> D3
+    B4 --> D4
+    
+    style A1 fill:#667eea,color:#fff
+    style A2 fill:#667eea,color:#fff
+    style A3 fill:#667eea,color:#fff
+    style A4 fill:#667eea,color:#fff
+    style A5 fill:#667eea,color:#fff
+    style A6 fill:#667eea,color:#fff
+    style A7 fill:#667eea,color:#fff
+    style A8 fill:#667eea,color:#fff
+    style A9 fill:#667eea,color:#fff
+    
+    style B1 fill:#f56565,color:#fff
+    style B2 fill:#f56565,color:#fff
+    style B3 fill:#f56565,color:#fff
+    style B4 fill:#f56565,color:#fff
+    
+    style C1 fill:#48bb78,color:#fff
+    style C2 fill:#48bb78,color:#fff
+    style C3 fill:#48bb78,color:#fff
+    style C4 fill:#48bb78,color:#fff
+    style C5 fill:#48bb78,color:#fff
+    style C6 fill:#48bb78,color:#fff
+    
+    style D1 fill:#ed8936,color:#fff
+    style D2 fill:#ed8936,color:#fff
+    style D3 fill:#ed8936,color:#fff
+    style D4 fill:#ed8936,color:#fff
 </div>
 </div>
 
