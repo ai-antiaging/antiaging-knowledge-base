@@ -1,16 +1,10 @@
 # 输出格式配置
 
 # 首页输出
-home = ['HTML', 'RSS', 'JSON', 'WebAppManifest']
+home = ['HTML', 'RSS']
 
 # 章节页输出
 section = ['HTML', 'RSS']
-
-# 分类页输出
-taxonomy = ['HTML', 'RSS']
-
-# 标签页输出
-term = ['HTML', 'RSS']
 
 # 单页输出
 page = ['HTML']

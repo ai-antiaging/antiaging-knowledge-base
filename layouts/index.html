@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div class="content">
+    {{ .Content }}
+</div>
+
+<div class="card-grid">
+    <div class="card">
+        <h3>📖 基础理论</h3>
+        <p>衰老的生物学机制详解，包括 2023 版《衰老的十二大标志物》完整解读。</p>
+        <p><a href="{{ "basics/" | relURL }}">进入基础理论 →</a></p>
+    </div>
+    
+    <div class="card">
+        <h3>💊 干预方法库</h3>
+        <p>基于循证医学的抗衰老补充剂与干预措施，包含剂量、证据等级与副作用信息。</p>
+        <p><a href="{{ "interventions/" | relURL }}">查看干预方法 →</a></p>
+    </div>
+    
+    <div class="card">
+        <h3>🔬 研究前沿</h3>
+        <p>追踪 Senolytics、NAD+ 前体、表观遗传重编程等领域的最新临床进展。</p>
+        <p><a href="{{ "research/" | relURL }}">浏览最新研究 →</a></p>
+    </div>
+    
+    <div class="card">
+        <h3>📅 近一个月</h3>
+        <p>按研究主题分类展示最近一个月的抗衰老研究进展，每日自动更新。</p>
+        <p><a href="{{ "recent/" | relURL }}">查看最新进展 →</a></p>
+    </div>
+    
+    <div class="card">
+        <h3>🧬 代谢网络</h3>
+        <p>整合衰老相关代谢通路、调控网络及 10 年研究文献汇总。</p>
+        <p><a href="{{ "metabolism/" | relURL }}">探索代谢网络 →</a></p>
+    </div>
+</div>
+
+{{ if .Site.Params.features.readingTime }}
+<div style="margin-top: 40px; padding: 20px; background: var(--bg-secondary); border-radius: 8px;">
+    <h3 style="margin-top: 0;">📊 网站统计</h3>
+    <p>
+        <strong>总页面数：</strong>{{ len .Site.Pages }} |
+        <strong>总字数：</strong>{{ .WordCount }} 字
+    </p>
+</div>
+{{ end }}
+{{ end }}
