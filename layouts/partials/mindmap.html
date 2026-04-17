@@ -1,4 +1,3 @@
-{{ if .Site.Params.features.mindmap }}
 <div style="margin: 40px 0; padding: 30px; background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
     <h2 style="text-align: center; color: var(--text); margin-bottom: 10px;">🧬 抗衰老知识体系思维导图</h2>
     <p style="text-align: center; color: var(--text-light); margin-bottom: 30px;">点击节点可展开/收起，展示衰老机制与干预手段的完整关联</p>
@@ -10,143 +9,58 @@ mindmap
     基础理论
       原发性标志物
         基因组不稳定性
-          DNA 损伤积累
-          修复效率下降
         端粒磨损
-          细胞分裂缩短
-          心血管疾病风险
         表观遗传改变
-          DNA 甲基化
-          组蛋白修饰
         蛋白质稳态丧失
-          错误折叠蛋白
-          神经退行性疾病
       
       拮抗性标志物
         营养感应失调
-          胰岛素:::iconfa-solid fa-flask
-          mTOR 通路
-          AMPK 通路
-          Sirtuins
         线粒体功能障碍
-          ROS 增加
-          能量代谢障碍
         细胞衰老
-          SASP 分泌
-          慢性炎症
       
       整合性标志物
         干细胞耗竭
-          再生能力下降
         细胞间通讯改变
-          神经内分泌信号
         慢性炎症
-          炎性衰老
         微生物群失调
-          肠道菌群
         自噬功能障碍
-          细胞废物积累
     
     干预方法
       NAD+ 前体
-        NMN:::iconfa-solid fa-capsules
-          250-500mg/天
-          改善胰岛素敏感性
+        NMN
         NR
-          类似 NMN
-          生物利用度更高
       
       Sirtuin 激活剂
-        白藜芦醇:::iconfa-solid fa-triangle-exclamation
-          100-500mg/天
-          争议：有效性
-          随餐服用
+        白藜芦醇
       
       自噬激活剂
         亚精胺
-          1-5mg/天
-          心血管获益
         尿石素 A
-          500-1000mg/天
-          线粒体自噬
       
       Senolytics
-        达沙替尼 + 槲皮素
-          清除衰老细胞
-          临床试验中
+        达沙替尼加槲皮素
         非瑟酮
-          天然化合物
-          Phase I/II 试验
       
       其他
         甘氨酸
-          3-10g/天
-          谷胱甘肽前体
-        二甲双胍:::iconfa-solid fa-triangle-exclamation
-          争议：健康人群使用
-          TAME 试验进行中
+        二甲双胍
     
     作用机制
-      提升 NAD+
-        NMN → NAD+
-        NR → NAD+
-        激活 Sirtuins
-      
+      提升 NAD 水平
       激活自噬
-        亚精胺 → EP300 抑制
-        尿石素 A → 线粒体自噬
-        热量限制模拟
-      
       清除衰老细胞
-        Senolytics → Bcl-2 抑制
-        减少 SASP
-        降低炎症
-      
       改善代谢
-        二甲双胍 → AMPK 激活
-        白藜芦醇 → SIRT1 激活
-        胰岛素敏感性提升
     
     临床证据
       高证据等级
-        二甲双胍 (糖尿病)
-        Senolytics (早期试验)
-      
       中证据等级
-        NMN (胰岛素敏感性)
-        亚精胺 (心血管)
-        尿石素 A (肌肉功能)
-        白藜芦醇 (代谢综合征)
-      
       低证据等级
-        甘氨酸
-        白藜芦醇 (健康人群)
     
     争议领域
-      白藜芦醇
-        有效性不一致
-        生物利用度低
-      NMN/NR
-        长期安全性
-        癌症风险理论
-      二甲双胍
-        健康人群使用
-        肌肉减少症风险
-      雷帕霉素
-        免疫抑制
-        人体证据缺乏
-
-    classDef primary fill:#667eea,color:#fff,stroke:#5a67d8,stroke-width:2px
-    classDef secondary fill:#48bb78,color:#fff,stroke:#38a169,stroke-width:2px
-    classDef warning fill:#ed8936,color:#fff,stroke:#dd6b20,stroke-width:2px
-    classDef danger fill:#f56565,color:#fff,stroke:#e53e3e,stroke-width:2px
-    classDef info fill:#4299e1,color:#fff,stroke:#3182ce,stroke-width:2px
-    
-    class 基础理论 primary
-    class 干预方法 secondary
-    class 作用机制 info
-    class 临床证据 warning
-    class 争议领域 danger
+      白藜芦醇有效性
+      NMN 长期安全性
+      二甲双胍健康人群使用
+      雷帕霉素免疫抑制
 </div>
 </div>
 
@@ -155,7 +69,7 @@ mindmap
     // 初始化 Mermaid
     if (typeof mermaid !== 'undefined') {
         mermaid.initialize({
-            startOnLoad: true,
+            startOnLoad: false,
             theme: 'default',
             flowchart: {
                 useMaxWidth: true,
@@ -166,6 +80,11 @@ mindmap
                 useMaxWidth: true
             },
             securityLevel: 'loose'
+        });
+        
+        // 手动渲染
+        mermaid.run({
+            querySelector: '.mermaid'
         });
     }
     
