@@ -146,6 +146,39 @@ draft: false
 
 </div>
 
+<!-- 药物再利用评估工具卡片 -->
+<div style="background: linear-gradient(135deg, #fff5f5 0%, #fed7d7 100%); border-radius: 16px; padding: 30px; border: 2px solid #f56565; box-shadow: 0 4px 20px rgba(245, 101, 101, 0.15);">
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="font-size: 32px; margin-right: 15px;">💊</div>
+<h3 style="margin: 0; color: #2d3748; font-size: 22px;">药物再利用评估系统</h3>
+</div>
+
+<p style="color: #718096; margin-bottom: 20px; line-height: 1.6;">整合 REVIVE 和 TranslAGE 平台，评估药物的抗衰老潜力和临床转化价值。</p>
+
+<div style="background: white; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📊 技术框架</div>
+<div style="color: #718096; font-size: 14px;">RPR 评估（响应性 - 预后性 - 可靠性）</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📋 核心功能</div>
+<div style="color: #718096; font-size: 14px;">药物搜索、RPR 评分、生物标志物验证、临床转化指南</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">👥 适用人群</div>
+<div style="color: #718096; font-size: 14px;">研究人员、临床医生、药物开发者</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">⏱️ 更新频率</div>
+<div style="color: #718096; font-size: 14px;">每月自动监控最新文献</div>
+</div>
+</div>
+
+<a href="/drug-repurposing/" style="display: inline-block; background: linear-gradient(135deg, #f56565 0%, #e53e3e 100%); color: white; padding: 14px 30px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(245, 101, 101, 0.4); transition: all 0.3s;">立即使用 →</a>
+
+</div>
+
 </div>
 
 ---
