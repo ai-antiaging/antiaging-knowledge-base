@@ -1,10 +1,5 @@
-<header>
-    <h1>{{ .Site.Title }}</h1>
-    <p>{{ .Site.Params.description }}</p>
-</header>
-
 <nav>
-    <a href="{{ "" | relURL }}"{{ if .IsHome }} class="active"{{ end }}>🏠 首页</a>
+    <a href="{{ "/" | relURL }}"{{ if .IsHome }} class="active"{{ end }}>🏠 首页</a>
     {{ range .Site.Menus.main }}
     <a href="{{ .URL | relURL }}"{{ if eq $.Page.Title .Name }} class="active"{{ end }}>{{ .Name }}</a>
     {{ end }}
@@ -25,22 +20,6 @@ function triggerSearch() {
         document.getElementById('search-input').focus();
         return;
     }
-    
-    if (typeof showModal === 'function') {
-        showModal();
-        displayResults(query);
-    }
+    alert('搜索功能开发中...');
 }
-
-// 支持回车键触发搜索
-document.addEventListener('DOMContentLoaded', function() {
-    const searchInput = document.getElementById('search-input');
-    if (searchInput) {
-        searchInput.addEventListener('keypress', function(event) {
-            if (event.key === 'Enter') {
-                triggerSearch();
-            }
-        });
-    }
-});
 </script>
