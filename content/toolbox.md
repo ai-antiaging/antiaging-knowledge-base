@@ -212,6 +212,39 @@ draft: false
 
 </div>
 
+<!-- 实验规划助手工具卡片 -->
+<div style="background: linear-gradient(135deg, #faf5ff 0%, #e9d8fd 100%); border-radius: 16px; padding: 30px; border: 2px solid #9f7aea; box-shadow: 0 4px 20px rgba(159, 122, 234, 0.15);">
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="font-size: 32px; margin-right: 15px;">🧪</div>
+<h3 style="margin: 0; color: #2d3748; font-size: 22px;">实验规划助手</h3>
+</div>
+
+<p style="color: #718096; margin-bottom: 20px; line-height: 1.6;">基于 K-Dense Beta 最佳实践的衰老研究实验设计工具与指南。</p>
+
+<div style="background: white; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📊 技术参考</div>
+<div style="color: #718096; font-size: 14px;">K-Dense Beta · 136 项科学技能</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📋 核心功能</div>
+<div style="color: #718096; font-size: 14px;">实验设计方案、样本量计算、技能索引、案例分析</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">👥 适用人群</div>
+<div style="color: #718096; font-size: 14px;">研究人员、研究生、实验室技术员</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">⏱️ 更新频率</div>
+<div style="color: #718096; font-size: 14px;">持续更新</div>
+</div>
+</div>
+
+<a href="/experiment-planner/" style="display: inline-block; background: linear-gradient(135deg, #9f7aea 0%, #805ad5 100%); color: white; padding: 14px 30px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(159, 122, 234, 0.4); transition: all 0.3s;">立即使用 →</a>
+
+</div>
+
 </div>
 
 ---
