@@ -9,6 +9,11 @@ summaryLength = 30
 relativeURLs = true
 canonifyURLs = true
 
+# 密码保护参数
+[params]
+  passwordProtection = true
+  sitePassword = "1234567890"
+
 [menu]
   [[menu.main]]
     identifier = "basics"
