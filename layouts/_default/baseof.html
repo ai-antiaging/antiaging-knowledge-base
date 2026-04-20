@@ -6,17 +6,33 @@
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>">
     <style>
-        :root {
-            --primary: #667eea;
-            --primary-dark: #764ba2;
-            --text: #2d3748;
-            --text-light: #718096;
-            --bg: #ffffff;
-            --bg-secondary: #f7fafc;
-            --border: #e2e8f0;
-        }
+        :root { --primary: #667eea; --primary-dark: #764ba2; --text: #2d3748; --text-light: #718096; --bg: #ffffff; --bg-secondary: #f7fafc; --border: #e2e8f0; }
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.8; color: var(--text); background: var(--bg); }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.8; color: var(--text); background: var(--bg); max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        header { background: linear-gradient(135deg, rgba(102, 126, 234, 0.9) 0%, rgba(118, 75, 162, 0.9) 100%), url('https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1920&q=80'); background-size: cover; background-position: center; color: white; padding: 80px 40px; border-radius: 20px; margin: 30px 0; text-align: center; }
+        header h1 { font-size: 2.8em; margin-bottom: 20px; font-weight: 700; background: linear-gradient(180deg, #ffffff 0%, #e0e7ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        header .subtitle-line { width: 200px; height: 3px; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.9), transparent); margin: 20px auto; }
+        header p { opacity: 0.95; font-size: 1.2em; max-width: 700px; margin: 0 auto; }
+        nav { background: var(--bg-secondary); padding: 12px 20px; border-radius: 10px; margin-bottom: 30px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; position: sticky; top: 10px; z-index: 1000; }
+        nav a { color: var(--primary); text-decoration: none; font-weight: 500; padding: 8px 14px; border-radius: 6px; transition: all 0.2s; font-size: 14px; }
+        nav a:hover { background: rgba(102, 126, 234, 0.1); }
+        nav a.active { background: var(--primary); color: white; }
+        main { background: white; padding: 40px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 40px; }
+        .content h1 { font-size: 2em; color: var(--primary); border-bottom: 3px solid var(--primary); padding-bottom: 12px; margin: 0 0 30px 0; }
+        .content h2 { font-size: 1.6em; color: var(--primary-dark); margin: 40px 0 20px; }
+        .content p { margin: 18px 0; line-height: 1.8; }
+        .content a { color: var(--primary); text-decoration: none; }
+        .content a:hover { text-decoration: underline; }
+        .content table { width: 100%; border-collapse: collapse; margin: 25px 0; }
+        .content th { background: linear-gradient(135deg, var(--bg-secondary) 0%, #edf2f7 100%); border: 1px solid var(--border); padding: 14px; text-align: left; font-weight: 600; }
+        .content td { border: 1px solid var(--border); padding: 12px; text-align: left; }
+        .content tr:nth-child(even) { background: var(--bg-secondary); }
+        .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 35px 0; }
+        .card { background: linear-gradient(135deg, var(--bg-secondary) 0%, #edf2f7 100%); padding: 25px; border-radius: 12px; border-left: 4px solid var(--primary); transition: transform 0.2s, box-shadow 0.2s; }
+        .card:hover { transform: translateY(-4px); box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2); }
+        .card h3 { margin-top: 0; color: var(--text); font-size: 1.3em; }
+        footer { text-align: center; padding: 30px 20px; border-top: 1px solid var(--border); color: var(--text-light); font-size: 0.9em; margin-top: 40px; }
+        @media (max-width: 768px) { body { padding: 0 10px; } header { padding: 50px 15px; } header h1 { font-size: 2em; } nav { flex-direction: column; } .card-grid { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
@@ -39,7 +55,26 @@
 {{- end }}
 
 <div id="site-content" style="{{- if .Site.Params.passwordProtection }}filter: blur(10px); pointer-events: none;{{- end }}">
-    {{- block "main" . }}{{- end }}
+    <header>
+        <h1>{{ .Site.Title }}</h1>
+        <div class="subtitle-line"></div>
+        <p>{{ .Site.Params.description }}</p>
+    </header>
+
+    <nav>
+        <a href="{{ "/" | relURL }}"{{ if .IsHome }} class="active"{{ end }}>🏠 首页</a>
+        {{- range .Site.Menus.main }}
+        <a href="{{ .URL | relURL }}"{{ if eq $.Page.Title .Name }} class="active"{{ end }}>{{ .Name }}</a>
+        {{- end }}
+    </nav>
+
+    <main>
+        {{- block "main" . }}{{- end }}
+    </main>
+
+    <footer>
+        <p>{{ .Site.Params.footer | default "© 2026 抗衰老科学前沿知识库" }}</p>
+    </footer>
 </div>
 
 {{- if .Site.Params.passwordProtection }}
