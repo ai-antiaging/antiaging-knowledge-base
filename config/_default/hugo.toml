@@ -46,6 +46,11 @@ canonifyURLs = true
     url = "/metabolism/"
     weight = 45
   [[menu.main]]
+    identifier = "guide"
+    name = "使用指南"
+    url = "/guide/"
+    weight = 48
+  [[menu.main]]
     identifier = "about"
     name = "关于"
     url = "/about/"

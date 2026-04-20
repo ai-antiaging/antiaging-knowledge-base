@@ -2,7 +2,7 @@
 
 # 基本信息
 description = "AI 驱动的抗衰老科学知识库，每日自动更新最新研究进展"
-keywords = ["抗衰老", "longevity", "senolytics", "NAD+", "健康寿命", "衰老研究"]
+keywords = ["抗衰老", "longevity", "senolytics", "NAD+", "健康寿命"]
 author = "抗衰小杨 · JVS Claw AI"
 
 # 页脚
@@ -17,26 +17,25 @@ footer = "© 2026 抗衰老科学前沿知识库 | 由 JVS Claw AI 驱动"
   readingTime = true
   lastModified = true
   mindmap = true
+  passwordProtection = true  # 启用密码保护
+
+# 密码保护配置
+# 注意：这是简单的前端密码保护，生产环境建议使用后端验证
+# 密码哈希值（默认密码：AntiAging2026）
+# 你可以使用在线工具生成新密码的哈希值
+sitePassword = "1234567890"  # 替换为你自己的密码哈希
 
 # 社交链接
 [social]
   github = "https://github.com/muwangdao/antiaging-knowledge-base"
   email = "contact@antiaging-knowledge.example.com"
 
-# 分析工具（可选）
-[analytics]
-  # Google Analytics
-  # googleAnalytics = "G-XXXXXXXXXX"
-  
-  # 百度统计
-  # baiduAnalytics = "xxxxxxxxxxxxxxxx"
+# 搜索配置
+[search]
+  fuse = true
+  fuseOpts = { minMatchCharLength = 1, threshold = 0.3 }
 
 # SEO 配置
 [seo]
   twitterSite = "@yourusername"
   ogLocale = "zh_CN"
-  
-# 搜索配置
-[search]
-  fuse = true
-  fuseOpts = { minMatchCharLength = 1, threshold = 0.3 }

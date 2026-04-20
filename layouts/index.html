@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ if not .Site.Params.passwordProtection }}
+<!-- 无密码保护，正常显示内容 -->
 <div class="content">
     {{ .Content }}
 </div>
@@ -51,5 +53,102 @@
         <strong>总字数：</strong>{{ .WordCount }} 字
     </p>
 </div>
+{{ end }}
+{{ else }}
+<!-- 密码保护模式 -->
+<div id="login-form" style="max-width: 400px; margin: 100px auto; padding: 40px; background: white; border-radius: 12px; box-shadow: 0 10px 40px rgba(0,0,0,0.1);">
+    <h2 style="text-align: center; color: var(--primary); margin-bottom: 30px;">🔐 网站访问验证</h2>
+    
+    <p style="text-align: center; color: var(--text-light); margin-bottom: 30px;">
+        本网站为私有知识库，请输入访问密码
+    </p>
+    
+    <form onsubmit="verifyPassword(event)" style="display: flex; flex-direction: column; gap: 20px;">
+        <input 
+            type="password" 
+            id="password-input" 
+            placeholder="请输入密码"
+            style="padding: 15px; border: 2px solid var(--border); border-radius: 8px; font-size: 16px; outline: none; transition: border-color 0.2s;"
+            onfocus="this.style.borderColor='var(--primary)'"
+            onblur="this.style.borderColor='var(--border)'"
+        >
+        
+        <button 
+            type="submit"
+            style="padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 600; cursor: pointer; transition: transform 0.2s;"
+            onmouseover="this.style.transform='scale(1.02)'"
+            onmouseout="this.style.transform='scale(1)'"
+        >
+            验证并访问
+        </button>
+    </form>
+    
+    <div id="error-message" style="display: none; margin-top: 20px; padding: 15px; background: #fed7d7; border-left: 4px solid #f56565; border-radius: 6px; color: #742a2a;">
+        ❌ 密码错误，请重新输入
+    </div>
+    
+    <div style="margin-top: 30px; padding-top: 30px; border-top: 1px solid var(--border); text-align: center;">
+        <p style="color: var(--text-light); font-size: 14px; margin-bottom: 15px;">
+            需要访问权限？
+        </p>
+        <a 
+            href="mailto:your-email@example.com?subject=网站访问申请&body=您好，我想申请访问抗衰老科学前沿知识库，请批准。"
+            style="display: inline-block; padding: 12px 25px; background: var(--bg-secondary); color: var(--primary); border-radius: 8px; text-decoration: none; font-weight: 500; transition: background 0.2s;"
+            onmouseover="this.style.background='#edf2f7'"
+            onmouseout="this.style.background='var(--bg-secondary)'"
+        >
+            📧 申请访问权限
+        </a>
+    </div>
+    
+    <p style="text-align: center; color: var(--text-light); font-size: 13px; margin-top: 30px;">
+        本网站内容仅供授权用户访问<br>未经授权的访问是被禁止的
+    </p>
+</div>
+
+<script>
+// 验证密码
+function verifyPassword(event) {
+    event.preventDefault();
+    
+    const input = document.getElementById('password-input').value;
+    const errorMessage = document.getElementById('error-message');
+    
+    // 简单哈希验证（实际使用应使用后端验证）
+    const hashed = simpleHash(input);
+    const correctHash = '{{ .Site.Params.sitePassword | default "default" }}';
+    
+    if (hashed === correctHash) {
+        // 密码正确，设置 session
+        sessionStorage.setItem('siteAccess', 'granted');
+        window.location.reload();
+    } else {
+        // 密码错误
+        errorMessage.style.display = 'block';
+        document.getElementById('password-input').value = '';
+        document.getElementById('password-input').focus();
+    }
+}
+
+// 简单哈希函数（仅用于演示，生产环境应使用后端验证）
+function simpleHash(str) {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        const char = str.charCodeAt(i);
+        hash = ((hash << 5) - hash) + char;
+        hash = hash & hash;
+    }
+    return Math.abs(hash).toString();
+}
+
+// 检查是否已登录
+window.addEventListener('DOMContentLoaded', function() {
+    const hasAccess = sessionStorage.getItem('siteAccess');
+    if (hasAccess === 'granted') {
+        // 已登录，显示正常内容（需要后端支持）
+        console.log('用户已验证');
+    }
+});
+</script>
 {{ end }}
 {{ end }}
