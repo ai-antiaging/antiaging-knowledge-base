@@ -1,13 +1,17 @@
 {{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
-<article>
-    {{ partial "meta-info.html" . }}
-    
-    {{ partial "toc.html" . }}
-    
-    <div class="content">
-        {{ .Content }}
-    </div>
-</article>
+<main style="max-width: 1200px; margin: 0 auto; padding: 40px 20px;">
+    <article>
+        <h1 style="color: #2d3748; font-size: 2em; margin-bottom: 20px;">{{ .Title }}</h1>
+        
+        {{ if .Params.description }}
+        <p style="color: #718096; font-size: 1.1em; margin-bottom: 30px;">{{ .Params.description }}</p>
+        {{ end }}
+        
+        <div class="content" style="line-height: 1.8;">
+            {{ .Content }}
+        </div>
+    </article>
+</main>
 {{ end }}

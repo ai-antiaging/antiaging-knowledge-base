@@ -1,25 +1,28 @@
 {{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-
-{{ if .Content }}
-<div class="content">
-    {{ .Content }}
-</div>
-{{ end }}
-
-{{ if .Pages }}
-<h2 style="margin-top: 40px;">📄 相关页面</h2>
-<ul style="list-style: none; padding: 0;">
-{{ range .Pages }}
-    <li style="padding: 12px 0; border-bottom: 1px solid var(--border);">
-        <a href="{{ .Permalink }}" style="font-weight: 500; color: var(--primary);">📖 {{ .Title }}</a>
-        {{ with .Description }}
-        <p style="color: var(--text-light); font-size: 0.95em; margin: 5px 0 0 25px;">{{ . }}</p>
+<main style="max-width: 1200px; margin: 0 auto; padding: 40px 20px;">
+    <h1 style="color: #2d3748; font-size: 2em; margin-bottom: 30px;">{{ .Title }}</h1>
+    
+    {{ if .Content }}
+    <div class="content" style="line-height: 1.8; margin-bottom: 40px;">
+        {{ .Content }}
+    </div>
+    {{ end }}
+    
+    {{ if .Pages }}
+    <div style="display: grid; gap: 20px;">
+        {{ range .Pages }}
+        <div style="padding: 20px; background: #f7fafc; border-radius: 8px; border-left: 4px solid #667eea;">
+            <h2 style="margin: 0 0 10px 0; font-size: 1.3em;">
+                <a href="{{ .Permalink }}" style="color: #667eea; text-decoration: none;">{{ .Title }}</a>
+            </h2>
+            {{ if .Description }}
+            <p style="color: #718096; margin: 0;">{{ .Description }}</p>
+            {{ end }}
+        </div>
         {{ end }}
-    </li>
-{{ end }}
-</ul>
-{{ end }}
+    </div>
+    {{ end }}
+</main>
 {{ end }}
