@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-04-27 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-04-28 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 May 31 | Cellular Senescence of Patient-derived Fibroblasts Reveals the Mid-old Stage as a Critical Window for Transcriptomic Signatures Linked to Alzheimer's Disease Biomarkers and Classification. | Clinical psychopharmacology and neuroscience : the official scientific journal of the Korean College of Neuropsychopharmacology | [42036745](https://pubmed.ncbi.nlm.nih.gov/42036745/) | Cellular Senescence of Patient-derived Fibroblasts Reveals t... |
-| 2026 | Methods for Investigating the Sperm Epigenome. | Advances in experimental medicine and biology | [42036614](https://pubmed.ncbi.nlm.nih.gov/42036614/) | Methods for Investigating the Sperm Epigenome. |
-| 2026 Apr 27 | Immune activation from M. tuberculosis screening tests predicts mortality. | GeroScience | [42036540](https://pubmed.ncbi.nlm.nih.gov/42036540/) | Immune activation from M. tuberculosis screening tests predi... |
-| 2026 May 11 | Integrative analysis of follicular fluid metabolites, exosomal miRNAs and granulosa cell mRNAs shows their interplay in women of advanced maternal age. | Reproduction, fertility, and development | [42036331](https://pubmed.ncbi.nlm.nih.gov/42036331/) | Integrative analysis of follicular fluid metabolites, exosom... |
-| 2026 Apr 24 | Nuclear compression overrides matrix softness to regulate stem cell fate through actomyosin-driven YAP mechanotransduction. | Acta biomaterialia | [42035970](https://pubmed.ncbi.nlm.nih.gov/42035970/) | Nuclear compression overrides matrix softness to regulate st... |
+| 2026 Apr 27 | Phosphatidylinositol transfer protein-1 integrates insulin/IGF-1 and TOR signaling to negatively regulate lifespan and healthspan in Caenorhabditis elegans. | Journal of biomedical science | [42045911](https://pubmed.ncbi.nlm.nih.gov/42045911/) | Phosphatidylinositol transfer protein-1 integrates insulin/I... |
+| 2026 Apr 28 | Anhydrobiosis as a Model of Aging and Longevity: The Role of Autophagy and Metabolism in Yeast Cells. | Microbial ecology | [42045390](https://pubmed.ncbi.nlm.nih.gov/42045390/) | Anhydrobiosis as a Model of Aging and Longevity: The Role of... |
+| 2026 Apr 27 | Reprogramming of bacterial virulence by lysine acetylation. | Nature communications | [42045228](https://pubmed.ncbi.nlm.nih.gov/42045228/) | Reprogramming of bacterial virulence by lysine acetylation. |
+| 2026 Apr 27 | D-pinitol extends the lifespan of Caenorhabditis elegans through integrated antioxidant defense, proteostasis, and autophagy signaling. | npj aging | [42045207](https://pubmed.ncbi.nlm.nih.gov/42045207/) | D-pinitol extends the lifespan of Caenorhabditis elegans thr... |
+| 2026 Apr 20 | [Jintiange Capsule alleviates glucocorticoid-induced osteoporosis in rats by inhibiting vascular endothelial cell senescence and promoting bone formation]. | Nan fang yi ke da xue xue bao = Journal of Southern Medical University | [42045036](https://pubmed.ncbi.nlm.nih.gov/42045036/) | [Jintiange Capsule alleviates glucocorticoid-induced osteopo... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Apr 26 | Metabolic and Volumetric Alterations in the Basal Ganglia and the Cerebellum in Dopa-Responsive Dystonia in Symptomatic and Asymptomatic GCH1 Mutation Carriers. | Movement disorders : official journal of the Movement Disorder Society | [42036356](https://pubmed.ncbi.nlm.nih.gov/42036356/) | Metabolic and Volumetric Alterations in the Basal Ganglia an... |
-| 2026 Apr 23 | A Potential Anti-Aging Probiotic: Lactobacillus paracasei JS-3 Extends Lifespan in Caenorhabditis elegans and Modulates the Gut Microbiota in the Elderly. | The Journal of nutritional biochemistry | [42034299](https://pubmed.ncbi.nlm.nih.gov/42034299/) | A Potential Anti-Aging Probiotic: Lactobacillus paracasei JS... |
-| 2026 Apr 22 | Emerging chemical strategies for CD38 inhibition: restoring NAD(+) metabolism and disease control. | Bioorganic & medicinal chemistry | [42033923](https://pubmed.ncbi.nlm.nih.gov/42033923/) | Emerging chemical strategies for CD38 inhibition: restoring ... |
-| 2026 Apr 22 | Reactive oxygen species and metabolic checkpoints shape plasmacytoid dendritic cell fate in infection and autoimmunity. | Redox biology | [42033850](https://pubmed.ncbi.nlm.nih.gov/42033850/) | Reactive oxygen species and metabolic checkpoints shape plas... |
-| 2026 Apr | Hyperglycemia Leads to BMSC Impaired Osteogenesis, Enhanced Adipogenesis, and Altered Metabolism. | Journal of cellular biochemistry | [42033195](https://pubmed.ncbi.nlm.nih.gov/42033195/) | Hyperglycemia Leads to BMSC Impaired Osteogenesis, Enhanced ... |
+| 2026 Apr 25 | Dendrobium officinale polysaccharide-spermidine composite hydrogels: Tunable rheological properties and improved in vitro colonic fermentation. | International journal of biological macromolecules | [42044821](https://pubmed.ncbi.nlm.nih.gov/42044821/) | Dendrobium officinale polysaccharide-spermidine composite hy... |
+| 2026 Apr 25 | Mitochondrial-nuclear crosstalk: A central axis in Alzheimer's disease. | Ageing research reviews | [42044748](https://pubmed.ncbi.nlm.nih.gov/42044748/) | Mitochondrial-nuclear crosstalk: A central axis in Alzheimer... |
+| 2026 May | Thomas Willis Lecture Award: Nature's Blueprint for Ischemic Tolerance: Preconditioning and Postconditioning Strategies. | Stroke | [42044228](https://pubmed.ncbi.nlm.nih.gov/42044228/) | Thomas Willis Lecture Award: Nature's Blueprint for Ischemic... |
+| 2026 Apr 13 | Finishing Barrow Skeletal Muscle Performance and Fatigue Response to Large-Dose Nicotinamide Riboside Supplementation. | Metabolites | [42042906](https://pubmed.ncbi.nlm.nih.gov/42042906/) | Finishing Barrow Skeletal Muscle Performance and Fatigue Res... |
+| 2026 May | DPP4-Driven Ferroptosis Promotes Senescence: Galangin as a Therapeutic Agent for Age-Related Bone Loss. | Drug development research | [42041149](https://pubmed.ncbi.nlm.nih.gov/42041149/) | DPP4-Driven Ferroptosis Promotes Senescence: Galangin as a T... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Apr 25 | Dendrobium officinale polysaccharide-spermidine composite hydrogels: Tunable rheological properties and improved in vitro colonic fermentation. | International journal of biological macromolecules | [42044821](https://pubmed.ncbi.nlm.nih.gov/42044821/) | Dendrobium officinale polysaccharide-spermidine composite hy... |
 | 2026 Apr 10 | Spermidine alleviates sepsis-induced cardiomyopathy by improving mitochondrial quality and quantity via a Metallothionein 1-dependent antioxidant pathway. | Phytomedicine : international journal of phytotherapy and phytopharmacology | [42013738](https://pubmed.ncbi.nlm.nih.gov/42013738/) | Spermidine alleviates sepsis-induced cardiomyopathy by impro... |
 | 2026 Apr 21 | Spermidine in the aging brain: mechanisms, preclinical evidence, and clinical perspectives. | Molecular biology reports | [42012729](https://pubmed.ncbi.nlm.nih.gov/42012729/) | Spermidine in the aging brain: mechanisms, preclinical evide... |
-| 2026 Apr 19 | Spermidine preserves cardiac systolic function in estrogen-deprived rats with accelerated aging via metabolic and mitochondrial reprogramming. | Scientific reports | [42002642](https://pubmed.ncbi.nlm.nih.gov/42002642/) | Spermidine preserves cardiac systolic function in estrogen-d... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-04-27 | 自动生成*
+*最后更新：2026-04-28 | 自动生成*
