@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-05-17 · mTOR 营养感知新通路——C7orf50 协调合成与分解代谢](/news/snapshots/2026-05-17/)** — 中国科学院揭示 mTOR→NAA10→C7orf50 级联通路，C7orf50 通过乙酰化驱动的核仁-核质转位协调生长与自噬，为热量限制抗衰老提供分子解释（Science Advances, 2026年5月）
 - **[2026-05-16 · PARP1 抑制剂有望治疗阿尔茨海默病——减少淀粉样斑块，保护神经元](/news/snapshots/2026-05-16/)** — 抑制 PARP1 可减少 AD 小鼠淀粉样斑块、保护突触神经元完整性并改善认知缺陷（PNAS, 2026年5月）
 - **[2026-05-15 · 清除衰老细胞可治动脉粥样硬化——Senolytics 双轨策略](/news/snapshots/2026-05-15/)** — 衰老细胞是动脉粥样硬化斑块炎症的"幕后黑手"，Senolytics 清除衰老细胞、Senomorphics 抑制有害分泌（Naunyn-Schmiedeberg's Archives of Pharmacology, 2026年5月）
 - **[2026-05-14 · NK 细胞免疫疗法逆转肺纤维化——靶向清除衰老细胞新突破](/news/snapshots/2026-05-14/)** — 阻断 NKG2A 检查点可恢复 NK 细胞杀伤衰老成纤维细胞能力，开辟 senolytic immunotherapy 新赛道（Sci Transl Med, 2026年5月）
