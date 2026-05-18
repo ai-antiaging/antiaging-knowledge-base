@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-05-18 · 尿液纳米探针无创检测细胞衰老——Senolytics 疗法的里程碑](/news/snapshots/2026-05-18/)** — Nature Aging 发表基于白蛋白的尿液纳米探针，利用 SASP 蛋白酶活性实现 TIS 和肺纤维化的无创尿液检测，解决了 senolytics 疗法缺乏体内实时监测工具的瓶颈（Nature Aging, 2026年5月）
 - **[2026-05-17 · mTOR 营养感知新通路——C7orf50 协调合成与分解代谢](/news/snapshots/2026-05-17/)** — 中国科学院揭示 mTOR→NAA10→C7orf50 级联通路，C7orf50 通过乙酰化驱动的核仁-核质转位协调生长与自噬，为热量限制抗衰老提供分子解释（Science Advances, 2026年5月）
 - **[2026-05-16 · PARP1 抑制剂有望治疗阿尔茨海默病——减少淀粉样斑块，保护神经元](/news/snapshots/2026-05-16/)** — 抑制 PARP1 可减少 AD 小鼠淀粉样斑块、保护突触神经元完整性并改善认知缺陷（PNAS, 2026年5月）
 - **[2026-05-15 · 清除衰老细胞可治动脉粥样硬化——Senolytics 双轨策略](/news/snapshots/2026-05-15/)** — 衰老细胞是动脉粥样硬化斑块炎症的"幕后黑手"，Senolytics 清除衰老细胞、Senomorphics 抑制有害分泌（Naunyn-Schmiedeberg's Archives of Pharmacology, 2026年5月）
