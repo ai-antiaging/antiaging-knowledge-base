@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-05-19 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-05-20 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 May 15 | Blue period - features of senescence 30 years after beta-galactosidase. | Aging | [42150106](https://pubmed.ncbi.nlm.nih.gov/42150106/) | Blue period - features of senescence 30 years after beta-gal... |
-| 2026 | [Molecular genetic factors of accelerated vascular aging.]. | Advances in gerontology = Uspekhi gerontologii | [42150027](https://pubmed.ncbi.nlm.nih.gov/42150027/) | [Molecular genetic factors of accelerated vascular aging.]. |
-| 2026 | [The effect of geroprotectors on life expectancy: Mechanisms of action and clinical potential.]. | Advances in gerontology = Uspekhi gerontologii | [42150021](https://pubmed.ncbi.nlm.nih.gov/42150021/) | [The effect of geroprotectors on life expectancy: Mechanisms... |
-| 2026 May 18 | BudFinder: A Masked Auto-Encoder vision transformer framework for yeast budding detection and lifespan quantification. | PLoS computational biology | [42149904](https://pubmed.ncbi.nlm.nih.gov/42149904/) | BudFinder: A Masked Auto-Encoder vision transformer framewor... |
-| 2026 May 31 | LAPTM5 Promotes Age-Related Renal Fibrosis via USP10/PTEN-Mediated Autophagy Inhibition. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42149696](https://pubmed.ncbi.nlm.nih.gov/42149696/) | LAPTM5 Promotes Age-Related Renal Fibrosis via USP10/PTEN-Me... |
+| 2026 May 15 | NRF2 as a guardian of health: from an ancient survival pathway to a modern therapeutic target. | Redox biology | [42155153](https://pubmed.ncbi.nlm.nih.gov/42155153/) | NRF2 as a guardian of health: from an ancient survival pathw... |
+| 2026 May 19 | Long noncoding RNA SALTe1, microvascular ageing, and cardiac dysfunction. | European heart journal | [42155043](https://pubmed.ncbi.nlm.nih.gov/42155043/) | Long noncoding RNA SALTe1, microvascular ageing, and cardiac... |
+| 2026 May 19 | Moderate forced running exercise induces cartilage adaptation but exacerbates the molecular cartilage phenotype of type IX collagen knock-out mice. | American journal of physiology. Cell physiology | [42154996](https://pubmed.ncbi.nlm.nih.gov/42154996/) | Moderate forced running exercise induces cartilage adaptatio... |
+| 2026 | [Senescent dermal fibroblasts: Molecular logistics of the distant and systemic effects of exogenous bioactive compounds in the human body.]. | Advances in gerontology = Uspekhi gerontologii | [42154731](https://pubmed.ncbi.nlm.nih.gov/42154731/) | [Senescent dermal fibroblasts: Molecular logistics of the di... |
+| 2026 May 18 | Public health in the age of longevity interventions: from prevention to system-wide resilience. | Aging | [42154726](https://pubmed.ncbi.nlm.nih.gov/42154726/) | Public health in the age of longevity interventions: from pr... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-05-19 | 自动生成*
+*最后更新：2026-05-20 | 自动生成*
