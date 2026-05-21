@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-05-21 · 首个体内声疫苗：超声一照，精准"炸死"衰老细胞](/news/snapshots/2026-05-21/)** — SenoVac 双组分纳米疫苗平台实现淋巴结靶向递送与超声激活交叉呈递，在动脉粥样硬化模型中安全清除斑块衰老细胞（Advanced Science, 2026年5月）
 - **[2026-05-20 · 首个人体 RCT 证实：每日一片复合维生素可减缓表观遗传衰老](/news/snapshots/2026-05-20/)** — COSMOS 大型随机对照试验（n=958）首次证实每日补充复合维生素矿物质可减缓 PCGrimAge 和 PCPhenoAge 表观遗传衰老时钟（Nature Medicine, 2026年5月）
 - **[2026-05-19 · SGLT2 抑制剂竟是 Senolytics？常用降糖药被重新定位为抗衰老候选药](/news/snapshots/2026-05-19/)** — 最新综述揭示 SGLT2 抑制剂可减少衰老细胞负荷并调节 SASP，将达格列净、恩格列净等常见降糖药重新定位为潜在 Senolytic 抗衰老药物（J Clin Endocrinol Metab, 2026年5月）
 - **[2026-05-18 · 尿液纳米探针无创检测细胞衰老——Senolytics 疗法的里程碑](/news/snapshots/2026-05-18/)** — Nature Aging 发表基于白蛋白的尿液纳米探针，利用 SASP 蛋白酶活性实现 TIS 和肺纤维化的无创尿液检测，解决了 senolytics 疗法缺乏体内实时监测工具的瓶颈（Nature Aging, 2026年5月）
