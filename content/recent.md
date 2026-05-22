@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-05-21 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-05-22 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun | Methionine Restriction Extends Yeast Lifespan by Activating Non-Nitrogen-Starvation-Induced Autophagy Through Limiting Methylation of Protein Phosphatase 2A. | Aging cell | [42160763](https://pubmed.ncbi.nlm.nih.gov/42160763/) | Methionine Restriction Extends Yeast Lifespan by Activating ... |
-| 2026 Jun | RORA Targeting PRNP Modulates Age-Related Cataract via Activation Oxidative Injury-Induced Cellular Senescence and Apoptosis of Lens Epithelial Cells. | Aging cell | [42160747](https://pubmed.ncbi.nlm.nih.gov/42160747/) | RORA Targeting PRNP Modulates Age-Related Cataract via Activ... |
-| 2026 May 20 | Analysis in vivo using a new method, ARGO (Analysis of Red Green Offset), reveals complexity and cell-type specificity in presynaptic turnover of synaptic vesicle protein Synaptogyrin/SNG-1. | Molecular biology of the cell | [42160512](https://pubmed.ncbi.nlm.nih.gov/42160512/) | Analysis in vivo using a new method, ARGO (Analysis of Red G... |
-| 2026 May 20 | Comparative whole-genome analyses of articular chondrocytes and skin fibroblasts reveal distinct genome instability landscapes in mesenchymal cell types. | PLoS genetics | [42160391](https://pubmed.ncbi.nlm.nih.gov/42160391/) | Comparative whole-genome analyses of articular chondrocytes ... |
-| 2026 May 20 | Bioadhesive Hydrogel With Polyphenol-Armored Nanogene Rejuvenates Chondrocyte Senescence for Aged Osteoarthritis Therapy. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42160085](https://pubmed.ncbi.nlm.nih.gov/42160085/) | Bioadhesive Hydrogel With Polyphenol-Armored Nanogene Rejuve... |
+| 2026 Mar-Apr | Telomere Length Decreases with Age and Reflects Early-Life Environment but Not Adult Condition in a Long-Lived Migratory Bird. | Ecological and evolutionary physiology | [42166657](https://pubmed.ncbi.nlm.nih.gov/42166657/) | Telomere Length Decreases with Age and Reflects Early-Life E... |
+| 2026 Mar-Apr | Who's Coming Home? Shorter Early-Life Telomeres Predict Return to the Natal Colony in an Arctic Seabird. | Ecological and evolutionary physiology | [42166656](https://pubmed.ncbi.nlm.nih.gov/42166656/) | Who's Coming Home? Shorter Early-Life Telomeres Predict Retu... |
+| 2026 May 26 | Illuminating proinflammatory myeloid cells with PET tracers targeting GPR84. | Proceedings of the National Academy of Sciences of the United States of America | [42166242](https://pubmed.ncbi.nlm.nih.gov/42166242/) | Illuminating proinflammatory myeloid cells with PET tracers ... |
+| 2026 May 21 | Circadian disruption and cellular senescence: emerging perspectives in periodontitis. | Odontology | [42166024](https://pubmed.ncbi.nlm.nih.gov/42166024/) | Circadian disruption and cellular senescence: emerging persp... |
+| 2026 May 21 | The progress of mitochondrial function and transfer in stem cell regulation and therapy. | Journal of physiology and biochemistry | [42165960](https://pubmed.ncbi.nlm.nih.gov/42165960/) | The progress of mitochondrial function and transfer in stem ... |
 
 ### NAD+ 与线粒体
 
@@ -48,4 +48,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-05-21 | 自动生成*
+*最后更新：2026-05-22 | 自动生成*
