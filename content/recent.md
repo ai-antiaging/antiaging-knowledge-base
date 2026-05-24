@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-05-23 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-05-24 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,39 +15,26 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 | S-palmitoylation regulates the function of the mitochondria-associated endoplasmic reticulum membrane to alleviate the senescence of nucleus pulposus cells. | PloS one | [42172255](https://pubmed.ncbi.nlm.nih.gov/42172255/) | S-palmitoylation regulates the function of the mitochondria-... |
-| 2026 May | Harnessing the stem cell potential in the human hippocampus to limit cognitive aging. | PLoS biology | [42172195](https://pubmed.ncbi.nlm.nih.gov/42172195/) | Harnessing the stem cell potential in the human hippocampus ... |
-| 2026 May 22 | Intratumoral microbiota in cancer: molecular mechanism and therapeutic strategies. | Molecular biomedicine | [42171956](https://pubmed.ncbi.nlm.nih.gov/42171956/) | Intratumoral microbiota in cancer: molecular mechanism and t... |
-| 2026 May 22 | Skin as a sentinel and modulator of systemic aging: a translational framework for evidence-based gerotherapeutics. | GeroScience | [42171935](https://pubmed.ncbi.nlm.nih.gov/42171935/) | Skin as a sentinel and modulator of systemic aging: a transl... |
-| 2026 May 22 | Endometrial senescence: inevitability and conditional occurrence in female fertility. | Reproduction & fertility | [42171452](https://pubmed.ncbi.nlm.nih.gov/42171452/) | Endometrial senescence: inevitability and conditional occurr... |
+| 2026 May | Chlorella Polysaccharide Extract Attenuates Skin Aging via MAPK Pathway Suppression: Implications for Cosmetic Dermatology. | Journal of cosmetic dermatology | [42175651](https://pubmed.ncbi.nlm.nih.gov/42175651/) | Chlorella Polysaccharide Extract Attenuates Skin Aging via M... |
+| 2026 May 22 | Organoids: generation strategies, applications, and future challenges. | Stem cell research & therapy | [42174698](https://pubmed.ncbi.nlm.nih.gov/42174698/) | Organoids: generation strategies, applications, and future c... |
+| 2026 May 23 | Intraperitoneal ZP123 improves aged oocyte quality by restoring granulosa cell gap junctions and improving mitochondrial function. | Journal of ovarian research | [42174667](https://pubmed.ncbi.nlm.nih.gov/42174667/) | Intraperitoneal ZP123 improves aged oocyte quality by restor... |
+| 2026 May 22 | Branching out takes anti-tumor immunity down a NOTCH. | Nature immunology | [42174267](https://pubmed.ncbi.nlm.nih.gov/42174267/) | Branching out takes anti-tumor immunity down a NOTCH. |
+| 2026 May 22 | A rapid and robust translational model for testicular aging research. | Histochemistry and cell biology | [42174225](https://pubmed.ncbi.nlm.nih.gov/42174225/) | A rapid and robust translational model for testicular aging ... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 May 29 | Mitochondrial complex I activity promotes antigen cross-presentation in dendritic cells. | Science immunology | [42172306](https://pubmed.ncbi.nlm.nih.gov/42172306/) | Mitochondrial complex I activity promotes antigen cross-pres... |
-| 2026 Jun | Ion-coupled transfersome complexes for enhanced transdermal NAD(+) repletion and mitigation of cellular senescence signatures. | Materials today. Bio | [42170234](https://pubmed.ncbi.nlm.nih.gov/42170234/) | Ion-coupled transfersome complexes for enhanced transdermal ... |
-| 2026 May 15 | Nicotinamide mononucleotide stimulates the activity of bursting slow-oscillation neurons in the supramammillary nucleus and enhances REM sleep. | iScience | [42170103](https://pubmed.ncbi.nlm.nih.gov/42170103/) | Nicotinamide mononucleotide stimulates the activity of burst... |
-| 2026 May 21 | "SelO"ective NAD(+) hydrolysis regulates mitochondrial NAD(+) and homeostasis. | Cell chemical biology | [42167142](https://pubmed.ncbi.nlm.nih.gov/42167142/) | "SelO"ective NAD(+) hydrolysis regulates mitochondrial NAD(+... |
-| 2026 | Immunometabolic control of cytokine production by micronutrients in health, aging, and inflammation. | Frontiers in immunology | [42164494](https://pubmed.ncbi.nlm.nih.gov/42164494/) | Immunometabolic control of cytokine production by micronutri... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 May 15 | Mitochondrial Function in Neurons and Glia in Health and Its Alteration in Parkinson's Disease: A Review. | Current neuropharmacology | [42163657](https://pubmed.ncbi.nlm.nih.gov/42163657/) | Mitochondrial Function in Neurons and Glia in Health and Its... |
-| 2026 Apr 28 | Dietary Polyphenols in Aging: A Systems-Level Perspective on Mitochondrial Quality Control and Microbiome Interactions. | International journal of molecular sciences | [42123520](https://pubmed.ncbi.nlm.nih.gov/42123520/) | Dietary Polyphenols in Aging: A Systems-Level Perspective on... |
-| 2026 May 12 | Urolithin A: A Novel Postbiotic for inflammation, aging, and cancer: A Journey from Dietary ellagitannins to clinical use. | Molecular biology reports | [42118217](https://pubmed.ncbi.nlm.nih.gov/42118217/) | Urolithin A: A Novel Postbiotic for inflammation, aging, and... |
-| 2026 May 11 | Effects of Urolithin A on Mitochondrial Homeostasis Disruption by LPS in C2C12 Myotubes. | Cellular physiology and biochemistry : international journal of experimental cellular physiology, biochemistry, and pharmacology | [42109016](https://pubmed.ncbi.nlm.nih.gov/42109016/) | Effects of Urolithin A on Mitochondrial Homeostasis Disrupti... |
-| 2026 May 7 | Urolithin A: Potential to enhance autophagic clearance and mitigate neuroinflammation in Alzheimer's disease. | Ageing research reviews | [42106150](https://pubmed.ncbi.nlm.nih.gov/42106150/) | Urolithin A: Potential to enhance autophagic clearance and m... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 May | Changes in Serum Testosterone After Sublingual Enclomiphene Citrate Combined With a Mineral Oxide Delivery System: A Retrospective Case Series of 15 Men. | Cureus | [42170362](https://pubmed.ncbi.nlm.nih.gov/42170362/) | Changes in Serum Testosterone After Sublingual Enclomiphene ... |
-| 2026 Jun | Spermidine Mitigates Immune Cell Senescence and Boosts Vaccine Responses in Healthy Older Adults-A Pilot Study. | Aging cell | [42169618](https://pubmed.ncbi.nlm.nih.gov/42169618/) | Spermidine Mitigates Immune Cell Senescence and Boosts Vacci... |
-| 2026 May 12 | Supramolecular Visualized Chemotherapy Based on OxPt-TTVP@CB[8]: Activating Oxidative Damage to Induce ICD for Enhancing the Killing of Tumor Cells. | Langmuir : the ACS journal of surfaces and colloids | [42120969](https://pubmed.ncbi.nlm.nih.gov/42120969/) | Supramolecular Visualized Chemotherapy Based on OxPt-TTVP@CB... |
+*暂无最新文献*
+
 
 ---
 
@@ -61,4 +48,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-05-23 | 自动生成*
+*最后更新：2026-05-24 | 自动生成*
