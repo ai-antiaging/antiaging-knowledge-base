@@ -2,13 +2,93 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-05-18 08:00 (Asia/Shanghai)  
+**最后更新**: 2026-05-25 08:00 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索)
 
 ---
 
-## 本周新增论文 (2026.05.12 – 2026.05.18)
+## 本周新增论文 (2026.05.19 – 2026.05.25)
+
+### 📌 重点论文
+
+#### 1. 雷帕霉素治疗阿尔茨海默病及相关痴呆：首个 I 期临床试验
+- **标题**: Rapamycin treatment for Alzheimer's disease and related dementias: a pilot phase 1 clinical trial
+- **期刊**: Communications Medicine (Nature Portfolio) (2026-05-20)
+- **关键发现**: 首个评估雷帕霉素用于 AD 及相关痴呆患者的单中心开放标签 I 期临床试验（NCT04200911），探索了雷帕霉素在人类 AD 患者中的安全性和初步疗效，为 mTOR 抑制剂在神经退行性疾病中的临床转化提供了关键数据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40394335/
+
+#### 2. 烟酸核糖维持 NAD+ 稳态并改善衰老相关 NAD+ 下降
+- **标题**: Nicotinic acid riboside maintains NAD(+) homeostasis and ameliorates aging-associated NAD(+) decline
+- **期刊**: Cell Metabolism (2026-05-22)
+- **关键发现**: 发表于衰老代谢领域的顶级期刊，证实烟酸核糖（NAR）能有效维持体内 NAD+ 稳态并逆转衰老相关的 NAD+ 下降，为 NAD+ 增强剂的临床开发提供了重要依据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40409257/
+
+#### 3. 衰老相关 NAD+ 下降导致 CAR-T 细胞治疗失败
+- **标题**: Age-associated nicotinamide adenine dinucleotide decline drives CAR-T cell failure
+- **期刊**: Nature Cancer (2026-05-20)
+- **关键发现**: 人类数据分析揭示年龄和 NAD 代谢共同决定 CAR-T 细胞治疗反应性。靶向 NAD 通路可恢复老年供体 CAR-T 细胞的线粒体功能，为老年肿瘤免疫治疗提供了新的干预策略。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40394194/
+
+#### 4. P-selectin 异常激活驱动造血干细胞衰老
+- **标题**: Aberrant engagement of P-selectin drives hematopoietic stem cell aging in mice
+- **期刊**: Nature Aging (2026-05-23)
+- **关键发现**: 发现 P-selectin 异常参与是造血干细胞（HSC）功能衰退的新机制，揭示了 HSC 衰老的调控通路，为血液系统衰老的干预提供了潜在靶点。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40410559/
+
+#### 5. 抗衰老疗法：心血管疾病治疗新概念
+- **标题**: Anti-senescence therapies: a new concept to address cardiovascular disease
+- **期刊**: Cardiovascular Research (2026-05-23)
+- **关键发现**: 系统综述了衰老细胞清除（senolytics）、抗 SASP senomorphics 和表观遗传重编程在心血管疾病中的应用前景，提出了适应衰老生物学特征的临床试验设计框架，为抗衰老疗法进入心血管临床实践提供路线图。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40036821/
+
+### 其他新增论文
+
+#### 6. 衰老干预的基因治疗策略
+- **标题**: Gene therapy strategies for aging intervention
+- **期刊**: Cell Insight (2026-05-23)
+- **关键发现**: 综述了基因编辑和递送系统在靶向衰老分子通路中的应用，包括端粒酶激活、自噬增强、表观遗传重编程等策略，评估了临床转化的可行性与挑战。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40677784/
+
+#### 7. 晚期补充 25-羟胆固醇减少小鼠主动脉僵硬和细胞衰老
+- **标题**: Late Life Supplementation of 25-Hydroxycholesterol Reduces Aortic Stiffness and Cellular Senescence in Mice
+- **期刊**: Aging Cell (2026-05-22)
+- **关键发现**: 晚年补充 25-羟胆固醇可减少主动脉细胞衰老并降低主动脉僵硬，为心血管衰老的脂质干预提供了新思路。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40401595/
+
+#### 8. 多组学分析揭示肾病中可靶向的炎症和促纤维化肾小管细胞表型
+- **标题**: Multiomic analysis of human kidney disease identifies a tractable inflammatory and pro-fibrotic tubular cell phenotype
+- **期刊**: Nature Communications (2026-05-22)
+- **关键发现**: 使用 senolytic 剂或 AP-1 抑制剂靶向炎症性肾小管细胞可改善小鼠肾损伤模型中的炎症和纤维化，为慢性肾病的抗衰老治疗提供了新靶点。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40399382/
+
+#### 9. 表观遗传时钟与 EpiScore 在预防医学中的应用
+- **标题**: Epigenetic Clocks and EpiScore for Preventive Medicine: Risk Stratification and Intervention Models for Age-Related Diseases
+- **期刊**: J Clin Med (2026-05-21)
+- **关键发现**: 综述了表观遗传时钟和 EpiScore 作为复合生物标志物预测健康风险和生理状态的临床潜力，推动从疾病治疗向衰老风险分层的预防医学转变。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40429598/
+
+#### 10. 膳食植物多酚的抗衰老潜力：在细胞衰老调节中的作用
+- **标题**: The Antiaging Potential of Dietary Plant-Based Polyphenols: A Review on Their Role in Cellular Senescence Modulation
+- **期刊**: Nutrients (2026-05-19)
+- **关键发现**: 部分多酚具有 senolytic 特性，可选择性清除衰老细胞，同时通过抗氧化、调节基因表达和改善线粒体功能延缓细胞衰老，为饮食干预抗衰老提供了循证依据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40431456/
+
+#### 11. 基因决定的鱼类和鱼油摄入对表观遗传年龄加速的因果影响
+- **标题**: Causal impact of genetically-determined fish and fish oil intake on epigenetic age acceleration and related serum markers
+- **期刊**: Human Genomics (2026-05-24)
+- **关键发现**: 基于 UK Biobank 的孟德尔随机化研究，揭示了鱼类消费与表观遗传时钟测量的生物衰老减缓之间的因果关系，为饮食抗衰老提供了遗传学证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40410862/
+
+#### 12. NMN 通过促进脂肪氧化和抑制肝脏脂质生成改善 db/db 小鼠体脂和高甘油三酯血症
+- **标题**: Dietary Nicotinamide Mononucleotide (NMN) Alleviates Body Fat Mass and Hypertriglyceridemia
+- **期刊**: Metabolites (2026-05-18)
+- **关键发现**: NMN 作为关键 NAD+ 中间代谢物，通过增强能量消耗、促进脂肪氧化和肝脏脂质分解并抑制肝脏脂质生成，在 db/db 小鼠模型中发挥抗肥胖和抗糖尿病作用。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/40422909/
+
+---
+
+## 上周新增论文 (2026.05.12 – 2026.05.18)
 
 ### 📌 重点论文
 
@@ -179,16 +259,21 @@
 ## 按研究方向分类
 
 ### 1. Senolytics（衰老细胞清除）
+- **衰老疗法：心血管疾病治疗新概念 (Cardiovasc Res, 2026-05)** ⬆️
 - 衰老心脏再生治疗中的衰老细胞靶点 (2026-05)
 - 细胞衰老的动态谱系：超越二元模型 (2026-05)
 - FOXO4-DRI 逆转录肽靶向 FOXO4-p53 轴清除脑衰老细胞 (2026-04)
 - 纳米医学策略实现衰老细胞精准递送与清除 (2026-05)
 - 靶向衰老细胞改善肥胖相关脑血管功能障碍 (2026-05)
+- 多组学分析：senolytic 剂改善肾损伤模型炎症和纤维化 (Nat Commun, 2026-05) ⬆️
 - C-EVs 清除关节软骨衰老细胞（临床试验）(2026-02)
 - Dasatinib + Quercetin 改善糖尿病肾病 (2026-02)
 - **尿液纳米探针无创检测治疗诱导衰老 (Nature Aging, 2026-05)**
 
 ### 2. NAD+ 增强剂
+- **烟酸核糖维持 NAD+ 稳态并改善衰老相关 NAD+ 下降 (Cell Metabolism, 2026-05)** ⬆️
+- **衰老相关 NAD+ 下降导致 CAR-T 细胞治疗失败 (Nature Cancer, 2026-05)** ⬆️
+- **NMN 通过促进脂肪氧化改善 db/db 小鼠代谢 (Metabolites, 2026-05)** ⬆️
 - 线粒体-核互作轴与 NAD⁺ 补充治疗 AD (2026-04)
 - 内皮 NAD+ 耗竭通过 cGAS/STING-CD38 驱动 AD 神经炎症 (2026-04)
 - SLC25A51 调控脂肪组织衰老期 NAD 转运 (2026-05)
@@ -197,6 +282,7 @@
 - SIRT1 在动脉粥样硬化中的整合调控 (2026-03)
 
 ### 3. mTOR 抑制剂与自噬
+- **雷帕霉素治疗 AD 及相关痴呆：首个 I 期临床试验 (Commun Med, 2026-05)** ⬆️
 - 新型雷帕霉素衍生物 FIM-X8 降低免疫抑制活性并延长寿命 (2026-04)
 - ER-phagy 是 mTOR 抑制延长寿命所必需的主动机制 (2026-04)
 - 雷帕霉素增强衰老人类免疫系统抗 DNA 损伤能力 (Aging Cell, 2026-02)
@@ -204,6 +290,8 @@
 - 二甲双胍通过 AMPK/mTOR 延长健康寿命的分子机制 (2026-01)
 
 ### 4. 代谢干预
+- **植物多酚的 senolytic 特性与抗衰老潜力 (Nutrients, 2026-05)** ⬆️
+- **晚期补充 25-羟胆固醇减少主动脉僵硬和细胞衰老 (Aging Cell, 2026-05)** ⬆️
 - T2DM 与衰老研究交汇：SASP 和 NLRP3 为核心前沿 (2026-04)
 - 年轻人类菌群移植改善衰老小鼠认知和生殖功能 (2026-04)
 - 肠道微生物组与长寿疗法的机制联系 (2026-01)
@@ -214,11 +302,18 @@
 - **衰老 ECM 重塑与衰老细胞积累自我强化回路 (Nature Aging, 2026-05)**
 
 ### 6. 基因治疗与重编程
+- **衰老干预的基因治疗策略 (Cell Insight, 2026-05)** ⬆️
 - 病毒模拟机制：自身核酸感知驱动胶质衰老 (2026-05)
 - 表观遗传失调在皮肤老年性雀斑中的作用 (2026-04)
 - 衰老与癌症的共享标志物轴（9 大趋同轴）(2026-03)
 
-### 7. 衰老标志物与检测
+### 7. 造血与干细胞衰老
+- **P-selectin 异常激活驱动造血干细胞衰老 (Nature Aging, 2026-05)** ⬆️
+- 端粒动态在 iPSC 衰老和细胞重编程中的作用 (Ageing Res Rev, 2026-05) ⬆️
+
+### 8. 衰老标志物与检测
+- **表观遗传时钟与 EpiScore 在预防医学中的应用 (J Clin Med, 2026-05)** ⬆️
+- **鱼类/鱼油摄入对表观遗传年龄加速的因果影响 (Hum Genomics, 2026-05)** ⬆️
 - **APOE ε4/ε2 蛋白质组学特征揭示 AD 早期分子标志物 (Nature Aging, 2026-05)**
 - **尿液纳米探针无创检测衰老与纤维化 (Nature Aging, 2026-05)**
 - 老年科学研究中的霍桑效应及方法学框架 (Nature Aging, 2026-05)
@@ -238,6 +333,7 @@
 
 | 日期 | 更新内容 | 新增论文数 |
 |------|----------|------------|
+| 2026-05-25 | 第 4 次更新：雷帕霉素 AD I 期临床试验、Cell Metabolism NAR 研究、Nature Cancer NAD+/CAR-T、Nature Aging 造血干细胞衰老，新增分类「造血与干细胞衰老」 | 12 |
 | 2026-05-18 | 第 3 次更新：新增 5 篇 Nature Aging 论文（含尿液纳米探针检测衰老、APOE 蛋白质组学），更新分类目录 | 5 |
 | 2026-05-11 | 第 2 次更新：新增 7 篇重点论文，更新分类目录 | 7 |
 | 2026-05-06 | 首次大规模更新：检索 6 大方向，筛选 12 篇重点论文 | 12 |
