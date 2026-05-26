@@ -1,7 +1,7 @@
 ---
 title: "周深度解读"
 description: "每周一篇深度解读，详细剖析重要研究的背景、方法、结果和意义"
-date: 2026-05-19
+date: 2026-05-26
 draft: false
 ---
 
@@ -12,6 +12,9 @@ draft: false
 ---
 
 ## 最新解读
+
+- **[CAR T 细胞清除衰老细胞——Nature Aging 肠道再生逆转疗法的突破](./2026-05-26-weekly/)** — 2026年5月26日
+  - *Nature Aging* (IF≈20+) · 抗 uPAR CAR T 细胞 · 逆转衰老小鼠肠道功能衰退 · 兼具治疗与预防效果
 
 - **[尿液无创检测衰老细胞——Nature Aging 可注射纳米探针的突破与意义](./2026-05-19-weekly/)** — 2026年5月19日
   - *Nature Aging* (IF≈20+) · 白蛋白基纳米探针 · 尿液动态监测 Senolytics 疗效
