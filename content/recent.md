@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-05-28 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-05-29 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Apr 28 | Sex Differences in Cardiac Involvement in Adults With Myotonic Dystrophy Type 1: A Multicenter Study. | JACC. Advances | [42202377](https://pubmed.ncbi.nlm.nih.gov/42202377/) | Sex Differences in Cardiac Involvement in Adults With Myoton... |
-| 2026 May 29 | Multicellular senescence impairs skeletal muscle recovery following disuse in aging. | Science advances | [42202008](https://pubmed.ncbi.nlm.nih.gov/42202008/) | Multicellular senescence impairs skeletal muscle recovery fo... |
-| 2026 May | Beyond reproduction: The ovary as a systemic regulator of female health and aging. | PLoS biology | [42201900](https://pubmed.ncbi.nlm.nih.gov/42201900/) | Beyond reproduction: The ovary as a systemic regulator of fe... |
-| 2026 | Decreased expression of Ly-1 antibody reactive clone (Lyar) triggers enhanced adipogenesis of bone marrow mesenchymal stromal cells in aged bone marrow. | PloS one | [42201873](https://pubmed.ncbi.nlm.nih.gov/42201873/) | Decreased expression of Ly-1 antibody reactive clone (Lyar) ... |
-| 2026 May 27 | Associations between pain and cognitive impairment in older adults: findings from the birjand longitudinal aging study. | Aging clinical and experimental research | [42201471](https://pubmed.ncbi.nlm.nih.gov/42201471/) | Associations between pain and cognitive impairment in older ... |
+| 2026 Jun | Blm10/PA200-Activated 20S Proteasomes Promote α-Synuclein Degradation and Bypass Proteasome Inhibition in Parkinson's Disease Models. | Aging cell | [42206954](https://pubmed.ncbi.nlm.nih.gov/42206954/) | Blm10/PA200-Activated 20S Proteasomes Promote α-Synuclein De... |
+| 2026 May 1 | Oxidative Stress-Induced Age-Related Bullous Keratopathy in Corneal Endothelial Cells With Lipid Droplets and Vacuoles. | Investigative ophthalmology & visual science | [42206946](https://pubmed.ncbi.nlm.nih.gov/42206946/) | Oxidative Stress-Induced Age-Related Bullous Keratopathy in ... |
+| 2026 May 28 | The ubiquitin-proteasome system and autophagy as guardians of the cellular proteome. | FEBS letters | [42206743](https://pubmed.ncbi.nlm.nih.gov/42206743/) | The ubiquitin-proteasome system and autophagy as guardians o... |
+| 2026 May | The ABHD10-KCMF1 Complex Mitigates Cochlear Aging by Regulating Mitochondrial Lipid Metabolism. | Journal of cellular physiology | [42206676](https://pubmed.ncbi.nlm.nih.gov/42206676/) | The ABHD10-KCMF1 Complex Mitigates Cochlear Aging by Regulat... |
+| 2026 May 28 | Nitrate-Sialin Promotes Dentin Regeneration via Mitochondrial Rewiring. | Journal of dental research | [42206542](https://pubmed.ncbi.nlm.nih.gov/42206542/) | Nitrate-Sialin Promotes Dentin Regeneration via Mitochondria... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 15 | Epigenetic Information Loss and Chronosenescence in Liver Aging: From Molecular Mechanisms to Therapeutic Interventions. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42205070](https://pubmed.ncbi.nlm.nih.gov/42205070/) | Epigenetic Information Loss and Chronosenescence in Liver Ag... |
 | 2026 May 8 | Hydrogen Sulfide Protects Against Cerebral Ischemia-Reperfusion Injury in Rats via S-Sulfhydrating NAMPT to Enhance Mitochondrial Function and Autophagy in Cerebrovascular Endothelial Cells. | Pharmaceuticals (Basel, Switzerland) | [42198416](https://pubmed.ncbi.nlm.nih.gov/42198416/) | Hydrogen Sulfide Protects Against Cerebral Ischemia-Reperfus... |
 | 2026 May 13 | Cordycepin Ameliorates Constant Light-Induced Thermogenic Dysfunction in Brown Adipose Tissue by Activating SIRT1-Mediated Mitochondrial Homeostasis. | International journal of molecular sciences | [42196331](https://pubmed.ncbi.nlm.nih.gov/42196331/) | Cordycepin Ameliorates Constant Light-Induced Thermogenic Dy... |
 | 2026 May 9 | SIRT1 in Cardiac Diseases: Molecular Mechanisms, Therapeutic Potential, and Future Directions. | International journal of molecular sciences | [42196199](https://pubmed.ncbi.nlm.nih.gov/42196199/) | SIRT1 in Cardiac Diseases: Molecular Mechanisms, Therapeutic... |
 | 2026 Apr 28 | The Interplay Between Immunometabolism and Neuroinflammation in Alzheimer's Disease. | Biomolecules | [42194007](https://pubmed.ncbi.nlm.nih.gov/42194007/) | The Interplay Between Immunometabolism and Neuroinflammation... |
-| 2026 May 20 | Disruption of Fructose 1,6-Bisphosphatase 2 Proximity to MIC60 Correlates with Mitochondrial Ultrastructural Changes. | Cells | [42193951](https://pubmed.ncbi.nlm.nih.gov/42193951/) | Disruption of Fructose 1,6-Bisphosphatase 2 Proximity to MIC... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 May 28 | Microplastic Exposure Aggravates Cardiomyopathy Under Hemodynamic Stress Through the Gut-Heart Axis. | Circulation | [42206375](https://pubmed.ncbi.nlm.nih.gov/42206375/) | Microplastic Exposure Aggravates Cardiomyopathy Under Hemody... |
 | 2026 May 16 | Dietary Polyamine Intake Across Age Groups in Spain: A Comprehensive Assessment. | Nutrients | [42197044](https://pubmed.ncbi.nlm.nih.gov/42197044/) | Dietary Polyamine Intake Across Age Groups in Spain: A Compr... |
 | 2026 May 18 | Spermidine Targets Ovarian Granulosa Cells via Activating the FHC/SLC7A11 Axis to Regulate Iron Homeostasis and Ameliorate Iron Overload-Induced Ovarian Dysfunction. | Antioxidants (Basel, Switzerland) | [42193258](https://pubmed.ncbi.nlm.nih.gov/42193258/) | Spermidine Targets Ovarian Granulosa Cells via Activating th... |
-| 2026 May | Changes in Serum Testosterone After Sublingual Enclomiphene Citrate Combined With a Mineral Oxide Delivery System: A Retrospective Case Series of 15 Men. | Cureus | [42170362](https://pubmed.ncbi.nlm.nih.gov/42170362/) | Changes in Serum Testosterone After Sublingual Enclomiphene ... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-05-28 | 自动生成*
+*最后更新：2026-05-29 | 自动生成*
