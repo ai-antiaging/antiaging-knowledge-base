@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-05-29 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-05-30 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun | Blm10/PA200-Activated 20S Proteasomes Promote α-Synuclein Degradation and Bypass Proteasome Inhibition in Parkinson's Disease Models. | Aging cell | [42206954](https://pubmed.ncbi.nlm.nih.gov/42206954/) | Blm10/PA200-Activated 20S Proteasomes Promote α-Synuclein De... |
-| 2026 May 1 | Oxidative Stress-Induced Age-Related Bullous Keratopathy in Corneal Endothelial Cells With Lipid Droplets and Vacuoles. | Investigative ophthalmology & visual science | [42206946](https://pubmed.ncbi.nlm.nih.gov/42206946/) | Oxidative Stress-Induced Age-Related Bullous Keratopathy in ... |
-| 2026 May 28 | The ubiquitin-proteasome system and autophagy as guardians of the cellular proteome. | FEBS letters | [42206743](https://pubmed.ncbi.nlm.nih.gov/42206743/) | The ubiquitin-proteasome system and autophagy as guardians o... |
-| 2026 May | The ABHD10-KCMF1 Complex Mitigates Cochlear Aging by Regulating Mitochondrial Lipid Metabolism. | Journal of cellular physiology | [42206676](https://pubmed.ncbi.nlm.nih.gov/42206676/) | The ABHD10-KCMF1 Complex Mitigates Cochlear Aging by Regulat... |
-| 2026 May 28 | Nitrate-Sialin Promotes Dentin Regeneration via Mitochondrial Rewiring. | Journal of dental research | [42206542](https://pubmed.ncbi.nlm.nih.gov/42206542/) | Nitrate-Sialin Promotes Dentin Regeneration via Mitochondria... |
+| 2026 May 29 | A STAT1/ETC/GBP1 axis represents a potential therapeutic target for noncommunicable granulomatous skin disease. | Science advances | [42213834](https://pubmed.ncbi.nlm.nih.gov/42213834/) | A STAT1/ETC/GBP1 axis represents a potential therapeutic tar... |
+| 2026 May 26 | Genetic Variants Associated With Nonpulmonary Vein Triggers of Atrial Fibrillation: A Genome-Wide Association Study. | JACC. Advances | [42212993](https://pubmed.ncbi.nlm.nih.gov/42212993/) | Genetic Variants Associated With Nonpulmonary Vein Triggers ... |
+| 2026 May 29 | A Covalently Engineered Metal-Organic Framework Nanosystem for Imaging-Guided Photoimmunotherapy of Metastatic Tumors. | ACS applied materials & interfaces | [42212901](https://pubmed.ncbi.nlm.nih.gov/42212901/) | A Covalently Engineered Metal-Organic Framework Nanosystem f... |
+| 2026 Jun | Abnormal Stress Reduced miR-330 Supplementation Alleviates Osteoarthritis Progression by Suppressing Osteochondral Catabolism. | Aging cell | [42212804](https://pubmed.ncbi.nlm.nih.gov/42212804/) | Abnormal Stress Reduced miR-330 Supplementation Alleviates O... |
+| 2026 Jul | Age- and Sex-Dependent Dynamics in Pituitary Thyrotroph and Thyroid Hormones in Dromedary Camels (Camelus dromedarius): A Histochemical Approach. | Veterinary medicine and science | [42212719](https://pubmed.ncbi.nlm.nih.gov/42212719/) | Age- and Sex-Dependent Dynamics in Pituitary Thyrotroph and ... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 15 | Epigenetic Information Loss and Chronosenescence in Liver Aging: From Molecular Mechanisms to Therapeutic Interventions. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42205070](https://pubmed.ncbi.nlm.nih.gov/42205070/) | Epigenetic Information Loss and Chronosenescence in Liver Ag... |
-| 2026 May 8 | Hydrogen Sulfide Protects Against Cerebral Ischemia-Reperfusion Injury in Rats via S-Sulfhydrating NAMPT to Enhance Mitochondrial Function and Autophagy in Cerebrovascular Endothelial Cells. | Pharmaceuticals (Basel, Switzerland) | [42198416](https://pubmed.ncbi.nlm.nih.gov/42198416/) | Hydrogen Sulfide Protects Against Cerebral Ischemia-Reperfus... |
-| 2026 May 13 | Cordycepin Ameliorates Constant Light-Induced Thermogenic Dysfunction in Brown Adipose Tissue by Activating SIRT1-Mediated Mitochondrial Homeostasis. | International journal of molecular sciences | [42196331](https://pubmed.ncbi.nlm.nih.gov/42196331/) | Cordycepin Ameliorates Constant Light-Induced Thermogenic Dy... |
-| 2026 May 9 | SIRT1 in Cardiac Diseases: Molecular Mechanisms, Therapeutic Potential, and Future Directions. | International journal of molecular sciences | [42196199](https://pubmed.ncbi.nlm.nih.gov/42196199/) | SIRT1 in Cardiac Diseases: Molecular Mechanisms, Therapeutic... |
-| 2026 Apr 28 | The Interplay Between Immunometabolism and Neuroinflammation in Alzheimer's Disease. | Biomolecules | [42194007](https://pubmed.ncbi.nlm.nih.gov/42194007/) | The Interplay Between Immunometabolism and Neuroinflammation... |
+| 2026 | SIRT3 activation by oroxylin A phosphate diethyl ester triggers mitochondrial dysfunction and apoptosis in non-small cell lung cancer. | International journal of biological sciences | [42212315](https://pubmed.ncbi.nlm.nih.gov/42212315/) | SIRT3 activation by oroxylin A phosphate diethyl ester trigg... |
+| 2026 Aug | Downregulation of FLT1 delays vascular aging by suppressing MAPK signaling pathway activation in vascular smooth muscle cells​. | Cytotechnology | [42211890](https://pubmed.ncbi.nlm.nih.gov/42211890/) | Downregulation of FLT1 delays vascular aging by suppressing ... |
+| 2026 | Nicotinamide riboside and pterostilbene reduces frequency and severity of undesirable symptoms of the menopause transition: an open-label, pilot clinical trial. | Frontiers in aging | [42211736](https://pubmed.ncbi.nlm.nih.gov/42211736/) | Nicotinamide riboside and pterostilbene reduces frequency an... |
+| 2026 May 29 | Reproductive aging drives deterministic microbiota assembly to mitigate uterine oxidative phosphorylation impairment via spermidine production in laying hens. | Microbiome | [42210432](https://pubmed.ncbi.nlm.nih.gov/42210432/) | Reproductive aging drives deterministic microbiota assembly ... |
+| 2026 May 28 | Mitochondrial drivers of stem cell aging and inflammaging. | npj aging | [42209503](https://pubmed.ncbi.nlm.nih.gov/42209503/) | Mitochondrial drivers of stem cell aging and inflammaging. |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 May 28 | Microplastic Exposure Aggravates Cardiomyopathy Under Hemodynamic Stress Through the Gut-Heart Axis. | Circulation | [42206375](https://pubmed.ncbi.nlm.nih.gov/42206375/) | Microplastic Exposure Aggravates Cardiomyopathy Under Hemody... |
-| 2026 May 16 | Dietary Polyamine Intake Across Age Groups in Spain: A Comprehensive Assessment. | Nutrients | [42197044](https://pubmed.ncbi.nlm.nih.gov/42197044/) | Dietary Polyamine Intake Across Age Groups in Spain: A Compr... |
-| 2026 May 18 | Spermidine Targets Ovarian Granulosa Cells via Activating the FHC/SLC7A11 Axis to Regulate Iron Homeostasis and Ameliorate Iron Overload-Induced Ovarian Dysfunction. | Antioxidants (Basel, Switzerland) | [42193258](https://pubmed.ncbi.nlm.nih.gov/42193258/) | Spermidine Targets Ovarian Granulosa Cells via Activating th... |
+| 2026 | VDR-Spermidine Axis Protects Against Age-Related Granulosa Cell Dysfunction and Follicular Decline via DNMTs-Mediated p53 Methylation. | International journal of biological sciences | [42212335](https://pubmed.ncbi.nlm.nih.gov/42212335/) | VDR-Spermidine Axis Protects Against Age-Related Granulosa C... |
+| 2026 May 28 | Skeletal muscle-specific myostatin overexpression promotes muscle oxidative capacity and fatigue resistance in transgenic mice. | Experimental physiology | [42210576](https://pubmed.ncbi.nlm.nih.gov/42210576/) | Skeletal muscle-specific myostatin overexpression promotes m... |
+| 2026 May 29 | Reproductive aging drives deterministic microbiota assembly to mitigate uterine oxidative phosphorylation impairment via spermidine production in laying hens. | Microbiome | [42210432](https://pubmed.ncbi.nlm.nih.gov/42210432/) | Reproductive aging drives deterministic microbiota assembly ... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-05-29 | 自动生成*
+*最后更新：2026-05-30 | 自动生成*
