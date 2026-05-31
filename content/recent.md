@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-05-30 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-05-31 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 May 29 | A STAT1/ETC/GBP1 axis represents a potential therapeutic target for noncommunicable granulomatous skin disease. | Science advances | [42213834](https://pubmed.ncbi.nlm.nih.gov/42213834/) | A STAT1/ETC/GBP1 axis represents a potential therapeutic tar... |
-| 2026 May 26 | Genetic Variants Associated With Nonpulmonary Vein Triggers of Atrial Fibrillation: A Genome-Wide Association Study. | JACC. Advances | [42212993](https://pubmed.ncbi.nlm.nih.gov/42212993/) | Genetic Variants Associated With Nonpulmonary Vein Triggers ... |
-| 2026 May 29 | A Covalently Engineered Metal-Organic Framework Nanosystem for Imaging-Guided Photoimmunotherapy of Metastatic Tumors. | ACS applied materials & interfaces | [42212901](https://pubmed.ncbi.nlm.nih.gov/42212901/) | A Covalently Engineered Metal-Organic Framework Nanosystem f... |
-| 2026 Jun | Abnormal Stress Reduced miR-330 Supplementation Alleviates Osteoarthritis Progression by Suppressing Osteochondral Catabolism. | Aging cell | [42212804](https://pubmed.ncbi.nlm.nih.gov/42212804/) | Abnormal Stress Reduced miR-330 Supplementation Alleviates O... |
-| 2026 Jul | Age- and Sex-Dependent Dynamics in Pituitary Thyrotroph and Thyroid Hormones in Dromedary Camels (Camelus dromedarius): A Histochemical Approach. | Veterinary medicine and science | [42212719](https://pubmed.ncbi.nlm.nih.gov/42212719/) | Age- and Sex-Dependent Dynamics in Pituitary Thyrotroph and ... |
+| 2026 May | Agrin Ablation in Osteoblasts Compromises Long Bone Structure and Osteoblastic Differentiation of Mesenchymal Stem Cells. | Journal of cellular biochemistry | [42216655](https://pubmed.ncbi.nlm.nih.gov/42216655/) | Agrin Ablation in Osteoblasts Compromises Long Bone Structur... |
+| 2026 May 9 | β-Ecdysterone Attenuates Ang II-Induced Senescence in Human Aortic Smooth Muscle Cells via Autophagy Activation and ROS Suppression Through AKT/mTOR Pathway Inhibition. | Frontiers in bioscience (Landmark edition) | [42216551](https://pubmed.ncbi.nlm.nih.gov/42216551/) | β-Ecdysterone Attenuates Ang II-Induced Senescence in Human ... |
+| 2026 May 29 | Identification of senescence-related biomarker for aortic dissection based on bioinformatics and machine learning algorithms. | Medicine | [42216376](https://pubmed.ncbi.nlm.nih.gov/42216376/) | Identification of senescence-related biomarker for aortic di... |
+| 2026 May 29 | Aging mechanisms and rejuvenation strategies for hematopoietic stem cells. | Genome biology | [42216078](https://pubmed.ncbi.nlm.nih.gov/42216078/) | Aging mechanisms and rejuvenation strategies for hematopoiet... |
+| 2026 May 29 | Correlation analysis of positive Alzheimer's disease plasma biological markers with plasma immune cell and clinical characteristics in mild cognitive impairment patients in China. | BMC immunology | [42215876](https://pubmed.ncbi.nlm.nih.gov/42215876/) | Correlation analysis of positive Alzheimer's disease plasma ... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-05-30 | 自动生成*
+*最后更新：2026-05-31 | 自动生成*
