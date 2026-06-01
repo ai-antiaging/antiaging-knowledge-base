@@ -437,7 +437,7 @@ NMN 是 NAD+ 的直接前体，通过 NAMPT 酶转化为 NAD+。NAD+ 是 Sirtuin
 
 ## 🏥 临床追踪（ClinicalTrials.gov）
 
-> **最后检查日期**：2026-05-25 | **检查范围**：Phase II/III 试验
+> **最后检查日期**：2026-06-01 | **检查范围**：Phase I/II/III 试验
 
 ### Senolytics 相关试验状态
 
@@ -453,6 +453,7 @@ NMN 是 NAD+ 的直接前体，通过 NAMPT 酶转化为 NAD+。NAD+ 是 Sirtuin
 | NCT05593588 | Senolytics for ILD in CVID | Enrolling by invitation | 间质性肺病 | 美国 |
 | NCT04313634 | Senolytics for Skeletal Health in Older Adults | **Completed** 📊 (有结果) | 骨骼健康 | 美国 |
 | NCT05506488 | Dasatinib + Quercetin for Fibrotic NAFLD | **Completed** | 肝纤维化/NAFLD | 荷兰 |
+| NCT02848131 | Senolytics (D+Q) for Chronic Kidney Disease | **Enrolling by invitation** | 慢性肾病 | 美国 Mayo Clinic (Phase II) |
 
 ### NMN/NAD+ 前体相关试验状态（精选）
 
@@ -478,6 +479,7 @@ NMN 是 NAD+ 的直接前体，通过 NAMPT 酶转化为 NAD+。NAD+ 是 Sirtuin
 | NCT05405868 | Nicotinamide in Glaucoma (NAMinG) | **Recruiting** ✅ | 青光眼 | 英国 (Phase III) |
 | NCT06627868 | NAD+ 代谢与棕色脂肪组织 | **Recruiting** ✅ | 肥胖 | 芬兰图尔库大学 |
 | NCT04571008 | NMN 补充对器官系统生物学的影响 | **Completed** 📊 | 葡萄糖代谢紊乱 | 美国华盛顿大学 |
+| NCT07572825 | NMN 治疗 DHDDS-CDG（罕见遗传病） | **Not yet recruiting** | DHDDS-CDG | 美国 Mount Sinai (Phase I) |
 
 ### 本周状态更新摘要（2026-05-18 检查）
 
@@ -509,6 +511,24 @@ NMN 是 NAD+ 的直接前体，通过 NAMPT 酶转化为 NAD+。NAD+ 是 Sirtuin
 | NCT07006194 | 青光眼中 Nicotinamide 水平与线粒体损伤 | Not yet recruiting | 意大利 |
 | NCT05194397 | 运动训练 + NR 补充改善癌症幸存者体能 | **Recruiting** ✅ | 美国 CHOP，Phase II |
 
+### 本周状态更新摘要（2026-06-01 检查）
+
+- **状态确认**：本周通过 ClinicalTrials.gov API v2 核查所有已记录试验状态，与上周（2026-05-25）记录对比，**零变化**
+- **Senolytics 领域**：10 项已记录试验状态无变化
+  - 招募中：2 项（NCT07025226 胶质瘤、NCT05758246 脓毒症）
+  - 已完成：3 项（NCT05422885、NCT04313634、NCT05506488）
+  - 暂停：1 项（NCT05276895 骨关节炎）
+  - 未招募：1 项（NCT07270120 多发性硬化）
+  - 不招募/邀请中：3 项（NCT06018467、NCT04785300、NCT05593588）
+- **NMN/NAD+ 领域**：15 项已记录试验状态无变化
+  - 招募中：8 项
+  - 已完成：5 项
+  - 未招募：2 项
+  - 状态未知：1 项
+- **🆕 新发现试验（2 项）**：
+  - **NCT07572825** — NMN 治疗 DHDDS-CDG（Mount Sinai），Phase I，**Not yet recruiting**，预计 2026-06-01 启动
+  - **NCT02848131** — 达沙替尼+槲皮素治疗慢性肾病（Mayo Clinic），Phase II，**Enrolling by invitation**，预计 2027-04 完成
+
 ### 本周状态更新摘要（2026-05-25 检查）
 
 - **状态确认**：本周通过 ClinicalTrials.gov API v2 核查所有已记录试验状态，与上周（2026-05-18）记录对比，**零变化**
@@ -531,7 +551,9 @@ NMN 是 NAD+ 的直接前体，通过 NAMPT 酶转化为 NAD+。NAD+ 是 Sirtuin
 - 建议持续关注 Completed 试验的结果发布
 - "Unknown status"标记的试验超过 2 年未更新，需谨慎参考
 - **NCT07025226**（胶质瘤 senolytics）本次 API 未返回，可能为搜索关键词未覆盖（搜索"senolytics"未命中），但其记录状态仍为 Recruiting
+- **NCT07572825**（NMN DHDDS-CDG）为新发现，预计 2026-06-01 启动，值得关注
+- **NCT02848131**（D+Q 慢性肾病，Mayo Clinic）为新发现，Enrolling by invitation，预计 2027-04 完成
 
 ---
 
-*最后更新：2026-05-25 | 下次自动更新：2026-06-01（周一）*
+*最后更新：2026-06-01 | 下次自动更新：2026-06-08（周一）*
