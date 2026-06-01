@@ -2,13 +2,73 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-05-25 08:00 (Asia/Shanghai)  
+**最后更新**: 2026-06-01 08:00 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索)
 
 ---
 
-## 本周新增论文 (2026.05.19 – 2026.05.25)
+## 本周新增论文 (2026.05.26 – 2026.06.01)
+
+### 📌 重点论文
+
+#### 1. 亚精胺减轻免疫细胞衰老并增强健康老年人疫苗应答（RCT）
+- **标题**: Spermidine Mitigates Immune Cell Senescence and Boosts Vaccine Responses in Healthy Older Adults-A Pilot Study
+- **期刊**: Aging Cell (2026-06)
+- **关键发现**: 随机对照临床试验显示，亚精胺补充可显著减轻健康老年人免疫细胞衰老，并增强疫苗免疫应答。这是亚精胺在人体免疫衰老领域的首个试点 RCT，为衰老相关免疫干预提供了直接临床证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42169618/
+
+#### 2. 慢性糖皮质激素信号的促衰老效应（综述）
+- **标题**: Pro-aging effects of chronic glucocorticoid signaling
+- **期刊**: Cell Metabolism (2026-05-28)
+- **关键发现**: Kroemer 和 López-Otín 团队系统综述了慢性糖皮质激素暴露如何通过改变营养感应、抑制自噬、损害线粒体质量控制和促进细胞衰老等多条通路加速生物学衰老。临床关联了 GC 升高与代谢综合征、骨质疏松、肌少症、神经退行性疾病、心血管疾病、免疫衰老和癌症的早发和加重。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42208534/
+
+#### 3. 过氧化物酶体通过细胞器间级联调控代谢灵活性和长寿
+- **标题**: Peroxisomes orchestrate metabolic flexibility and longevity via an interorganelle cascade
+- **期刊**: Nature Aging (2026-05-20)
+- **关键发现**: 哈佛大学 Mair 实验室揭示了过氧化物酶体在维持代谢灵活性和调控寿命中的核心作用。研究发现衰老导致全身转录灵活性丧失和过氧化物酶体基因诱导减弱，揭示了细胞器间通讯在衰老中的关键地位。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42162381/
+
+#### 4. 肝脏衰老指数：多队列肝脏生物学衰老无创评分
+- **标题**: Liver Aging Index: A Noninvasive Score for Liver Biological Aging and Liver-Related Outcomes in Multicohorts
+- **期刊**: Aging Cell (2026-06)
+- **关键发现**: 开发了首个肝脏生物学衰老的无创评分系统，基于多队列数据验证其预测肝脏相关结局的能力，为评估器官特异性衰老提供了新的量化工具，具有临床转化潜力。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42218728/
+
+### 其他新增论文
+
+#### 5. SMARCAD1 缺失减轻 Tau 蛋白病
+- **标题**: Loss of SMARCAD1 Mitigates Tauopathy
+- **期刊**: Aging Cell (2026-06)
+- **关键发现**: 发现染色质重塑因子 SMARCAD1 是 Tau 蛋白病的强效修饰因子，其缺失通过降低 Tau mRNA 水平和改善染色质构象来减轻神经退行性变，为阿尔茨海默病治疗提供了新的表观遗传靶点。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42204442/
+
+#### 6. 基于多组学的个性化衰老加速测量模型
+- **标题**: Personalized-Context-Aware Age Gap: A New Multi-Omics Measurement Based on Age-Enhanced Model AOE-Net for Aging Acceleration and Chronic Disease Risk Prediction
+- **期刊**: Aging Cell (2026-06)
+- **关键发现**: 提出了基于深度学习的年龄增强模型 AOE-Net，整合多组学数据实现个性化衰老加速评估和慢性疾病风险预测，为精准衰老干预提供了新方法。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42210672/
+
+#### 7. 组织型 Omega-3 脂肪酸受体 FFAR4 缺陷加重肾脏衰老
+- **标题**: Tubular Omega-3 Fatty Acid Receptor FFAR4 Deficiency Aggravated Renal Aging and Chronic Kidney Disease
+- **期刊**: Aging Cell (2026-06)
+- **关键发现**: 发现肾小管 Omega-3 受体 FFAR4 缺失加速肾脏衰老和慢性肾病进展，提示 Omega-3 脂肪酸通过 FFAR4 通路对肾脏衰老具有保护作用。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42175992/
+
+#### 8. Cathepsin L 配体非依赖性激活 Notch1 驱动内皮衰老
+- **标题**: Ligand-Independent Activation of Notch1 by Cathepsin L Induces CUX1/p16INK4a-Dependent Endothelial Senescence Associated With Atherosclerosis
+- **期刊**: Aging Cell (2026-06)
+- **关键发现**: 揭示了动脉粥样硬化中内皮细胞衰老的新机制——Cathepsin L 以不依赖配体的方式激活 Notch1，进而通过 CUX1/p16INK4a 通路诱导内皮衰老，为心血管衰老提供了新的干预靶点。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42210653/
+
+#### 9. 脑源性雌激素缺失与性别及年龄依赖性记忆改变
+- **标题**: Loss of Brain-Derived Estrogen Is Associated With Sex- and Age-Dependent Alterations in Memory, Affective Behavior, and Hippocampal Extracellular Matrix Gene Expression
+- **期刊**: Aging Cell (2026-06)
+- **关键发现**: 发现脑内雌激素合成的缺失导致性别和年龄依赖性的记忆、情绪行为改变及海马细胞外基质基因表达变化，揭示了脑局部雌激素在认知衰老中的重要作用。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42186917/
+
+## 上周新增论文 (2026.05.19 – 2026.05.25)
 
 ### 📌 重点论文
 
