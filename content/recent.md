@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-05-31 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-01 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 May | Agrin Ablation in Osteoblasts Compromises Long Bone Structure and Osteoblastic Differentiation of Mesenchymal Stem Cells. | Journal of cellular biochemistry | [42216655](https://pubmed.ncbi.nlm.nih.gov/42216655/) | Agrin Ablation in Osteoblasts Compromises Long Bone Structur... |
-| 2026 May 9 | β-Ecdysterone Attenuates Ang II-Induced Senescence in Human Aortic Smooth Muscle Cells via Autophagy Activation and ROS Suppression Through AKT/mTOR Pathway Inhibition. | Frontiers in bioscience (Landmark edition) | [42216551](https://pubmed.ncbi.nlm.nih.gov/42216551/) | β-Ecdysterone Attenuates Ang II-Induced Senescence in Human ... |
-| 2026 May 29 | Identification of senescence-related biomarker for aortic dissection based on bioinformatics and machine learning algorithms. | Medicine | [42216376](https://pubmed.ncbi.nlm.nih.gov/42216376/) | Identification of senescence-related biomarker for aortic di... |
-| 2026 May 29 | Aging mechanisms and rejuvenation strategies for hematopoietic stem cells. | Genome biology | [42216078](https://pubmed.ncbi.nlm.nih.gov/42216078/) | Aging mechanisms and rejuvenation strategies for hematopoiet... |
-| 2026 May 29 | Correlation analysis of positive Alzheimer's disease plasma biological markers with plasma immune cell and clinical characteristics in mild cognitive impairment patients in China. | BMC immunology | [42215876](https://pubmed.ncbi.nlm.nih.gov/42215876/) | Correlation analysis of positive Alzheimer's disease plasma ... |
+| 2026 Jun 1 | miR-211-5p/FOXO3 axis accelerates osteogenic differentiation and fracture healing by mediating Wnt/β-catenin pathway. | Journal of orthopaedic surgery and research | [42219493](https://pubmed.ncbi.nlm.nih.gov/42219493/) | miR-211-5p/FOXO3 axis accelerates osteogenic differentiation... |
+| 2026 May 29 | Intracrine androgen metabolism in the meibomian gland: regulation, circadian control, and implications in dry eye disease. | Endocrine journal | [42219372](https://pubmed.ncbi.nlm.nih.gov/42219372/) | Intracrine androgen metabolism in the meibomian gland: regul... |
+| 2026 | [Aging and Proteostasis]. | Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan | [42219304](https://pubmed.ncbi.nlm.nih.gov/42219304/) | [Aging and Proteostasis]. |
+| 2026 Dec | Combining bioinformatics and machine learning to analyze and validate sepsis-related cell senescence genes and potential drugs. | Renal failure | [42219284](https://pubmed.ncbi.nlm.nih.gov/42219284/) | Combining bioinformatics and machine learning to analyze and... |
+| 2026 May 30 | From Systemic Disease to the Eye: Why Senescence Deserves Attention in Ocular Infections. | Experimental eye research | [42219104](https://pubmed.ncbi.nlm.nih.gov/42219104/) | From Systemic Disease to the Eye: Why Senescence Deserves At... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 May 29 | Intracrine androgen metabolism in the meibomian gland: regulation, circadian control, and implications in dry eye disease. | Endocrine journal | [42219372](https://pubmed.ncbi.nlm.nih.gov/42219372/) | Intracrine androgen metabolism in the meibomian gland: regul... |
+| 2026 May 29 | Extracellular Lactate Reprograms Mitochondrial Metabolism and NAD(+)/NADH Redox Balance in Blood-Brain Barrier Endothelial Cells via an LDHB-MPC-NAD(+) Axis. | Free radical biology & medicine | [42217683](https://pubmed.ncbi.nlm.nih.gov/42217683/) | Extracellular Lactate Reprograms Mitochondrial Metabolism an... |
 | 2026 | SIRT3 activation by oroxylin A phosphate diethyl ester triggers mitochondrial dysfunction and apoptosis in non-small cell lung cancer. | International journal of biological sciences | [42212315](https://pubmed.ncbi.nlm.nih.gov/42212315/) | SIRT3 activation by oroxylin A phosphate diethyl ester trigg... |
 | 2026 Aug | Downregulation of FLT1 delays vascular aging by suppressing MAPK signaling pathway activation in vascular smooth muscle cells​. | Cytotechnology | [42211890](https://pubmed.ncbi.nlm.nih.gov/42211890/) | Downregulation of FLT1 delays vascular aging by suppressing ... |
 | 2026 | Nicotinamide riboside and pterostilbene reduces frequency and severity of undesirable symptoms of the menopause transition: an open-label, pilot clinical trial. | Frontiers in aging | [42211736](https://pubmed.ncbi.nlm.nih.gov/42211736/) | Nicotinamide riboside and pterostilbene reduces frequency an... |
-| 2026 May 29 | Reproductive aging drives deterministic microbiota assembly to mitigate uterine oxidative phosphorylation impairment via spermidine production in laying hens. | Microbiome | [42210432](https://pubmed.ncbi.nlm.nih.gov/42210432/) | Reproductive aging drives deterministic microbiota assembly ... |
-| 2026 May 28 | Mitochondrial drivers of stem cell aging and inflammaging. | npj aging | [42209503](https://pubmed.ncbi.nlm.nih.gov/42209503/) | Mitochondrial drivers of stem cell aging and inflammaging. |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-05-31 | 自动生成*
+*最后更新：2026-06-01 | 自动生成*
