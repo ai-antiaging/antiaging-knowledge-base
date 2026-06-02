@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[微塑料 BPF 通过肠-心轴加重心血管衰老——Circulation 封面级研究的机制解析](./2026-06-02-weekly/)** — 2026年6月2日
+  - *Circulation* (IF≈37.8) · BPF→Sat1→NAP 全新代谢通路 · 90.5%人类尿液检出 · 益生菌干预有效
+
 - **[CAR T 细胞清除衰老细胞——Nature Aging 肠道再生逆转疗法的突破](./2026-05-26-weekly/)** — 2026年5月26日
   - *Nature Aging* (IF≈20+) · 抗 uPAR CAR T 细胞 · 逆转衰老小鼠肠道功能衰退 · 兼具治疗与预防效果
 
