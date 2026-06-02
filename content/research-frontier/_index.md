@@ -2,13 +2,69 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-06-01 08:00 (Asia/Shanghai)  
+**最后更新**: 2026-06-03 07:30 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索)
 
 ---
 
-## 本周新增论文 (2026.05.26 – 2026.06.01)
+## 本周新增论文 (2026.06.02 – 2026.06.03)
+
+### 📌 重点论文
+
+#### 1. 衰老及相关疾病治疗策略全面综述（三大抗衰老策略）
+- **标题**: Insights into the therapeutic strategies for aging and aging-associated diseases
+- **期刊**: Signal Transduction and Targeted Therapy (2026-06-01)
+- **关键发现**: 系统综述了三大抗衰老策略——senolytics（清除衰老细胞，如达沙替尼+槲皮素）、senomorphics（抑制 SASP，如雷帕霉素）和 senoreversion（通过表观遗传重编程恢复衰老细胞）。同时涵盖代谢干预（亚精胺、α-酮戊二酸、麦角硫因）和 AI 在抗衰老药物发现中的应用。提出了精准长寿医学的转化框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42225652/
+
+#### 2. Annual Review of Nutrition：NAD⁺ 稳态在衰老与疾病中的机制
+- **标题**: Mechanisms of NAD+ Homeostasis in Aging and Disease
+- **期刊**: Annual Review of Nutrition (2026)
+- **关键发现**: Annual Review 系列权威综述，系统整合 NAD⁺ 代谢与衰老的关系。提出 NAD⁺ 水平下降是衰老的关键驱动因素，NAD⁺ 代谢可能是代谢功能紊乱与衰老加速之间的关键连接点。强调营养因素对 NAD⁺ 代谢的调控作用，将 NAD⁺ 定位为连接营养、代谢韧性和健康衰老的统一框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42228871/
+
+#### 3. PQQ 与亚精胺协同靶向衰老标志物
+- **标题**: Dietary pyrroloquinoline quinone and spermidine in healthy longevity: targeting the hallmarks of aging
+- **期刊**: Frontiers in Aging (2026)
+- **关键发现**: 揭示了 PQQ 和亚精胺的互补抗衰老机制。PQQ 主要作为线粒体和氧化还原调节因子（通过 AMPK-SIRT1/PGC-1α 促进线粒体生物发生），亚精胺则主要通过调节组蛋白和自噬蛋白乙酰化来激活自噬和维持蛋白质稳态。两者汇聚于 AMPK/SIRT1 轴和自噬网络，形成网络级互补，可能比单一靶点干预更有效地对抗衰老。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42222188/
+
+#### 4. 营养氧化还原重编程：尿石素 A、α-硫辛酸与麦角硫因
+- **标题**: Nutritional redox reprogramming in cardiometabolic diseases: alpha-lipoic acid, urolithin A, and ergothioneine as modulators of the ferroptosis-mitophagy axis and mitochondrial metabolic remodeling
+- **期刊**: Frontiers in Nutrition (2026)
+- **关键发现**: 综述了三种营养氧化还原调节剂（α-硫辛酸、尿石素 A、麦角硫因）如何通过调控铁死亡-线粒体自噬轴和线粒体代谢重编程来干预心脏代谢疾病，为多靶点营养干预提供了新的理论框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42221763/
+
+### 其他新增论文
+
+#### 5. VDR-亚精胺轴保护卵巢衰老
+- **标题**: VDR-Spermidine Axis Protects Against Age-Related Granulosa Cell Dysfunction and Follicular Decline via DNMTs-Mediated p53 Methylation
+- **期刊**: International Journal of Biological Sciences (2026)
+- **关键发现**: 发现维生素 D 受体（VDR）与亚精胺协同，通过 DNMTs 介导的 p53 甲基化来保护卵巢颗粒细胞功能和延缓卵泡衰退，揭示了亚精胺在生殖衰老中的新机制。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42212335/
+
+#### 6. 细胞衰老与干性的"爱恨关系"
+- **标题**: The love and hate relationship between cellular senescence and stemness
+- **期刊**: Aging (2026-05-30)
+- **关键发现**: 综述了细胞衰老与干细胞干性之间的复杂双向关系——在某些情境下衰老促进干性，而在另一些情境下则抑制干性，这一悖论为理解组织再生和肿瘤发生提供了新的视角。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42228804/
+
+#### 7. 脂质滴累积小胶质细胞：神经退行性疾病的治疗节点
+- **标题**: Lipid Droplet-Accumulating Microglia as a Therapeutic Node in Neurodegenerative Disease
+- **期刊**: ACS Chemical Neuroscience (2026-06-02)
+- **关键发现**: 揭示了脂质代谢异常如何驱动小胶质细胞衰老，提出靶向脂质滴累积小胶质细胞是神经退行性疾病干预的新策略。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42228839/
+
+#### 8. 肾脏衰老的区室特异性免疫重塑
+- **标题**: Compartment-Specific Immune Remodeling of Renal Aging With C1q-Associated Podocyte Activation
+- **期刊**: FASEB Journal (2026-06-15)
+- **关键发现**: 发现肾脏衰老过程中存在区室特异性的免疫重塑，C1q 相关的足细胞激活是肾脏衰老的关键驱动因素。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42228587/
+
+---
+
+## 上周新增论文 (2026.05.26 – 2026.06.01)
 
 ### 📌 重点论文
 
@@ -320,8 +376,10 @@
 
 ### 1. Senolytics（衰老细胞清除）
 - **衰老疗法：心血管疾病治疗新概念 (Cardiovasc Res, 2026-05)** ⬆️
+- **衰老及相关疾病治疗策略全面综述 (STTT, 2026-06)** ⬆️
 - 衰老心脏再生治疗中的衰老细胞靶点 (2026-05)
 - 细胞衰老的动态谱系：超越二元模型 (2026-05)
+- **细胞衰老与干性的"爱恨关系" (Aging, 2026-05)** ⬆️
 - FOXO4-DRI 逆转录肽靶向 FOXO4-p53 轴清除脑衰老细胞 (2026-04)
 - 纳米医学策略实现衰老细胞精准递送与清除 (2026-05)
 - 靶向衰老细胞改善肥胖相关脑血管功能障碍 (2026-05)
@@ -331,6 +389,7 @@
 - **尿液纳米探针无创检测治疗诱导衰老 (Nature Aging, 2026-05)**
 
 ### 2. NAD+ 增强剂
+- **NAD⁺ 稳态在衰老与疾病中的机制 (Annu Rev Nutr, 2026)** ⬆️
 - **烟酸核糖维持 NAD+ 稳态并改善衰老相关 NAD+ 下降 (Cell Metabolism, 2026-05)** ⬆️
 - **衰老相关 NAD+ 下降导致 CAR-T 细胞治疗失败 (Nature Cancer, 2026-05)** ⬆️
 - **NMN 通过促进脂肪氧化改善 db/db 小鼠代谢 (Metabolites, 2026-05)** ⬆️
@@ -350,8 +409,11 @@
 - 二甲双胍通过 AMPK/mTOR 延长健康寿命的分子机制 (2026-01)
 
 ### 4. 代谢干预
+- **PQQ 与亚精胺协同靶向衰老标志物 (Frontiers in Aging, 2026)** ⬆️
+- **营养氧化还原重编程：尿石素 A、α-硫辛酸与麦角硫因 (Frontiers in Nutrition, 2026)** ⬆️
 - **植物多酚的 senolytic 特性与抗衰老潜力 (Nutrients, 2026-05)** ⬆️
 - **晚期补充 25-羟胆固醇减少主动脉僵硬和细胞衰老 (Aging Cell, 2026-05)** ⬆️
+- **VDR-亚精胺轴保护卵巢衰老 (Int J Biol Sci, 2026)** ⬆️
 - T2DM 与衰老研究交汇：SASP 和 NLRP3 为核心前沿 (2026-04)
 - 年轻人类菌群移植改善衰老小鼠认知和生殖功能 (2026-04)
 - 肠道微生物组与长寿疗法的机制联系 (2026-01)
@@ -379,6 +441,18 @@
 - 老年科学研究中的霍桑效应及方法学框架 (Nature Aging, 2026-05)
 - 表观遗传时钟纵向变化预测 InCHIANTI 队列生存率 (2026-03)
 
+### 9. 心血管衰老与环境因素
+- **微塑料 BPF 经肠-心轴加速心血管衰老 (Circulation, IF≈37.8, 2026-05)** ⬆️
+- 血管衰老：健康寿命的核心决定因素 (Circulation, 2026-05)
+- 晚期补充 25-羟胆固醇减少主动脉僵硬和细胞衰老 (Aging Cell, 2026-05)
+- Cathepsin L 配体非依赖性激活 Notch1 驱动内皮衰老 (Aging Cell, 2026-06)
+
+### 10. 神经退行性疾病与脑衰老
+- **脂质滴累积小胶质细胞：神经退行性疾病治疗节点 (ACS Chem Neurosci, 2026-06)** ⬆️
+- 肾脏衰老的区室特异性免疫重塑 (FASEB J, 2026-06)
+- SMARCAD1 缺失减轻 Tau 蛋白病 (Aging Cell, 2026-06)
+- 脑源性雌激素缺失与性别及年龄依赖性记忆改变 (Aging Cell, 2026-06)
+
 ---
 
 ## 信息来源
@@ -393,6 +467,7 @@
 
 | 日期 | 更新内容 | 新增论文数 |
 |------|----------|------------|
+| 2026-06-03 | 第 5 次更新：STTT 衰老治疗策略综述、Annu Rev Nutr NAD⁺ 稳态综述、PQQ+亚精胺协同机制、尿石素 A 氧化还原重编程，新增分类「心血管衰老与环境因素」「神经退行性疾病与脑衰老」 | 8 |
 | 2026-05-25 | 第 4 次更新：雷帕霉素 AD I 期临床试验、Cell Metabolism NAR 研究、Nature Cancer NAD+/CAR-T、Nature Aging 造血干细胞衰老，新增分类「造血与干细胞衰老」 | 12 |
 | 2026-05-18 | 第 3 次更新：新增 5 篇 Nature Aging 论文（含尿液纳米探针检测衰老、APOE 蛋白质组学），更新分类目录 | 5 |
 | 2026-05-11 | 第 2 次更新：新增 7 篇重点论文，更新分类目录 | 7 |

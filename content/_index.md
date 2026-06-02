@@ -14,7 +14,7 @@ geekdocCollapseSection: false
 
 - **📖 基础理论**：衰老的十二大标志物
 - **💊 干预方法**：补充剂循证指南 + 争议探讨
-- **🔬 研究前沿**：Senolytics 最新临床进展
+- **🔬 研究前沿**：最新抗衰老治疗策略综述（STTT, 2026-06）
 - **📅 近一个月**：近期研究汇总 + 趋势分析
 - **🧬 代谢网络**：代谢通路图谱
 - **📰 AI 新闻官**：每日快讯 + 周深度解读
@@ -37,8 +37,8 @@ geekdocCollapseSection: false
 
 | 日期 | 研究亮点 | 期刊 | 解读 |
 |------|---------|------|------|
-| 今日 08:00 | AI 新闻官自动推送 | PubMed | [→ 查看完整快讯](/news/) |
-| 昨日 | Senolytics 新进展 | Nat Aging | [→ 深度解读](/news/deep-dive/) |
+| 今日 08:00 | STTT 衰老治疗策略综述、NAD⁺ 稳态机制综述 | STTT / Annu Rev Nutr | [→ 查看完整研究前沿](/research-frontier/) |
+| 昨日 | 微塑料 BPF 经肠-心轴加速心血管衰老 | Circulation (IF≈37.8) | [→ 深度解读](/news/deep-dive/2026-06-02-weekly/) |
 | 本周 | ABC 发布新共识 | Life Med | [→ ABC 追踪](/clinical-trials/#abc-consensus) |
 
 **数据来源**: PubMed · bioRxiv · ClinicalTrials.gov · ABC  
@@ -52,4 +52,4 @@ geekdocCollapseSection: false
 
 ---
 
-*最后更新：2026-04-19*
+*最后更新：2026-06-03*
