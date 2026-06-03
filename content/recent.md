@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-02 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-03 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Apr 25 | Age-related female infertility: aetiological mechanisms and evidence-based and experimental interventions. | Reproductive biomedicine online | [42224774](https://pubmed.ncbi.nlm.nih.gov/42224774/) | Age-related female infertility: aetiological mechanisms and ... |
-| 2026 Jun 1 | Challenges and progress in RNA velocity: Comparative analysis across multiple biological contexts. | PLoS computational biology | [42224352](https://pubmed.ncbi.nlm.nih.gov/42224352/) | Challenges and progress in RNA velocity: Comparative analysi... |
-| 2026 | An integrated method for state of charge estimation, lifetime prediction, and reliability assessment of Lithium-ion batteries under thermal and dynamic conditions. | PloS one | [42224246](https://pubmed.ncbi.nlm.nih.gov/42224246/) | An integrated method for state of charge estimation, lifetim... |
-| 2026 May 31 | Single-Nucleus Profiling Reveals a BBB Senescence Unit Driving AD Pathology in Human Brain. | Molecular neurobiology | [42223825](https://pubmed.ncbi.nlm.nih.gov/42223825/) | Single-Nucleus Profiling Reveals a BBB Senescence Unit Drivi... |
-| 2026 | Integrating Mechanical Loading, Mechanotransduction, and Biological Responses in Musculoskeletal Tissues Across the Lifespan: Regulation Influenced by Cells, Extracellular Matrix, and Sex. | Results and problems in cell differentiation | [42223644](https://pubmed.ncbi.nlm.nih.gov/42223644/) | Integrating Mechanical Loading, Mechanotransduction, and Bio... |
+| 2026 Jun 2 | Mechanisms of NAD+ Homeostasis in Aging and Disease. | Annual review of nutrition | [42228871](https://pubmed.ncbi.nlm.nih.gov/42228871/) | Mechanisms of NAD+ Homeostasis in Aging and Disease. |
+| 2026 Jun 2 | Lipid Droplet-Accumulating Microglia as a Therapeutic Node in Neurodegenerative Disease. | ACS chemical neuroscience | [42228839](https://pubmed.ncbi.nlm.nih.gov/42228839/) | Lipid Droplet-Accumulating Microglia as a Therapeutic Node i... |
+| 2026 May 30 | The love and hate relationship between cellular senescence and stemness. | Aging | [42228804](https://pubmed.ncbi.nlm.nih.gov/42228804/) | The love and hate relationship between cellular senescence a... |
+| 2026 Jun 15 | Compartment-Specific Immune Remodeling of Renal Aging With C1q-Associated Podocyte Activation. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42228587](https://pubmed.ncbi.nlm.nih.gov/42228587/) | Compartment-Specific Immune Remodeling of Renal Aging With C... |
+| 2026 Jun 9 | 15-PGDH inhibition promotes muscle repair and strength recovery during GLP-1 receptor agonist-induced weight loss. | Proceedings of the National Academy of Sciences of the United States of America | [42228536](https://pubmed.ncbi.nlm.nih.gov/42228536/) | 15-PGDH inhibition promotes muscle repair and strength recov... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 2 | Mechanisms of NAD+ Homeostasis in Aging and Disease. | Annual review of nutrition | [42228871](https://pubmed.ncbi.nlm.nih.gov/42228871/) | Mechanisms of NAD+ Homeostasis in Aging and Disease. |
+| 2026 Jun 2 | Olaparib alleviates diclofenac-induced toxicity in HepG2 cells via modulation of oxidative stress and mitochondrial functions. | Molecular and cellular biochemistry | [42228267](https://pubmed.ncbi.nlm.nih.gov/42228267/) | Olaparib alleviates diclofenac-induced toxicity in HepG2 cel... |
+| 2026 May 22 | Mitochondrial Dysfunction in Alzheimer's Disease: Beyond Energy Failure Toward a Pathogenic Nexus. | Current Alzheimer research | [42227471](https://pubmed.ncbi.nlm.nih.gov/42227471/) | Mitochondrial Dysfunction in Alzheimer's Disease: Beyond Ene... |
+| 2026 May 25 | Identification and evaluation of citrus peel-derived polymethoxyflavonoids as natural SIRT1 activators. | Food chemistry | [42225042](https://pubmed.ncbi.nlm.nih.gov/42225042/) | Identification and evaluation of citrus peel-derived polymet... |
 | 2026 May 29 | Intracrine androgen metabolism in the meibomian gland: regulation, circadian control, and implications in dry eye disease. | Endocrine journal | [42219372](https://pubmed.ncbi.nlm.nih.gov/42219372/) | Intracrine androgen metabolism in the meibomian gland: regul... |
-| 2026 May 29 | Extracellular Lactate Reprograms Mitochondrial Metabolism and NAD(+)/NADH Redox Balance in Blood-Brain Barrier Endothelial Cells via an LDHB-MPC-NAD(+) Axis. | Free radical biology & medicine | [42217683](https://pubmed.ncbi.nlm.nih.gov/42217683/) | Extracellular Lactate Reprograms Mitochondrial Metabolism an... |
-| 2026 | SIRT3 activation by oroxylin A phosphate diethyl ester triggers mitochondrial dysfunction and apoptosis in non-small cell lung cancer. | International journal of biological sciences | [42212315](https://pubmed.ncbi.nlm.nih.gov/42212315/) | SIRT3 activation by oroxylin A phosphate diethyl ester trigg... |
-| 2026 Aug | Downregulation of FLT1 delays vascular aging by suppressing MAPK signaling pathway activation in vascular smooth muscle cells​. | Cytotechnology | [42211890](https://pubmed.ncbi.nlm.nih.gov/42211890/) | Downregulation of FLT1 delays vascular aging by suppressing ... |
-| 2026 | Nicotinamide riboside and pterostilbene reduces frequency and severity of undesirable symptoms of the menopause transition: an open-label, pilot clinical trial. | Frontiers in aging | [42211736](https://pubmed.ncbi.nlm.nih.gov/42211736/) | Nicotinamide riboside and pterostilbene reduces frequency an... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 1 | Insights into the therapeutic strategies for aging and aging-associated diseases. | Signal transduction and targeted therapy | [42225652](https://pubmed.ncbi.nlm.nih.gov/42225652/) | Insights into the therapeutic strategies for aging and aging... |
 | 2026 | Dietary pyrroloquinoline quinone and spermidine in healthy longevity: targeting the hallmarks of aging. | Frontiers in aging | [42222188](https://pubmed.ncbi.nlm.nih.gov/42222188/) | Dietary pyrroloquinoline quinone and spermidine in healthy l... |
 | 2026 | VDR-Spermidine Axis Protects Against Age-Related Granulosa Cell Dysfunction and Follicular Decline via DNMTs-Mediated p53 Methylation. | International journal of biological sciences | [42212335](https://pubmed.ncbi.nlm.nih.gov/42212335/) | VDR-Spermidine Axis Protects Against Age-Related Granulosa C... |
-| 2026 May 28 | Skeletal muscle-specific myostatin overexpression promotes muscle oxidative capacity and fatigue resistance in transgenic mice. | Experimental physiology | [42210576](https://pubmed.ncbi.nlm.nih.gov/42210576/) | Skeletal muscle-specific myostatin overexpression promotes m... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-02 | 自动生成*
+*最后更新：2026-06-03 | 自动生成*
