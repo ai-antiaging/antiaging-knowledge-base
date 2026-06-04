@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-06-04](2026-06-04/) — TDP-43异常剪接驱动神经退行性变(Sci Transl Med IF≈17.1)、PTSD双重加速表观遗传与大脑衰老(Neurobiol Aging)、富类黄酮饮食降低听力损失风险(UK Biobank)、宇宙射线μ子缺失与细胞衰老、神经元自噬治疗转化
 - [2026-06-03](2026-06-03/) — NAD⁺稳态衰老机制全景综述(Annu Rev Nutr IF≈12.3)、屏幕时间加速表观遗传衰老(Med Sci Sports Exerc)、IL-4/13抑制senolytic杀伤(Int Immunopharmacol)、二甲双胍RCT骨代谢标志物、衰老细胞与干细胞双刃剑
 - [2026-06-01](2026-06-01/) — NAD⁺三轴抗衰新模型(Redox Biol IF≈10.9)、溶酶体转录表观调控衰老(Ageing Res Rev IF≈13.8)、二甲双胍延缓睫状肌衰老(FASEB J)、多胺-自噬轴肌少症、GLP-1RA皮肤衰老双向效应
 - [2026-05-31](2026-05-31/) — APOE基因型生理效应全景综述(Biol Rev IF≈12)、咖啡茶与认知健康百年回顾(J Alzheimers Dis)、NAD+前体NRH骨骼肌剂量效应(ACS Biomater)、衰老生物标志物与主动脉夹层、端粒缩短与冠心病基因表达
