@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-03 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-04 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 2 | Mechanisms of NAD+ Homeostasis in Aging and Disease. | Annual review of nutrition | [42228871](https://pubmed.ncbi.nlm.nih.gov/42228871/) | Mechanisms of NAD+ Homeostasis in Aging and Disease. |
-| 2026 Jun 2 | Lipid Droplet-Accumulating Microglia as a Therapeutic Node in Neurodegenerative Disease. | ACS chemical neuroscience | [42228839](https://pubmed.ncbi.nlm.nih.gov/42228839/) | Lipid Droplet-Accumulating Microglia as a Therapeutic Node i... |
-| 2026 May 30 | The love and hate relationship between cellular senescence and stemness. | Aging | [42228804](https://pubmed.ncbi.nlm.nih.gov/42228804/) | The love and hate relationship between cellular senescence a... |
-| 2026 Jun 15 | Compartment-Specific Immune Remodeling of Renal Aging With C1q-Associated Podocyte Activation. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42228587](https://pubmed.ncbi.nlm.nih.gov/42228587/) | Compartment-Specific Immune Remodeling of Renal Aging With C... |
-| 2026 Jun 9 | 15-PGDH inhibition promotes muscle repair and strength recovery during GLP-1 receptor agonist-induced weight loss. | Proceedings of the National Academy of Sciences of the United States of America | [42228536](https://pubmed.ncbi.nlm.nih.gov/42228536/) | 15-PGDH inhibition promotes muscle repair and strength recov... |
+| 2026 May 17 | The Dickkopf Protein Family in Non-Neoplastic Disorders: Emerging Roles and Therapeutic Targeting. | Aging and disease | [42234971](https://pubmed.ncbi.nlm.nih.gov/42234971/) | The Dickkopf Protein Family in Non-Neoplastic Disorders: Eme... |
+| 2026 May 18 | Cellular Senescence in the Absence of Galactic Cosmic-Ray Muons. | Aging and disease | [42234970](https://pubmed.ncbi.nlm.nih.gov/42234970/) | Cellular Senescence in the Absence of Galactic Cosmic-Ray Mu... |
+| 2026 May 16 | LRRC8A in Aging and Aging-Related Diseases: Emerging Evidence and Therapeutic Potential. | Aging and disease | [42234967](https://pubmed.ncbi.nlm.nih.gov/42234967/) | LRRC8A in Aging and Aging-Related Diseases: Emerging Evidenc... |
+| 2026 May 21 | Astrocytic Ferroptosis: An Integrative Hub Linking Metabolic Dyshomeostasis, Glial Crosstalk, and Neurodegeneration in Alzheimer's Disease. | Aging and disease | [42234965](https://pubmed.ncbi.nlm.nih.gov/42234965/) | Astrocytic Ferroptosis: An Integrative Hub Linking Metabolic... |
+| 2026 May 19 | Harnessing Neuronal Autophagy: Bridging Mechanistic Breakthroughs to Therapeutic Interventions. | Aging and disease | [42234962](https://pubmed.ncbi.nlm.nih.gov/42234962/) | Harnessing Neuronal Autophagy: Bridging Mechanistic Breakthr... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 3 | Targeted Supplementation and Nutritional Strategies for Healthy Aging: A Review of Physiological and Molecular Benefits. | Current nutrition reports | [42234350](https://pubmed.ncbi.nlm.nih.gov/42234350/) | Targeted Supplementation and Nutritional Strategies for Heal... |
+| 2026 Oct | A sustained NAD(+) supplementation-biosynthesis nanoplatform for metabolic restoration in aged bone regeneration. | Bioactive materials | [42232748](https://pubmed.ncbi.nlm.nih.gov/42232748/) | A sustained NAD(+) supplementation-biosynthesis nanoplatform... |
+| 2026 | From autophagy-lysosomal deficits to neurodegeneration in Niemann-Pick type C1 disease: implications for age-related neurodegenerative disorders. | Frontiers in neuroscience | [42232651](https://pubmed.ncbi.nlm.nih.gov/42232651/) | From autophagy-lysosomal deficits to neurodegeneration in Ni... |
 | 2026 Jun 2 | Mechanisms of NAD+ Homeostasis in Aging and Disease. | Annual review of nutrition | [42228871](https://pubmed.ncbi.nlm.nih.gov/42228871/) | Mechanisms of NAD+ Homeostasis in Aging and Disease. |
 | 2026 Jun 2 | Olaparib alleviates diclofenac-induced toxicity in HepG2 cells via modulation of oxidative stress and mitochondrial functions. | Molecular and cellular biochemistry | [42228267](https://pubmed.ncbi.nlm.nih.gov/42228267/) | Olaparib alleviates diclofenac-induced toxicity in HepG2 cel... |
-| 2026 May 22 | Mitochondrial Dysfunction in Alzheimer's Disease: Beyond Energy Failure Toward a Pathogenic Nexus. | Current Alzheimer research | [42227471](https://pubmed.ncbi.nlm.nih.gov/42227471/) | Mitochondrial Dysfunction in Alzheimer's Disease: Beyond Ene... |
-| 2026 May 25 | Identification and evaluation of citrus peel-derived polymethoxyflavonoids as natural SIRT1 activators. | Food chemistry | [42225042](https://pubmed.ncbi.nlm.nih.gov/42225042/) | Identification and evaluation of citrus peel-derived polymet... |
-| 2026 May 29 | Intracrine androgen metabolism in the meibomian gland: regulation, circadian control, and implications in dry eye disease. | Endocrine journal | [42219372](https://pubmed.ncbi.nlm.nih.gov/42219372/) | Intracrine androgen metabolism in the meibomian gland: regul... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-03 | 自动生成*
+*最后更新：2026-06-04 | 自动生成*
