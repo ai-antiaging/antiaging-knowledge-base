@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-06-05](2026-06-05/) — 衰老阻滞CXCL13⁺ Tfh细胞成熟(Cell Rep IF≈8.8)、皮肤微生物组嗜麦芽寡养单胞菌抗衰老作用(Microbiome IF≈15.5)、肠道菌群与动脉僵硬度纵向关联(Baltimore队列)、大脑代谢-形态耦合随年龄增强、减速衰老成人GPCR自身抗体谱镜像儿童特征
 - [2026-06-04](2026-06-04/) — TDP-43异常剪接驱动神经退行性变(Sci Transl Med IF≈17.1)、PTSD双重加速表观遗传与大脑衰老(Neurobiol Aging)、富类黄酮饮食降低听力损失风险(UK Biobank)、宇宙射线μ子缺失与细胞衰老、神经元自噬治疗转化
 - [2026-06-03](2026-06-03/) — NAD⁺稳态衰老机制全景综述(Annu Rev Nutr IF≈12.3)、屏幕时间加速表观遗传衰老(Med Sci Sports Exerc)、IL-4/13抑制senolytic杀伤(Int Immunopharmacol)、二甲双胍RCT骨代谢标志物、衰老细胞与干细胞双刃剑
 - [2026-06-01](2026-06-01/) — NAD⁺三轴抗衰新模型(Redox Biol IF≈10.9)、溶酶体转录表观调控衰老(Ageing Res Rev IF≈13.8)、二甲双胍延缓睫状肌衰老(FASEB J)、多胺-自噬轴肌少症、GLP-1RA皮肤衰老双向效应
