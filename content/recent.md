@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-06 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-07 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 5 | Extracellular vesicles in atherosclerotic cardiovascular disease: mechanisms and therapeutic implications. | European heart journal | [42246983](https://pubmed.ncbi.nlm.nih.gov/42246983/) | Extracellular vesicles in atherosclerotic cardiovascular dis... |
-| 2026 Jun 5 | Deep immunological resetting in refractory systemic lupus erythematosus post-kidney transplantation: A longitudinal immunophenotypic analysis. | Lupus | [42246677](https://pubmed.ncbi.nlm.nih.gov/42246677/) | Deep immunological resetting in refractory systemic lupus er... |
-| 2026 Dec 31 | Local delivery of SBRT and IL-12 to murine PDAC tumors modulates hematopoiesis. | Oncoimmunology | [42246474](https://pubmed.ncbi.nlm.nih.gov/42246474/) | Local delivery of SBRT and IL-12 to murine PDAC tumors modul... |
-| 2026 Jun 5 | Highly-Oriented 3D Perovskite Films Synthesized by the Assisted Growth of Large-Area 2D Perovskite Nanosheets With n = 1. | Small (Weinheim an der Bergstrasse, Germany) | [42246306](https://pubmed.ncbi.nlm.nih.gov/42246306/) | Highly-Oriented 3D Perovskite Films Synthesized by the Assis... |
-| 2026 | FTO in cardiovascular diseases: mechanisms, context dependence, and translational opportunities. | Frontiers in cell and developmental biology | [42245481](https://pubmed.ncbi.nlm.nih.gov/42245481/) | FTO in cardiovascular diseases: mechanisms, context dependen... |
+| 2026 Jun 6 | The Link Between Diabetes and Cancer: Converging Mechanistic and Epidemiologic Evidence. | Diabetes | [42250282](https://pubmed.ncbi.nlm.nih.gov/42250282/) | The Link Between Diabetes and Cancer: Converging Mechanistic... |
+| 2026 Jun 6 | Promoting Research Excellence in Down Syndrome: Proceedings of the 5th International Conference of the Trisomy 21 Research Society. | Neuromolecular medicine | [42250043](https://pubmed.ncbi.nlm.nih.gov/42250043/) | Promoting Research Excellence in Down Syndrome: Proceedings ... |
+| 2026 Jun 6 | Single-cell immunoprofiling reveals a dysfunctional-like immune microenvironment and malignant phenotype in aging penile squamous cell carcinoma. | Cell biology and toxicology | [42249992](https://pubmed.ncbi.nlm.nih.gov/42249992/) | Single-cell immunoprofiling reveals a dysfunctional-like imm... |
+| 2026 Dec 31 | Ubiquitination-anchored signature defines neuroendocrine prostate cancer: hub genes and single-cell ecosystem insights from integrated bioinformatics analysis of public transcriptomic datasets. | The aging male : the official journal of the International Society for the Study of the Aging Male | [42249833](https://pubmed.ncbi.nlm.nih.gov/42249833/) | Ubiquitination-anchored signature defines neuroendocrine pro... |
+| 2026 Jun 6 | The neural crest across the lifespan: Implications for aging, degeneration, and regeneration. | Anatomical record (Hoboken, N.J. : 2007) | [42249716](https://pubmed.ncbi.nlm.nih.gov/42249716/) | The neural crest across the lifespan: Implications for aging... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 5 | HM568 Enhances NAD(+) Biosynthesis to Ameliorate Mitochondrial Dysfunction and Neurotoxicity in Parkinson's Disease Models: A Putative Link to PARP1 Modulation. | Molecular neurobiology | [42247013](https://pubmed.ncbi.nlm.nih.gov/42247013/) | HM568 Enhances NAD(+) Biosynthesis to Ameliorate Mitochondri... |
 | 2026 Jun 4 | Circulating CD38 shows stronger association with incident heart failure in women despite lower levels: sex differences and kidney-function context. | Biology of sex differences | [42244013](https://pubmed.ncbi.nlm.nih.gov/42244013/) | Circulating CD38 shows stronger association with incident he... |
 | 2026 Jun 4 | Mitochondrial-impaired ductal epithelium fuels TLS formation in Sjögren's disease. | Annals of the rheumatic diseases | [42243007](https://pubmed.ncbi.nlm.nih.gov/42243007/) | Mitochondrial-impaired ductal epithelium fuels TLS formation... |
 | 2026 Jun 3 | Targeted Supplementation and Nutritional Strategies for Healthy Aging: A Review of Physiological and Molecular Benefits. | Current nutrition reports | [42234350](https://pubmed.ncbi.nlm.nih.gov/42234350/) | Targeted Supplementation and Nutritional Strategies for Heal... |
 | 2026 Oct | A sustained NAD(+) supplementation-biosynthesis nanoplatform for metabolic restoration in aged bone regeneration. | Bioactive materials | [42232748](https://pubmed.ncbi.nlm.nih.gov/42232748/) | A sustained NAD(+) supplementation-biosynthesis nanoplatform... |
-| 2026 | From autophagy-lysosomal deficits to neurodegeneration in Niemann-Pick type C1 disease: implications for age-related neurodegenerative disorders. | Frontiers in neuroscience | [42232651](https://pubmed.ncbi.nlm.nih.gov/42232651/) | From autophagy-lysosomal deficits to neurodegeneration in Ni... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-06 | 自动生成*
+*最后更新：2026-06-07 | 自动生成*
