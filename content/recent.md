@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-07 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-08 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 6 | The Link Between Diabetes and Cancer: Converging Mechanistic and Epidemiologic Evidence. | Diabetes | [42250282](https://pubmed.ncbi.nlm.nih.gov/42250282/) | The Link Between Diabetes and Cancer: Converging Mechanistic... |
-| 2026 Jun 6 | Promoting Research Excellence in Down Syndrome: Proceedings of the 5th International Conference of the Trisomy 21 Research Society. | Neuromolecular medicine | [42250043](https://pubmed.ncbi.nlm.nih.gov/42250043/) | Promoting Research Excellence in Down Syndrome: Proceedings ... |
-| 2026 Jun 6 | Single-cell immunoprofiling reveals a dysfunctional-like immune microenvironment and malignant phenotype in aging penile squamous cell carcinoma. | Cell biology and toxicology | [42249992](https://pubmed.ncbi.nlm.nih.gov/42249992/) | Single-cell immunoprofiling reveals a dysfunctional-like imm... |
-| 2026 Dec 31 | Ubiquitination-anchored signature defines neuroendocrine prostate cancer: hub genes and single-cell ecosystem insights from integrated bioinformatics analysis of public transcriptomic datasets. | The aging male : the official journal of the International Society for the Study of the Aging Male | [42249833](https://pubmed.ncbi.nlm.nih.gov/42249833/) | Ubiquitination-anchored signature defines neuroendocrine pro... |
-| 2026 Jun 6 | The neural crest across the lifespan: Implications for aging, degeneration, and regeneration. | Anatomical record (Hoboken, N.J. : 2007) | [42249716](https://pubmed.ncbi.nlm.nih.gov/42249716/) | The neural crest across the lifespan: Implications for aging... |
+| 2026 Jun 7 | A Color-Tuning Bioluminescent Sensor (AmyLuc) for Real-Time Monitoring of Intracellular pH Dynamics in Cancer Cells. | Analytical chemistry | [42251599](https://pubmed.ncbi.nlm.nih.gov/42251599/) | A Color-Tuning Bioluminescent Sensor (AmyLuc) for Real-Time ... |
+| 2026 Jun 7 | Mechanistic understanding of female reproductive aging based on the chicken model. | Journal of animal science and biotechnology | [42251437](https://pubmed.ncbi.nlm.nih.gov/42251437/) | Mechanistic understanding of female reproductive aging based... |
+| 2026 Jun 6 | Ameliorating calcium homeostasis improves longevity and healthspan in progeroid and naturally aged mice. | Nature communications | [42251040](https://pubmed.ncbi.nlm.nih.gov/42251040/) | Ameliorating calcium homeostasis improves longevity and heal... |
+| 2026 Jun 5 | Metallothionein's Role in Oxidative Stress: A Pathway to Innovative Treatments. | Pharmacological research | [42250786](https://pubmed.ncbi.nlm.nih.gov/42250786/) | Metallothionein's Role in Oxidative Stress: A Pathway to Inn... |
+| 2026 Jun 5 | Ferro-Aging: A Novel Paradigm Linking Iron Overload, Lipid Peroxidation and Cellular Senescence. | Free radical biology & medicine | [42250782](https://pubmed.ncbi.nlm.nih.gov/42250782/) | Ferro-Aging: A Novel Paradigm Linking Iron Overload, Lipid P... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-07 | 自动生成*
+*最后更新：2026-06-08 | 自动生成*
