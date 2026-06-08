@@ -2,13 +2,75 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-06-03 07:30 (Asia/Shanghai)  
+**最后更新**: 2026-06-08 08:00 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索)
 
 ---
 
-## 本周新增论文 (2026.06.02 – 2026.06.03)
+## 本周新增论文 (2026.06.04 – 2026.06.08)
+
+### 📌 重点论文
+
+#### 1. 衰老细胞与免疫系统双向互作：治疗新范式（权威综述）
+- **标题**: Immunological consequences of senescence in physiology and pathology
+- **期刊**: Journal of Translational Medicine (2026-06-06)
+- **关键发现**: 来自卡罗林斯卡学院的综述系统阐述了衰老细胞与免疫系统之间的双向互动机制。生理状态下（胚胎发育、组织修复、急性肿瘤抑制），衰老细胞协调免疫细胞招募和激活，实现免疫介导的及时清除；而在衰老和慢性疾病中，免疫监视受损导致衰老细胞累积，持续释放 SASP 信号，促进慢性炎症、免疫功能障碍和组织纤维化。更关键的是，免疫细胞自身也会获得衰老样状态，形成自我强化的恶性循环。提出了免疫介导的 senolytic 策略、检查点调节和免疫 rejuvenation 三大治疗方向。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42249480/
+
+#### 2. Senolytics 改善认知衰退：发现星形胶质细胞胆固醇代谢新机制
+- **标题**: Senolytics Ameliorate Cognitive Decline in D-Galactose-Induced Aging Mice by Inhibiting Astrocytic Cholesterol Accumulation
+- **期刊**: Mechanisms of Ageing and Development (2026-06-02)
+- **关键发现**: 该研究首次揭示了 senolytics（达沙替尼 + 槲皮素组合 D+Q）通过抑制星形胶质细胞胆固醇生物合成来改善认知功能的新机制。在 D-半乳糖诱导的加速衰老小鼠模型中，多组学分析表明 senolytics 特异性下调海马体胆固醇合成途径，减少星形胶质细胞内脂质累积和后续神经炎症。通过在星形胶质细胞中药理学激活胆固醇合成或过表达关键酶 Hsd17b7，可逆转 senolytics 的抗衰老效应，确立了胆固醇通路抑制与治疗效果之间的因果关系。这将 senolytics 重新定位为脑脂代谢调节剂。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42235613/
+
+#### 3. Nature Aging：限时进食如何影响小鼠健康寿命
+- **标题**: Time-restricted feeding puts mouse healthspan on the clock
+- **期刊**: Nature Aging (2026-06-05)
+- **关键发现**: 哥伦比亚大学团队在 Nature Aging 发表的观点文章，探讨限时进食（TRF）如何通过生物钟调控小鼠健康寿命的机制，为饮食干预延缓衰老提供了新的视角和转化方向。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42249140/
+
+#### 4. 靶向 NFAT5 逆转血管衰老：高盐饮食加速衰老的新通路
+- **标题**: Targeting NFAT5 attenuates high sodium-induced vascular aging by re-sensitizing senescent smooth muscle cells to apoptosis
+- **期刊**: Cellular Signalling (2026-06-04)
+- **关键发现**: 揭示了高盐饮食通过 NFAT5 信号通路促进血管平滑肌细胞衰老的机制，靶向 NFAT5 可以重新使衰老平滑肌细胞对凋亡敏感，从而减轻高盐诱导的血管衰老。这一发现为饮食相关血管衰老提供了可靶向的干预策略。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42248278/
+
+#### 5. 高尿酸促进干细胞衰老：CCDC90B 介导线粒体质量控制失衡
+- **标题**: High Uric Acid Promotes Stem Leydig Cell Senescence by CCDC90B Mediates Mitochondrial Quality Control Imbalance
+- **期刊**: Cell Proliferation (2026-06-04)
+- **关键发现**: 首次在高尿酸条件下揭示了干细胞（Leydig 干细胞）衰老的单细胞 RNA 测序图谱。高尿酸结合 CCDC90B 导致线粒体钙离子内流增加和线粒体质量控制失衡。AAV8-CCDC90B 基因治疗可缓解干细胞衰老并显著恢复睾酮水平，为代谢性低睾酮提供了精准治疗新策略。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42242294/
+
+### 其他新增论文
+
+#### 6. Tbx20 与 Sirt1 协同延缓心脏衰老
+- **标题**: Tbx20 and Sirt1 synergize to ameliorate cardiac aging through enhanced autophagy
+- **期刊**: Tissue & Cell (2026-06-01)
+- **关键发现**: 发现 Tbx20 与 Sirt1 通过增强自噬协同改善心脏衰老，为心脏衰老的联合干预提供了新的分子靶点。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42235376/
+
+#### 7. 蝙蝠长寿机制：比较基因组学揭示寿命延长新线索
+- **标题**: Unravelling Extended Longevity Mechanism in Bats: Insights From Life-History Traits and Comparative Genomics
+- **期刊**: Molecular Ecology (2026-06)
+- **关键发现**: 通过比较基因组学和生活史特征分析蝙蝠的超长寿命机制，为理解哺乳动物寿命调控提供了跨物种参照，对人类抗衰老研究具有启发意义。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42247064/
+
+#### 8. 睡眠-觉醒障碍与阿尔茨海默病的双向联系
+- **标题**: The orexinergic crossroads: Bidirectional links between sleep-wake disturbances and the pathogenesis of Alzheimer's disease in the aging brain
+- **期刊**: Sleep Medicine (2026-06-04)
+- **关键发现**: 综述了食欲素（orexin）系统如何介导睡眠障碍与阿尔茨海默病在衰老大脑中的双向病理联系，为通过改善睡眠质量来预防或延缓认知衰退提供了新的理论支持。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42250440/
+
+#### 9. 肺纤维化管理新范式：从抗纤维化到再生修复
+- **标题**: Beyond scarring: a next-generation vision for pulmonary fibrosis management
+- **期刊**: Molecular Biology Reports (2026-06-04)
+- **关键发现**: 综述了肺纤维化治疗从"减缓纤维化"向"主动再生修复"的范式转变。早期临床数据显示 senolytics（达沙替尼/槲皮素）、高剂量间充质干细胞和无细胞方法（肺球状细胞外泌体）在改善功能预后方面展现潜力。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42240739/
+
+---
+
+## 上周新增论文 (2026.06.02 – 2026.06.03)
 
 ### 📌 重点论文
 
