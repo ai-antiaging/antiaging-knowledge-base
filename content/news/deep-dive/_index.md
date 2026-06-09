@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[TDP-43 隐蔽剪接驱动神经退行性变——ASO 联合疗法几乎完全修复突触缺陷](./2026-06-09-weekly/)** — 2026年6月9日
+  - *Science Translational Medicine* (IF≈17.1) · KALRN/RAP1GAP/SYT7/KCNQ2 新靶点 · 联合 ASO 几乎完全修复突触缺陷
+
 - **[微塑料 BPF 通过肠-心轴加重心血管衰老——Circulation 封面级研究的机制解析](./2026-06-02-weekly/)** — 2026年6月2日
   - *Circulation* (IF≈37.8) · BPF→Sat1→NAP 全新代谢通路 · 90.5%人类尿液检出 · 益生菌干预有效
 
