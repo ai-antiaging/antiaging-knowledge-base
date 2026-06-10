@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-06-10](2026-06-10/) — JCI Insight p21⁺衰老β细胞驱动T2D胰岛功能障碍(JAKi可逆转 IF≈8.5)、NPY1R/CREB轴调控卵巢衰老(FASEB J IF≈5.6)、SIPS复制性衰老差异化影响内皮抗凝能力(PLoS One)、数据驱动生物衰老时钟科学评估(JMIR)、GDF15-ERK1/2-p16辐射肺衰老(PLoS One)
 - [2026-06-09](2026-06-09/) — 42K队列CD38/NAD⁺性别差异心衰风险(Biol Sex Differ IF≈5.2)、NFAT5抑制剂恢复衰老血管细胞凋亡敏感性(Cell Signal IF≈5.8)、TIA-1-FUNDC1线粒体自噬抗细胞衰老(Exp Mol Med IF≈8.5)、MoTrPAC运动肝脏代谢多组学(Cell Rep IF≈8.8)、衰老-免疫互作全景综述(J Transl Med IF≈8.4)
 - [2026-06-07](2026-06-07/) — 53,000人队列健康寿命蛋白质组评分(PNAS IF≈11.1)、衰老重塑大脑蛋白质泛素化景观(Nat Commun IF≈16.6)、Senolytics长期治疗干性黄斑变性(Redox Biol IF≈10.7)、经颅光生物调节改善老年人工作记忆RCT(NeuroImage)、亚精胺+蛋白质限制独立保护大脑衰老
 - [2026-06-06](2026-06-06/) — 肠道病毒感染驱动全身加速衰老(Sci Adv IF≈14.1)、表观遗传年龄加速与神经系统疾病系统综述(Ageing Res Rev IF≈13.8)、生物学衰老与COVID-19/脓毒症易感性孟德尔随机化、联合Senolytics对间充质干细胞功能影响
