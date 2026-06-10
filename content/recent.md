@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-09 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-10 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 7 | Sustained antigen-specific CD8+ T cell immunity post-mRNA booster requires notch pathway activation. | Journal of immunology (Baltimore, Md. : 1950) | [42258807](https://pubmed.ncbi.nlm.nih.gov/42258807/) | Sustained antigen-specific CD8+ T cell immunity post-mRNA bo... |
-| 2026 Jun 16 | Arabidopsis YEATS domain proteins facilitate DNA double-strand break repair via homology-directed pathways. | Proceedings of the National Academy of Sciences of the United States of America | [42258726](https://pubmed.ncbi.nlm.nih.gov/42258726/) | Arabidopsis YEATS domain proteins facilitate DNA double-stra... |
-| 2026 Jun 16 | A pericyte chloride clamp mechanism governs capillary control of cerebral blood flow. | Proceedings of the National Academy of Sciences of the United States of America | [42258716](https://pubmed.ncbi.nlm.nih.gov/42258716/) | A pericyte chloride clamp mechanism governs capillary contro... |
-| 2026 May 22 | The Trends and Prospects of Research on Caenorhabditis elegans in the Aging Area: a Bibliometric and Visualization Analysis. | Journal of visualized experiments : JoVE | [42258434](https://pubmed.ncbi.nlm.nih.gov/42258434/) | The Trends and Prospects of Research on Caenorhabditis elega... |
-| 2026 Jun 8 | Targeting inflammaging in Alzheimer's disease: molecular pathways and emerging pharmacotherapies. | Inflammopharmacology | [42258028](https://pubmed.ncbi.nlm.nih.gov/42258028/) | Targeting inflammaging in Alzheimer's disease: molecular pat... |
+| 2026 | Replicative and stress-induced premature senescence distinctively affect the endothelial anticoagulation capacity. | PloS one | [42263086](https://pubmed.ncbi.nlm.nih.gov/42263086/) | Replicative and stress-induced premature senescence distinct... |
+| 2026 Jun 9 | Capsaicin acts as a novel NRF2 agonist to suppress ethanol induced gastric mucosa oxidative damage by directly disrupting the KEAP1-NRF2 interaction. | eLife | [42262974](https://pubmed.ncbi.nlm.nih.gov/42262974/) | Capsaicin acts as a novel NRF2 agonist to suppress ethanol i... |
+| 2026 Jun 9 | Differential gene transcription following intravenous injection of air bubbles in rats with varying resistance to decompression sickness (DCS). | Physiological genomics | [42262931](https://pubmed.ncbi.nlm.nih.gov/42262931/) | Differential gene transcription following intravenous inject... |
+| 2026 Jun 9 | p21-senescent cells drive pancreatic islet dysfunction through targetable paracrine signaling in type 2 diabetes. | JCI insight | [42262869](https://pubmed.ncbi.nlm.nih.gov/42262869/) | p21-senescent cells drive pancreatic islet dysfunction throu... |
+| 2026 Jun 9 | Mitoception Via the Metabokine GDF15 and Human Health. | Biopsychosocial science and medicine | [42262852](https://pubmed.ncbi.nlm.nih.gov/42262852/) | Mitoception Via the Metabokine GDF15 and Human Health. |
 
 ### NAD+ 与线粒体
 
@@ -35,11 +35,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 8 | Rejuvenating Inter-organellar Communication Via Mitophagy in Ageing and Neurodegeneration. | Current neuropharmacology | [42261160](https://pubmed.ncbi.nlm.nih.gov/42261160/) | Rejuvenating Inter-organellar Communication Via Mitophagy in... |
 | 2026 Jun 4 | Autophagy activation by urolithin-a derivative UA-36 mitigates Friedreich's ataxia pathologies induced by frataxin deficiency. | Molecular biomedicine | [42240896](https://pubmed.ncbi.nlm.nih.gov/42240896/) | Autophagy activation by urolithin-a derivative UA-36 mitigat... |
 | 2026 | Nutritional redox reprogramming in cardiometabolic diseases: alpha-lipoic acid, urolithin A, and ergothioneine as modulators of the ferroptosis-mitophagy axis and mitochondrial metabolic remodeling. | Frontiers in nutrition | [42221763](https://pubmed.ncbi.nlm.nih.gov/42221763/) | Nutritional redox reprogramming in cardiometabolic diseases:... |
 | 2026 May 19 | The Autophagy-Inflammation Axis in Kawasaki Disease: Pathogenic Mechanisms and Translational Opportunities. | Journal of clinical medicine | [42194879](https://pubmed.ncbi.nlm.nih.gov/42194879/) | The Autophagy-Inflammation Axis in Kawasaki Disease: Pathoge... |
 | 2026 May 15 | Mitochondrial Function in Neurons and Glia in Health and Its Alteration in Parkinson's Disease: A Review. | Current neuropharmacology | [42163657](https://pubmed.ncbi.nlm.nih.gov/42163657/) | Mitochondrial Function in Neurons and Glia in Health and Its... |
-| 2026 Apr 28 | Dietary Polyphenols in Aging: A Systems-Level Perspective on Mitochondrial Quality Control and Microbiome Interactions. | International journal of molecular sciences | [42123520](https://pubmed.ncbi.nlm.nih.gov/42123520/) | Dietary Polyphenols in Aging: A Systems-Level Perspective on... |
 
 ### 亚精胺与自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-09 | 自动生成*
+*最后更新：2026-06-10 | 自动生成*
