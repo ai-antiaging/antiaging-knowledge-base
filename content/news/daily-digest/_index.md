@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-06-12](2026-06-12/) — Science 胎盘NAD⁺代谢钟调控分娩时机、Nature Aging 灵长类肠道衰老NCoR1下降被二甲双胍逆转、Aging Cell 核苷酸抗衰老受尿酸遗传风险调控、EHJ 先心病表观遗传加速衰老、线粒体NADH代谢保护无症状AD
 - [2026-06-11](2026-06-11/) — Mol Biomed 山中因子靶向重编程恢复AD小鼠认知、GeroScience 1,413人9年队列认知轨迹与死亡风险、JAMA Dermatol 烟酰胺(NAD⁺前体)预防皮肤癌成本效益分析(净省$36万)、山中伸弥实验室转座元件调控综述、主观衰老影响晚年生活目的感
 - [2026-06-10](2026-06-10/) — JCI Insight p21⁺衰老β细胞驱动T2D胰岛功能障碍(JAKi可逆转 IF≈8.5)、NPY1R/CREB轴调控卵巢衰老(FASEB J IF≈5.6)、SIPS复制性衰老差异化影响内皮抗凝能力(PLoS One)、数据驱动生物衰老时钟科学评估(JMIR)、GDF15-ERK1/2-p16辐射肺衰老(PLoS One)
 - [2026-06-09](2026-06-09/) — 42K队列CD38/NAD⁺性别差异心衰风险(Biol Sex Differ IF≈5.2)、NFAT5抑制剂恢复衰老血管细胞凋亡敏感性(Cell Signal IF≈5.8)、TIA-1-FUNDC1线粒体自噬抗细胞衰老(Exp Mol Med IF≈8.5)、MoTrPAC运动肝脏代谢多组学(Cell Rep IF≈8.8)、衰老-免疫互作全景综述(J Transl Med IF≈8.4)
