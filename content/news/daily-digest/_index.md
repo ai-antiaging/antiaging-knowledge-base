@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-06-15](2026-06-15/) — Nature SIRT7调控X染色体剂量补偿守护女性染色体完整性、Nature 线粒体VDAC1与核孔RANBP2直接互作调控核能量稳态、Nature Aging 两种衰老模式解释物种寿命差异、Aging Cell 衰老加剧COVID-19肺部髓系失衡、Int J Mol Sci 83项研究Meta分析表观遗传年龄加速可干预性(MEAB-Index)
 - [2026-06-12](2026-06-12/) — Science 胎盘NAD⁺代谢钟调控分娩时机、Nature Aging 灵长类肠道衰老NCoR1下降被二甲双胍逆转、Aging Cell 核苷酸抗衰老受尿酸遗传风险调控、EHJ 先心病表观遗传加速衰老、线粒体NADH代谢保护无症状AD
 - [2026-06-11](2026-06-11/) — Mol Biomed 山中因子靶向重编程恢复AD小鼠认知、GeroScience 1,413人9年队列认知轨迹与死亡风险、JAMA Dermatol 烟酰胺(NAD⁺前体)预防皮肤癌成本效益分析(净省$36万)、山中伸弥实验室转座元件调控综述、主观衰老影响晚年生活目的感
 - [2026-06-10](2026-06-10/) — JCI Insight p21⁺衰老β细胞驱动T2D胰岛功能障碍(JAKi可逆转 IF≈8.5)、NPY1R/CREB轴调控卵巢衰老(FASEB J IF≈5.6)、SIPS复制性衰老差异化影响内皮抗凝能力(PLoS One)、数据驱动生物衰老时钟科学评估(JMIR)、GDF15-ERK1/2-p16辐射肺衰老(PLoS One)
