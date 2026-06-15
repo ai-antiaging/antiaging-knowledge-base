@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-14 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-15 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -33,8 +33,13 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 尿石素 A 与线粒体自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Jun 11 | Restoration of mitochondrial dynamics and synaptic function by mitophagy enhancers in a tauopathy cell model. | Mitochondrion | [42276536](https://pubmed.ncbi.nlm.nih.gov/42276536/) | Restoration of mitochondrial dynamics and synaptic function ... |
+| 2026 Jun 8 | Rejuvenating Inter-organellar Communication Via Mitophagy in Ageing and Neurodegeneration. | Current neuropharmacology | [42261160](https://pubmed.ncbi.nlm.nih.gov/42261160/) | Rejuvenating Inter-organellar Communication Via Mitophagy in... |
+| 2026 Jun 4 | Autophagy activation by urolithin-a derivative UA-36 mitigates Friedreich's ataxia pathologies induced by frataxin deficiency. | Molecular biomedicine | [42240896](https://pubmed.ncbi.nlm.nih.gov/42240896/) | Autophagy activation by urolithin-a derivative UA-36 mitigat... |
+| 2026 | Nutritional redox reprogramming in cardiometabolic diseases: alpha-lipoic acid, urolithin A, and ergothioneine as modulators of the ferroptosis-mitophagy axis and mitochondrial metabolic remodeling. | Frontiers in nutrition | [42221763](https://pubmed.ncbi.nlm.nih.gov/42221763/) | Nutritional redox reprogramming in cardiometabolic diseases:... |
+| 2026 May 19 | The Autophagy-Inflammation Axis in Kawasaki Disease: Pathogenic Mechanisms and Translational Opportunities. | Journal of clinical medicine | [42194879](https://pubmed.ncbi.nlm.nih.gov/42194879/) | The Autophagy-Inflammation Axis in Kawasaki Disease: Pathoge... |
 
 ### 亚精胺与自噬
 
@@ -53,4 +58,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-14 | 自动生成*
+*最后更新：2026-06-15 | 自动生成*
