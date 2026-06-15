@@ -2,13 +2,81 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-06-08 08:00 (Asia/Shanghai)  
+**最后更新**: 2026-06-15 21:51 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索)
 
 ---
 
-## 本周新增论文 (2026.06.04 – 2026.06.08)
+## 本周新增论文 (2026.06.09 – 2026.06.15)
+
+### 📌 重点论文
+
+#### 1. SenCat：人类细胞衰老多组学图谱（里程碑级资源）
+- **标题**: SenCat: Cataloging human cell senescence through multi-omic profiling of multiple senescent primary cell types
+- **期刊**: Molecular Cell (2026-06-11)
+- **关键发现**: 构建了首个系统性的人类衰老细胞多组学目录（SenCat），涵盖多种原代衰老细胞类型的转录组、蛋白质组和代谢组数据。该资源为 senolytic 药物靶点发现、衰老生物标志物鉴定和跨细胞类型衰老异质性研究提供了基准数据集，是衰老研究社区的重要基础设施。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42276073/
+
+#### 2. 补骨脂酚通过抑制 RAGA-mTOR 与性别依赖性激活 SIRT3 促进健康衰老
+- **标题**: Corylin promotes healthy aging via RAGA-mTOR suppression and sex-dependent activation of SIRT3
+- **期刊**: Nature Communications (2026-06-10)
+- **关键发现**: 发现天然化合物补骨脂酚（Corylin）通过双重机制促进健康衰老：抑制 RAGA-mTOR 信号通路，并以性别依赖性方式激活 SIRT3。多组学分析证实补骨脂酚处理与 mTOR 信号抑制和 SIRT3 激活显著相关，为基于天然产物的抗衰老干预提供了新的分子靶点和性别差异化治疗策略。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42265126/
+
+#### 3. 氯硝柳胺重定位抗炎衰老：六重机制靶向细胞衰老
+- **标题**: Repurposing niclosamide to mitigate inflammaging: a review of multi-target mechanisms in cellular senescence and age-related decline
+- **期刊**: Inflammation Research (2026-06-11)
+- **关键发现**: 系统综述了氯硝柳胺（niclosamide）通过六重互连机制对抗炎症衰老的作用：①轻度可逆线粒体解偶联限制 ROS 和 cGAS-STING 激活；②通过溶酶体去酸化抑制 mTORC1，经 AMPK 间接调节 IGF-1/IGF-1R；③恢复 NAD⁺ 稳态；④抑制 NF-κB 炎症通路；⑤调节自噬流；⑥改善肠道屏障功能。这一多靶点特性使其成为极具前景的"老药新用"抗炎衰老候选药物。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42274789/
+
+#### 4. Science：胎盘 NAD⁺ 代谢钟调控分娩时机
+- **标题**: Placental nicotinamide adenine dinucleotide modulates the timing of labor
+- **期刊**: Science (2026-06-11)
+- **关键发现**: 发现胎盘 NAD⁺ 水平在妊娠期间动态调节，NAD⁺ 耗竭触发了小鼠分娩的倒计时。这一发现将 NAD⁺ 代谢与生殖衰老和时间生物学联系起来，揭示了代谢营养传感器如何精确控制妊娠时长，为理解代谢与衰老的跨生命阶段关联提供了全新视角。同期配发的观点文章进一步阐述了"胎盘代谢钟"概念。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42275500/
+
+#### 5. 热量限制 rejuvenates 成年干细胞：从机制到干预
+- **标题**: Caloric restriction rejuvenates aged adult stem cells: From mechanisms to interventions
+- **期刊**: Ageing Research Reviews (2026-06-11)
+- **关键发现**: 系统综述了不同热量限制（CR）饮食策略的抗衰老效应及其分子机制，重点阐述了高度保守的营养感应/生长促进通路（包括 mTOR、IGF-1 和 AMPK）如何介导 CR 对衰老干细胞的 rejuvenation。提出了从基础机制到临床干预的转化框架，为 CR 模拟物的开发提供了理论指导。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42276422/
+
+### 其他新增论文
+
+#### 6. GLP-1 受体激动剂与二甲双胍等抗衰老药物用于眼部健康
+- **标题**: Geroprotective Agents, Including Glucagon-Like Peptide-1 Receptor Agonists, for Ocular Health
+- **期刊**: Journal of Ocular Pharmacology and Therapeutics (2026-06-11)
+- **关键发现**: 综述了 GLP-1 受体激动剂、二甲双胍、SGLT2 抑制剂等抗衰老药物在年龄相关性黄斑变性、糖尿病视网膜病变等视网膜疾病中的应用前景，将系统性 geroprotective 策略延伸至眼科领域。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42281177/
+
+#### 7. ATM 激酶信号抑制加速细胞衰老
+- **标题**: Suppression of ATM kinase signaling accelerates cellular senescence
+- **期刊**: Stem Cell Reports (2026-06-11)
+- **关键发现**: 发现抑制 ATM 激酶信号可加速细胞衰老表型，且在 hiPSC 来源的年龄相关神经退行性疾病模型中促进疾病相关表型表现。Senolytic 分析表明 ATM 抑制诱导的衰老细胞依赖于 HSP90 相关等促存活通路，为 senolytic 联合策略提供了新靶点。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42276063/
+
+#### 8. 增强子整合肌肉干细胞在衰老中的微环境信号
+- **标题**: Enhancers integrate microenvironmental signals in muscle stem cells during regeneration in health, disease, and aging
+- **期刊**: Skeletal Muscle (2026-06-12)
+- **关键发现**: 综述了增强子调控如何在健康和衰老状态下整合微环境信号以控制肌肉干细胞再生。阐明了染色质状态和基因组组织异常如何导致衰老中再生能力下降的转录响应失调，为表观遗传干预肌肉衰老提供了新方向。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42286768/
+
+#### 9. 槲皮素在肺纤维化动物模型中的保护作用：系统评价与 Meta 分析
+- **标题**: Systematic review and meta-analysis of protective effects of quercetin in animal models of lung fibrosis and possible mechanism
+- **期刊**: International Immunopharmacology (2026-06-12)
+- **关键发现**: 系统评价和 Meta 分析证实槲皮素在肺纤维化动物模型中具有显著的抗氧化、抗炎和 senolytic 特性，其保护作用通过减轻炎症和氧化应激实现，为 senolytic 化合物在纤维化疾病中的应用提供了循证支持。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42284759/
+
+#### 10. 代谢谱分析识别加速衰老风险的男性不育患者
+- **标题**: Metabolic Profiling Identifies Infertile Men at Risk of Accelerated Aging: Implications for Systemic and Reproductive Health
+- **期刊**: Andrology (2026-06-12)
+- **关键发现**: 在 2953 名男性队列中发现复合免疫代谢特征可捕获共病负担和生殖能力下降，揭示了代谢功能障碍与加速衰老在男性不育中的关联，为代谢干预延缓系统性衰老提供了新的生物标志物。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42286945/
+
+---
+
+## 上周新增论文 (2026.06.04 – 2026.06.08)
 
 ### 📌 重点论文
 
