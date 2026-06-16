@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[SIRT7 守护女性 X 染色体——Nature 揭示 sirtuin 长寿蛋白与性染色体的关键交互](./2026-06-16-weekly/)** — 2026年6月16日
+  - *Nature* (IF≈64.8) · SIRT7 优先定位性染色体 · 调控 XCI 与活性 X 染色体结构 · 揭示衰老性别差异新机制
+
 - **[TDP-43 隐蔽剪接驱动神经退行性变——ASO 联合疗法几乎完全修复突触缺陷](./2026-06-09-weekly/)** — 2026年6月9日
   - *Science Translational Medicine* (IF≈17.1) · KALRN/RAP1GAP/SYT7/KCNQ2 新靶点 · 联合 ASO 几乎完全修复突触缺陷
 
