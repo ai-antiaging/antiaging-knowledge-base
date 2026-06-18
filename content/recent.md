@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-17 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-18 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,16 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun | Human iPSC-NSC-Derived Extracellular Vesicles Can Alleviate Alzheimer's Disease-Linked Impairments in Mitochondria, mTOR Signaling, Autophagy, and Hippocampal Neurogenesis. | Aging cell | [42304162](https://pubmed.ncbi.nlm.nih.gov/42304162/) | Human iPSC-NSC-Derived Extracellular Vesicles Can Alleviate ... |
-| 2026 Jun 16 | Skin-derived G-CSF activates pathological granulopoiesis upon psoriasis. | EMBO molecular medicine | [42304106](https://pubmed.ncbi.nlm.nih.gov/42304106/) | Skin-derived G-CSF activates pathological granulopoiesis upo... |
-| 2026 Jun 16 | Nuclear export of R-loop by the DDX1 and XPO1 complex promotes senescence-associated secretory phenotype and inflammaging. | Nature aging | [42303864](https://pubmed.ncbi.nlm.nih.gov/42303864/) | Nuclear export of R-loop by the DDX1 and XPO1 complex promot... |
-| 2026 Jun 16 | The oocyte-enriched metabolite serotonin alleviates cellular senescence and aging phenotypes in the mouse. | The EMBO journal | [42303757](https://pubmed.ncbi.nlm.nih.gov/42303757/) | The oocyte-enriched metabolite serotonin alleviates cellular... |
-| 2026 Jun 16 | Inferring accumulation times of mitochondrial DNA deletion mutants from cross-sectional single-cell data: methodological framework and validation. | npj aging | [42303633](https://pubmed.ncbi.nlm.nih.gov/42303633/) | Inferring accumulation times of mitochondrial DNA deletion m... |
+| 2026 Jun | Multifunctional Oregano-Derived Plasma Polymer Coatings for Wound Healing Applications: An In Vitro Study. | International wound journal | [42310469](https://pubmed.ncbi.nlm.nih.gov/42310469/) | Multifunctional Oregano-Derived Plasma Polymer Coatings for ... |
+| 2026 Jun 17 | Confined migration induces non-lethal DNA damage in developing neurons. | Nature | [42310452](https://pubmed.ncbi.nlm.nih.gov/42310452/) | Confined migration induces non-lethal DNA damage in developi... |
+| 2026 Jun 17 | Aging disrupts spatiotemporal coordination in the cycling murine ovary. | Nature aging | [42310395](https://pubmed.ncbi.nlm.nih.gov/42310395/) | Aging disrupts spatiotemporal coordination in the cycling mu... |
+| 2026 Jun 17 | Profiling the molecular and physiological effects of senolytic treatment on aged mice identifies immune, fibrotic and metabolic remodeling. | Nature aging | [42310394](https://pubmed.ncbi.nlm.nih.gov/42310394/) | Profiling the molecular and physiological effects of senolyt... |
+| 2026 Jun 18 | Sex-linked helicases DDX3X and DDX3Y regulate G-quadruplex-associated stress in neurons. | Cell death & disease | [42310298](https://pubmed.ncbi.nlm.nih.gov/42310298/) | Sex-linked helicases DDX3X and DDX3Y regulate G-quadruplex-a... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Jun | Mitochondrial NADK2-dependent NADPH controls tau oligomer uptake in human neurons. | Alzheimer's & dementia : the journal of the Alzheimer's Association | [42304136](https://pubmed.ncbi.nlm.nih.gov/42304136/) | Mitochondrial NADK2-dependent NADPH controls tau oligomer up... |
-| 2026 Jun 17 | Mesenchymal Stromal Cell-Derived Extracellular Vesicles Mediate Mitochondrial Delivery in Injury: Mechanistic Insights, Evidentiary Tiers, and Translational Challenges. | Stem cell reviews and reports | [42303899](https://pubmed.ncbi.nlm.nih.gov/42303899/) | Mesenchymal Stromal Cell-Derived Extracellular Vesicles Medi... |
-| 2026 Jun | Cross-Disorder Pruning-Plasticity-Aging Architecture in Substance Use Disorders and Anxiety: Transcriptome-Wide Association Insights and Mechanistic Synthesis. | Cureus | [42299234](https://pubmed.ncbi.nlm.nih.gov/42299234/) | Cross-Disorder Pruning-Plasticity-Aging Architecture in Subs... |
-| 2026 Jun 9 | Antiaging Effects of Mannose-6-Phosphate through Enhanced Mitochondrial Function and Collagen Remodeling. | ACS omega | [42294256](https://pubmed.ncbi.nlm.nih.gov/42294256/) | Antiaging Effects of Mannose-6-Phosphate through Enhanced Mi... |
-| 2026 Jun | Opposing Molecular Programs in Obsessive-Compulsive Disorder and Hoarding: Transcriptome-Wide Association Studies Reveal Distinct Senescence, Complement, and Metabolic Signatures. | Cureus | [42292716](https://pubmed.ncbi.nlm.nih.gov/42292716/) | Opposing Molecular Programs in Obsessive-Compulsive Disorder... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
@@ -53,4 +48,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-17 | 自动生成*
+*最后更新：2026-06-18 | 自动生成*
