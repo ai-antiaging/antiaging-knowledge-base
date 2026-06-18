@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-06-18](2026-06-18/) — Circulation V-ATPase溶酶体-线粒体轴抑制心脏衰老(IF≈28)、Sci Adv 全脑类淋巴系统无创成像(IF≈14.1)、Sci Adv 维生素C/TET调控T细胞表观遗传、Neuromolecular Med SORBS1/BAG3轴驱动星形胶质细胞衰老促AD、Psychosomatic Med PTSD加速衰老与CLDN5甲基化
 - [2026-06-17](2026-06-17/) — Cell Metab 衰老-硬化正反馈循环机制、Signal Transduct Target Ther 靶向p16逆转肺纤维化(IF≈39)、Cell Rep Med 基因治疗抗衰老路线图、Am J Epidemiol 抑郁与脑衰老种族差异、Food & Function 牛磺酸延缓衰老(1-6g/日)
 - [2026-06-15](2026-06-15/) — Nature SIRT7调控X染色体剂量补偿守护女性染色体完整性、Nature 线粒体VDAC1与核孔RANBP2直接互作调控核能量稳态、Nature Aging 两种衰老模式解释物种寿命差异、Aging Cell 衰老加剧COVID-19肺部髓系失衡、Int J Mol Sci 83项研究Meta分析表观遗传年龄加速可干预性(MEAB-Index)
 - [2026-06-12](2026-06-12/) — Science 胎盘NAD⁺代谢钟调控分娩时机、Nature Aging 灵长类肠道衰老NCoR1下降被二甲双胍逆转、Aging Cell 核苷酸抗衰老受尿酸遗传风险调控、EHJ 先心病表观遗传加速衰老、线粒体NADH代谢保护无症状AD
