@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-06-20 · Science Advances: SIRT2-MOF 拮抗调控有丝分裂，染色体稳定性新发现](/news/snapshots/2026-06-20/)** — SIRT2去乙酰化MOF驱动H4K16ac→H4K20me1染色质状态切换，稳定PLK1与condensin II装载，揭示老年细胞染色体异常的分子开关（Science Advances IF≈13.6, 2026年6月）
 - **[2026-06-19 · Science：早期逆境与衰老共塑表观基因组，跨组织印记揭示衰老真相](/news/snapshots/2026-06-19/)** — 237只恒河猴14种组织DNA甲基化分析，首次证明早期逆境与衰老靶向相同基因位点但效应方向相反，推翻"加速衰老"简单叙事（Science IF≈57, 2026年6月）
 - **[2026-06-18 · Circulation：V-ATPase守护心脏线粒体，揭开抑制心脏衰老新机制](/news/snapshots/2026-06-18/)** — 首次证明V-ATPase通过溶酶体-线粒体轴维持心磷脂稳态，心磷脂失衡直接驱动心肌功能衰退，为靶向V-ATPase延缓心脏衰老提供新策略（Circulation IF≈28, 2026年6月）
 - **[2026-06-17 · Cell Metab 重磅：衰老-硬化正反馈循环——组织越硬越衰老，越衰老越硬](/news/snapshots/2026-06-17/)** — NIA/NIH 团队首次揭示 ECM 硬化→低灌注→线粒体障碍→细胞衰老→ECM 进一步硬化的自维持正反馈循环，为抗衰老干预提供全新靶点（Cell Metabolism IF≈29, 2026年6月）
