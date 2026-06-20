@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-06-20](2026-06-20/) — Science Advances SIRT2拮抗MOF调控有丝分裂(IF≈13.6)、Shock Senolytics(D+Q)改善老年烧伤伤口愈合、J Gerontol A 翻译调控筛选发现Fluspirilene延寿(IF≈5.0)、Gerontologist 韩国队列健康老龄化指数(HAI)(IF≈5.0)
 - [2026-06-19](2026-06-19/) — Science 早期逆境与年龄共塑跨组织表观基因组异质性(IF≈57)、PNAS 内皮KLF4缺失驱动衰老性神经血管功能障碍(IF≈12.8)、IEEE JBHI AI整合时间年龄与异步衰老提升生物年龄预测、Environ Sci Technol 塑料污染物AO168═O经IIS通路缩短寿命(IF≈11.4)
 - [2026-06-18](2026-06-18/) — Circulation V-ATPase溶酶体-线粒体轴抑制心脏衰老(IF≈28)、Sci Adv 全脑类淋巴系统无创成像(IF≈14.1)、Sci Adv 维生素C/TET调控T细胞表观遗传、Neuromolecular Med SORBS1/BAG3轴驱动星形胶质细胞衰老促AD、Psychosomatic Med PTSD加速衰老与CLDN5甲基化
 - [2026-06-17](2026-06-17/) — Cell Metab 衰老-硬化正反馈循环机制、Signal Transduct Target Ther 靶向p16逆转肺纤维化(IF≈39)、Cell Rep Med 基因治疗抗衰老路线图、Am J Epidemiol 抑郁与脑衰老种族差异、Food & Function 牛磺酸延缓衰老(1-6g/日)
