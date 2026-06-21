@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-20 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-21 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,31 +15,39 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 19 | Bridging the Gap: The Emerging Role of memory CD8+ T Cells in Fibrotic Interstitial Lung Disease. | American journal of respiratory cell and molecular biology | [42320023](https://pubmed.ncbi.nlm.nih.gov/42320023/) | Bridging the Gap: The Emerging Role of memory CD8+ T Cells i... |
-| 2026 Jun 22 | Targeting Cellular Senescence Enhances Post-Burn Wound Healing in Aged Mice. | Shock (Augusta, Ga.) | [42320016](https://pubmed.ncbi.nlm.nih.gov/42320016/) | Targeting Cellular Senescence Enhances Post-Burn Wound Heali... |
-| 2026 Jun 19 | SIRT2 antagonizes MOF function during mitotic entry. | Science advances | [42319919](https://pubmed.ncbi.nlm.nih.gov/42319919/) | SIRT2 antagonizes MOF function during mitotic entry. |
-| 2026 Jun 19 | Enhancing the culture of mouse primary fibroblasts to study age-dependent effects in skin tissue engineering in vitro. | Cells, tissues, organs | [42319880](https://pubmed.ncbi.nlm.nih.gov/42319880/) | Enhancing the culture of mouse primary fibroblasts to study ... |
-| 2026 Jun 19 | Aging impact on canine extracellular vesicles production, size, and miRNA content. | Veterinary research communications | [42319614](https://pubmed.ncbi.nlm.nih.gov/42319614/) | Aging impact on canine extracellular vesicles production, si... |
+| 2026 Jun 19 | CAV1-dependent mitochondrial transfer from hucMSCs reprograms epithelial lipid metabolism to relieve pulmonary fibrosis. | Stem cell research & therapy | [42321819](https://pubmed.ncbi.nlm.nih.gov/42321819/) | CAV1-dependent mitochondrial transfer from hucMSCs reprogram... |
+| 2026 Jun 19 | Epigenetic entropy, socioeconomic differences, and health and lifespan in the Women's Health Initiative. | Clinical epigenetics | [42321810](https://pubmed.ncbi.nlm.nih.gov/42321810/) | Epigenetic entropy, socioeconomic differences, and health an... |
+| 2026 Jun 20 | Aryl Hydrocarbon Receptor Signaling in Aging: A Key Modulator of Brain Homeostasis. | Molecular neurobiology | [42321573](https://pubmed.ncbi.nlm.nih.gov/42321573/) | Aryl Hydrocarbon Receptor Signaling in Aging: A Key Modulato... |
+| 2026 Jun 19 | Apoptotic bodies in bone homeostasis and skeletal disease: biology and therapeutic implications. | Apoptosis : an international journal on programmed cell death | [42321445](https://pubmed.ncbi.nlm.nih.gov/42321445/) | Apoptotic bodies in bone homeostasis and skeletal disease: b... |
+| 2026 Jun 19 | Immunosenescence in systemic and multi-organ aging: mechanisms, inter-organ crosstalk, and translational opportunities. | npj aging | [42321227](https://pubmed.ncbi.nlm.nih.gov/42321227/) | Immunosenescence in systemic and multi-organ aging: mechanis... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 19 | A juglone derivative that disrupts mitochondrial redox metabolism, inhibiting the breast fibroblast-cancer cell pro-migratory signaling induced by doxorubicin. | Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie | [42320365](https://pubmed.ncbi.nlm.nih.gov/42320365/) | A juglone derivative that disrupts mitochondrial redox metab... |
+| 2026 Jun 18 | Redox imbalance dictates dependence on GOT1 versus GOT2 for rod photoreceptor health during aging and stress. | Redox biology | [42320266](https://pubmed.ncbi.nlm.nih.gov/42320266/) | Redox imbalance dictates dependence on GOT1 versus GOT2 for ... |
 | 2026 | The metabolic-epigenetic landscape of aging: interplay between histone acetylation, lactylation, and glycation. | Frontiers in aging | [42318360](https://pubmed.ncbi.nlm.nih.gov/42318360/) | The metabolic-epigenetic landscape of aging: interplay betwe... |
 | 2026 May 8 | Ovarian-derived signals reprogram hepatic lipid metabolism in aging: Implications for therapeutic targeting of metabolic dysfunction. | Advances in translational research | [42318331](https://pubmed.ncbi.nlm.nih.gov/42318331/) | Ovarian-derived signals reprogram hepatic lipid metabolism i... |
 | 2026 Jun | Mitochondrial NADK2-dependent NADPH controls tau oligomer uptake in human neurons. | Alzheimer's & dementia : the journal of the Alzheimer's Association | [42304136](https://pubmed.ncbi.nlm.nih.gov/42304136/) | Mitochondrial NADK2-dependent NADPH controls tau oligomer up... |
-| 2026 Jun 17 | Mesenchymal Stromal Cell-Derived Extracellular Vesicles Mediate Mitochondrial Delivery in Injury: Mechanistic Insights, Evidentiary Tiers, and Translational Challenges. | Stem cell reviews and reports | [42303899](https://pubmed.ncbi.nlm.nih.gov/42303899/) | Mesenchymal Stromal Cell-Derived Extracellular Vesicles Medi... |
-| 2026 Jun | Cross-Disorder Pruning-Plasticity-Aging Architecture in Substance Use Disorders and Anxiety: Transcriptome-Wide Association Insights and Mechanistic Synthesis. | Cureus | [42299234](https://pubmed.ncbi.nlm.nih.gov/42299234/) | Cross-Disorder Pruning-Plasticity-Aging Architecture in Subs... |
 
 ### 尿石素 A 与线粒体自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Jun 11 | Restoration of mitochondrial dynamics and synaptic function by mitophagy enhancers in a tauopathy cell model. | Mitochondrion | [42276536](https://pubmed.ncbi.nlm.nih.gov/42276536/) | Restoration of mitochondrial dynamics and synaptic function ... |
+| 2026 Jun 8 | Rejuvenating Inter-organellar Communication Via Mitophagy in Ageing and Neurodegeneration. | Current neuropharmacology | [42261160](https://pubmed.ncbi.nlm.nih.gov/42261160/) | Rejuvenating Inter-organellar Communication Via Mitophagy in... |
+| 2026 Jun 4 | Autophagy activation by urolithin-a derivative UA-36 mitigates Friedreich's ataxia pathologies induced by frataxin deficiency. | Molecular biomedicine | [42240896](https://pubmed.ncbi.nlm.nih.gov/42240896/) | Autophagy activation by urolithin-a derivative UA-36 mitigat... |
+| 2026 | Nutritional redox reprogramming in cardiometabolic diseases: alpha-lipoic acid, urolithin A, and ergothioneine as modulators of the ferroptosis-mitophagy axis and mitochondrial metabolic remodeling. | Frontiers in nutrition | [42221763](https://pubmed.ncbi.nlm.nih.gov/42221763/) | Nutritional redox reprogramming in cardiometabolic diseases:... |
+| 2026 May 19 | The Autophagy-Inflammation Axis in Kawasaki Disease: Pathogenic Mechanisms and Translational Opportunities. | Journal of clinical medicine | [42194879](https://pubmed.ncbi.nlm.nih.gov/42194879/) | The Autophagy-Inflammation Axis in Kawasaki Disease: Pathoge... |
 
 ### 亚精胺与自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 | REPROGRAM: REsilience PROmotion with GeRoprotectors: AssessMent of biological effect: Rationale and protocol for a trial of biological effect. | PloS one | [42308222](https://pubmed.ncbi.nlm.nih.gov/42308222/) | REPROGRAM: REsilience PROmotion with GeRoprotectors: AssessM... |
+| 2026 Dec | AMD1-mediated polyamine metabolism governs tubular repair fate by restraining senescence after kidney injury. | Renal failure | [42289383](https://pubmed.ncbi.nlm.nih.gov/42289383/) | AMD1-mediated polyamine metabolism governs tubular repair fa... |
+| 2026 Jun 11 | Geroprotective Agents, Including Glucagon-Like Peptide-1 Receptor Agonists, for Ocular Health. | Journal of ocular pharmacology and therapeutics : the official journal of the Association for Ocular Pharmacology and Therapeutics | [42281177](https://pubmed.ncbi.nlm.nih.gov/42281177/) | Geroprotective Agents, Including Glucagon-Like Peptide-1 Rec... |
 
 ---
 
@@ -53,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-20 | 自动生成*
+*最后更新：2026-06-21 | 自动生成*
