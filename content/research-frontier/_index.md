@@ -2,13 +2,81 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-06-15 21:51 (Asia/Shanghai)  
+**最后更新**: 2026-06-22 08:00 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索)
 
 ---
 
-## 本周新增论文 (2026.06.09 – 2026.06.15)
+## 本周新增论文 (2026.06.16 – 2026.06.22)
+
+### 📌 重点论文
+
+#### 1. REPROGRAM 试验：三种抗衰老药在健康老年人中的首个机制性临床试验方案（里程碑级）
+- **标题**: REPROGRAM: REsilience PROmotion with GeRoprotectors: AssessMent of biological effect: Rationale and protocol for a trial of biological effect
+- **期刊**: PLoS One (2026-06-17)
+- **关键发现**: 首个系统评估三种 geroprotector（二甲双胍 MR 1500mg、非瑟酮 100mg、亚精胺 15mg）在 70+ 健康老年人中短期干预效果的随机对照试验方案。主要终点为三周干预后脂肪活检中 SA-β-GAL 阳性的衰老细胞数量变化，同时评估自噬、免疫衰老、慢性炎症、mTOR 信号、表观遗传年龄、DNA 损伤、代谢失调、干细胞耗竭和微生物组等多维度衰老标志物。该试验由 João Pedro de Magalhães 等衰老生物学领域权威学者主导，是 geroscience 向临床转化的重要一步。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42308222/
+
+#### 2. JAMA：生活方式与二甲双胍对糖尿病前期人群多发病风险的长期影响
+- **标题**: Lifestyle and Metformin Interventions and Risk of Multimorbidity in Adults With Prediabetes
+- **期刊**: JAMA (2026-06-15)
+- **关键发现**: 基于糖尿病预防计划（DPP）的长期随访数据，比较了强化生活方式干预与二甲双胍对比安慰剂对糖尿病前期成人长期多发病风险的影响。这是评估二甲双胍抗衰老潜力（TAME 试验核心假说）的最大规模临床证据之一，直接回应了"二甲双胍是否能延缓多种年龄相关疾病的发生"这一关键问题。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42295772/
+
+#### 3. Cell Metabolism：肝细胞-肠干细胞远程通讯调控血糖稳态
+- **标题**: Hepatocyte-to-intestinal stem cell remote communication regulates blood glucose homeostasis
+- **期刊**: Cell Metabolism (2026-06-17)
+- **关键发现**: 揭示了肝脏与肠道之间的远程通讯调控肠干细胞分化和血糖稳态的新机制。治疗上，抑制脂肪肝中 ALP 合成可独立降低血糖，并与二甲双胍产生协同降糖效应。这一发现将器官间通讯与代谢衰老联系起来，为基于多器官互作的代谢干预策略提供了新思路。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42309059/
+
+#### 4. NPJ Aging：免疫衰老在多器官衰老中的机制与跨器官对话
+- **标题**: Immunosenescence in systemic and multi-organ aging: mechanisms, inter-organ crosstalk, and translational opportunities
+- **期刊**: NPJ Aging (2026-06-19)
+- **关键发现**: 系统综述了免疫衰老作为全身性衰老驱动因素的机制，重点阐述了衰老在多器官间的互作模式。明确提出了 senolytic、senomorphic 及其他靶向免疫衰老的治疗策略，并分析了当前研究的局限性（包括异质性和因果关系未明），为免疫衰老干预提供了全面的转化框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42321227/
+
+#### 5. 靶向衰老细胞增强老年小鼠烧伤后伤口愈合
+- **标题**: Targeting Cellular Senescence Enhances Post-Burn Wound Healing in Aged Mice
+- **期刊**: Shock (2026-06-22)
+- **关键发现**: 揭示了细胞衰老如何介导老年个体烧伤后伤口修复延迟的机制，并证明靶向清除衰老细胞可显著改善老年小鼠的伤口愈合能力。这为 senolytic 疗法在创伤修复和组织再生中的应用提供了直接的临床前证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42320016/
+
+#### 6. 二甲双胍抑制 cGAS-STING 延缓晶状体上皮细胞衰老
+- **标题**: Metformin attenuates lens epithelial cell senescence by suppressing cGAS-STING via SIRT1-PGC-1α-mediated mitochondrial fission
+- **期刊**: Experimental Gerontology (2026-06-15)
+- **关键发现**: 阐明了二甲双胍通过 SIRT1-PGC-1α 介导的线粒体分裂来抑制 cGAS-STING 炎症通路，从而减轻晶状体上皮细胞衰老的分子机制。这为理解二甲双胍的抗衰老作用提供了新的靶点，并为年龄相关性白内障的预防性干预提供了理论基础。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42069238/
+
+### 其他新增论文
+
+#### 7. 基于细胞的筛选鉴定延长寿命的翻译状态调节剂
+- **标题**: Cell-based screen identifies translation state modulators that extend lifespan in D. melanogaster and C. elegans
+- **期刊**: J Gerontol A Biol Sci Med Sci (2026-06-19)
+- **关键发现**: 通过细胞筛选发现 fluspirilene 可作为新型翻译状态调节剂，在果蝇和线虫模型中延长寿命。揭示了衰老相关的线粒体功能下降和翻译调控衰退之间的关联，为抗衰老药物的发现提供了新的高通量筛选策略。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42320027/
+
+#### 8. 衰老大脑中 mTORC1 作为神经变性与治疗干预的汇聚整合器
+- **标题**: Unlocking the aging brain: mTORC1 as a convergent integrator for neurodegeneration and therapeutic intervention
+- **期刊**: Biogerontology (2026-06-15)
+- **关键发现**: 综述了 mTORC1 如何作为衰老大脑中神经退行性变的汇聚调控节点，以及雷帕霉素及其类似物（rapalogs）在神经保护中的显著作用。提出了 mTORC1 抑制剂在神经退行性疾病中的治疗潜力和剂量优化方向。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42295556/
+
+#### 9. MAO-A 激活的治疗诊断探针实现图像引导的光动力清除衰老肿瘤细胞
+- **标题**: Monoamine Oxidase A-Activatable Theranostic Probe for Image-Guided Photodynamic Elimination of Senescent Tumor Cells
+- **期刊**: Analytical Chemistry (2026-06-16)
+- **关键发现**: 开发了靶向单胺氧化酶 A（MAO-A）的治疗诊断探针 DMTP-1，克服了传统 SA-β-GAL 标志物特异性不足的瓶颈，实现了衰老肿瘤细胞的精准图像引导光动力清除。为 senolytic 疗法的精准靶向提供了新的技术路径。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42225351/
+
+#### 10. 表观遗传熵、社会经济差异与健康寿命
+- **标题**: Epigenetic entropy, socioeconomic differences, and health and lifespan in the Women's Health Initiative
+- **期刊**: Clinical Epigenetics (2026-06-19)
+- **关键发现**: 发现表观遗传熵（DNA 甲基化随机性增加）与社会经济因素密切相关，揭示了社会环境如何通过表观遗传机制加速生物学衰老。这一研究将社会流行病学与衰老生物学深度连接，为抗衰老干预的社会决定因素提供了分子层面的证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42321810/
+
+---
+
+## 上周新增论文 (2026.06.09 – 2026.06.15)
 
 ### 📌 重点论文
 
@@ -517,12 +585,16 @@
 - C-EVs 清除关节软骨衰老细胞（临床试验）(2026-02)
 - Dasatinib + Quercetin 改善糖尿病肾病 (2026-02)
 - **尿液纳米探针无创检测治疗诱导衰老 (Nature Aging, 2026-05)**
+- **靶向衰老细胞增强老年小鼠烧伤伤口愈合 (Shock, 2026-06)** ⬆️ 本周新增
+- **MAO-A 激活的治疗诊断探针精准清除衰老肿瘤细胞 (Anal Chem, 2026-06)** ⬆️ 本周新增
+- **FASTIS 胆固醇依赖性衰老作为 (immuno)senolytic 联合策略 (Cell Death Dis, 2026-06)** ⬆️ 本周新增
 
 ### 2. NAD+ 增强剂
 - **NAD⁺ 稳态在衰老与疾病中的机制 (Annu Rev Nutr, 2026)** ⬆️
 - **烟酸核糖维持 NAD+ 稳态并改善衰老相关 NAD+ 下降 (Cell Metabolism, 2026-05)** ⬆️
 - **衰老相关 NAD+ 下降导致 CAR-T 细胞治疗失败 (Nature Cancer, 2026-05)** ⬆️
 - **NMN 通过促进脂肪氧化改善 db/db 小鼠代谢 (Metabolites, 2026-05)** ⬆️
+- **Science：胎盘 NAD⁺ 代谢钟调控分娩时机 (Science, 2026-06)** ⬆️
 - 线粒体-核互作轴与 NAD⁺ 补充治疗 AD (2026-04)
 - 内皮 NAD+ 耗竭通过 cGAS/STING-CD38 驱动 AD 神经炎症 (2026-04)
 - SLC25A51 调控脂肪组织衰老期 NAD 转运 (2026-05)
@@ -537,6 +609,7 @@
 - 雷帕霉素增强衰老人类免疫系统抗 DNA 损伤能力 (Aging Cell, 2026-02)
 - 低剂量雷帕霉素改善人体免疫反应和皮肤衰老标志物 (2025-12)
 - 二甲双胍通过 AMPK/mTOR 延长健康寿命的分子机制 (2026-01)
+- **mTORC1 作为神经退行性变的治疗整合器 (Biogerontology, 2026-06)** ⬆️ 本周新增
 
 ### 4. 代谢干预
 - **PQQ 与亚精胺协同靶向衰老标志物 (Frontiers in Aging, 2026)** ⬆️
@@ -548,6 +621,8 @@
 - 年轻人类菌群移植改善衰老小鼠认知和生殖功能 (2026-04)
 - 肠道微生物组与长寿疗法的机制联系 (2026-01)
 - 百岁老人血浆蛋白质组揭示 23 种与 TAME 标志物关联的年轻相关蛋白 (2026-02)
+- **二甲双胍对健康寿命相关结局的系统综述 (Rejuvenation Res, 2026-06)** ⬆️ 本周新增
+- **肝细胞-肠干细胞远程通讯与二甲双胍协同降糖 (Cell Metab, 2026-06)** ⬆️ 本周新增
 
 ### 5. 骨骼与组织衰老
 - Galangin 抑制 DPP4 驱动的铁死亡改善老年性骨质疏松 (2026-05)
@@ -569,6 +644,7 @@
 - **APOE ε4/ε2 蛋白质组学特征揭示 AD 早期分子标志物 (Nature Aging, 2026-05)**
 - **尿液纳米探针无创检测衰老与纤维化 (Nature Aging, 2026-05)**
 - 老年科学研究中的霍桑效应及方法学框架 (Nature Aging, 2026-05)
+- **表观遗传熵与社会经济差异 (Clin Epigenetics, 2026-06)** ⬆️ 本周新增
 - 表观遗传时钟纵向变化预测 InCHIANTI 队列生存率 (2026-03)
 
 ### 9. 心血管衰老与环境因素
@@ -582,6 +658,11 @@
 - 肾脏衰老的区室特异性免疫重塑 (FASEB J, 2026-06)
 - SMARCAD1 缺失减轻 Tau 蛋白病 (Aging Cell, 2026-06)
 - 脑源性雌激素缺失与性别及年龄依赖性记忆改变 (Aging Cell, 2026-06)
+
+### 11. 免疫衰老（新增分类）
+- **免疫衰老在多器官衰老中的机制与转化框架 (NPJ Aging, 2026-06)** ⬆️ 本周新增
+- **衰老细胞与免疫系统双向互作 (J Transl Med, 2026-06)**
+- **亚精胺减轻免疫细胞衰老并增强疫苗应答 (Aging Cell, 2026-06) RCT**
 
 ---
 
@@ -597,6 +678,8 @@
 
 | 日期 | 更新内容 | 新增论文数 |
 |------|----------|------------|
+| 2026-06-22 | 第 7 次更新：REPROGRAM 试验方案（二甲双胍/非瑟酮/亚精胺 RCT）、JAMA 二甲双胍与多发病研究、Cell Metabolism 肝肠通讯、NPJ Aging 免疫衰老综述、靶向衰老细胞促进烧伤伤口愈合，新增分类「免疫衰老」 | 10 |
+| 2026-06-15 | 第 6 次更新：SenCat 人类衰老多组学图谱、补骨脂酚促进健康衰老、Science 胎盘 NAD⁺ 代谢钟、热量限制 rejuvenates 成年干细胞 | 10 |
 | 2026-06-03 | 第 5 次更新：STTT 衰老治疗策略综述、Annu Rev Nutr NAD⁺ 稳态综述、PQQ+亚精胺协同机制、尿石素 A 氧化还原重编程，新增分类「心血管衰老与环境因素」「神经退行性疾病与脑衰老」 | 8 |
 | 2026-05-25 | 第 4 次更新：雷帕霉素 AD I 期临床试验、Cell Metabolism NAR 研究、Nature Cancer NAD+/CAR-T、Nature Aging 造血干细胞衰老，新增分类「造血与干细胞衰老」 | 12 |
 | 2026-05-18 | 第 3 次更新：新增 5 篇 Nature Aging 论文（含尿液纳米探针检测衰老、APOE 蛋白质组学），更新分类目录 | 5 |
