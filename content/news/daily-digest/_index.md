@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-06-23](2026-06-23/) — Adv Sci Lilrb4a抑制重编程APOE4小胶质细胞促淀粉样清除(IF≈17.7)、Neurology 产次与Aβ交互加速绝经后女性认知衰退(IF≈7.9)、PLoS Comput Biol 细胞衰老转录网络分析新方法、Exp Physiol 脑血管内皮功能衰老生物标志物、JBRA Assist Reprod 槲皮素未改善衰老小鼠IVF结局(阴性结果)
 - [2026-06-21](2026-06-21/) — Clin Epigenetics 表观遗传熵与WHI队列社会经济差异(IF≈5.4)、npj Aging 免疫衰老多器官互作综述(IF≈8)、Stem Cell Res Ther CAV1介导线粒体转移改善肺纤维化(IF≈5.5)
 - [2026-06-20](2026-06-20/) — Science Advances SIRT2拮抗MOF调控有丝分裂(IF≈13.6)、Shock Senolytics(D+Q)改善老年烧伤伤口愈合、J Gerontol A 翻译调控筛选发现Fluspirilene延寿(IF≈5.0)、Gerontologist 韩国队列健康老龄化指数(HAI)(IF≈5.0)
 - [2026-06-19](2026-06-19/) — Science 早期逆境与年龄共塑跨组织表观基因组异质性(IF≈57)、PNAS 内皮KLF4缺失驱动衰老性神经血管功能障碍(IF≈12.8)、IEEE JBHI AI整合时间年龄与异步衰老提升生物年龄预测、Environ Sci Technol 塑料污染物AO168═O经IIS通路缩短寿命(IF≈11.4)
