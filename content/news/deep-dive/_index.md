@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[衰老-硬化正反馈循环——Cell Metabolism 揭示组织衰老的自维持引擎](./2026-06-23-weekly/)** — 2026年6月23日
+  - *Cell Metabolism* (IF≈29) · NIA/NIH 团队 · ECM硬化 → 灌注下降 → 线粒体崩溃 → 细胞衰老 → ECM再硬化
+
 - **[SIRT7 守护女性 X 染色体——Nature 揭示 sirtuin 长寿蛋白与性染色体的关键交互](./2026-06-16-weekly/)** — 2026年6月16日
   - *Nature* (IF≈64.8) · SIRT7 优先定位性染色体 · 调控 XCI 与活性 X 染色体结构 · 揭示衰老性别差异新机制
 
