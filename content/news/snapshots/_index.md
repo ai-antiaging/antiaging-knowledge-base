@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-06-23 · Advanced Science: Lilrb4a 抑制重编程小胶质细胞，减轻 APOE4 淀粉样斑块](/news/snapshots/2026-06-23/)** — 5xFAD-APOE4 小鼠中抑制 Lilrb4a 显著减少皮质淀粉样斑块与脑血管淀粉样沉积，PPAR-γ 通路为下游关键机制（Advanced Science IF≈17.7, 2026年6月）
 - **[2026-06-22 · Clinical Epigenetics: 表观遗传熵揭示健康寿命的社会不平等](/news/snapshots/2026-06-22/)** — 首个大规模人群队列（n=2,192）证明社会经济地位直接影响 DNA 甲基化随机性，低收入与表观遗传加速衰老显著相关，少数族裔女性中效应更严重（Clinical Epigenetics IF≈5.4, 2026年6月）
 - **[2026-06-21 · npj Aging: 免疫衰老——全身多器官衰老的指挥中枢](/news/snapshots/2026-06-21/)** — Nature Portfolio 综述首次绘制免疫系统与心血管、神经、内分泌等多器官衰老互作网络，揭示免疫衰退是驱动全身衰老的"指挥中枢"而非被动结果（npj Aging IF≈8.0, 2026年6月）
 - **[2026-06-20 · Science Advances: SIRT2-MOF 拮抗调控有丝分裂，染色体稳定性新发现](/news/snapshots/2026-06-20/)** — SIRT2去乙酰化MOF驱动H4K16ac→H4K20me1染色质状态切换，稳定PLK1与condensin II装载，揭示老年细胞染色体异常的分子开关（Science Advances IF≈13.6, 2026年6月）
