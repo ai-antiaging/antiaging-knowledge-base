@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-06-24 · JCI Insight: AFF3 维持初始 CD8⁺ T 细胞代谢静息态，防止免疫衰老](/news/snapshots/2026-06-24/)** — 转录因子 AFF3 是 CD8⁺ T 细胞代谢静息态的关键调控因子，其随年龄下降导致代谢失衡和感染应答能力减弱，为免疫衰老提供新靶点（JCI Insight IF≈6.5, 2026年6月）
 - **[2026-06-23 · Advanced Science: Lilrb4a 抑制重编程小胶质细胞，减轻 APOE4 淀粉样斑块](/news/snapshots/2026-06-23/)** — 5xFAD-APOE4 小鼠中抑制 Lilrb4a 显著减少皮质淀粉样斑块与脑血管淀粉样沉积，PPAR-γ 通路为下游关键机制（Advanced Science IF≈17.7, 2026年6月）
 - **[2026-06-22 · Clinical Epigenetics: 表观遗传熵揭示健康寿命的社会不平等](/news/snapshots/2026-06-22/)** — 首个大规模人群队列（n=2,192）证明社会经济地位直接影响 DNA 甲基化随机性，低收入与表观遗传加速衰老显著相关，少数族裔女性中效应更严重（Clinical Epigenetics IF≈5.4, 2026年6月）
 - **[2026-06-21 · npj Aging: 免疫衰老——全身多器官衰老的指挥中枢](/news/snapshots/2026-06-21/)** — Nature Portfolio 综述首次绘制免疫系统与心血管、神经、内分泌等多器官衰老互作网络，揭示免疫衰退是驱动全身衰老的"指挥中枢"而非被动结果（npj Aging IF≈8.0, 2026年6月）
