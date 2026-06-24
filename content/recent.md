@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-22 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-24 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 21 | Molecular senescence, neuroendocrine metaflammation, and skeletal muscle insulin resistance in type-4 diabetes: from mitochondrial dysfunction to precision therapeutics. | Diabetes research and clinical practice | [42324036](https://pubmed.ncbi.nlm.nih.gov/42324036/) | Molecular senescence, neuroendocrine metaflammation, and ske... |
-| 2026 Jun 21 | Vascularized tumor organoids as models for interpreting therapeutic response. | Vascular pharmacology | [42323958](https://pubmed.ncbi.nlm.nih.gov/42323958/) | Vascularized tumor organoids as models for interpreting ther... |
-| 2026 Jun 15 | Phosphatidylinositol restores fertilization and enhances embryonic development in post-ovulatory aging porcine oocytes. | Theriogenology | [42323922](https://pubmed.ncbi.nlm.nih.gov/42323922/) | Phosphatidylinositol restores fertilization and enhances emb... |
-| 2026 Jun 21 | Immunoelectroanalytical multiplexing of RNA methylation signatures to decode oncogenic point mutations in cancer cells. | Talanta | [42323914](https://pubmed.ncbi.nlm.nih.gov/42323914/) | Immunoelectroanalytical multiplexing of RNA methylation sign... |
-| 2026 Jun 20 | Oligodendrocyte Piezo2 is a regulator of age-dependent myelin integrity and dysregulated in multiple sclerosis. | Communications biology | [42323468](https://pubmed.ncbi.nlm.nih.gov/42323468/) | Oligodendrocyte Piezo2 is a regulator of age-dependent myeli... |
+| 2026 Jun | Merkel cell polyomavirus exploits extracellular vesicles for skin infection and host immune evasion through activated Wnt signaling. | PLoS pathogens | [42335122](https://pubmed.ncbi.nlm.nih.gov/42335122/) | Merkel cell polyomavirus exploits extracellular vesicles for... |
+| 2026 Jun 23 | AFF3 maintains metabolic quiescence in naïve CD8 T cells and prevents premature immune aging. | JCI insight | [42334893](https://pubmed.ncbi.nlm.nih.gov/42334893/) | AFF3 maintains metabolic quiescence in naïve CD8 T cells and... |
+| 2026 Jun 23 | The two faces of mitochondrial Ca(2+) dysregulation in skeletal muscle: overload and deficiency. | Journal of physiology and biochemistry | [42334704](https://pubmed.ncbi.nlm.nih.gov/42334704/) | The two faces of mitochondrial Ca(2+) dysregulation in skele... |
+| 2026 Jun 23 | Telomere biology and telomerase regulation across species: evolutionary insights into aging, longevity, and genome stability. | Molecular biology reports | [42334703](https://pubmed.ncbi.nlm.nih.gov/42334703/) | Telomere biology and telomerase regulation across species: e... |
+| 2026 | The Pyruvate Dehydrogenase Complex: A 90-Year-Old Enigma Shaping the Future of Structural Enzymology. | Advances in experimental medicine and biology | [42334543](https://pubmed.ncbi.nlm.nih.gov/42334543/) | The Pyruvate Dehydrogenase Complex: A 90-Year-Old Enigma Sha... |
 
 ### NAD+ 与线粒体
 
@@ -48,4 +48,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-22 | 自动生成*
+*最后更新：2026-06-24 | 自动生成*
