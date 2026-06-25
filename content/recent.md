@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-24 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-25 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun | Merkel cell polyomavirus exploits extracellular vesicles for skin infection and host immune evasion through activated Wnt signaling. | PLoS pathogens | [42335122](https://pubmed.ncbi.nlm.nih.gov/42335122/) | Merkel cell polyomavirus exploits extracellular vesicles for... |
-| 2026 Jun 23 | AFF3 maintains metabolic quiescence in naïve CD8 T cells and prevents premature immune aging. | JCI insight | [42334893](https://pubmed.ncbi.nlm.nih.gov/42334893/) | AFF3 maintains metabolic quiescence in naïve CD8 T cells and... |
-| 2026 Jun 23 | The two faces of mitochondrial Ca(2+) dysregulation in skeletal muscle: overload and deficiency. | Journal of physiology and biochemistry | [42334704](https://pubmed.ncbi.nlm.nih.gov/42334704/) | The two faces of mitochondrial Ca(2+) dysregulation in skele... |
-| 2026 Jun 23 | Telomere biology and telomerase regulation across species: evolutionary insights into aging, longevity, and genome stability. | Molecular biology reports | [42334703](https://pubmed.ncbi.nlm.nih.gov/42334703/) | Telomere biology and telomerase regulation across species: e... |
-| 2026 | The Pyruvate Dehydrogenase Complex: A 90-Year-Old Enigma Shaping the Future of Structural Enzymology. | Advances in experimental medicine and biology | [42334543](https://pubmed.ncbi.nlm.nih.gov/42334543/) | The Pyruvate Dehydrogenase Complex: A 90-Year-Old Enigma Sha... |
+| 2026 Jun 26 | FUBL-3/FUBP1 mediates mitochondrial stress-induced chromatin remodeling and longevity. | Science advances | [42341138](https://pubmed.ncbi.nlm.nih.gov/42341138/) | FUBL-3/FUBP1 mediates mitochondrial stress-induced chromatin... |
+| 2026 Jun 24 | Exploring mechanisms of scar-free skin wound healing in adult zebrafish in comparison to mouse. | PLoS genetics | [42341061](https://pubmed.ncbi.nlm.nih.gov/42341061/) | Exploring mechanisms of scar-free skin wound healing in adul... |
+| 2026 Jun | Longitudinal lineage tracing reveals early clonal attrition during Drosophila midgut aging. | PLoS biology | [42340984](https://pubmed.ncbi.nlm.nih.gov/42340984/) | Longitudinal lineage tracing reveals early clonal attrition ... |
+| 2026 Jun 24 | Time-Restricted Feeding/Eating and Muscle Aging: Research Progress from Molecular Mechanisms to Personalized Intervention Strategies. | Nutrition reviews | [42340928](https://pubmed.ncbi.nlm.nih.gov/42340928/) | Time-Restricted Feeding/Eating and Muscle Aging: Research Pr... |
+| 2026 Jun 24 | Epigenetic analysis reveals aberrant aging in thyroid cancer. | Endocrine research | [42340814](https://pubmed.ncbi.nlm.nih.gov/42340814/) | Epigenetic analysis reveals aberrant aging in thyroid cancer... |
 
 ### NAD+ 与线粒体
 
@@ -48,4 +48,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-24 | 自动生成*
+*最后更新：2026-06-25 | 自动生成*
