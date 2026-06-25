@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-06-25](2026-06-25/) — Science Advances FUBL-3/FUBP1介导线粒体应激-染色质重塑长寿通路(IF≈14.1)、Alzheimer's & Dementia 798人队列睡眠碎片化与Aβ沉积组织病理学关联(IF≈13.0)、JACS 可吸入PROTAC纳米鸡尾酒靶向肺纤维化衰老细胞(IF≈15.4)、ACS AMI uPAR导向雷帕霉素纳米颗粒稳定动脉斑块(IF≈9.5)、Nutr Rev 限时进食与肌肉衰老综述(IF≈9.4)
 - [2026-06-24](2026-06-24/) — Aging Cell CFTR-USP45轴抑制心肌细胞衰老(IF≈8.0)、JCI Insight AFF3维持CD8⁺ T细胞代谢静息态防免疫衰老(IF≈6.5)、Aging Cell 衰老型巨噬细胞经谷氨酰胺代谢驱动鳞癌侵袭(IF≈8.0)、GeroScience UK Biobank 4.9万机器学习腹主动脉钙化与身体虚弱关联(IF≈5.5)、Aging Cell 动脉衰老细胞异质性单细胞综述(IF≈8.0)
 - [2026-06-23](2026-06-23/) — Adv Sci Lilrb4a抑制重编程APOE4小胶质细胞促淀粉样清除(IF≈17.7)、Neurology 产次与Aβ交互加速绝经后女性认知衰退(IF≈7.9)、PLoS Comput Biol 细胞衰老转录网络分析新方法、Exp Physiol 脑血管内皮功能衰老生物标志物、JBRA Assist Reprod 槲皮素未改善衰老小鼠IVF结局(阴性结果)
 - [2026-06-21](2026-06-21/) — Clin Epigenetics 表观遗传熵与WHI队列社会经济差异(IF≈5.4)、npj Aging 免疫衰老多器官互作综述(IF≈8)、Stem Cell Res Ther CAV1介导线粒体转移改善肺纤维化(IF≈5.5)
