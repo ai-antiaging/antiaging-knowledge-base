@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-06-27 · Science Advances: FUBL-3/FUBP1 介导线粒体应激→染色质重塑→长寿](/news/snapshots/2026-06-27/)** — 线粒体应激信号经 FUBL-3/FUBP1 传导至细胞核，驱动染色质凝缩并激活 UPRmt，从线虫到人类高度保守，过表达足以延长寿命（Science Advances IF≈13.6, 2026年6月）
 - **[2026-06-26 · Aging Cell: 灵长类特异性 lncRNA LINC01021 驱动细胞衰老与机体老化](/news/snapshots/2026-06-26/)** — 人类独有 lncRNA LINC01021 通过 DAZAP1/RBMX 轴激活 P53 通路，异位表达致小鼠虚弱增加与运动受损，揭示进化新基因也能"催人老"（Aging Cell IF≈8.0, 2026年6月）
 - **[2026-06-25 · Science Advances: FUBP1 介导线粒体应激→染色质重塑长寿通路](/news/snapshots/2026-06-25/)** — 首次发现线粒体应激信号经 FUBL-3/FUBP1 传导至细胞核，驱动染色质凝集并激活 URmt，过表达即可延长寿命（Science Advances IF≈14.1, 2026年6月）
 - **[2026-06-24 · JCI Insight: AFF3 维持初始 CD8⁺ T 细胞代谢静息态，防止免疫衰老](/news/snapshots/2026-06-24/)** — 转录因子 AFF3 是 CD8⁺ T 细胞代谢静息态的关键调控因子，其随年龄下降导致代谢失衡和感染应答能力减弱，为免疫衰老提供新靶点（JCI Insight IF≈6.5, 2026年6月）
