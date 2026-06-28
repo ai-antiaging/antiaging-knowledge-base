@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-06-28 · J Cachexia Sarcopenia Muscle: 每周雷帕霉素联合运动 RCT（RAPA-EX-01）](/news/snapshots/2026-06-28/)** — 首项将雷帕霉素周期化给药与运动干预相结合的人体 RCT，基于"周期假说"探索 mTOR 靶向抗衰老策略的人体应用（J Cachexia Sarcopenia Muscle IF≈11.0, 2026年6月）
 - **[2026-06-27 · Science Advances: FUBL-3/FUBP1 介导线粒体应激→染色质重塑→长寿](/news/snapshots/2026-06-27/)** — 线粒体应激信号经 FUBL-3/FUBP1 传导至细胞核，驱动染色质凝缩并激活 UPRmt，从线虫到人类高度保守，过表达足以延长寿命（Science Advances IF≈13.6, 2026年6月）
 - **[2026-06-26 · Aging Cell: 灵长类特异性 lncRNA LINC01021 驱动细胞衰老与机体老化](/news/snapshots/2026-06-26/)** — 人类独有 lncRNA LINC01021 通过 DAZAP1/RBMX 轴激活 P53 通路，异位表达致小鼠虚弱增加与运动受损，揭示进化新基因也能"催人老"（Aging Cell IF≈8.0, 2026年6月）
 - **[2026-06-25 · Science Advances: FUBP1 介导线粒体应激→染色质重塑长寿通路](/news/snapshots/2026-06-25/)** — 首次发现线粒体应激信号经 FUBL-3/FUBP1 传导至细胞核，驱动染色质凝集并激活 URmt，过表达即可延长寿命（Science Advances IF≈14.1, 2026年6月）
