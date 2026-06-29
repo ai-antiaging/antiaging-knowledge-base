@@ -479,7 +479,7 @@ NMN 是 NAD+ 的直接前体，通过 NAMPT 酶转化为 NAD+。NAD+ 是 Sirtuin
 | NCT05405868 | Nicotinamide in Glaucoma (NAMinG) | **Recruiting** ✅ | 青光眼 | 英国 (Phase III) |
 | NCT06627868 | NAD+ 代谢与棕色脂肪组织 | **Recruiting** ✅ | 肥胖 | 芬兰图尔库大学 |
 | NCT04571008 | NMN 补充对器官系统生物学的影响 | **Completed** 📊 | 葡萄糖代谢紊乱 | 美国华盛顿大学 |
-| NCT07572825 | NMN 治疗 DHDDS-CDG（罕见遗传病） | **Not yet recruiting** | DHDDS-CDG | 美国 Mount Sinai (Phase I) |
+| NCT07572825 | NMN 治疗 DHDDS-CDG（罕见遗传病） | **Recruiting** ✅ | DHDDS-CDG | 美国 Mount Sinai (Phase I) |
 
 ### 本周状态更新摘要（2026-05-18 检查）
 
@@ -551,7 +551,7 @@ NMN 是 NAD+ 的直接前体，通过 NAMPT 酶转化为 NAD+。NAD+ 是 Sirtuin
 - 建议持续关注 Completed 试验的结果发布
 - "Unknown status"标记的试验超过 2 年未更新，需谨慎参考
 - **NCT07025226**（胶质瘤 senolytics）本次 API 未返回，可能为搜索关键词未覆盖（搜索"senolytics"未命中），但其记录状态仍为 Recruiting
-- **NCT07572825**（NMN DHDDS-CDG）为新发现，预计 2026-06-01 启动，值得关注
+- **NCT07572825**（NMN DHDDS-CDG）已于 2026-05-08 启动，2026-06 更新为 Recruiting 状态，Phase I 安全性试验
 - **NCT02848131**（D+Q 慢性肾病，Mayo Clinic）为新发现，Enrolling by invitation，预计 2027-04 完成
 
 ---
@@ -601,4 +601,31 @@ NMN 是 NAD+ 的直接前体，通过 NAMPT 酶转化为 NAD+。NAD+ 是 Sirtuin
 
 ---
 
-*最后更新：2026-06-15 | 下次自动更新：2026-06-22（周一）*
+*最后更新：2026-06-29 | 下次自动更新：2026-07-06（周一）*
+
+---
+
+### 本周状态更新摘要（2026-06-29 检查）
+
+- **状态确认**：本周通过 ClinicalTrials.gov API v2 逐条核查所有 26 项已记录试验状态，与上周（2026-06-15）记录对比，**1 项变化**
+- **🔄 状态变化（1 项）**：
+  - **NCT07572825** — NMN 治疗 DHDDS-CDG（Mount Sinai）：Not yet recruiting → **Recruiting** ✅
+    - 实际启动日期：2026-05-08，已于上周正式进入招募阶段
+    - Phase I 安全性试验，关注罕见遗传病中的 NMN 应用
+- **Senolytics 领域**：11 项已记录试验全部核对完毕（11/11），其余 10 项状态无变化
+  - 招募中：2 项（NCT07025226 胶质瘤、NCT05758246 脓毒症）
+  - 已完成：3 项（NCT05422885、NCT04313634、NCT05506488）
+  - 暂停：1 项（NCT05276895 骨关节炎）
+  - 未招募：1 项（NCT07270120 多发性硬化）
+  - 不招募/邀请中：4 项（NCT06018467 骨质疏松、NCT04785300 阿尔茨海默、NCT05593588 间质性肺病、NCT02848131 慢性肾病）
+- **NMN/NAD+ 领域**：15 项已记录试验核对完毕（15/15），其余 14 项状态无变化
+  - 招募中：9 项（NCT06592859 中国衰老、NCT06426355 卵巢储备、NCT06629636 日本 IVF、NCT05759468 糖尿病肾病、NCT06907329 免疫衰老、NCT06776510 血小板减少症、NCT05405868 青光眼 Phase III、NCT06627868 棕色脂肪、**NCT07572825 DHDDS-CDG ← 新转入**）
+  - 已完成：5 项（NCT05305677 PCOS、NCT05517122 血液 NAD+、NCT04862338 药代动力学、NCT04571008 器官系统生物学、NCT04342975 NR+PT 肾保护 Phase II）
+  - 状态未知：3 项（NCT04903210 高血压、NCT05485610 卵巢功能、NCT06214078 溃疡性结肠炎）
+- **关注事项**：
+  - NCT05276895（天然 senolytics 骨关节炎）仍为 SUSPENDED 状态，已超 3 年未更新（whyStopped: "unavailability of drugs"）
+  - NCT04903210（NMN 高血压）仍为 UNKNOWN 状态，lastUpdate 2022-01，已超 4 年未更新
+  - NCT06214078（NMN 溃疡性结肠炎）仍为 UNKNOWN 状态，预计 2025-07 已完成但未更新
+  - NCT05405868（NAMinG 青光眼 Phase III）仍在招募中，预计 2027-04 完成
+  - NCT07572825（NMN DHDDS-CDG）已开始招募，值得关注进展
+- **备注**：本次检查通过 API v2 逐条验证 26 项试验，1 项状态变化（Not yet recruiting → Recruiting）
