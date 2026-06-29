@@ -2,13 +2,69 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-06-22 08:00 (Asia/Shanghai)  
+**最后更新**: 2026-06-29 08:00 (Asia/Shanghai)  
 **更新频率**: 每周  
-**数据来源**: PubMed (多关键词交叉检索)
+**数据来源**: PubMed (多关键词交叉检索) + Nature Aging
 
 ---
 
-## 本周新增论文 (2026.06.16 – 2026.06.22)
+## 本周新增论文 (2026.06.23 – 2026.06.29)
+
+### 📌 重点论文
+
+#### 1. Nature Communications：下丘脑 AVP 神经元作为衰老生理稳态的中枢调控器（重磅机制研究）
+- **标题**: The role of supraoptic hypothalamic arginine vasopressin neurons in aging-associated water balance and thermoregulatory deficits in male mice
+- **期刊**: Nature Communications (2026-06-27)
+- **关键发现**: Kirkland/Tchkonia/Riera 团队（Cedars-Sinai/Mayo Clinic）发现下丘脑视上核（SON）精氨酸加压素（AVP）神经元是衰老相关体温调节、代谢和水平衡紊乱的关键驱动因素。单核 RNA 测序显示 Avp 是衰老过程中上调最显著的神经元转录本之一，老年 SON^AVP 神经元体积增大、兴奋性增强。化学遗传学激活年轻小鼠的 SON^AVP 神经元可重现衰老表型（低体温、能量消耗降低、饮水减少），而在老年小鼠中敲低 Avp 则恢复了水平衡并部分改善体温调节和代谢。药理研究证实 V1A 和 V2 受体分别介导不同缺陷。该研究将神经内分泌衰老与全身生理稳态直接关联，为年龄相关功能障碍提供了全新的神经靶点。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42364986/
+
+#### 2. GeroScience：qCAGEs 双参数高通量衰老筛选平台（工具创新）
+- **标题**: Quantitative Cellular AGing Evaluation system (qCAGEs): a dual-parameter platform for high-throughput senescence screening
+- **期刊**: GeroScience (2026-06-26)
+- **关键发现**: 开发了同时测量 α-L-岩藻糖苷酶活性（4ME）和细胞活力的双参数高通量筛选平台，解决了传统单一参数无法区分 senolytic/抗衰老效应与非特异性细胞毒性的问题。通过建立细胞计数-衰老活性参考线（CARL），将药物反应系统分类为抗衰老样、促衰老样、senolytic 样和细胞毒性四种表型。定量衰老指数（qCAI）提供了药物效应大小的连续度量。该平台已在 3D 培养体系中验证，为 senolytic 和抗衰老药物发现提供了标准化的定量工具。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42360573/
+
+#### 3. Biology：天然 senolytic 制剂 NSPCC1 通过造血 rejuvenation 延缓炎症性衰老
+- **标题**: Hematopoietic Rejuvenation via Natural Senolytic NSPCC1 Delays Inflammatory Aging
+- **期刊**: Biology (Basel) (2026-06-25)
+- **关键发现**: 开发了新型葡萄籽提取物（GSE）制剂 NSPCC1，显著提高了 PCC1（强效 senolytic 成分）的口服生物利用度。在两种小鼠衰老模型中，口服 NSPCC1 显著延长寿命并促进健康衰老。该制剂改善了造血干/祖细胞分化能力，减少了年龄相关的髓系细胞偏向，并降低了骨髓和皮肤的衰老表型、外周血红系参数、以及肝肾肺组织中的 M1 巨噬细胞浸润和纤维化。研究凸显了造血干细胞在衰老中的关键作用，为天然衰老干预产品提供了重要临床前证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42345778/
+
+#### 4. Inflammaging 超越生物标志物：从机制到"可成药"干预
+- **标题**: Inflammaging Beyond Biomarkers: Molecular Mechanisms and Therapeutic Opportunities
+- **期刊**: Current Issues in Molecular Biology (2026-06-26)
+- **关键发现**: 这篇重要综述推动了 inflammaging 研究从生物标志物评估向机制干预的范式转变。文章系统梳理了免疫衰老、肠道菌群失调、代谢功能障碍和细胞衰老等多种上游驱动因素如何汇聚到 NF-κB、NLRP3 炎症小体、cGAS-STING、JAK/STAT 和 p38 MAPK 等核心炎症枢纽。提出"可成药 inflammaging"概念——senotherapeutics、炎症小体抑制剂、先天免疫调节剂和代谢干预可以主动修饰衰老相关炎症生物学，而非仅仅通过生物标志物监测。为精准药理学抗衰老策略提供了理论框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42353633/
+
+#### 5. 皮肤衰老的整合机制：表观遗传、细胞衰老与免疫靶向治疗
+- **标题**: Advances in skin aging: integrating epigenetic, cellular, and immune mechanisms for targeted therapy
+- **期刊**: Immunity & Ageing (2026-06-24)
+- **关键发现**: 系统综述了皮肤衰老的多层机制：表观遗传漂变驱动转录保真度下降并促使细胞衰老，线粒体重塑改变细胞功能，衰老细胞清除失败（免疫衰老）与慢性促炎环境（inflammaging）形成自我强化的免疫-炎症轴。重点介绍了新兴的靶向干预策略，包括表观遗传和线粒体调节剂、senotherapeutics、生物制剂、免疫疗法、再生和器械疗法。为皮肤衰老的转化研究提供了清晰的机制-干预路线图。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42343432/
+
+#### 6. Senotherapeutics 在肝移植中的应用：老龄供体器官的体外再条件化
+- **标题**: Integrating senotherapeutics into transplantation: liver reconditioning in an aging donor pool
+- **期刊**: Transplant International (2026-06-24)
+- **关键发现**: 探讨了将衰老评估和 senotherapeutic 干预整合到肝移植中的潜力。随着老龄供体器官比例增加，仅依赖年龄这一指标已不足以评估器官质量。研究提出以衰老定量作为客观的器官质量评估指标，并结合离体机械灌注技术，实现衰老负担量化和靶向干预，从而功能性再条件化边缘供体器官、扩大可用供体池。这为 senolytic 疗法的临床转化提供了一个独特而实际的应用场景。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42339134/
+
+### 其他新增论文
+
+#### 7. NAD 缺乏与代谢性脑疾病：早期补充 NAD 前体的神经保护作用
+- **标题**: Metabolic Brain Disorders: Prodromes, Symptoms, and Syndromes
+- **期刊**: International Journal of Molecular Sciences (2026-06-26)
+- **关键发现**: 综述了脑衰老和神经退行性变与葡萄糖代谢的年龄相关性下降之间的关系，指出 NAD 缺乏是这一过程的核心驱动因素。下丘脑和皮层/皮层下核团的 GABA 能和谷氨酸能结构最先出现衰老信号。临床研究提示早期补充 NAD 前体可能有助于延缓衰老和神经退行性变进程，但在疾病完全发展后保护效果降低。强调了 NAD 干预的时机窗口重要性。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42352920/
+
+#### 8. 多成分膳食补充剂延缓 C. elegans 年龄相关活动能力下降
+- **标题**: A multi-ingredient food supplement slows age-dependent decline of mobility and influences gene expression in C. elegans
+- **期刊**: Biogerontology (2026-06-28)
+- **关键发现**: 测试了两种市售营养基产品（含 NAD+ 前体、白藜芦醇、牛磺酸、紫檀芪等）在快速衰老的秀丽隐杆线虫模型中对健康span的影响。含 40+ 成分的 V14™ 表现出增加随龄运动能力的效果，转录组分析显示其调节了代谢和应激反应相关通路。虽然这是线虫模型，但为多成分营养干预的机制研究提供了参考。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42365207/
+
+---
+
+## 上周新增论文 (2026.06.16 – 2026.06.22)
 
 ### 📌 重点论文
 
