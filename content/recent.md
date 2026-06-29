@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-28 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-29 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 27 | A prematurely terminated phase 2, randomised trial to evaluate immunogenicity and reactogenicity of a single versus two-dose primary vaccination regimen of the mRNA vaccine BNT162b2 in previously SARS-CoV-2 infected children 5-11 years old (CoVacc trial). | Vaccine | [42364277](https://pubmed.ncbi.nlm.nih.gov/42364277/) | A prematurely terminated phase 2, randomised trial to evalua... |
-| 2026 Jun 27 | Meiosis-Specific Cohesin in Mammalian Germ Cells. | Biology of reproduction | [42364171](https://pubmed.ncbi.nlm.nih.gov/42364171/) | Meiosis-Specific Cohesin in Mammalian Germ Cells. |
-| 2026 Jun 24 | Dynamic tRNA modification landscapes reveal METTL1 in fibroblasts as a central regulator of aging. | Science China. Life sciences | [42364058](https://pubmed.ncbi.nlm.nih.gov/42364058/) | Dynamic tRNA modification landscapes reveal METTL1 in fibrob... |
-| 2026 Jun 27 | Combined metformin and Taurine attenuate age-related bone loss. | Molecular biology reports | [42364025](https://pubmed.ncbi.nlm.nih.gov/42364025/) | Combined metformin and Taurine attenuate age-related bone lo... |
-| 2026 Jun 27 | The Iron Lung: Ferroptosis and Iron Regulation in Aging and Lung Diseases. | Physiology (Bethesda, Md.) | [42363743](https://pubmed.ncbi.nlm.nih.gov/42363743/) | The Iron Lung: Ferroptosis and Iron Regulation in Aging and ... |
+| 2026 Jun 27 | Dependence of the Extra-Cellular Diffusion Coefficient on the Fractions of Neurites and Cell Bodies in Gray Matter. | Magnetic resonance in medicine | [42365425](https://pubmed.ncbi.nlm.nih.gov/42365425/) | Dependence of the Extra-Cellular Diffusion Coefficient on th... |
+| 2026 Jun | A comprehensive review on chemical structure, quality control, pharmacological effects, and structure-activity relationship of saponins from Zhuzishen (). | Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan | [42365423](https://pubmed.ncbi.nlm.nih.gov/42365423/) | A comprehensive review on chemical structure, quality contro... |
+| 2026 Jun 27 | Removal of aging microenvironment of bone defects can effectively promote bone defect repair. | Journal of translational medicine | [42365373](https://pubmed.ncbi.nlm.nih.gov/42365373/) | Removal of aging microenvironment of bone defects can effect... |
+| 2026 Jun 27 | Chlorogenic acid attenuates skin senescence and UVR-induced photoaging via the modulation of mitochondrial function. | Journal of translational medicine | [42365366](https://pubmed.ncbi.nlm.nih.gov/42365366/) | Chlorogenic acid attenuates skin senescence and UVR-induced ... |
+| 2026 Jun 27 | Programmable aging function-related mitochondrial DNA 5-methylcytosine (m5C) modification with a TALE-directed methyltransferase. | Cell communication and signaling : CCS | [42365323](https://pubmed.ncbi.nlm.nih.gov/42365323/) | Programmable aging function-related mitochondrial DNA 5-meth... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 28 | A multi-ingredient food supplement slows age-dependent decline of mobility and influences gene expression in C. elegans. | Biogerontology | [42365207](https://pubmed.ncbi.nlm.nih.gov/42365207/) | A multi-ingredient food supplement slows age-dependent decli... |
+| 2026 Jun 27 | NAD+ modulates mitochondrial vulnerability in MERTK-associated models of retinitis pigmentosa. | Nature communications | [42365006](https://pubmed.ncbi.nlm.nih.gov/42365006/) | NAD+ modulates mitochondrial vulnerability in MERTK-associat... |
 | 2026 Jun 26 | Meta-analysis of DNA methylation aging signatures in 17 human tissues. | Nature aging | [42362890](https://pubmed.ncbi.nlm.nih.gov/42362890/) | Meta-analysis of DNA methylation aging signatures in 17 huma... |
 | 2026 Jun 26 | SIRT3/AARS2 regulates SOD2 lactylation to determine neuronal fate in TBI. | Molecular neurobiology | [42360564](https://pubmed.ncbi.nlm.nih.gov/42360564/) | SIRT3/AARS2 regulates SOD2 lactylation to determine neuronal... |
 | 2026 | Interplay of Mitochondrial Dynamics, Nutrition, and Vitamins: Evidence From Experimental and Human Studies With Implications for Women's Health. | Oxidative medicine and cellular longevity | [42358203](https://pubmed.ncbi.nlm.nih.gov/42358203/) | Interplay of Mitochondrial Dynamics, Nutrition, and Vitamins... |
-| 2026 Jun 22 | Metabolomic Changes in the Rat Eye Lens During the Cataract Onset. | Molecules (Basel, Switzerland) | [42357589](https://pubmed.ncbi.nlm.nih.gov/42357589/) | Metabolomic Changes in the Rat Eye Lens During the Cataract ... |
-| 2026 Jun 17 | Exogenous Nucleotides as Functional Food Supplements: A Bibliometric Analysis of Global Research Trends (2000-2025). | Foods (Basel, Switzerland) | [42354158](https://pubmed.ncbi.nlm.nih.gov/42354158/) | Exogenous Nucleotides as Functional Food Supplements: A Bibl... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-28 | 自动生成*
+*最后更新：2026-06-29 | 自动生成*
