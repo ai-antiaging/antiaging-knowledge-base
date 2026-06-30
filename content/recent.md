@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-29 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-06-30 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 27 | Dependence of the Extra-Cellular Diffusion Coefficient on the Fractions of Neurites and Cell Bodies in Gray Matter. | Magnetic resonance in medicine | [42365425](https://pubmed.ncbi.nlm.nih.gov/42365425/) | Dependence of the Extra-Cellular Diffusion Coefficient on th... |
-| 2026 Jun | A comprehensive review on chemical structure, quality control, pharmacological effects, and structure-activity relationship of saponins from Zhuzishen (). | Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan | [42365423](https://pubmed.ncbi.nlm.nih.gov/42365423/) | A comprehensive review on chemical structure, quality contro... |
-| 2026 Jun 27 | Removal of aging microenvironment of bone defects can effectively promote bone defect repair. | Journal of translational medicine | [42365373](https://pubmed.ncbi.nlm.nih.gov/42365373/) | Removal of aging microenvironment of bone defects can effect... |
-| 2026 Jun 27 | Chlorogenic acid attenuates skin senescence and UVR-induced photoaging via the modulation of mitochondrial function. | Journal of translational medicine | [42365366](https://pubmed.ncbi.nlm.nih.gov/42365366/) | Chlorogenic acid attenuates skin senescence and UVR-induced ... |
-| 2026 Jun 27 | Programmable aging function-related mitochondrial DNA 5-methylcytosine (m5C) modification with a TALE-directed methyltransferase. | Cell communication and signaling : CCS | [42365323](https://pubmed.ncbi.nlm.nih.gov/42365323/) | Programmable aging function-related mitochondrial DNA 5-meth... |
+| 2026 Jun 24 | Targeting Cellular Senescence as a Therapeutic Strategy to Attenuate Pulmonary Fibrosis Associated with Metabolic Syndrome. | Aging and disease | [42372238](https://pubmed.ncbi.nlm.nih.gov/42372238/) | Targeting Cellular Senescence as a Therapeutic Strategy to A... |
+| 2026 Jun 22 | Rapamycin Attenuates Age-Related Changes in Marmoset Submandibular Gland: A Non-Human Primate Model of Human Oral Aging. | Aging and disease | [42372235](https://pubmed.ncbi.nlm.nih.gov/42372235/) | Rapamycin Attenuates Age-Related Changes in Marmoset Submand... |
+| 2026 Jun 26 | Vitamin C, ACSL4, and Ferro-Aging: Mechanistic Insights and Translational Perspectives from Primate Studies. | Aging and disease | [42372234](https://pubmed.ncbi.nlm.nih.gov/42372234/) | Vitamin C, ACSL4, and Ferro-Aging: Mechanistic Insights and ... |
+| 2026 Jun 27 | Metabolism of Young and Aged Hematopoietic and Acute Myeloid Leukemia Stem Cells: Insights for Rejuvenation and Therapy. | Aging and disease | [42372232](https://pubmed.ncbi.nlm.nih.gov/42372232/) | Metabolism of Young and Aged Hematopoietic and Acute Myeloid... |
+| 2026 Jun 7 | MHC class II on melanoma cells regulates the anti-tumor T cell response. | Journal of immunology (Baltimore, Md. : 1950) | [42372115](https://pubmed.ncbi.nlm.nih.gov/42372115/) | MHC class II on melanoma cells regulates the anti-tumor T ce... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 19 | Nicotinamide Riboside Enhances Mitochondrial Bioenergetics and Dopaminergic Signaling Independent of Neuron Survival in a Double-Hit Parkinson's Model. | Research square | [42370283](https://pubmed.ncbi.nlm.nih.gov/42370283/) | Nicotinamide Riboside Enhances Mitochondrial Bioenergetics a... |
+| 2026 Jun 15 | Palmitate drives mitochondrial and ER stress through disruption of the CD73-Adenosine axis. | Research square | [42370238](https://pubmed.ncbi.nlm.nih.gov/42370238/) | Palmitate drives mitochondrial and ER stress through disrupt... |
+| 2026 Jun 28 | The Ageing Adipose Paradox: Implications for Metabolic Health. | Diabetes, obesity & metabolism | [42366180](https://pubmed.ncbi.nlm.nih.gov/42366180/) | The Ageing Adipose Paradox: Implications for Metabolic Healt... |
+| 2026 Jun 26 | Redox coupling of lactate and β-hydroxybutyrate: An inter-organ circuit linking metabolic flexibility, mitochondrial adaptation, and disease. | Redox biology | [42365823](https://pubmed.ncbi.nlm.nih.gov/42365823/) | Redox coupling of lactate and β-hydroxybutyrate: An inter-or... |
 | 2026 Jun 28 | A multi-ingredient food supplement slows age-dependent decline of mobility and influences gene expression in C. elegans. | Biogerontology | [42365207](https://pubmed.ncbi.nlm.nih.gov/42365207/) | A multi-ingredient food supplement slows age-dependent decli... |
-| 2026 Jun 27 | NAD+ modulates mitochondrial vulnerability in MERTK-associated models of retinitis pigmentosa. | Nature communications | [42365006](https://pubmed.ncbi.nlm.nih.gov/42365006/) | NAD+ modulates mitochondrial vulnerability in MERTK-associat... |
-| 2026 Jun 26 | Meta-analysis of DNA methylation aging signatures in 17 human tissues. | Nature aging | [42362890](https://pubmed.ncbi.nlm.nih.gov/42362890/) | Meta-analysis of DNA methylation aging signatures in 17 huma... |
-| 2026 Jun 26 | SIRT3/AARS2 regulates SOD2 lactylation to determine neuronal fate in TBI. | Molecular neurobiology | [42360564](https://pubmed.ncbi.nlm.nih.gov/42360564/) | SIRT3/AARS2 regulates SOD2 lactylation to determine neuronal... |
-| 2026 | Interplay of Mitochondrial Dynamics, Nutrition, and Vitamins: Evidence From Experimental and Human Studies With Implications for Women's Health. | Oxidative medicine and cellular longevity | [42358203](https://pubmed.ncbi.nlm.nih.gov/42358203/) | Interplay of Mitochondrial Dynamics, Nutrition, and Vitamins... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-29 | 自动生成*
+*最后更新：2026-06-30 | 自动生成*
