@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-06-30 · Aging and Disease: Chronogeroprotection——昼夜节律干预抗衰老新框架](/news/snapshots/2026-06-30/)** — 首次提出"时间保护衰老"概念，将光照、睡眠、进食、运动节律整合为系统化抗衰老行动包，嵌入临床与公共卫生体系（Aging and Disease IF≈9.4, 2026年6月）
 - **[2026-06-29 · Sci China Life Sci: tRNA 甲基化调控因子 METTL1 驱动成纤维细胞衰老](/news/snapshots/2026-06-29/)** — 首次将 tRNA 翻译后修饰与细胞衰老直接关联，METTL1 随衰老显著下降，敲除加速衰老、恢复表达可逆转部分衰老表型（Sci China Life Sci IF≈7.5, 2026年6月）
 - **[2026-06-28 · J Cachexia Sarcopenia Muscle: 每周雷帕霉素联合运动 RCT（RAPA-EX-01）](/news/snapshots/2026-06-28/)** — 首项将雷帕霉素周期化给药与运动干预相结合的人体 RCT，基于"周期假说"探索 mTOR 靶向抗衰老策略的人体应用（J Cachexia Sarcopenia Muscle IF≈11.0, 2026年6月）
 - **[2026-06-27 · Science Advances: FUBL-3/FUBP1 介导线粒体应激→染色质重塑→长寿](/news/snapshots/2026-06-27/)** — 线粒体应激信号经 FUBL-3/FUBP1 传导至细胞核，驱动染色质凝缩并激活 UPRmt，从线虫到人类高度保守，过表达足以延长寿命（Science Advances IF≈13.6, 2026年6月）
