@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-01](2026-07-01/) — Nat Metab 线粒体质量控制与人类长寿综述(IF≈20+)、Alzheimers Res Ther 淀粉样蛋白与星形胶质细胞协同加速内侧颞叶衰老(IF≈7.5)、J Nutr 8大队列IPD Meta分析饮食与认知衰老关联(IF≈5.9)、Immunol Invest Senolytics靶向免疫衰老与炎症衰老综述、Nat Immunol 胚胎衰老观点文章(IF≈30+)
 - [2026-06-30](2026-06-30/) — Aging Ment Health 欧洲39,647人队列抑郁与体力活动联合影响衰弱(IF≈5.0)、JMIR Aging 中国7,934人队列昼夜节律综合征与肌肉衰老(IF≈5.0+)、Aging Dis 时间保护衰老Chronogeroprotection新框架(IF≈9.4)、Aging Dis 维生素C-ACSL4-铁老化轴灵长类研究(IF≈9.4)、Aging Dis IRG1/衣康酸抑制小胶质细胞衰老样转变(IF≈9.4)
 - [2026-06-28](2026-06-28/) — Sci China Life Sci METTL1调控tRNA修饰驱动成纤维细胞衰老(IF≈7.5)、GeroScience 血浆蛋白标志物预测八旬老人失能与死亡风险(IF≈5.5)、J Cachexia Sarcopenia Muscle 雷帕霉素联合运动老年人RCT(IF≈11.0)、Mol Biol Rep 二甲双胍+牛磺酸减轻年龄相关骨丢失、Int J Cancer 表观遗传衰老标志物关联乳腺癌生存(IF≈6.4)
 - [2026-06-27](2026-06-27/) — Science Advances FUBL-3/FUBP1介导线粒体应激-染色质重塑长寿通路(IF≈13.6)、J Clin Endocrinol Metab 低睾酮预测HIV男性衰弱风险(IF≈5.8)、Eur J Nucl Med Mol Imaging 二甲双胍降低PSMA放射治疗肾脏剂量(IF≈10.0)、Aging Clin Exp Res 诊断前衰弱预测癌症生存
