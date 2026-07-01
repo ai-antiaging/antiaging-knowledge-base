@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-06-30 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-01 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 24 | Targeting Cellular Senescence as a Therapeutic Strategy to Attenuate Pulmonary Fibrosis Associated with Metabolic Syndrome. | Aging and disease | [42372238](https://pubmed.ncbi.nlm.nih.gov/42372238/) | Targeting Cellular Senescence as a Therapeutic Strategy to A... |
-| 2026 Jun 22 | Rapamycin Attenuates Age-Related Changes in Marmoset Submandibular Gland: A Non-Human Primate Model of Human Oral Aging. | Aging and disease | [42372235](https://pubmed.ncbi.nlm.nih.gov/42372235/) | Rapamycin Attenuates Age-Related Changes in Marmoset Submand... |
-| 2026 Jun 26 | Vitamin C, ACSL4, and Ferro-Aging: Mechanistic Insights and Translational Perspectives from Primate Studies. | Aging and disease | [42372234](https://pubmed.ncbi.nlm.nih.gov/42372234/) | Vitamin C, ACSL4, and Ferro-Aging: Mechanistic Insights and ... |
-| 2026 Jun 27 | Metabolism of Young and Aged Hematopoietic and Acute Myeloid Leukemia Stem Cells: Insights for Rejuvenation and Therapy. | Aging and disease | [42372232](https://pubmed.ncbi.nlm.nih.gov/42372232/) | Metabolism of Young and Aged Hematopoietic and Acute Myeloid... |
-| 2026 Jun 7 | MHC class II on melanoma cells regulates the anti-tumor T cell response. | Journal of immunology (Baltimore, Md. : 1950) | [42372115](https://pubmed.ncbi.nlm.nih.gov/42372115/) | MHC class II on melanoma cells regulates the anti-tumor T ce... |
+| 2026 | [The role of lipid metabolism disorders in the activation of cellular aging markers in atherosclerosis in elderly and senile individuals.]. | Advances in gerontology = Uspekhi gerontologii | [42378479](https://pubmed.ncbi.nlm.nih.gov/42378479/) | [The role of lipid metabolism disorders in the activation of... |
+| 2026 Jul 14 | Axisymmetric Crystallization-Guiding Agent Directs Perovskite Films Toward Densification for High-Performance Solar Cells. | ChemSusChem | [42378391](https://pubmed.ncbi.nlm.nih.gov/42378391/) | Axisymmetric Crystallization-Guiding Agent Directs Perovskit... |
+| 2026 Jun | A single Citrobacter rodentium infection in Pink1 knockout and wild-type mice leads to regional blood-brain-barrier perturbation and limited microglial activation without dopamine neuron axon terminal loss. | PLoS pathogens | [42378309](https://pubmed.ncbi.nlm.nih.gov/42378309/) | A single Citrobacter rodentium infection in Pink1 knockout a... |
+| 2026 Jul 7 | Tau protein as a regulator of mitochondrial function and dynamics. | Proceedings of the National Academy of Sciences of the United States of America | [42378301](https://pubmed.ncbi.nlm.nih.gov/42378301/) | Tau protein as a regulator of mitochondrial function and dyn... |
+| 2026 Jun 30 | Dysregulated methylation‒ubiquitination crosstalk accelerates intervertebral disc degeneration via MED12 destabilization and cGAS/STING activation. | The Journal of clinical investigation | [42378049](https://pubmed.ncbi.nlm.nih.gov/42378049/) | Dysregulated methylation‒ubiquitination crosstalk accelerate... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 30 | Nuciferine attenuates uric acid-induced apoptosis in HUVECs via regulation of the SIRT6/ROS signaling pathway. | Molecular biology reports | [42377682](https://pubmed.ncbi.nlm.nih.gov/42377682/) | Nuciferine attenuates uric acid-induced apoptosis in HUVECs ... |
+| 2026 | Effects of Kiperin Elixea, a multicomponent antioxidant supplement, on redox homeostasis and longevity-associated gene expression in human epithelial cell models. | Frontiers in aging | [42375387](https://pubmed.ncbi.nlm.nih.gov/42375387/) | Effects of Kiperin Elixea, a multicomponent antioxidant supp... |
+| 2026 Jun 30 | The Clock(Δ19) mutation promotes osteoarthritis via impairing SIRT3-mediated mitochondrial homeostasis in mice. | Journal of orthopaedic surgery and research | [42374427](https://pubmed.ncbi.nlm.nih.gov/42374427/) | The Clock(Δ19) mutation promotes osteoarthritis via impairin... |
+| 2026 Jun 29 | Mitochondrial quality control in human ageing and longevity. | Nature metabolism | [42374094](https://pubmed.ncbi.nlm.nih.gov/42374094/) | Mitochondrial quality control in human ageing and longevity. |
 | 2026 Jun 19 | Nicotinamide Riboside Enhances Mitochondrial Bioenergetics and Dopaminergic Signaling Independent of Neuron Survival in a Double-Hit Parkinson's Model. | Research square | [42370283](https://pubmed.ncbi.nlm.nih.gov/42370283/) | Nicotinamide Riboside Enhances Mitochondrial Bioenergetics a... |
-| 2026 Jun 15 | Palmitate drives mitochondrial and ER stress through disruption of the CD73-Adenosine axis. | Research square | [42370238](https://pubmed.ncbi.nlm.nih.gov/42370238/) | Palmitate drives mitochondrial and ER stress through disrupt... |
-| 2026 Jun 28 | The Ageing Adipose Paradox: Implications for Metabolic Health. | Diabetes, obesity & metabolism | [42366180](https://pubmed.ncbi.nlm.nih.gov/42366180/) | The Ageing Adipose Paradox: Implications for Metabolic Healt... |
-| 2026 Jun 26 | Redox coupling of lactate and β-hydroxybutyrate: An inter-organ circuit linking metabolic flexibility, mitochondrial adaptation, and disease. | Redox biology | [42365823](https://pubmed.ncbi.nlm.nih.gov/42365823/) | Redox coupling of lactate and β-hydroxybutyrate: An inter-or... |
-| 2026 Jun 28 | A multi-ingredient food supplement slows age-dependent decline of mobility and influences gene expression in C. elegans. | Biogerontology | [42365207](https://pubmed.ncbi.nlm.nih.gov/42365207/) | A multi-ingredient food supplement slows age-dependent decli... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-06-30 | 自动生成*
+*最后更新：2026-07-01 | 自动生成*
