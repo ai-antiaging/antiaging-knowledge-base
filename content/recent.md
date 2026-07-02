@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-01 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-02 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 | [The role of lipid metabolism disorders in the activation of cellular aging markers in atherosclerosis in elderly and senile individuals.]. | Advances in gerontology = Uspekhi gerontologii | [42378479](https://pubmed.ncbi.nlm.nih.gov/42378479/) | [The role of lipid metabolism disorders in the activation of... |
-| 2026 Jul 14 | Axisymmetric Crystallization-Guiding Agent Directs Perovskite Films Toward Densification for High-Performance Solar Cells. | ChemSusChem | [42378391](https://pubmed.ncbi.nlm.nih.gov/42378391/) | Axisymmetric Crystallization-Guiding Agent Directs Perovskit... |
-| 2026 Jun | A single Citrobacter rodentium infection in Pink1 knockout and wild-type mice leads to regional blood-brain-barrier perturbation and limited microglial activation without dopamine neuron axon terminal loss. | PLoS pathogens | [42378309](https://pubmed.ncbi.nlm.nih.gov/42378309/) | A single Citrobacter rodentium infection in Pink1 knockout a... |
-| 2026 Jul 7 | Tau protein as a regulator of mitochondrial function and dynamics. | Proceedings of the National Academy of Sciences of the United States of America | [42378301](https://pubmed.ncbi.nlm.nih.gov/42378301/) | Tau protein as a regulator of mitochondrial function and dyn... |
-| 2026 Jun 30 | Dysregulated methylation‒ubiquitination crosstalk accelerates intervertebral disc degeneration via MED12 destabilization and cGAS/STING activation. | The Journal of clinical investigation | [42378049](https://pubmed.ncbi.nlm.nih.gov/42378049/) | Dysregulated methylation‒ubiquitination crosstalk accelerate... |
+| 2026 Jul 3 | Tetraphosphorylated phthalocyanine-based self-assembled monolayer stabilizes perovskite photovoltaics. | Science advances | [42384818](https://pubmed.ncbi.nlm.nih.gov/42384818/) | Tetraphosphorylated phthalocyanine-based self-assembled mono... |
+| 2026 Jul 3 | Illuminating aging with multimodal optical metabolic imaging. | Science advances | [42384794](https://pubmed.ncbi.nlm.nih.gov/42384794/) | Illuminating aging with multimodal optical metabolic imaging... |
+| 2026 Jul | Performance Evaluation of Highly Uniform Astragalus Polysaccharide/Silk Fibroin Microspheres Fabricated via Microfluidics as Biodegradable Fillers: Collagen Regeneration and Tissue Reaction. | Journal of biomedical materials research. Part A | [42383546](https://pubmed.ncbi.nlm.nih.gov/42383546/) | Performance Evaluation of Highly Uniform Astragalus Polysacc... |
+| 2026 Jul 1 | Disentangling the response to lysosomal damage. | Journal of cell science | [42383423](https://pubmed.ncbi.nlm.nih.gov/42383423/) | Disentangling the response to lysosomal damage. |
+| 2026 Sep | The role of ATF4 in neurons under mitochondrial stress. | NAR genomics and bioinformatics | [42383245](https://pubmed.ncbi.nlm.nih.gov/42383245/) | The role of ATF4 in neurons under mitochondrial stress. |
 
 ### NAD+ 与线粒体
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 28 | Spermidine mitigates glucocorticoid-induced bone osteoporosis by targeting oxidative stress and RANKL/OPG pathway. | Tissue & cell | [42378850](https://pubmed.ncbi.nlm.nih.gov/42378850/) | Spermidine mitigates glucocorticoid-induced bone osteoporosi... |
 | 2026 Jun 26 | Metabolic control of RNA splicing by polyamines. | Trends in biochemical sciences | [42362467](https://pubmed.ncbi.nlm.nih.gov/42362467/) | Metabolic control of RNA splicing by polyamines. |
 | 2026 | Spermidine in Alzheimer's Disease: Evidence from Animal Models and Human Studies. | Degenerative neurological and neuromuscular disease | [42358231](https://pubmed.ncbi.nlm.nih.gov/42358231/) | Spermidine in Alzheimer's Disease: Evidence from Animal Mode... |
-| 2026 Jun 22 | AOC1 regulates labor initiation through spermidine-induced autophagy of placental trophoblast cells via EIF5A hypusination. | Nature communications | [42331842](https://pubmed.ncbi.nlm.nih.gov/42331842/) | AOC1 regulates labor initiation through spermidine-induced a... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-01 | 自动生成*
+*最后更新：2026-07-02 | 自动生成*
