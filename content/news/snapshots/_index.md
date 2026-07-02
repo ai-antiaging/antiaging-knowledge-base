@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-07-02 · Nature Aging: 端粒DNA损伤反应抑制逆转造血系统衰老](/news/snapshots/2026-07-02/)** — 端粒反义寡核苷酸(tASO)精准抑制tDDR信号，在端粒酶缺陷小鼠、老年野生型小鼠和老年供体人类造血干细胞中均成功逆转衰老表型，为端粒相关血液疾病提供全新治疗方向（Nature Aging IF≈18, 2026年7月）
 - **[2026-07-01 · Nat Metab 重磅综述：线粒体质量控制——人类健康长寿的核心枢纽](/news/snapshots/2026-07-01/)** — NIH 团队系统综述 MQC 在代谢韧性中的核心作用，将 NAD⁺ 补充、AMPK 激活剂和热量限制统一于线粒体维护框架，提出 MQC 作为抗衰老治疗（gerotherapeutic）靶点的转化路径（Nat Metab IF≈20+, 2026年6月）
 - **[2026-06-30 · Aging and Disease: Chronogeroprotection——昼夜节律干预抗衰老新框架](/news/snapshots/2026-06-30/)** — 首次提出"时间保护衰老"概念，将光照、睡眠、进食、运动节律整合为系统化抗衰老行动包，嵌入临床与公共卫生体系（Aging and Disease IF≈9.4, 2026年6月）
 - **[2026-06-29 · Sci China Life Sci: tRNA 甲基化调控因子 METTL1 驱动成纤维细胞衰老](/news/snapshots/2026-06-29/)** — 首次将 tRNA 翻译后修饰与细胞衰老直接关联，METTL1 随衰老显著下降，敲除加速衰老、恢复表达可逆转部分衰老表型（Sci China Life Sci IF≈7.5, 2026年6月）
