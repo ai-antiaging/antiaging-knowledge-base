@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-02 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-03 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,39 +15,26 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 3 | Tetraphosphorylated phthalocyanine-based self-assembled monolayer stabilizes perovskite photovoltaics. | Science advances | [42384818](https://pubmed.ncbi.nlm.nih.gov/42384818/) | Tetraphosphorylated phthalocyanine-based self-assembled mono... |
-| 2026 Jul 3 | Illuminating aging with multimodal optical metabolic imaging. | Science advances | [42384794](https://pubmed.ncbi.nlm.nih.gov/42384794/) | Illuminating aging with multimodal optical metabolic imaging... |
-| 2026 Jul | Performance Evaluation of Highly Uniform Astragalus Polysaccharide/Silk Fibroin Microspheres Fabricated via Microfluidics as Biodegradable Fillers: Collagen Regeneration and Tissue Reaction. | Journal of biomedical materials research. Part A | [42383546](https://pubmed.ncbi.nlm.nih.gov/42383546/) | Performance Evaluation of Highly Uniform Astragalus Polysacc... |
-| 2026 Jul 1 | Disentangling the response to lysosomal damage. | Journal of cell science | [42383423](https://pubmed.ncbi.nlm.nih.gov/42383423/) | Disentangling the response to lysosomal damage. |
-| 2026 Sep | The role of ATF4 in neurons under mitochondrial stress. | NAR genomics and bioinformatics | [42383245](https://pubmed.ncbi.nlm.nih.gov/42383245/) | The role of ATF4 in neurons under mitochondrial stress. |
+| 2026 Feb 2 | Resveratrol in Combination Therapy: Mechanisms and Limitations of Resveratrol in Cancer, Regeneration, and Chronic Disease. | Iranian biomedical journal | [42391634](https://pubmed.ncbi.nlm.nih.gov/42391634/) | Resveratrol in Combination Therapy: Mechanisms and Limitatio... |
+| 2026 Jul 2 | Extracellular matrix reprogramming by the YAP/TAZ- TGF-ß2 axis drives immune exclusion in cholangiocarcinoma models. | The Journal of clinical investigation | [42390936](https://pubmed.ncbi.nlm.nih.gov/42390936/) | Extracellular matrix reprogramming by the YAP/TAZ- TGF-ß2 ax... |
+| 2026 Jul 2 | MSC-derived extracellular vesicles accelerate wound healing in senescent fibroblast cultures. | Biogerontology | [42390711](https://pubmed.ncbi.nlm.nih.gov/42390711/) | MSC-derived extracellular vesicles accelerate wound healing ... |
+| 2026 Jul 2 | Effects of low-level laser therapy on the aging process of human dermal fibroblast cells. | Lasers in medical science | [42390659](https://pubmed.ncbi.nlm.nih.gov/42390659/) | Effects of low-level laser therapy on the aging process of h... |
+| 2026 Jul 2 | Downregulation of PCAF inhibits vascular smooth muscle cells senescence by reducing oxidative stress injury via activating the Nrf2/ARE pathway. | Clinical hemorheology and microcirculation | [42390375](https://pubmed.ncbi.nlm.nih.gov/42390375/) | Downregulation of PCAF inhibits vascular smooth muscle cells... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Jun 30 | Nuciferine attenuates uric acid-induced apoptosis in HUVECs via regulation of the SIRT6/ROS signaling pathway. | Molecular biology reports | [42377682](https://pubmed.ncbi.nlm.nih.gov/42377682/) | Nuciferine attenuates uric acid-induced apoptosis in HUVECs ... |
-| 2026 | Effects of Kiperin Elixea, a multicomponent antioxidant supplement, on redox homeostasis and longevity-associated gene expression in human epithelial cell models. | Frontiers in aging | [42375387](https://pubmed.ncbi.nlm.nih.gov/42375387/) | Effects of Kiperin Elixea, a multicomponent antioxidant supp... |
-| 2026 Jun 30 | The Clock(Δ19) mutation promotes osteoarthritis via impairing SIRT3-mediated mitochondrial homeostasis in mice. | Journal of orthopaedic surgery and research | [42374427](https://pubmed.ncbi.nlm.nih.gov/42374427/) | The Clock(Δ19) mutation promotes osteoarthritis via impairin... |
-| 2026 Jun 29 | Mitochondrial quality control in human ageing and longevity. | Nature metabolism | [42374094](https://pubmed.ncbi.nlm.nih.gov/42374094/) | Mitochondrial quality control in human ageing and longevity. |
-| 2026 Jun 19 | Nicotinamide Riboside Enhances Mitochondrial Bioenergetics and Dopaminergic Signaling Independent of Neuron Survival in a Double-Hit Parkinson's Model. | Research square | [42370283](https://pubmed.ncbi.nlm.nih.gov/42370283/) | Nicotinamide Riboside Enhances Mitochondrial Bioenergetics a... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Jun 24 | Interrupting a mitochondrial DNA-driven innate immune circuit attenuates hepatic tissue remodeling and fibrotic architecture in experimental steatohepatitis. | Tissue & cell | [42361412](https://pubmed.ncbi.nlm.nih.gov/42361412/) | Interrupting a mitochondrial DNA-driven innate immune circui... |
-| 2026 Jun 24 | Urolithin A improves mitochondrial dysfunction induced by oxidative stress in human dermal papilla cells. | BMB reports | [42337978](https://pubmed.ncbi.nlm.nih.gov/42337978/) | Urolithin A improves mitochondrial dysfunction induced by ox... |
-| 2026 Jun 11 | Restoration of mitochondrial dynamics and synaptic function by mitophagy enhancers in a tauopathy cell model. | Mitochondrion | [42276536](https://pubmed.ncbi.nlm.nih.gov/42276536/) | Restoration of mitochondrial dynamics and synaptic function ... |
-| 2026 Jun 8 | Rejuvenating Inter-organellar Communication Via Mitophagy in Ageing and Neurodegeneration. | Current neuropharmacology | [42261160](https://pubmed.ncbi.nlm.nih.gov/42261160/) | Rejuvenating Inter-organellar Communication Via Mitophagy in... |
-| 2026 Jun 4 | Autophagy activation by urolithin-a derivative UA-36 mitigates Friedreich's ataxia pathologies induced by frataxin deficiency. | Molecular biomedicine | [42240896](https://pubmed.ncbi.nlm.nih.gov/42240896/) | Autophagy activation by urolithin-a derivative UA-36 mitigat... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Jun 28 | Spermidine mitigates glucocorticoid-induced bone osteoporosis by targeting oxidative stress and RANKL/OPG pathway. | Tissue & cell | [42378850](https://pubmed.ncbi.nlm.nih.gov/42378850/) | Spermidine mitigates glucocorticoid-induced bone osteoporosi... |
-| 2026 Jun 26 | Metabolic control of RNA splicing by polyamines. | Trends in biochemical sciences | [42362467](https://pubmed.ncbi.nlm.nih.gov/42362467/) | Metabolic control of RNA splicing by polyamines. |
-| 2026 | Spermidine in Alzheimer's Disease: Evidence from Animal Models and Human Studies. | Degenerative neurological and neuromuscular disease | [42358231](https://pubmed.ncbi.nlm.nih.gov/42358231/) | Spermidine in Alzheimer's Disease: Evidence from Animal Mode... |
+*暂无最新文献*
+
 
 ---
 
@@ -61,4 +48,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-02 | 自动生成*
+*最后更新：2026-07-03 | 自动生成*
