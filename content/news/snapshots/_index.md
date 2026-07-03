@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- **[2026-07-03 · Molecular Carcinogenesis: 表观遗传时钟加速是头颈癌因果风险因素](/news/snapshots/2026-07-03/)** — 48个表观遗传时钟的孟德尔随机化首次证实生物学年龄加速与头颈鳞状细胞癌存在因果关系，为抗衰老干预的癌症预防价值提供人类遗传学证据（Mol Carcinogenesis IF≈4.8, 2026年7月）
 - **[2026-07-02 · Nature Aging: 端粒DNA损伤反应抑制逆转造血系统衰老](/news/snapshots/2026-07-02/)** — 端粒反义寡核苷酸(tASO)精准抑制tDDR信号，在端粒酶缺陷小鼠、老年野生型小鼠和老年供体人类造血干细胞中均成功逆转衰老表型，为端粒相关血液疾病提供全新治疗方向（Nature Aging IF≈18, 2026年7月）
 - **[2026-07-01 · Nat Metab 重磅综述：线粒体质量控制——人类健康长寿的核心枢纽](/news/snapshots/2026-07-01/)** — NIH 团队系统综述 MQC 在代谢韧性中的核心作用，将 NAD⁺ 补充、AMPK 激活剂和热量限制统一于线粒体维护框架，提出 MQC 作为抗衰老治疗（gerotherapeutic）靶点的转化路径（Nat Metab IF≈20+, 2026年6月）
 - **[2026-06-30 · Aging and Disease: Chronogeroprotection——昼夜节律干预抗衰老新框架](/news/snapshots/2026-06-30/)** — 首次提出"时间保护衰老"概念，将光照、睡眠、进食、运动节律整合为系统化抗衰老行动包，嵌入临床与公共卫生体系（Aging and Disease IF≈9.4, 2026年6月）
