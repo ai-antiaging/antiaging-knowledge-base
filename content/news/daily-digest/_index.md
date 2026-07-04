@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-04](2026-07-04/) — Expert Opin Investig Drugs 长寿药理学临床进展评估(IF≈6.5)、Biol Trace Elem Res 微量营养素经生物衰老介导降低死亡率(NHANES 6387人)、Sci Adv 全脑不对称性变异与衰老关联揭示"左半球衰老"新范式(IF≈13.6)、Cell Rep STING-EV轴驱动外周炎症衰老致神经退行性变(IF≈8.8)、J Gerontol A 青少年期饮食限制终身改善认知与衰弱(IF≈5.0)
 - [2026-07-03](2026-07-03/) — Mol Carcinog 表观遗传时钟加速增加头颈癌风险MR分析、Mol Carcinog FOXO4-DRI衰老清除剂增敏胶质母细胞瘤化疗、Mater Today Bio NMN联合金合欢素靶向递送恢复精子活力、Transl Vis Sci Technol SIRT1-Nrf2通路神经保护、Toxicol Rep 山柰酚延长寿命改善药物诱导衰老
 - [2026-07-02](2026-07-02/) — Nat Aging tASO抑制端粒DNA损伤反应逆转造血衰老(IF≈18)、Ageing Res Rev 数字技术促进健康长寿政策议程(IF≈31)、Sci Rep 雷帕霉素抑制辐射诱导内皮衰老、Sci Rep 雷帕霉素联合烟酰胺逆转老年供体间充质干细胞衰老、Sci Rep 1940nm激光调节皮肤衰老表观遗传特征
 - [2026-07-01](2026-07-01/) — Nat Metab 线粒体质量控制与人类长寿综述(IF≈20+)、Alzheimers Res Ther 淀粉样蛋白与星形胶质细胞协同加速内侧颞叶衰老(IF≈7.5)、J Nutr 8大队列IPD Meta分析饮食与认知衰老关联(IF≈5.9)、Immunol Invest Senolytics靶向免疫衰老与炎症衰老综述、Nat Immunol 胚胎衰老观点文章(IF≈30+)
