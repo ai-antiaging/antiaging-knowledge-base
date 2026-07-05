@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-04 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-05 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 26 | The FVB-nmd SMARD1 mouse presents with early respiratory deficits and pathology that significantly impact lifespan. | Human molecular genetics | [42398093](https://pubmed.ncbi.nlm.nih.gov/42398093/) | The FVB-nmd SMARD1 mouse presents with early respiratory def... |
-| 2026 Jul 3 | Evolution and development of innate immune memory. | Science immunology | [42397938](https://pubmed.ncbi.nlm.nih.gov/42397938/) | Evolution and development of innate immune memory. |
-| 2026 Jul 3 | Distinct contributions of two subpopulations of subthalamic neurons to levodopa-induced dyskinesia. | Science advances | [42397913](https://pubmed.ncbi.nlm.nih.gov/42397913/) | Distinct contributions of two subpopulations of subthalamic ... |
-| 2026 Jul 3 | Extracellular matrix mediated neuroendocrine control of the thymus. | Neuroimmunomodulation | [42397764](https://pubmed.ncbi.nlm.nih.gov/42397764/) | Extracellular matrix mediated neuroendocrine control of the ... |
-| 2026 Jul 3 | STING-dependent peripheral inflammaging drives neurodegeneration via extracellular vesicles. | Cell reports | [42397737](https://pubmed.ncbi.nlm.nih.gov/42397737/) | STING-dependent peripheral inflammaging drives neurodegenera... |
+| 2026 Jul 4 | A cold-induced GDF15-secreting adipocyte subpopulation regulates energy homeostasis through endocrine signaling. | Cell reports | [42400908](https://pubmed.ncbi.nlm.nih.gov/42400908/) | A cold-induced GDF15-secreting adipocyte subpopulation regul... |
+| 2026 | A Sex-Specific Chimeric RNA in Female Immune Regulation: Case Study. | Methods in molecular biology (Clifton, N.J.) | [42400799](https://pubmed.ncbi.nlm.nih.gov/42400799/) | A Sex-Specific Chimeric RNA in Female Immune Regulation: Cas... |
+| 2026 Jul 4 | The Potential of Rehabilitation to Amplify Experience-Induced Myelin Plasticity and Remyelination in Multiple Sclerosis: A Narrative Review. | Current neurology and neuroscience reports | [42400702](https://pubmed.ncbi.nlm.nih.gov/42400702/) | The Potential of Rehabilitation to Amplify Experience-Induce... |
+| 2026 Jul 4 | Non-transferrin-bound iron uptake by cardiomyocytes. | Journal of molecular medicine (Berlin, Germany) | [42400642](https://pubmed.ncbi.nlm.nih.gov/42400642/) | Non-transferrin-bound iron uptake by cardiomyocytes. |
+| 2026 Jul-Aug | Alpinia zerumbet-Derived Extracellular Vesicles Protect Against UVB-Induced Photoaging by Enhancing Mitochondrial Bioenergetics and Skin Barrier Function. | BioFactors (Oxford, England) | [42400092](https://pubmed.ncbi.nlm.nih.gov/42400092/) | Alpinia zerumbet-Derived Extracellular Vesicles Protect Agai... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jul 3 | Delayed molecular aging, preservation of energy metabolism and enhanced exercise response in exercise-trained human muscle. | Nature aging | [42399371](https://pubmed.ncbi.nlm.nih.gov/42399371/) | Delayed molecular aging, preservation of energy metabolism a... |
 | 2026 Jul 2 | Complex I drives glutamine-dependent TCA cycle to support viability of MYC(high) breast cancer cells. | Cell reports | [42397738](https://pubmed.ncbi.nlm.nih.gov/42397738/) | Complex I drives glutamine-dependent TCA cycle to support vi... |
 | 2026 Jul 3 | PROMETHEUS clinical trial protocol: tailoring healthy ageing with lifestyle and nutraceuticals. | GeroScience | [42393428](https://pubmed.ncbi.nlm.nih.gov/42393428/) | PROMETHEUS clinical trial protocol: tailoring healthy ageing... |
 | 2026 Jul 2 | An enzyme kinetic model for quantitative interpretation of the role of nicotinamide nucleotide transhydrogenase (NNT) in cell physiology. | Free radical biology & medicine | [42392281](https://pubmed.ncbi.nlm.nih.gov/42392281/) | An enzyme kinetic model for quantitative interpretation of t... |
 | 2026 Aug | Postbiotic metabolites from Bifidobacterium adolescentis alleviates doxorubicin-induced aging in canine vascular endothelial cells. | Experimental and therapeutic medicine | [42389443](https://pubmed.ncbi.nlm.nih.gov/42389443/) | Postbiotic metabolites from Bifidobacterium adolescentis all... |
-| 2026 | Acetylation as a dynamic regulatory interface between plant stress memory, cross-tolerance, and crop resilience design. | Frontiers in plant science | [42389139](https://pubmed.ncbi.nlm.nih.gov/42389139/) | Acetylation as a dynamic regulatory interface between plant ... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -43,11 +43,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Jul 2 | Psychological stress drives aging-like hematopoietic stem cell dysfunction through a brain-gut-bone marrow axis. | Cell stem cell | [42392052](https://pubmed.ncbi.nlm.nih.gov/42392052/) | Psychological stress drives aging-like hematopoietic stem ce... |
-| 2026 Jun 28 | Spermidine mitigates glucocorticoid-induced bone osteoporosis by targeting oxidative stress and RANKL/OPG pathway. | Tissue & cell | [42378850](https://pubmed.ncbi.nlm.nih.gov/42378850/) | Spermidine mitigates glucocorticoid-induced bone osteoporosi... |
-| 2026 Jun 26 | Metabolic control of RNA splicing by polyamines. | Trends in biochemical sciences | [42362467](https://pubmed.ncbi.nlm.nih.gov/42362467/) | Metabolic control of RNA splicing by polyamines. |
+*暂无最新文献*
+
 
 ---
 
@@ -61,4 +58,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-04 | 自动生成*
+*最后更新：2026-07-05 | 自动生成*
