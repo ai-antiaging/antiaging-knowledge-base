@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-05 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-06 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 4 | A cold-induced GDF15-secreting adipocyte subpopulation regulates energy homeostasis through endocrine signaling. | Cell reports | [42400908](https://pubmed.ncbi.nlm.nih.gov/42400908/) | A cold-induced GDF15-secreting adipocyte subpopulation regul... |
-| 2026 | A Sex-Specific Chimeric RNA in Female Immune Regulation: Case Study. | Methods in molecular biology (Clifton, N.J.) | [42400799](https://pubmed.ncbi.nlm.nih.gov/42400799/) | A Sex-Specific Chimeric RNA in Female Immune Regulation: Cas... |
-| 2026 Jul 4 | The Potential of Rehabilitation to Amplify Experience-Induced Myelin Plasticity and Remyelination in Multiple Sclerosis: A Narrative Review. | Current neurology and neuroscience reports | [42400702](https://pubmed.ncbi.nlm.nih.gov/42400702/) | The Potential of Rehabilitation to Amplify Experience-Induce... |
-| 2026 Jul 4 | Non-transferrin-bound iron uptake by cardiomyocytes. | Journal of molecular medicine (Berlin, Germany) | [42400642](https://pubmed.ncbi.nlm.nih.gov/42400642/) | Non-transferrin-bound iron uptake by cardiomyocytes. |
-| 2026 Jul-Aug | Alpinia zerumbet-Derived Extracellular Vesicles Protect Against UVB-Induced Photoaging by Enhancing Mitochondrial Bioenergetics and Skin Barrier Function. | BioFactors (Oxford, England) | [42400092](https://pubmed.ncbi.nlm.nih.gov/42400092/) | Alpinia zerumbet-Derived Extracellular Vesicles Protect Agai... |
+| 2026 | Proteomic and Functional Comparison of Extracellular Vesicles from Wild-Type and Lyn-Deficient Stromal Cells. | Advances in experimental medicine and biology | [42401775](https://pubmed.ncbi.nlm.nih.gov/42401775/) | Proteomic and Functional Comparison of Extracellular Vesicle... |
+| 2026 Jul 4 | Joint trajectories of brain atrophy, white matter hyperintensities and cognition quantify brain maintenance. | Nature communications | [42401584](https://pubmed.ncbi.nlm.nih.gov/42401584/) | Joint trajectories of brain atrophy, white matter hyperinten... |
+| 2026 Jul 4 | Activation of Sirt3 reprograms mitochondrial function to regenerate intervertebral disc degeneration. | Experimental gerontology | [42401268](https://pubmed.ncbi.nlm.nih.gov/42401268/) | Activation of Sirt3 reprograms mitochondrial function to reg... |
+| 2026 Jul 4 | Effects of nutritional interventions on biomarkers of cellular senescence in humans: a systematic review. | Ageing research reviews | [42401265](https://pubmed.ncbi.nlm.nih.gov/42401265/) | Effects of nutritional interventions on biomarkers of cellul... |
+| 2026 Jul 4 | Ganoderic acid A alleviates metabolic dysfunction-associated fatty liver disease through attenuating steatosis and cellular apoptosis by targeting acetyl-CoA carboxylase. | International immunopharmacology | [42401090](https://pubmed.ncbi.nlm.nih.gov/42401090/) | Ganoderic acid A alleviates metabolic dysfunction-associated... |
 
 ### NAD+ 与线粒体
 
@@ -43,8 +43,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Jul 2 | Psychological stress drives aging-like hematopoietic stem cell dysfunction through a brain-gut-bone marrow axis. | Cell stem cell | [42392052](https://pubmed.ncbi.nlm.nih.gov/42392052/) | Psychological stress drives aging-like hematopoietic stem ce... |
+| 2026 Jun 28 | Spermidine mitigates glucocorticoid-induced bone osteoporosis by targeting oxidative stress and RANKL/OPG pathway. | Tissue & cell | [42378850](https://pubmed.ncbi.nlm.nih.gov/42378850/) | Spermidine mitigates glucocorticoid-induced bone osteoporosi... |
+| 2026 Jun 26 | Metabolic control of RNA splicing by polyamines. | Trends in biochemical sciences | [42362467](https://pubmed.ncbi.nlm.nih.gov/42362467/) | Metabolic control of RNA splicing by polyamines. |
 
 ---
 
@@ -58,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-05 | 自动生成*
+*最后更新：2026-07-06 | 自动生成*
