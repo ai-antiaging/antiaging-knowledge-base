@@ -2,7 +2,7 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-06-29 08:00 (Asia/Shanghai)  
+**最后更新**: 2026-07-06 08:00 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索) + Nature Aging
 
@@ -61,6 +61,74 @@
 - **期刊**: Biogerontology (2026-06-28)
 - **关键发现**: 测试了两种市售营养基产品（含 NAD+ 前体、白藜芦醇、牛磺酸、紫檀芪等）在快速衰老的秀丽隐杆线虫模型中对健康span的影响。含 40+ 成分的 V14™ 表现出增加随龄运动能力的效果，转录组分析显示其调节了代谢和应激反应相关通路。虽然这是线虫模型，但为多成分营养干预的机制研究提供了参考。
 - **链接**: https://pubmed.ncbi.nlm.nih.gov/42365207/
+
+---
+
+## 本周新增论文 (2026.06.30 – 2026.07.06)
+
+### 📌 重点论文
+
+#### 1. Ageing Research Reviews：营养干预对人类细胞衰老生物标志物影响的系统综述（重要综述）
+- **标题**: Effects of nutritional interventions on biomarkers of cellular senescence in humans: a systematic review
+- **期刊**: Ageing Res Rev. 2026 Jul 4:103224. PMID: 42401265
+- **关键发现**: 系统综述了营养干预对人体细胞衰老影响的临床证据。文章指出细胞衰老是衰老的基本机制，其特征是稳定的细胞周期停滞和促炎性分泌表型（SASP）的获得。综述建议使用多标志物和功能性相关的终点指标来评估营养干预的抗衰老效果。这是该领域少有的聚焦人类（而非动物模型）营养干预与细胞衰老关联的系统综述，为膳食补充剂和多成分营养干预的抗衰老功效提供了循证框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42401265/
+
+#### 2. Nature Aging：运动延缓分子衰老并保存能量代谢（人体研究，重磅）
+- **标题**: Delayed molecular aging, preservation of energy metabolism and enhanced exercise response in exercise-trained human muscle
+- **期刊**: Nat Aging. 2026 Jul 3. PMID: 42399371
+- **关键发现**: Houtkooper/Janssens 团队通过多组学整合分析揭示了运动训练如何延缓人体骨骼肌的分子衰老。研究发现，规律运动训练不仅保留了线粒体呼吸和脂质代谢功能，还增强了老年个体对运动的代谢应激反应。该研究将线粒体呼吸、脂质代谢、应激反应和蛋白质稳态整合在一个衰老-运动互作框架中，为运动作为最有效的抗衰老干预策略提供了分子层面的有力证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42399371/
+
+#### 3. J Med Chem：褪黑素-儿茶酚杂合分子通过重编程线粒体代谢延长寿命
+- **标题**: A Melatonin-Catechol Hybrid Molecule Prolongs Lifespan via Regulating ROS and Reprogramming Mitochondrial Metabolism
+- **期刊**: J Med Chem. 2026 Jul 5. PMID: 42402137
+- **关键发现**: 设计了一种将褪黑素与儿茶酚结构融合的杂合分子 MC1，通过调节活性氧（ROS）信号和重编程线粒体代谢来延长寿命。研究揭示了 ROS 在衰老中的双重角色——既可以作为促进长寿相关过程的信号分子，也可以作为诱发氧化应激的有害物质。MC1 精准平衡了 ROS 水平，为开发靶向线粒体代谢的抗衰老药物提供了新的化学策略。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42402137/
+
+#### 4. J Ginseng Res：人参皂苷 Rg1 增强老年女性运动后骨骼肌干细胞丰度（人体干预）
+- **标题**: Ginsenoside Rg1 enhances stem cell abundance in aging human skeletal muscle after resistance exercise
+- **期刊**: J Ginseng Res. 2026 Jul;50(4):101028. PMID: 42395016
+- **关键发现**: 针对 60 岁以上女性的人体研究表明，人参皂苷 Rg1 可增强阻力运动后骨骼肌干细胞的富集和分化能力。前期研究已证明 Rg1 具有增强运动 senolytic 效应的能力，本研究进一步证实 Rg1 在促进肌肉干细胞更新方面的潜力，为"运动+天然产物"联合干预策略延缓肌肉衰老提供了临床证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42395016/
+
+#### 5. Ageing Res Rev：巨噬细胞衰老与动脉粥样硬化——机制与治疗策略
+- **标题**: Macrophage Senescence and Programmed Cell Death in Atherosclerosis: Mechanisms, Cross-Talk, and Emerging Therapeutic Strategies
+- **期刊**: Ageing Res Rev. 2026 Jul 2:103225. PMID: 42392409
+- **关键发现**: 系统综述了巨噬细胞衰老（以不可逆细胞周期停滞、线粒体功能障碍和 SASP 为特征）如何加剧慢性炎症并损害组织修复，进而驱动动脉粥样硬化进展。重点讨论了槲皮素、达沙替尼等药理学干预以及新兴 senotherapeutic 策略在靶向巨噬细胞衰老中的潜力，为抗衰老干预在心血管疾病中的应用提供了全面的理论框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42392409/
+
+### 其他新增论文
+
+#### 6. Sci Rep：雷帕霉素联合烟酰胺 attenuates 老年供体间充质干细胞的衰老相关特征
+- **标题**: Rapamycin and nicotinamide treatment attenuates senescence-associated features in mesenchymal stromal cells isolated from elderly donors by modulating autophagy
+- **期刊**: Sci Rep. 2026 Jun 30. PMID: 42380169
+- **关键发现**: 短期雷帕霉素联合烟酰胺（NAM）治疗通过调节自噬，显著减轻了老年供体 MSC 的衰老相关特征。雷帕霉素单独使用或联合 NAM 均能降低 SASP 因子表达、恢复自噬通量、改善细胞增殖能力，为衰老相关干细胞功能障碍的逆转提供了新的联合治疗策略。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42380169/
+
+#### 7. Exp Mol Med：蛋白质精氨酸甲基转移酶协调线粒体应激适应与神经肌肉功能
+- **标题**: Protein arginine methyltransferases coordinate mitochondrial stress adaptation and neuromuscular function
+- **期刊**: Exp Mol Med. 2026 Jul 3. PMID: 42393315
+- **关键发现**: 综述了 PRMT 家族如何通过表观遗传调控和转录后修饰协调线粒体应激适应，进而影响神经肌肉系统的功能与衰老。研究表明肌肉减少症和神经肌肉退化不仅源于肌肉量减少，还与线粒体和代谢应激适应失败密切相关，为靶向 PRMT 通路干预肌肉衰老提供了理论依据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42393315/
+
+#### 8. Sci Rep：雷帕霉素抑制衰老减轻辐射诱导的人冠状动脉内皮细胞动脉粥样硬化特征
+- **标题**: Senescence inhibition by rapamycin mitigates radiation-induced atherosclerotic characteristics in human coronary endothelial cells
+- **期刊**: Sci Rep. 2026 Jun 30. PMID: 42380448
+- **关键发现**: 在人冠状动脉内皮细胞（HCAECs）模型中证实，辐射诱导的衰老驱动了促动脉粥样硬化表型，而雷帕霉素通过抑制衰老显著减轻了这些效应。该研究为 mTOR 抑制在血管衰老和心血管保护中的作用提供了直接的人体细胞层面证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42380448/
+
+#### 9. BBA Rev Cancer：肿瘤内非癌细胞的衰老——真实意义何在？
+- **标题**: Senescence in non-cancerous cells within the tumor: What is the real deal?
+- **期刊**: Biochim Biophys Acta Rev Cancer. 2026 Jul 1:189654. PMID: 42385914
+- **关键发现**: 综述聚焦肿瘤微环境中非恶性细胞的衰老现象，探讨癌基因诱导衰老、治疗诱导衰老和年龄相关微环境如何驱动这些区室的衰老并重塑肿瘤微环境。该综述将衰老生物学与肿瘤微环境联系起来，揭示了年龄相关的免疫细胞和基质细胞衰老如何影响肿瘤进展和治疗反应。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42385914/
+
+#### 10. J Tradit Complement Med：运动诱导的肌肉损伤后再生：人参皂苷 Rg1 的调节作用
+- **标题**: Damage-induced muscle regeneration after exercise in humans: Modulatory effects of ginsenoside Rg1
+- **期刊**: J Tradit Complement Med. 2026 Apr 30;16(4):355-361. PMID: 42382056
+- **关键发现**: 综述了运动诱导的肌膜局灶性破坏如何触发骨髓细胞浸润并减少骨骼肌细胞衰老，随后增加肌肉力量和质量。Rg1 在这一过程中发挥调节作用，增强损伤后再生效率。研究强调了适度的运动诱导损伤与衰老细胞清除之间的关联，以及天然产物在其中的增强效应。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42382056/
 
 ---
 
