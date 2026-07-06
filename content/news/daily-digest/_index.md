@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-06](2026-07-06.md) — Circ Res LATS1/2-CD38代谢重编程连接内皮衰老与斑块内血栓形成(IF≈28)、J Exp Med UBE2F调控CD8⁺T细胞韧性增强免疫长寿(IF≈17)、J Exp Med 补体调控记忆B细胞稳态增殖决定免疫长寿(IF≈17)、J Med Chem 褪黑素-儿茶酚杂合分子重编程线粒体代谢延长寿命(IF≈8)、Aging Clin Exp Res BONEMORE RCT运动干预老年女性身体功能(IF≈5.0)
 - [2026-07-05](2026-07-05.md) — Nat Med 免疫衰老生物标志物临床试验转化框架(IF≈87)、Aging Cell 肝细胞MLKL非经典功能驱动线粒体功能障碍与衰老(IF≈8.0)、BMC Biol 免疫衰老与特定认知域关联HRS人群研究(IF≈9.0)、Alzheimers Res Ther 慢性疼痛×APOE-ε4协同促AD病理(IF≈7.5)、Bipolar Disord 表观遗传年龄加速与双相障碍临床表型(IF≈5.7)
 - [2026-07-04](2026-07-04/) — Expert Opin Investig Drugs 长寿药理学临床进展评估(IF≈6.5)、Biol Trace Elem Res 微量营养素经生物衰老介导降低死亡率(NHANES 6387人)、Sci Adv 全脑不对称性变异与衰老关联揭示"左半球衰老"新范式(IF≈13.6)、Cell Rep STING-EV轴驱动外周炎症衰老致神经退行性变(IF≈8.8)、J Gerontol A 青少年期饮食限制终身改善认知与衰弱(IF≈5.0)
 - [2026-07-03](2026-07-03/) — Mol Carcinog 表观遗传时钟加速增加头颈癌风险MR分析、Mol Carcinog FOXO4-DRI衰老清除剂增敏胶质母细胞瘤化疗、Mater Today Bio NMN联合金合欢素靶向递送恢复精子活力、Transl Vis Sci Technol SIRT1-Nrf2通路神经保护、Toxicol Rep 山柰酚延长寿命改善药物诱导衰老
