@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-07 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-08 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 6 | Staphylococcus aureus rewires arginine metabolism to drive mammary aging via macrophage-epithelial crosstalk. | PLoS pathogens | [42406836](https://pubmed.ncbi.nlm.nih.gov/42406836/) | Staphylococcus aureus rewires arginine metabolism to drive m... |
-| 2026 Jun 22 | A Ferric Ammonium Citrate-Based Model of Iron Overload With Ferroptosis-Associated Readouts In C2C12 Myoblasts. | Journal of visualized experiments : JoVE | [42406692](https://pubmed.ncbi.nlm.nih.gov/42406692/) | A Ferric Ammonium Citrate-Based Model of Iron Overload With ... |
-| 2026 Jul 1 | Senescent cells accumulate lipid droplets. | Aging | [42406507](https://pubmed.ncbi.nlm.nih.gov/42406507/) | Senescent cells accumulate lipid droplets. |
-| 2026 Jul 6 | Machine Learning-Assisted Label-Free SERS Decoding of Mitochondrial Molecular Dynamics in Ovarian Granulosa Cells during Aging. | Analytical chemistry | [42406505](https://pubmed.ncbi.nlm.nih.gov/42406505/) | Machine Learning-Assisted Label-Free SERS Decoding of Mitoch... |
-| 2026 Jul 6 | Effects of Dietary Boron Supplementation on Performance, Egg Quality, and Physiological Responses in Late-Laying Hens Subjected to Feed Restriction. | Biological trace element research | [42406331](https://pubmed.ncbi.nlm.nih.gov/42406331/) | Effects of Dietary Boron Supplementation on Performance, Egg... |
+| 2026 Jul 15 | Engineered Exosomes for Skin Antiaging: A New Frontier in Regenerative Medicine. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42412985](https://pubmed.ncbi.nlm.nih.gov/42412985/) | Engineered Exosomes for Skin Antiaging: A New Frontier in Re... |
+| 2026 Jul 14 | Mitonuclear discordance modulates mitochondrial ageing dynamics in natural Drosophila populations. | Proceedings of the National Academy of Sciences of the United States of America | [42412929](https://pubmed.ncbi.nlm.nih.gov/42412929/) | Mitonuclear discordance modulates mitochondrial ageing dynam... |
+| 2026 Jul 7 | Epigenetic mechanisms of gingival aging: biological basis, periodontal implications, and therapeutic perspectives. | Odontology | [42412383](https://pubmed.ncbi.nlm.nih.gov/42412383/) | Epigenetic mechanisms of gingival aging: biological basis, p... |
+| 2026 Jul 7 | Mitophagy in Metabolic Dysfunction-Associated Fatty Liver Disease: Mechanisms, Regulatory Networks, and Therapeutic Perspectives. | Inflammation | [42412329](https://pubmed.ncbi.nlm.nih.gov/42412329/) | Mitophagy in Metabolic Dysfunction-Associated Fatty Liver Di... |
+| 2026 Jul 7 | Study on the Effects and Mechanisms of Resveratrol in Improving Cognitive Impairment in Aβ(1-42)-Induced Alzheimer's Disease Model Mice. | Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology | [42412302](https://pubmed.ncbi.nlm.nih.gov/42412302/) | Study on the Effects and Mechanisms of Resveratrol in Improv... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun 25 | Six Dehydrogenase Gatekeepers of Carbohydrate Metabolism: Metabolic Integration in Health and Disease. | Frontiers in bioscience (Landmark edition) | [42411477](https://pubmed.ncbi.nlm.nih.gov/42411477/) | Six Dehydrogenase Gatekeepers of Carbohydrate Metabolism: Me... |
+| 2026 Jul 6 | Global Research Trends and Mechanistic Insights of Sirtuins in Alzheimer's Disease: A Bibliometric and Translational Review. | Brain research bulletin | [42409186](https://pubmed.ncbi.nlm.nih.gov/42409186/) | Global Research Trends and Mechanistic Insights of Sirtuins ... |
 | 2026 Jul 1 | The Molecular Basis of Ocular Aging: Mechanisms, Pathologies, and Emerging Therapeutics. | Investigative ophthalmology & visual science | [42405673](https://pubmed.ncbi.nlm.nih.gov/42405673/) | The Molecular Basis of Ocular Aging: Mechanisms, Pathologies... |
 | 2026 Jul 3 | Delayed molecular aging, preservation of energy metabolism and enhanced exercise response in exercise-trained human muscle. | Nature aging | [42399371](https://pubmed.ncbi.nlm.nih.gov/42399371/) | Delayed molecular aging, preservation of energy metabolism a... |
 | 2026 Jul 2 | Complex I drives glutamine-dependent TCA cycle to support viability of MYC(high) breast cancer cells. | Cell reports | [42397738](https://pubmed.ncbi.nlm.nih.gov/42397738/) | Complex I drives glutamine-dependent TCA cycle to support vi... |
-| 2026 Jul 3 | PROMETHEUS clinical trial protocol: tailoring healthy ageing with lifestyle and nutraceuticals. | GeroScience | [42393428](https://pubmed.ncbi.nlm.nih.gov/42393428/) | PROMETHEUS clinical trial protocol: tailoring healthy ageing... |
-| 2026 Jul 2 | An enzyme kinetic model for quantitative interpretation of the role of nicotinamide nucleotide transhydrogenase (NNT) in cell physiology. | Free radical biology & medicine | [42392281](https://pubmed.ncbi.nlm.nih.gov/42392281/) | An enzyme kinetic model for quantitative interpretation of t... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-07 | 自动生成*
+*最后更新：2026-07-08 | 自动生成*
