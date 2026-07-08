@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-08](2026-07-08.md) — NAR TFMethyl可解释表观遗传时钟(IF≈16)、Clin Epigenetics男性心血管代谢加速衰老多队列复制(IF≈5.4)、Mol Biomed SIRT1-NLRP3轴+司美格鲁肽靶向心血管钙化(IF≈6.0)、Acta Pharmacol Sin可见光OPN4表观遗传重编程MSC/T细胞提升NAD⁺(IF≈6.3)、Arch Biochem Biophys Granzyme K清除衰老细胞减轻肺纤维化
 - [2026-07-07](2026-07-07.md) — Nat Aging 运动训练逆转50%年龄相关分子变化(IF≈18)、ACS AMI 微流控线粒体转移逆转细胞衰老(IF≈9.5)、J Extracell Biol Klotho工程化EV抗肾纤维化、Aging 衰老细胞脂滴蓄积连接AD病理、J Med Chem NAMPT PROTAC靶向NAD⁺通路(IF≈8.0)
 - [2026-07-06](2026-07-06.md) — Circ Res LATS1/2-CD38代谢重编程连接内皮衰老与斑块内血栓形成(IF≈28)、J Exp Med UBE2F调控CD8⁺T细胞韧性增强免疫长寿(IF≈17)、J Exp Med 补体调控记忆B细胞稳态增殖决定免疫长寿(IF≈17)、J Med Chem 褪黑素-儿茶酚杂合分子重编程线粒体代谢延长寿命(IF≈8)、Aging Clin Exp Res BONEMORE RCT运动干预老年女性身体功能(IF≈5.0)
 - [2026-07-05](2026-07-05.md) — Nat Med 免疫衰老生物标志物临床试验转化框架(IF≈87)、Aging Cell 肝细胞MLKL非经典功能驱动线粒体功能障碍与衰老(IF≈8.0)、BMC Biol 免疫衰老与特定认知域关联HRS人群研究(IF≈9.0)、Alzheimers Res Ther 慢性疼痛×APOE-ε4协同促AD病理(IF≈7.5)、Bipolar Disord 表观遗传年龄加速与双相障碍临床表型(IF≈5.7)
