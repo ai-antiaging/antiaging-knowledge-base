@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-09](2026-07-09.md) — PNAS抑制弹性蛋白降解缓解关节退变多物种验证(IF≈12.8)、JACS可吸入双PROTAC纳米鸡尾酒靶向肺纤维化衰老相关炎症(IF≈15.4)、STTT衰老与癌症四大通路全景综述+双向转化策略(IF≈39.3)、Cell Rep人类主动脉时序蛋白质组脂质组学揭示发育与衰老模块(IF≈8.8)、Immun Ageing成人免疫衰老的胸腺恢复临床转化评估(IF≈8.8)
 - [2026-07-08](2026-07-08.md) — NAR TFMethyl可解释表观遗传时钟(IF≈16)、Clin Epigenetics男性心血管代谢加速衰老多队列复制(IF≈5.4)、Mol Biomed SIRT1-NLRP3轴+司美格鲁肽靶向心血管钙化(IF≈6.0)、Acta Pharmacol Sin可见光OPN4表观遗传重编程MSC/T细胞提升NAD⁺(IF≈6.3)、Arch Biochem Biophys Granzyme K清除衰老细胞减轻肺纤维化
 - [2026-07-07](2026-07-07.md) — Nat Aging 运动训练逆转50%年龄相关分子变化(IF≈18)、ACS AMI 微流控线粒体转移逆转细胞衰老(IF≈9.5)、J Extracell Biol Klotho工程化EV抗肾纤维化、Aging 衰老细胞脂滴蓄积连接AD病理、J Med Chem NAMPT PROTAC靶向NAD⁺通路(IF≈8.0)
 - [2026-07-06](2026-07-06.md) — Circ Res LATS1/2-CD38代谢重编程连接内皮衰老与斑块内血栓形成(IF≈28)、J Exp Med UBE2F调控CD8⁺T细胞韧性增强免疫长寿(IF≈17)、J Exp Med 补体调控记忆B细胞稳态增殖决定免疫长寿(IF≈17)、J Med Chem 褪黑素-儿茶酚杂合分子重编程线粒体代谢延长寿命(IF≈8)、Aging Clin Exp Res BONEMORE RCT运动干预老年女性身体功能(IF≈5.0)
