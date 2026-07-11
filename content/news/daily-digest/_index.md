@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-11](2026-07-11.md) — Nat Med Wyss-Coray&Topol生物衰老时钟权威综述(IF≈87)、Blood肠道菌群-PAA-组蛋白苯乙酰化驱动衰老贫血新机制(IF≈20+)、J Med Chem新型环己烯类Senolytic靶向肺纤维化(IF≈8.0)、Autophagy NAD⁺-SIRT1-REST轴调控AD线粒体自噬(IF≈9.0)、Alzheimers Dement生活方式干预降低认知障碍风险10年RCT(IF≈13.0)
 - [2026-07-10](2026-07-10.md) — Gut多组学揭示IL-1α-IL1R1轴驱动老年肝脏缺血损伤(IF≈16.3)、JCR mRNA弹性蛋白技术实现皮肤rejuvenation(IF≈10.8)、JCI Insight PCPE-1驱动衰老性心脏纤维化(IF≈6.5)、NPJ Aging UK Biobank生育行为与加速衰老关联(IF≈8.0)、Geroscience Kirkland团队Senolytics皮肤科临床转化路线图(IF≈5.5)
 - [2026-07-09](2026-07-09.md) — PNAS抑制弹性蛋白降解缓解关节退变多物种验证(IF≈12.8)、JACS可吸入双PROTAC纳米鸡尾酒靶向肺纤维化衰老相关炎症(IF≈15.4)、STTT衰老与癌症四大通路全景综述+双向转化策略(IF≈39.3)、Cell Rep人类主动脉时序蛋白质组脂质组学揭示发育与衰老模块(IF≈8.8)、Immun Ageing成人免疫衰老的胸腺恢复临床转化评估(IF≈8.8)
 - [2026-07-08](2026-07-08.md) — NAR TFMethyl可解释表观遗传时钟(IF≈16)、Clin Epigenetics男性心血管代谢加速衰老多队列复制(IF≈5.4)、Mol Biomed SIRT1-NLRP3轴+司美格鲁肽靶向心血管钙化(IF≈6.0)、Acta Pharmacol Sin可见光OPN4表观遗传重编程MSC/T细胞提升NAD⁺(IF≈6.3)、Arch Biochem Biophys Granzyme K清除衰老细胞减轻肺纤维化
