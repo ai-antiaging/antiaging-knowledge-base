@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-10 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-11 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 9 | Self-Doped Perylene Diimide-Based Polymers for Simultaneous Improvements in Efficiency and Thermal Stability of Organic Solar Cells. | Small (Weinheim an der Bergstrasse, Germany) | [42424617](https://pubmed.ncbi.nlm.nih.gov/42424617/) | Self-Doped Perylene Diimide-Based Polymers for Simultaneous ... |
-| 2026 Jul | Reduced inflammatory and Th1 transcriptional profiles in geriatric versus adult cotton rats infected with respiratory syncytial virus. | PLoS pathogens | [42424260](https://pubmed.ncbi.nlm.nih.gov/42424260/) | Reduced inflammatory and Th1 transcriptional profiles in ger... |
-| 2026 Jul 9 | Neuromuscular junction failure in sarcopenia is linked to NaV1.4 loss and reversed by ClC-1 inhibition. | The Journal of clinical investigation | [42424105](https://pubmed.ncbi.nlm.nih.gov/42424105/) | Neuromuscular junction failure in sarcopenia is linked to Na... |
-| 2026 Jul 9 | The role of mitochondrial Na⁺/Ca²⁺ exchanger in brain cell aging. | Journal of bioenergetics and biomembranes | [42423996](https://pubmed.ncbi.nlm.nih.gov/42423996/) | The role of mitochondrial Na⁺/Ca²⁺ exchanger in brain cell a... |
-| 2026 Jul 9 | Circadian rhythm, oxidative stress, and cancer immunosuppression. | Archives of toxicology | [42423990](https://pubmed.ncbi.nlm.nih.gov/42423990/) | Circadian rhythm, oxidative stress, and cancer immunosuppres... |
+| 2026 Dec 31 | IFNα and bleomycin-induced DNA damage activate distinct stress responses in human islets and induced pluripotent stem cell-derived islet cells. | Islets | [42430551](https://pubmed.ncbi.nlm.nih.gov/42430551/) | IFNα and bleomycin-induced DNA damage activate distinct stre... |
+| 2026 Jul 10 | The efficacy of immunotherapy in glioma requires distal B cell responses in tumor-draining lymph nodes. | Science immunology | [42430444](https://pubmed.ncbi.nlm.nih.gov/42430444/) | The efficacy of immunotherapy in glioma requires distal B ce... |
+| 2026 | Topical medium-length PDRN enhances dermal extracellular matrix repair in photodamaged skin via PI3K-Akt/TGF-β-regulated pathways. | PloS one | [42430369](https://pubmed.ncbi.nlm.nih.gov/42430369/) | Topical medium-length PDRN enhances dermal extracellular mat... |
+| 2026 Jul 10 | Gut Microbiota Drives Aging-related Erythropoiesis Impairment via Phenylacetic Acid-induced Histone Phenylacetylation. | Blood | [42430365](https://pubmed.ncbi.nlm.nih.gov/42430365/) | Gut Microbiota Drives Aging-related Erythropoiesis Impairmen... |
+| 2026 Sep | Endocrine‑metabolic imbalance drives osteoarthritis: From whole‑joint pathobiology to precision therapy (Review). | International journal of molecular medicine | [42429052](https://pubmed.ncbi.nlm.nih.gov/42429052/) | Endocrine‑metabolic imbalance drives osteoarthritis: From wh... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jul 10 | Submicromolar imaging of intrinsic chromophores by two-photon photothermal microscopy captures mitochondrial response to chemotherapy. | Science advances | [42430486](https://pubmed.ncbi.nlm.nih.gov/42430486/) | Submicromolar imaging of intrinsic chromophores by two-photo... |
+| 2026 Jul 10 | Nicotinamide mononucleotide ameliorates high glucose/high fat-induced cardiomyocyte metabolic dysfunction through SIRT1-mediated CPT1A stabilization. | Molecular biology reports | [42429864](https://pubmed.ncbi.nlm.nih.gov/42429864/) | Nicotinamide mononucleotide ameliorates high glucose/high fa... |
+| 2026 Jul 10 | Mitochondrial localization of key NAD(+)-dependent dehydrogenases explains the exceptionally high biomass yield on ethanol of the yeast Cyberlindnera jadinii. | Applied and environmental microbiology | [42429759](https://pubmed.ncbi.nlm.nih.gov/42429759/) | Mitochondrial localization of key NAD(+)-dependent dehydroge... |
+| 2026 Jul 9 | Cell-Type-Specific Calibration of Mitochondrial Ubiquitination in Stem Cell Fate Decisions. | Stem cell reviews and reports | [42426488](https://pubmed.ncbi.nlm.nih.gov/42426488/) | Cell-Type-Specific Calibration of Mitochondrial Ubiquitinati... |
 | 2026 Jul 9 | NAD(+) modulates REST isoform expression and its downstream mitophagy in Alzheimer's disease. | Autophagy | [42423068](https://pubmed.ncbi.nlm.nih.gov/42423068/) | NAD(+) modulates REST isoform expression and its downstream ... |
-| 2026 Jun | Development of Metabolic Stress in Vascular Organoids under Normal Conditions and with AD/PD-Associated Genetic Backgrounds. | Biochemistry. Biokhimiia | [42420230](https://pubmed.ncbi.nlm.nih.gov/42420230/) | Development of Metabolic Stress in Vascular Organoids under ... |
-| 2026 Jul 8 | Mitochondrial dysfunction and cellular senescence drive accelerated gestational aging in spontaneous preterm birth: a narrative review. | Apoptosis : an international journal on programmed cell death | [42417865](https://pubmed.ncbi.nlm.nih.gov/42417865/) | Mitochondrial dysfunction and cellular senescence drive acce... |
-| 2026 Jun 25 | Six Dehydrogenase Gatekeepers of Carbohydrate Metabolism: Metabolic Integration in Health and Disease. | Frontiers in bioscience (Landmark edition) | [42411477](https://pubmed.ncbi.nlm.nih.gov/42411477/) | Six Dehydrogenase Gatekeepers of Carbohydrate Metabolism: Me... |
-| 2026 Jul 6 | Global Research Trends and Mechanistic Insights of Sirtuins in Alzheimer's Disease: A Bibliometric and Translational Review. | Brain research bulletin | [42409186](https://pubmed.ncbi.nlm.nih.gov/42409186/) | Global Research Trends and Mechanistic Insights of Sirtuins ... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-10 | 自动生成*
+*最后更新：2026-07-11 | 自动生成*
