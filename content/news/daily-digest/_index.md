@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-12](2026-07-12.md) — Front Aging多模态长寿人体试点实现生物学年龄净逆转(IF≈5)、Free Radic Biol Med ASAP3敲除延长小鼠健康寿命(IF≈7.4)、Cell Death Dis酸神经酰胺酶调控衰老细胞铁死亡敏感性(IF≈9.0)、Ageing Res Rev硫化氢在衰老与T2D中的代谢重编程(IF≈13.8)、Ageing Res Rev骨关节炎线粒体-ER应激串扰与NAD⁺靶向疗法(IF≈13.8)
 - [2026-07-11](2026-07-11.md) — Nat Med Wyss-Coray&Topol生物衰老时钟权威综述(IF≈87)、Blood肠道菌群-PAA-组蛋白苯乙酰化驱动衰老贫血新机制(IF≈20+)、J Med Chem新型环己烯类Senolytic靶向肺纤维化(IF≈8.0)、Autophagy NAD⁺-SIRT1-REST轴调控AD线粒体自噬(IF≈9.0)、Alzheimers Dement生活方式干预降低认知障碍风险10年RCT(IF≈13.0)
 - [2026-07-10](2026-07-10.md) — Gut多组学揭示IL-1α-IL1R1轴驱动老年肝脏缺血损伤(IF≈16.3)、JCR mRNA弹性蛋白技术实现皮肤rejuvenation(IF≈10.8)、JCI Insight PCPE-1驱动衰老性心脏纤维化(IF≈6.5)、NPJ Aging UK Biobank生育行为与加速衰老关联(IF≈8.0)、Geroscience Kirkland团队Senolytics皮肤科临床转化路线图(IF≈5.5)
 - [2026-07-09](2026-07-09.md) — PNAS抑制弹性蛋白降解缓解关节退变多物种验证(IF≈12.8)、JACS可吸入双PROTAC纳米鸡尾酒靶向肺纤维化衰老相关炎症(IF≈15.4)、STTT衰老与癌症四大通路全景综述+双向转化策略(IF≈39.3)、Cell Rep人类主动脉时序蛋白质组脂质组学揭示发育与衰老模块(IF≈8.8)、Immun Ageing成人免疫衰老的胸腺恢复临床转化评估(IF≈8.8)
