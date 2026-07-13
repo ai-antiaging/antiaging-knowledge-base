@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-12 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-13 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jun 30 | Clonal hematopoiesis of indeterminate potential (CHIP)-a pivotal contributor of aging and related disorders. | Annals of translational medicine | [42434778](https://pubmed.ncbi.nlm.nih.gov/42434778/) | Clonal hematopoiesis of indeterminate potential (CHIP)-a piv... |
-| 2026 Jul | "Immune senescence and dormant tumor cells: reconceptualizing breast cancer recurrence as an affliction of aging and chronic inflammation". | Annals of medicine and surgery (2012) | [42433754](https://pubmed.ncbi.nlm.nih.gov/42433754/) | "Immune senescence and dormant tumor cells: reconceptualizin... |
-| 2026 | From molecular damage to regulatory constraint: epigenetic and metabolic limits of cellular plasticity in aging. | Frontiers in aging | [42433677](https://pubmed.ncbi.nlm.nih.gov/42433677/) | From molecular damage to regulatory constraint: epigenetic a... |
-| 2026 Sep | Identification and validation of aging-related genes in patients with multiple myeloma. | Oncology letters | [42433653](https://pubmed.ncbi.nlm.nih.gov/42433653/) | Identification and validation of aging-related genes in pati... |
-| 2026 | Nanotubular networks in the aging brain: from neuroprotection to neurodegeneration. | Frontiers in human neuroscience | [42433433](https://pubmed.ncbi.nlm.nih.gov/42433433/) | Nanotubular networks in the aging brain: from neuroprotectio... |
+| 2026 Jul | Epigenetic Aging of Critical Illness Survivors Assessed by the Muscle-Specific "Clock" and Its Relationship With Reduced Long-Term Muscle Strength. | Aging cell | [42437371](https://pubmed.ncbi.nlm.nih.gov/42437371/) | Epigenetic Aging of Critical Illness Survivors Assessed by t... |
+| 2026 Dec | CXCL12-abundant reticular cell lineage is the key source of endosteal osteoblasts and adipocytes in adult bone marrow. | Regenerative therapy | [42437294](https://pubmed.ncbi.nlm.nih.gov/42437294/) | CXCL12-abundant reticular cell lineage is the key source of ... |
+| 2026 Jul | Corrigendum to "Metformin prevents mandibular bone loss in a mouse model of accelerated aging by correcting dysregulated AMPK-mTOR signaling and osteoclast differentiation" [J Orthop Transl 46 (2024) 129-142]. | Journal of orthopaedic translation | [42437281](https://pubmed.ncbi.nlm.nih.gov/42437281/) | Corrigendum to "Metformin prevents mandibular bone loss in a... |
+| 2026 Jul | Primary Cilia as Integrative Hubs of Metabolic Signaling in Type 2 Diabetes: Inter-Organ Evidence From Central, Peripheral, and Pancreatic Islet Tissues. | Journal of cellular physiology | [42436646](https://pubmed.ncbi.nlm.nih.gov/42436646/) | Primary Cilia as Integrative Hubs of Metabolic Signaling in ... |
+| 2026 Jul 11 | The role of spousal relationships in shaping clinical trajectories during aging. | Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology | [42436275](https://pubmed.ncbi.nlm.nih.gov/42436275/) | The role of spousal relationships in shaping clinical trajec... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jul 11 | The role and therapeutic potential of vitamins in fracture healing. | Nutrition journal | [42436498](https://pubmed.ncbi.nlm.nih.gov/42436498/) | The role and therapeutic potential of vitamins in fracture h... |
 | 2026 Jul 10 | Mitochondrial-ER stress crosstalk in osteoarthritis: From ageing-associated chondrocyte dysfunction to emerging therapeutics. | Ageing research reviews | [42431012](https://pubmed.ncbi.nlm.nih.gov/42431012/) | Mitochondrial-ER stress crosstalk in osteoarthritis: From ag... |
 | 2026 Jul 10 | Submicromolar imaging of intrinsic chromophores by two-photon photothermal microscopy captures mitochondrial response to chemotherapy. | Science advances | [42430486](https://pubmed.ncbi.nlm.nih.gov/42430486/) | Submicromolar imaging of intrinsic chromophores by two-photo... |
 | 2026 Jul 10 | Nicotinamide mononucleotide ameliorates high glucose/high fat-induced cardiomyocyte metabolic dysfunction through SIRT1-mediated CPT1A stabilization. | Molecular biology reports | [42429864](https://pubmed.ncbi.nlm.nih.gov/42429864/) | Nicotinamide mononucleotide ameliorates high glucose/high fa... |
 | 2026 Jul 10 | Mitochondrial localization of key NAD(+)-dependent dehydrogenases explains the exceptionally high biomass yield on ethanol of the yeast Cyberlindnera jadinii. | Applied and environmental microbiology | [42429759](https://pubmed.ncbi.nlm.nih.gov/42429759/) | Mitochondrial localization of key NAD(+)-dependent dehydroge... |
-| 2026 Jul 9 | Cell-Type-Specific Calibration of Mitochondrial Ubiquitination in Stem Cell Fate Decisions. | Stem cell reviews and reports | [42426488](https://pubmed.ncbi.nlm.nih.gov/42426488/) | Cell-Type-Specific Calibration of Mitochondrial Ubiquitinati... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-12 | 自动生成*
+*最后更新：2026-07-13 | 自动生成*
