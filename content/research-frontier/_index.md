@@ -2,13 +2,67 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-07-06 08:00 (Asia/Shanghai)  
+**最后更新**: 2026-07-13 08:00 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索) + Nature Aging
 
 ---
 
-## 本周新增论文 (2026.06.23 – 2026.06.29)
+## 本周新增论文 (2026.07.07 – 2026.07.13)
+
+### 📌 重点论文
+
+#### 1. Nat Med：Wyss-Coray & Topol 综述——健康与疾病中的生物学时钟（重磅综述）
+- **标题**: Biological aging clocks in health and disease
+- **期刊**: Nature Medicine (2026-07-09)
+- **关键发现**: Tony Wyss-Coray（斯坦福）与 Eric Topol（Scripps）联合发表的重要综述，系统评估了生物学时钟（表观遗传时钟、蛋白质组时钟、多组学时钟等）在追踪个体及器官/组织/细胞衰老速率方面的进展。综述指出这些时钟可用于识别疾病高风险人群、作为预防和早期检测的基础、以及评估生活方式或干预措施是否能调节衰老过程。提出了生物学时钟在理解病理生物学、减轻疾病负担和延长健康寿命方面的关键应用前景。这是衰老生物钟领域最具影响力的综述之一，由该领域的两位权威学者联合撰写。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42426219/
+
+#### 2. J Med Chem：新型合成环己烯基小分子 senolytic 靶向年龄相关肺纤维化（药物发现）
+- **标题**: Discovery of Novel Synthetic Cyclohexene-Based Small Molecules Targeting Senescence against Age-Related Pulmonary Fibrosis
+- **期刊**: J Med Chem (2026-07-10)
+- **关键发现**: 通过筛选人类微生物组启发的新型小分子库，发现了一种四取代环己烯类化合物 UCM-17017（compound 25），能降低衰老人类成纤维细胞的 β-半乳糖苷酶活性并选择性减少衰老人肺腺癌细胞的存活率。该新型 senolytic 化合物具有良好的体内药代动力学特征，在肺纤维化小鼠模型中显示有益效果。这是 senotherapeutic 药物发现的重要进展，为年龄相关肺纤维化提供了新的治疗候选物。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42427232/
+
+#### 3. Ageing Res Rev：细胞粘性特性——衰老的生物物理新视角与潜在生物标志物（概念创新）
+- **标题**: Cellular Viscous Properties in Senescence: An Emerging Biophysical Perspective and Potential Biomarker
+- **期刊**: Ageing Research Reviews (2026-07-11)
+- **关键发现**: 首次系统综述了细胞粘性特性（viscous properties）在衰老中的作用。与已有大量研究的弹性特性（刚度、弹性）不同，细胞的粘性成分（调控分子运输、细胞器移动性和细胞内力消散）在衰老中的变化几乎未被探索。文章提出了细胞粘性特性作为衰老生物标志物的潜力，涵盖细胞骨架重塑、大分子拥挤和细胞内相分离等机制起源，以及其在衰老检测、衰老进程评估和 senolytic 治疗管理中的应用前景。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42435941/
+
+#### 4. Autophagy：NAD+ 通过 SIRT1 轴调控 REST 及线粒体自噬，改善阿尔茨海默病（NAD+ 机制）
+- **标题**: NAD(+) modulates REST isoform expression and its downstream mitophagy in Alzheimer's disease
+- **期刊**: Autophagy (2026-07-09)
+- **关键发现**: 揭示了 NAD+-SIRT1 轴如何增强 REST 转录因子的核内活性，恢复其线粒体和神经保护基因程序，并改善实验性 AD 模型中的病理和认知衰退。REST 作为代谢敏感的转录枢纽，支持基础线粒体自噬、线粒体质量和突触功能。在 AD 中 REST 发生错误定位和功能损伤，与早期线粒体质量控制缺陷同时发生。该研究为 NAD+ 增强剂在神经退行性疾病中的治疗潜力提供了新的分子机制。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42423068/
+
+#### 5. Geroscience：Kirkland 团队综述——靶向皮肤衰老的 senolytic 与 senomorphic 策略
+- **标题**: Targeting cellular senescence in dermatology: senolytic and senomorphic strategies
+- **期刊**: Geroscience (2026-07-08)
+- **关键发现**: James Kirkland（Mayo Clinic）等权威学者系统综述了细胞衰老在皮肤衰老和皮肤病中的作用，并评估了 senolytics 和 senomorphics 在再生和美容皮肤科中的转化潜力。文章特别提出了 senolytics 的间歇给药策略（如每 2 周一次或每月一次），因为衰老细胞形成需要数天到数周且无法分裂；而 senomorphics 通常需要连续或更频繁给药。这一剂量指导为 senotherapeutics 的临床应用提供了重要参考。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42417965/
+
+#### 6. Cell Death Dis：酸性神经酰胺酶调控脂质谱并增强复制性衰老细胞的铁死亡敏感性
+- **标题**: Acid ceramidase modulates the lipid profile and exacerbates sensitivity to ferroptosis in WI-38 replicative senescent cells
+- **期刊**: Cell Death and Differentiation (2026-07-10)
+- **关键发现**: 发现酸性神经酰胺酶（ACase）通过调控膜磷脂中多不饱和脂肪酸的组成，调节衰老细胞对铁死亡（ferroptosis）的敏感性。ACase 将神经酰胺分解为鞘氨醇和游离脂肪酸，改变了膜脂组成。此外，研究还发现了衰老细胞通过旁分泌方式使非衰老细胞对铁死亡敏感的新机制。这为靶向 senescence-linked  disorders 提供了新的治疗方向。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42431858/
+
+#### 7. Inflamm Regen：组织状态可塑性丧失——年龄相关再生衰竭的概念框架
+- **标题**: Loss of tissue-state plasticity: a conceptual framework for age-associated regenerative failure
+- **期刊**: Inflammation and Regeneration (2026-07-10)
+- **关键发现**: 提出了"组织状态"（tissue state）的概念框架——一种不稳定的、组织范围的组织模式，决定了 incoming 信号如何被解读和执行。研究发现，随着年龄增长，组织的再生能力下降并非由于信号减少，而是组织对信号的解读和执行方式发生了深刻改变。提出恢复组织状态灵活性（tissue-state flexibility）可能是比单纯增加信号更有效的治疗目标，为再生医学提供了新的范式。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42432814/
+
+#### 8. Cytokine Growth Factor Rev：细胞衰老在代谢相关脂肪性肝病中的作用
+- **标题**: The role of cellular senescence in metabolic dysfunction-associated steatotic liver disease
+- **期刊**: Cytokine Growth Factor Reviews (2026-07-09)
+- **关键发现**: 系统综述了细胞衰老在 MASLD 中的作用，指出衰老不仅发生在肝细胞中，还发生在肝星状细胞、Kupffer 细胞和肝窦内皮细胞等非实质细胞中。这些衰老细胞通过细胞类型特异性机制和细胞间通讯促进疾病进展。综述评估了 senolytics、senomorphics 和免疫介导清除方法在 MASLD 治疗中的潜力和临床转化挑战。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42431015/
+
+---
+
+## 上周新增论文 (2026.06.23 – 2026.06.29)
 
 ### 📌 重点论文
 
@@ -802,6 +856,7 @@
 
 | 日期 | 更新内容 | 新增论文数 |
 |------|----------|------------|
+| 2026-07-13 | 第 8 次更新：Nat Med Wyss-Coray & Topol 生物学时钟综述、J Med Chem 新型环己烯基 senolytic、Ageing Res Rev 细胞粘性特性衰老生物标志物、Autophagy NAD+-SIRT1-REST 轴改善 AD、Geroscience Kirkland 团队皮肤衰老 senolytic 策略 | 8 |
 | 2026-06-22 | 第 7 次更新：REPROGRAM 试验方案（二甲双胍/非瑟酮/亚精胺 RCT）、JAMA 二甲双胍与多发病研究、Cell Metabolism 肝肠通讯、NPJ Aging 免疫衰老综述、靶向衰老细胞促进烧伤伤口愈合，新增分类「免疫衰老」 | 10 |
 | 2026-06-15 | 第 6 次更新：SenCat 人类衰老多组学图谱、补骨脂酚促进健康衰老、Science 胎盘 NAD⁺ 代谢钟、热量限制 rejuvenates 成年干细胞 | 10 |
 | 2026-06-03 | 第 5 次更新：STTT 衰老治疗策略综述、Annu Rev Nutr NAD⁺ 稳态综述、PQQ+亚精胺协同机制、尿石素 A 氧化还原重编程，新增分类「心血管衰老与环境因素」「神经退行性疾病与脑衰老」 | 8 |
