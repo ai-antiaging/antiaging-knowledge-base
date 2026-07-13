@@ -13,15 +13,15 @@ draft: false
 
 ## 最新快讯
 
-- [2026-07-13](2026-07-13.md) — BMC Psychol 心理压力与端粒缩短的特异性关联(IF≈5.0)、Environ Geochem Health 铊暴露介导老年人腹型肥胖(IF≈5.0)、Acta Neuropathol Commun 轻度脊髓损伤加剧年龄相关Tau病(IF≈8.0)、Nutr J B族维生素经NAD⁺-Sirtuin轴调控骨折愈合(IF≈5.0)、Aging Ment Health 主观记忆困难关联老年抑郁焦虑(IF≈5.0)
-- [2026-07-12](2026-07-12.md) — Front Aging多模态长寿人体试点实现生物学年龄净逆转(IF≈5)、Free Radic Biol Med ASAP3敲除延长小鼠健康寿命(IF≈7.4)、Cell Death Dis酸神经酰胺酶调控衰老细胞铁死亡敏感性(IF≈9.0)、Ageing Res Rev硫化氢在衰老与T2D中的代谢重编程(IF≈13.8)、Ageing Res Rev骨关节炎线粒体-ER应激串扰与NAD⁺靶向疗法(IF≈13.8)
-- [2026-07-11](2026-07-11.md) — Nat Med Wyss-Coray&Topol生物衰老时钟权威综述(IF≈87)、Blood肠道菌群-PAA-组蛋白苯乙酰化驱动衰老贫血新机制(IF≈20+)、J Med Chem新型环己烯类Senolytic靶向肺纤维化(IF≈8.0)、Autophagy NAD⁺-SIRT1-REST轴调控AD线粒体自噬(IF≈9.0)、Alzheimers Dement生活方式干预降低认知障碍风险10年RCT(IF≈13.0)
-- [2026-07-10](2026-07-10.md) — Gut多组学揭示IL-1α-IL1R1轴驱动老年肝脏缺血损伤(IF≈16.3)、JCR mRNA弹性蛋白技术实现皮肤rejuvenation(IF≈10.8)、JCI Insight PCPE-1驱动衰老性心脏纤维化(IF≈6.5)、NPJ Aging UK Biobank生育行为与加速衰老关联(IF≈8.0)、Geroscience Kirkland团队Senolytics皮肤科临床转化路线图(IF≈5.5)
-- [2026-07-09](2026-07-09.md) — PNAS抑制弹性蛋白降解缓解关节退变多物种验证(IF≈12.8)、JACS可吸入双PROTAC纳米鸡尾酒靶向肺纤维化衰老相关炎症(IF≈15.4)、STTT衰老与癌症四大通路全景综述+双向转化策略(IF≈39.3)、Cell Rep人类主动脉时序蛋白质组脂质组学揭示发育与衰老模块(IF≈8.8)、Immun Ageing成人免疫衰老的胸腺恢复临床转化评估(IF≈8.8)
-- [2026-07-08](2026-07-08.md) — NAR TFMethyl可解释表观遗传时钟(IF≈16)、Clin Epigenetics男性心血管代谢加速衰老多队列复制(IF≈5.4)、Mol Biomed SIRT1-NLRP3轴+司美格鲁肽靶向心血管钙化(IF≈6.0)、Acta Pharmacol Sin可见光OPN4表观遗传重编程MSC/T细胞提升NAD⁺(IF≈6.3)、Arch Biochem Biophys Granzyme K清除衰老细胞减轻肺纤维化
-- [2026-07-07](2026-07-07.md) — Nat Aging 运动训练逆转50%年龄相关分子变化(IF≈18)、ACS AMI 微流控线粒体转移逆转细胞衰老(IF≈9.5)、J Extracell Biol Klotho工程化EV抗肾纤维化、Aging 衰老细胞脂滴蓄积连接AD病理、J Med Chem NAMPT PROTAC靶向NAD⁺通路(IF≈8.0)
-- [2026-07-06](2026-07-06.md) — Circ Res LATS1/2-CD38代谢重编程连接内皮衰老与斑块内血栓形成(IF≈28)、J Exp Med UBE2F调控CD8⁺T细胞韧性增强免疫长寿(IF≈17)、J Exp Med 补体调控记忆B细胞稳态增殖决定免疫长寿(IF≈17)、J Med Chem 褪黑素-儿茶酚杂合分子重编程线粒体代谢延长寿命(IF≈8)、Aging Clin Exp Res BONEMORE RCT运动干预老年女性身体功能(IF≈5.0)
-- [2026-07-05](2026-07-05.md) — Nat Med 免疫衰老生物标志物临床试验转化框架(IF≈87)、Aging Cell 肝细胞MLKL非经典功能驱动线粒体功能障碍与衰老(IF≈8.0)、BMC Biol 免疫衰老与特定认知域关联HRS人群研究(IF≈9.0)、Alzheimers Res Ther 慢性疼痛×APOE-ε4协同促AD病理(IF≈7.5)、Bipolar Disord 表观遗传年龄加速与双相障碍临床表型(IF≈5.7)
+- [2026-07-13](2026-07-13/) — BMC Psychol 心理压力与端粒缩短的特异性关联(IF≈5.0)、Environ Geochem Health 铊暴露介导老年人腹型肥胖(IF≈5.0)、Acta Neuropathol Commun 轻度脊髓损伤加剧年龄相关Tau病(IF≈8.0)、Nutr J B族维生素经NAD⁺-Sirtuin轴调控骨折愈合(IF≈5.0)、Aging Ment Health 主观记忆困难关联老年抑郁焦虑(IF≈5.0)
+- [2026-07-12](2026-07-12/) — Front Aging多模态长寿人体试点实现生物学年龄净逆转(IF≈5)、Free Radic Biol Med ASAP3敲除延长小鼠健康寿命(IF≈7.4)、Cell Death Dis酸神经酰胺酶调控衰老细胞铁死亡敏感性(IF≈9.0)、Ageing Res Rev硫化氢在衰老与T2D中的代谢重编程(IF≈13.8)、Ageing Res Rev骨关节炎线粒体-ER应激串扰与NAD⁺靶向疗法(IF≈13.8)
+- [2026-07-11](2026-07-11/) — Nat Med Wyss-Coray&Topol生物衰老时钟权威综述(IF≈87)、Blood肠道菌群-PAA-组蛋白苯乙酰化驱动衰老贫血新机制(IF≈20+)、J Med Chem新型环己烯类Senolytic靶向肺纤维化(IF≈8.0)、Autophagy NAD⁺-SIRT1-REST轴调控AD线粒体自噬(IF≈9.0)、Alzheimers Dement生活方式干预降低认知障碍风险10年RCT(IF≈13.0)
+- [2026-07-10](2026-07-10/) — Gut多组学揭示IL-1α-IL1R1轴驱动老年肝脏缺血损伤(IF≈16.3)、JCR mRNA弹性蛋白技术实现皮肤rejuvenation(IF≈10.8)、JCI Insight PCPE-1驱动衰老性心脏纤维化(IF≈6.5)、NPJ Aging UK Biobank生育行为与加速衰老关联(IF≈8.0)、Geroscience Kirkland团队Senolytics皮肤科临床转化路线图(IF≈5.5)
+- [2026-07-09](2026-07-09/) — PNAS抑制弹性蛋白降解缓解关节退变多物种验证(IF≈12.8)、JACS可吸入双PROTAC纳米鸡尾酒靶向肺纤维化衰老相关炎症(IF≈15.4)、STTT衰老与癌症四大通路全景综述+双向转化策略(IF≈39.3)、Cell Rep人类主动脉时序蛋白质组脂质组学揭示发育与衰老模块(IF≈8.8)、Immun Ageing成人免疫衰老的胸腺恢复临床转化评估(IF≈8.8)
+- [2026-07-08](2026-07-08/) — NAR TFMethyl可解释表观遗传时钟(IF≈16)、Clin Epigenetics男性心血管代谢加速衰老多队列复制(IF≈5.4)、Mol Biomed SIRT1-NLRP3轴+司美格鲁肽靶向心血管钙化(IF≈6.0)、Acta Pharmacol Sin可见光OPN4表观遗传重编程MSC/T细胞提升NAD⁺(IF≈6.3)、Arch Biochem Biophys Granzyme K清除衰老细胞减轻肺纤维化
+- [2026-07-07](2026-07-07/) — Nat Aging 运动训练逆转50%年龄相关分子变化(IF≈18)、ACS AMI 微流控线粒体转移逆转细胞衰老(IF≈9.5)、J Extracell Biol Klotho工程化EV抗肾纤维化、Aging 衰老细胞脂滴蓄积连接AD病理、J Med Chem NAMPT PROTAC靶向NAD⁺通路(IF≈8.0)
+- [2026-07-06](2026-07-06/) — Circ Res LATS1/2-CD38代谢重编程连接内皮衰老与斑块内血栓形成(IF≈28)、J Exp Med UBE2F调控CD8⁺T细胞韧性增强免疫长寿(IF≈17)、J Exp Med 补体调控记忆B细胞稳态增殖决定免疫长寿(IF≈17)、J Med Chem 褪黑素-儿茶酚杂合分子重编程线粒体代谢延长寿命(IF≈8)、Aging Clin Exp Res BONEMORE RCT运动干预老年女性身体功能(IF≈5.0)
+- [2026-07-05](2026-07-05/) — Nat Med 免疫衰老生物标志物临床试验转化框架(IF≈87)、Aging Cell 肝细胞MLKL非经典功能驱动线粒体功能障碍与衰老(IF≈8.0)、BMC Biol 免疫衰老与特定认知域关联HRS人群研究(IF≈9.0)、Alzheimers Res Ther 慢性疼痛×APOE-ε4协同促AD病理(IF≈7.5)、Bipolar Disord 表观遗传年龄加速与双相障碍临床表型(IF≈5.7)
 - [2026-07-04](2026-07-04/) — Expert Opin Investig Drugs 长寿药理学临床进展评估(IF≈6.5)、Biol Trace Elem Res 微量营养素经生物衰老介导降低死亡率(NHANES 6387人)、Sci Adv 全脑不对称性变异与衰老关联揭示"左半球衰老"新范式(IF≈13.6)、Cell Rep STING-EV轴驱动外周炎症衰老致神经退行性变(IF≈8.8)、J Gerontol A 青少年期饮食限制终身改善认知与衰弱(IF≈5.0)
 - [2026-07-03](2026-07-03/) — Mol Carcinog 表观遗传时钟加速增加头颈癌风险MR分析、Mol Carcinog FOXO4-DRI衰老清除剂增敏胶质母细胞瘤化疗、Mater Today Bio NMN联合金合欢素靶向递送恢复精子活力、Transl Vis Sci Technol SIRT1-Nrf2通路神经保护、Toxicol Rep 山柰酚延长寿命改善药物诱导衰老
 - [2026-07-02](2026-07-02/) — Nat Aging tASO抑制端粒DNA损伤反应逆转造血衰老(IF≈18)、Ageing Res Rev 数字技术促进健康长寿政策议程(IF≈31)、Sci Rep 雷帕霉素抑制辐射诱导内皮衰老、Sci Rep 雷帕霉素联合烟酰胺逆转老年供体间充质干细胞衰老、Sci Rep 1940nm激光调节皮肤衰老表观遗传特征
