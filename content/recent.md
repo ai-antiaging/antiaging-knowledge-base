@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-13 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-14 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul | Epigenetic Aging of Critical Illness Survivors Assessed by the Muscle-Specific "Clock" and Its Relationship With Reduced Long-Term Muscle Strength. | Aging cell | [42437371](https://pubmed.ncbi.nlm.nih.gov/42437371/) | Epigenetic Aging of Critical Illness Survivors Assessed by t... |
-| 2026 Dec | CXCL12-abundant reticular cell lineage is the key source of endosteal osteoblasts and adipocytes in adult bone marrow. | Regenerative therapy | [42437294](https://pubmed.ncbi.nlm.nih.gov/42437294/) | CXCL12-abundant reticular cell lineage is the key source of ... |
-| 2026 Jul | Corrigendum to "Metformin prevents mandibular bone loss in a mouse model of accelerated aging by correcting dysregulated AMPK-mTOR signaling and osteoclast differentiation" [J Orthop Transl 46 (2024) 129-142]. | Journal of orthopaedic translation | [42437281](https://pubmed.ncbi.nlm.nih.gov/42437281/) | Corrigendum to "Metformin prevents mandibular bone loss in a... |
-| 2026 Jul | Primary Cilia as Integrative Hubs of Metabolic Signaling in Type 2 Diabetes: Inter-Organ Evidence From Central, Peripheral, and Pancreatic Islet Tissues. | Journal of cellular physiology | [42436646](https://pubmed.ncbi.nlm.nih.gov/42436646/) | Primary Cilia as Integrative Hubs of Metabolic Signaling in ... |
-| 2026 Jul 11 | The role of spousal relationships in shaping clinical trajectories during aging. | Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology | [42436275](https://pubmed.ncbi.nlm.nih.gov/42436275/) | The role of spousal relationships in shaping clinical trajec... |
+| 2026 Jul 6 | Polygonatum sibiricum polysaccharide ameliorates intestinal barrier dysfunction in aging mice via gut microbiota-metabolite modulation and TLR4/NF-κB pathway inhibition. | Phytomedicine : international journal of phytotherapy and phytopharmacology | [42442028](https://pubmed.ncbi.nlm.nih.gov/42442028/) | Polygonatum sibiricum polysaccharide ameliorates intestinal ... |
+| 2026 Aug | Neutrophil-targeted nanoparticles delivering sivelestat alleviate cerebral ischemia-reperfusion injury by suppressing NETosis. | Materials today. Bio | [42441012](https://pubmed.ncbi.nlm.nih.gov/42441012/) | Neutrophil-targeted nanoparticles delivering sivelestat alle... |
+| 2026 Jul | Cellular Senescence and Aging: Mechanisms, Disease Convergence, and Therapeutic Frontiers. | MedComm | [42440782](https://pubmed.ncbi.nlm.nih.gov/42440782/) | Cellular Senescence and Aging: Mechanisms, Disease Convergen... |
+| 2026 | Mitochondrial DNA efflux as a potential amplifier of systemic inflammatory network rewiring in heart failure with preserved ejection fraction. | Frontiers in immunology | [42440746](https://pubmed.ncbi.nlm.nih.gov/42440746/) | Mitochondrial DNA efflux as a potential amplifier of systemi... |
+| 2026 | The EV-mitochondrial outsourcing network as a therapeutic target for age-related testosterone deficiency: from network collapse to clinical intervention. | Frontiers in endocrinology | [42440452](https://pubmed.ncbi.nlm.nih.gov/42440452/) | The EV-mitochondrial outsourcing network as a therapeutic ta... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jul | Virtual Nature, Metaverse, and NAD⁺: A Narrative Review for Health Planning and Healthy Ageing. | Health science reports | [42440917](https://pubmed.ncbi.nlm.nih.gov/42440917/) | Virtual Nature, Metaverse, and NAD⁺: A Narrative Review for ... |
+| 2026 | The EV-mitochondrial outsourcing network as a therapeutic target for age-related testosterone deficiency: from network collapse to clinical intervention. | Frontiers in endocrinology | [42440452](https://pubmed.ncbi.nlm.nih.gov/42440452/) | The EV-mitochondrial outsourcing network as a therapeutic ta... |
+| 2026 Jun 23 | Immunometabolic Mechanisms of Coronary Microvascular Dysfunction in Coronary Artery Disease: The Role of Mitochondrial Stress, Endothelial Senescence, and Regulated Cell Death. | Cells | [42439609](https://pubmed.ncbi.nlm.nih.gov/42439609/) | Immunometabolic Mechanisms of Coronary Microvascular Dysfunc... |
 | 2026 Jul 11 | The role and therapeutic potential of vitamins in fracture healing. | Nutrition journal | [42436498](https://pubmed.ncbi.nlm.nih.gov/42436498/) | The role and therapeutic potential of vitamins in fracture h... |
 | 2026 Jul 10 | Mitochondrial-ER stress crosstalk in osteoarthritis: From ageing-associated chondrocyte dysfunction to emerging therapeutics. | Ageing research reviews | [42431012](https://pubmed.ncbi.nlm.nih.gov/42431012/) | Mitochondrial-ER stress crosstalk in osteoarthritis: From ag... |
-| 2026 Jul 10 | Submicromolar imaging of intrinsic chromophores by two-photon photothermal microscopy captures mitochondrial response to chemotherapy. | Science advances | [42430486](https://pubmed.ncbi.nlm.nih.gov/42430486/) | Submicromolar imaging of intrinsic chromophores by two-photo... |
-| 2026 Jul 10 | Nicotinamide mononucleotide ameliorates high glucose/high fat-induced cardiomyocyte metabolic dysfunction through SIRT1-mediated CPT1A stabilization. | Molecular biology reports | [42429864](https://pubmed.ncbi.nlm.nih.gov/42429864/) | Nicotinamide mononucleotide ameliorates high glucose/high fa... |
-| 2026 Jul 10 | Mitochondrial localization of key NAD(+)-dependent dehydrogenases explains the exceptionally high biomass yield on ethanol of the yeast Cyberlindnera jadinii. | Applied and environmental microbiology | [42429759](https://pubmed.ncbi.nlm.nih.gov/42429759/) | Mitochondrial localization of key NAD(+)-dependent dehydroge... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-13 | 自动生成*
+*最后更新：2026-07-14 | 自动生成*
