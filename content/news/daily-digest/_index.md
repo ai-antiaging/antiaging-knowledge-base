@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-14](2026-07-14/) — J Gerontol A尿液NMR代谢组学生物学年龄预测(IF≈5.0)、Cell Mol Life Sci细胞衰老机制权威综述(IF≈9.5)、Neurosci Bull CSF1R抑制剂重塑肝脏脂质代谢(IF≈8.5)、J Cell Biol PISD脂噬-线粒体脂肪酸转运分子开关(IF≈8.5)、JAMA Netw Open血浆p-tau217排除Aβ病理(IF≈8.3)
 - [2026-07-13](2026-07-13/) — BMC Psychol 心理压力与端粒缩短的特异性关联(IF≈5.0)、Environ Geochem Health 铊暴露介导老年人腹型肥胖(IF≈5.0)、Acta Neuropathol Commun 轻度脊髓损伤加剧年龄相关Tau病(IF≈8.0)、Nutr J B族维生素经NAD⁺-Sirtuin轴调控骨折愈合(IF≈5.0)、Aging Ment Health 主观记忆困难关联老年抑郁焦虑(IF≈5.0)
 - [2026-07-12](2026-07-12/) — Front Aging多模态长寿人体试点实现生物学年龄净逆转(IF≈5)、Free Radic Biol Med ASAP3敲除延长小鼠健康寿命(IF≈7.4)、Cell Death Dis酸神经酰胺酶调控衰老细胞铁死亡敏感性(IF≈9.0)、Ageing Res Rev硫化氢在衰老与T2D中的代谢重编程(IF≈13.8)、Ageing Res Rev骨关节炎线粒体-ER应激串扰与NAD⁺靶向疗法(IF≈13.8)
 - [2026-07-11](2026-07-11/) — Nat Med Wyss-Coray&Topol生物衰老时钟权威综述(IF≈87)、Blood肠道菌群-PAA-组蛋白苯乙酰化驱动衰老贫血新机制(IF≈20+)、J Med Chem新型环己烯类Senolytic靶向肺纤维化(IF≈8.0)、Autophagy NAD⁺-SIRT1-REST轴调控AD线粒体自噬(IF≈9.0)、Alzheimers Dement生活方式干预降低认知障碍风险10年RCT(IF≈13.0)
