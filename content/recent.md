@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-14 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-15 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,16 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 6 | Polygonatum sibiricum polysaccharide ameliorates intestinal barrier dysfunction in aging mice via gut microbiota-metabolite modulation and TLR4/NF-κB pathway inhibition. | Phytomedicine : international journal of phytotherapy and phytopharmacology | [42442028](https://pubmed.ncbi.nlm.nih.gov/42442028/) | Polygonatum sibiricum polysaccharide ameliorates intestinal ... |
-| 2026 Aug | Neutrophil-targeted nanoparticles delivering sivelestat alleviate cerebral ischemia-reperfusion injury by suppressing NETosis. | Materials today. Bio | [42441012](https://pubmed.ncbi.nlm.nih.gov/42441012/) | Neutrophil-targeted nanoparticles delivering sivelestat alle... |
-| 2026 Jul | Cellular Senescence and Aging: Mechanisms, Disease Convergence, and Therapeutic Frontiers. | MedComm | [42440782](https://pubmed.ncbi.nlm.nih.gov/42440782/) | Cellular Senescence and Aging: Mechanisms, Disease Convergen... |
-| 2026 | Mitochondrial DNA efflux as a potential amplifier of systemic inflammatory network rewiring in heart failure with preserved ejection fraction. | Frontiers in immunology | [42440746](https://pubmed.ncbi.nlm.nih.gov/42440746/) | Mitochondrial DNA efflux as a potential amplifier of systemi... |
-| 2026 | The EV-mitochondrial outsourcing network as a therapeutic target for age-related testosterone deficiency: from network collapse to clinical intervention. | Frontiers in endocrinology | [42440452](https://pubmed.ncbi.nlm.nih.gov/42440452/) | The EV-mitochondrial outsourcing network as a therapeutic ta... |
+| 2026 Jul 13 | [Interaction between oxidative stress and inflammatory processes in fetal membranes: One Health]. | Revista medica del Instituto Mexicano del Seguro Social | [42447486](https://pubmed.ncbi.nlm.nih.gov/42447486/) | [Interaction between oxidative stress and inflammatory proce... |
+| 2026 | Impact of seasons and heat waves on the incidence of Staphylococcus aureus and Escherichia coli bacteremia - A prospective multicenter study using biometeorological data. | PloS one | [42447085](https://pubmed.ncbi.nlm.nih.gov/42447085/) | Impact of seasons and heat waves on the incidence of Staphyl... |
+| 2026 Jul 14 | Disruption of methionine metabolism drives erythroid cell fate reprogramming by remodeling the H3K4me3 landscape. | The Journal of clinical investigation | [42446929](https://pubmed.ncbi.nlm.nih.gov/42446929/) | Disruption of methionine metabolism drives erythroid cell fa... |
+| 2026 Jul 14 | Generation of synthetic vascular organoids via orthogonal programming of human pluripotent stem cells. | Cell regeneration (London, England) | [42446805](https://pubmed.ncbi.nlm.nih.gov/42446805/) | Generation of synthetic vascular organoids via orthogonal pr... |
+| 2026 Jul | Multilayer Proteome and Metabolome-Based Validation Uncovers Combined Regulatory Roles and Predictive Values of 6 RNA Modifications and Cellular Senescence in Alzheimer's Disease. | CNS neuroscience & therapeutics | [42446473](https://pubmed.ncbi.nlm.nih.gov/42446473/) | Multilayer Proteome and Metabolome-Based Validation Uncovers... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Jul | Virtual Nature, Metaverse, and NAD⁺: A Narrative Review for Health Planning and Healthy Ageing. | Health science reports | [42440917](https://pubmed.ncbi.nlm.nih.gov/42440917/) | Virtual Nature, Metaverse, and NAD⁺: A Narrative Review for ... |
-| 2026 | The EV-mitochondrial outsourcing network as a therapeutic target for age-related testosterone deficiency: from network collapse to clinical intervention. | Frontiers in endocrinology | [42440452](https://pubmed.ncbi.nlm.nih.gov/42440452/) | The EV-mitochondrial outsourcing network as a therapeutic ta... |
-| 2026 Jun 23 | Immunometabolic Mechanisms of Coronary Microvascular Dysfunction in Coronary Artery Disease: The Role of Mitochondrial Stress, Endothelial Senescence, and Regulated Cell Death. | Cells | [42439609](https://pubmed.ncbi.nlm.nih.gov/42439609/) | Immunometabolic Mechanisms of Coronary Microvascular Dysfunc... |
-| 2026 Jul 11 | The role and therapeutic potential of vitamins in fracture healing. | Nutrition journal | [42436498](https://pubmed.ncbi.nlm.nih.gov/42436498/) | The role and therapeutic potential of vitamins in fracture h... |
-| 2026 Jul 10 | Mitochondrial-ER stress crosstalk in osteoarthritis: From ageing-associated chondrocyte dysfunction to emerging therapeutics. | Ageing research reviews | [42431012](https://pubmed.ncbi.nlm.nih.gov/42431012/) | Mitochondrial-ER stress crosstalk in osteoarthritis: From ag... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
@@ -43,11 +38,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Jul 2 | Psychological stress drives aging-like hematopoietic stem cell dysfunction through a brain-gut-bone marrow axis. | Cell stem cell | [42392052](https://pubmed.ncbi.nlm.nih.gov/42392052/) | Psychological stress drives aging-like hematopoietic stem ce... |
-| 2026 Jun 28 | Spermidine mitigates glucocorticoid-induced bone osteoporosis by targeting oxidative stress and RANKL/OPG pathway. | Tissue & cell | [42378850](https://pubmed.ncbi.nlm.nih.gov/42378850/) | Spermidine mitigates glucocorticoid-induced bone osteoporosi... |
-| 2026 Jun 26 | Metabolic control of RNA splicing by polyamines. | Trends in biochemical sciences | [42362467](https://pubmed.ncbi.nlm.nih.gov/42362467/) | Metabolic control of RNA splicing by polyamines. |
+*暂无最新文献*
+
 
 ---
 
@@ -61,4 +53,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-14 | 自动生成*
+*最后更新：2026-07-15 | 自动生成*
