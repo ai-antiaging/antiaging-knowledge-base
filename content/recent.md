@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-16 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-17 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 15 | A yeast model of 5-oxoproline accumulation reveals a general toleration to 5-oxoproline. | FEBS open bio | [42456128](https://pubmed.ncbi.nlm.nih.gov/42456128/) | A yeast model of 5-oxoproline accumulation reveals a general... |
-| 2026 Jul 15 | Murine autoantigen-specific type 1 regulatory T cells promote oligodendrogenesis through amphiregulin-EGFR signaling. | Science translational medicine | [42455897](https://pubmed.ncbi.nlm.nih.gov/42455897/) | Murine autoantigen-specific type 1 regulatory T cells promot... |
-| 2026 | Chromosome Architecture Defined by the Meiosis-Specific Cohesin in Mammalian Germ Cells. | Advances in experimental medicine and biology | [42455438](https://pubmed.ncbi.nlm.nih.gov/42455438/) | Chromosome Architecture Defined by the Meiosis-Specific Cohe... |
-| 2026 Jul 15 | Higher physical activity levels mitigate synaptic protein loss and cognitive deterioration in aging and in Alzheimer's disease: a 10-year longitudinal study. | Molecular biomedicine | [42455424](https://pubmed.ncbi.nlm.nih.gov/42455424/) | Higher physical activity levels mitigate synaptic protein lo... |
-| 2026 Jul 15 | Vitamin D Promotes Neuronal Survival via Nrf2 Upregulation in D-Galactose-Induced Mice: An In-Vivo and In-Silico Study. | Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology | [42455201](https://pubmed.ncbi.nlm.nih.gov/42455201/) | Vitamin D Promotes Neuronal Survival via Nrf2 Upregulation i... |
+| 2026 Jul 16 | Tidying up aging organs. | Science (New York, N.Y.) | [42462040](https://pubmed.ncbi.nlm.nih.gov/42462040/) | Tidying up aging organs. |
+| 2026 Jul 16 | Restored clearance of senescent neutrophils by tissue-resident macrophages limits organ aging. | Science (New York, N.Y.) | [42462036](https://pubmed.ncbi.nlm.nih.gov/42462036/) | Restored clearance of senescent neutrophils by tissue-reside... |
+| 2026 Jul 16 | Spatiotemporally homogeneous crystallization for ambient scalable perovskite photovoltaics. | Science (New York, N.Y.) | [42462032](https://pubmed.ncbi.nlm.nih.gov/42462032/) | Spatiotemporally homogeneous crystallization for ambient sca... |
+| 2026 Jul 17 | Mechanisms for Mineralocorticoid-Driven Age-Related Hypertension: Potential Therapeutic Role of Mineralocorticoid Receptor Antagonists and Aldosterone Synthase Inhibitors. | Circulation research | [42461992](https://pubmed.ncbi.nlm.nih.gov/42461992/) | Mechanisms for Mineralocorticoid-Driven Age-Related Hyperten... |
+| 2026 Jul 17 | Prevention of Vascular Aging as a Novel Paradigm for GLP-1 Receptor Agonist-Mediated Cardioprotection. | Circulation research | [42461988](https://pubmed.ncbi.nlm.nih.gov/42461988/) | Prevention of Vascular Aging as a Novel Paradigm for GLP-1 R... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | The mitochondrial logic of inflammaging: how energy imbalance drives fibroblast SASP and tissue-specific aging. | Frontiers in immunology | [42459658](https://pubmed.ncbi.nlm.nih.gov/42459658/) | The mitochondrial logic of inflammaging: how energy imbalanc... |
+| 2026 Jul 15 | Label-free segmentation of mitochondria for simultaneous morphological and metabolic studies. | Communications biology | [42457865](https://pubmed.ncbi.nlm.nih.gov/42457865/) | Label-free segmentation of mitochondria for simultaneous mor... |
+| 2026 Jul 15 | Modulating hepatic hypoxanthine metabolism relieve metabolic stress-related neurovascular resilience disturbance via the liver-brain axis. | Free radical biology & medicine | [42456994](https://pubmed.ncbi.nlm.nih.gov/42456994/) | Modulating hepatic hypoxanthine metabolism relieve metabolic... |
 | 2026 Jul 1 | Network Destabilization in Aging: Mitochondrial Dysfunction, Nutrient Sensing, and Chronic Inflammation as Interconnected Drivers. | Molecules (Basel, Switzerland) | [42451684](https://pubmed.ncbi.nlm.nih.gov/42451684/) | Network Destabilization in Aging: Mitochondrial Dysfunction,... |
 | 2026 Jun 24 | Vitamin K2 Promotes Mitochondrial Structural and Functional Homeostasis to Ameliorate Alzheimer Pathology by Targeting the EGFR-Ras-ERK Signaling Axis. | International journal of molecular sciences | [42449980](https://pubmed.ncbi.nlm.nih.gov/42449980/) | Vitamin K2 Promotes Mitochondrial Structural and Functional ... |
-| 2026 Jun 24 | Molecular Mechanisms of Photobiomodulation in Retinal Diseases: Cytochrome c Oxidase, Mitochondrial Bioenergetics and Cytoprotective Signalling. | International journal of molecular sciences | [42449957](https://pubmed.ncbi.nlm.nih.gov/42449957/) | Molecular Mechanisms of Photobiomodulation in Retinal Diseas... |
-| 2026 Jun 23 | Transcriptional Profiling Shows Dampening of Interferon Gene Signatures by NAD(+) Augmentation in Ataxia-Telangiectasia. | International journal of molecular sciences | [42449929](https://pubmed.ncbi.nlm.nih.gov/42449929/) | Transcriptional Profiling Shows Dampening of Interferon Gene... |
-| 2026 Jul 15 | Metabolic imaging for gamete and embryo assessment through advanced microscopy technologies: a novel avenue for artificial intelligence? | Human reproduction (Oxford, England) | [42449562](https://pubmed.ncbi.nlm.nih.gov/42449562/) | Metabolic imaging for gamete and embryo assessment through a... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jul 16 | The gut microbiota-metabolome axis mediates the adaptive protective effects of a high-altitude probiotic against distinct aging etiologies. | Food & function | [42458926](https://pubmed.ncbi.nlm.nih.gov/42458926/) | The gut microbiota-metabolome axis mediates the adaptive pro... |
 | 2026 Jul 15 | Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42455181](https://pubmed.ncbi.nlm.nih.gov/42455181/) | Longitudinal association of dietary spermidine with hepatic ... |
 | 2026 Jul 15 | MAP1S limits autoimmune uveitis by suppressing Th17 differentiation through dual control of the EGR2-LCN2 axis and autophagic flux. | Autophagy | [42454709](https://pubmed.ncbi.nlm.nih.gov/42454709/) | MAP1S limits autoimmune uveitis by suppressing Th17 differen... |
-| 2026 | Polyamine-mediated inhibition of ferroptosis contributes to geroprotection. | Cell stress | [42444672](https://pubmed.ncbi.nlm.nih.gov/42444672/) | Polyamine-mediated inhibition of ferroptosis contributes to ... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-16 | 自动生成*
+*最后更新：2026-07-17 | 自动生成*
