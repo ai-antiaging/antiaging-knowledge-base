@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-17 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-18 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 16 | Tidying up aging organs. | Science (New York, N.Y.) | [42462040](https://pubmed.ncbi.nlm.nih.gov/42462040/) | Tidying up aging organs. |
-| 2026 Jul 16 | Restored clearance of senescent neutrophils by tissue-resident macrophages limits organ aging. | Science (New York, N.Y.) | [42462036](https://pubmed.ncbi.nlm.nih.gov/42462036/) | Restored clearance of senescent neutrophils by tissue-reside... |
-| 2026 Jul 16 | Spatiotemporally homogeneous crystallization for ambient scalable perovskite photovoltaics. | Science (New York, N.Y.) | [42462032](https://pubmed.ncbi.nlm.nih.gov/42462032/) | Spatiotemporally homogeneous crystallization for ambient sca... |
-| 2026 Jul 17 | Mechanisms for Mineralocorticoid-Driven Age-Related Hypertension: Potential Therapeutic Role of Mineralocorticoid Receptor Antagonists and Aldosterone Synthase Inhibitors. | Circulation research | [42461992](https://pubmed.ncbi.nlm.nih.gov/42461992/) | Mechanisms for Mineralocorticoid-Driven Age-Related Hyperten... |
-| 2026 Jul 17 | Prevention of Vascular Aging as a Novel Paradigm for GLP-1 Receptor Agonist-Mediated Cardioprotection. | Circulation research | [42461988](https://pubmed.ncbi.nlm.nih.gov/42461988/) | Prevention of Vascular Aging as a Novel Paradigm for GLP-1 R... |
+| 2026 Jul 17 | Extracellular Vesicles and Epigenetic Aging Clocks in Tissue Aging: An Exosome-Focused Conceptual Framework with a Focus on Skin. | The journals of gerontology. Series A, Biological sciences and medical sciences | [42467831](https://pubmed.ncbi.nlm.nih.gov/42467831/) | Extracellular Vesicles and Epigenetic Aging Clocks in Tissue... |
+| 2026 Jul 17 | Varicose projection astrocytes: Conserved reactive cells in brain pathology. | Science advances | [42467789](https://pubmed.ncbi.nlm.nih.gov/42467789/) | Varicose projection astrocytes: Conserved reactive cells in ... |
+| 2026 Jul 17 | ALR couples IMS redox and heme biosynthesis beyond the disulfide relay. | Science advances | [42467788](https://pubmed.ncbi.nlm.nih.gov/42467788/) | ALR couples IMS redox and heme biosynthesis beyond the disul... |
+| 2026 Jul 17 | SORLA up-regulation suppresses pathological effects in aged tauopathy mouse brain. | Science advances | [42467771](https://pubmed.ncbi.nlm.nih.gov/42467771/) | SORLA up-regulation suppresses pathological effects in aged ... |
+| 2026 Jul 17 | Mapping ovarian cellular and molecular landscape across the lifespan of women: a scoping review. | Human reproduction update | [42467724](https://pubmed.ncbi.nlm.nih.gov/42467724/) | Mapping ovarian cellular and molecular landscape across the ... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jul 17 | Targeting Sirtuin Signaling in Parkinson's Disease and Neurodegeneration: Molecular Insights and Translational Potential. | Molecular neurobiology | [42467143](https://pubmed.ncbi.nlm.nih.gov/42467143/) | Targeting Sirtuin Signaling in Parkinson's Disease and Neuro... |
 | 2026 | The mitochondrial logic of inflammaging: how energy imbalance drives fibroblast SASP and tissue-specific aging. | Frontiers in immunology | [42459658](https://pubmed.ncbi.nlm.nih.gov/42459658/) | The mitochondrial logic of inflammaging: how energy imbalanc... |
 | 2026 Jul 15 | Label-free segmentation of mitochondria for simultaneous morphological and metabolic studies. | Communications biology | [42457865](https://pubmed.ncbi.nlm.nih.gov/42457865/) | Label-free segmentation of mitochondria for simultaneous mor... |
 | 2026 Jul 15 | Modulating hepatic hypoxanthine metabolism relieve metabolic stress-related neurovascular resilience disturbance via the liver-brain axis. | Free radical biology & medicine | [42456994](https://pubmed.ncbi.nlm.nih.gov/42456994/) | Modulating hepatic hypoxanthine metabolism relieve metabolic... |
 | 2026 Jul 1 | Network Destabilization in Aging: Mitochondrial Dysfunction, Nutrient Sensing, and Chronic Inflammation as Interconnected Drivers. | Molecules (Basel, Switzerland) | [42451684](https://pubmed.ncbi.nlm.nih.gov/42451684/) | Network Destabilization in Aging: Mitochondrial Dysfunction,... |
-| 2026 Jun 24 | Vitamin K2 Promotes Mitochondrial Structural and Functional Homeostasis to Ameliorate Alzheimer Pathology by Targeting the EGFR-Ras-ERK Signaling Axis. | International journal of molecular sciences | [42449980](https://pubmed.ncbi.nlm.nih.gov/42449980/) | Vitamin K2 Promotes Mitochondrial Structural and Functional ... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-17 | 自动生成*
+*最后更新：2026-07-18 | 自动生成*
