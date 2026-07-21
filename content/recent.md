@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-20 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-21 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Dec | Injectable microsphere-based delivery strategies for stem cells and their derivatives in tissue regeneration. | Bioactive materials | [42472088](https://pubmed.ncbi.nlm.nih.gov/42472088/) | Injectable microsphere-based delivery strategies for stem ce... |
-| 2026 | Regulation of Mitochondrial Homeostasis: Applications of Nanobiomaterials in Age-Related Bone Diseases. | International journal of nanomedicine | [42471993](https://pubmed.ncbi.nlm.nih.gov/42471993/) | Regulation of Mitochondrial Homeostasis: Applications of Nan... |
-| 2026 Dec | Cellular thermal shift assay of subcellular isolates to evaluate drug-membrane target interactions. | MethodsX | [42471836](https://pubmed.ncbi.nlm.nih.gov/42471836/) | Cellular thermal shift assay of subcellular isolates to eval... |
-| 2026 Jul 18 | Erzhi Tiangui formula ameliorates ovarian aging by enhancing antioxidant defense via Nrf2/HO-1 signaling. | Journal of ovarian research | [42471670](https://pubmed.ncbi.nlm.nih.gov/42471670/) | Erzhi Tiangui formula ameliorates ovarian aging by enhancing... |
-| 2026 Jul 18 | Surface activation of Ti6Al4V via vacuum versus conventional ultraviolet photofunctionalization: physicochemical and biological insights. | BMC oral health | [42471620](https://pubmed.ncbi.nlm.nih.gov/42471620/) | Surface activation of Ti6Al4V via vacuum versus conventional... |
+| 2026 Jun 19 | Renal aging and associated diseases: Common mechanisms and therapeutic approaches. | Pharmacological reviews | [42475764](https://pubmed.ncbi.nlm.nih.gov/42475764/) | Renal aging and associated diseases: Common mechanisms and t... |
+| 2026 Jul 20 | Bcl11a orchestrates multilineage integrity in aging hematopoiesis by regulating multipotent progenitor fate decisions. | Cell reports | [42475180](https://pubmed.ncbi.nlm.nih.gov/42475180/) | Bcl11a orchestrates multilineage integrity in aging hematopo... |
+| 2026 Jul 20 | A Supramolecular Thermal Switch for Precision Pyroptosis via Host-Guest Recognition and Electrostatic Interactions. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42474456](https://pubmed.ncbi.nlm.nih.gov/42474456/) | A Supramolecular Thermal Switch for Precision Pyroptosis via... |
+| 2026 Jul 1 | Macular Metabolism in Young and Older Adults: A Preliminary Optical Coherence Tomography Biomarker Study. | Investigative ophthalmology & visual science | [42474423](https://pubmed.ncbi.nlm.nih.gov/42474423/) | Macular Metabolism in Young and Older Adults: A Preliminary ... |
+| 2026 Jul 3 | Nebivolol treatment improves hypertension-induced endothelial cell dysfunction by reducing TGF-β1-dependent senescence and normalizing mitochondrial indices. | Journal of hypertension | [42474349](https://pubmed.ncbi.nlm.nih.gov/42474349/) | Nebivolol treatment improves hypertension-induced endothelia... |
 
 ### NAD+ 与线粒体
 
@@ -53,4 +53,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-20 | 自动生成*
+*最后更新：2026-07-21 | 自动生成*
