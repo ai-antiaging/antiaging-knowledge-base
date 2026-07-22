@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-22](2026-07-22/) — Neurology 血液细胞衰老基因表达预测中风预后(IF≈12.5)、Aging Cell TFEB下调致衰老肾脏自噬缺陷与脓毒症AKI易感性(IF≈8.0)、Aging Cell 血小板膜包覆白藜芦醇纳米系统靶向内皮衰老(IF≈8.0)、Mol Nutr Food Res 低甲硫氨酸饮食经NNMT/NAD⁺/SIRT3轴减轻胃溃疡(IF≈6.0)、Biomed Pharmacother 帕纳皂苷激活SIRT1抗血管内皮衰老(IF≈6.5)
 - [2026-07-14](2026-07-14/) — J Gerontol A尿液NMR代谢组学生物学年龄预测(IF≈5.0)、Cell Mol Life Sci细胞衰老机制权威综述(IF≈9.5)、Neurosci Bull CSF1R抑制剂重塑肝脏脂质代谢(IF≈8.5)、J Cell Biol PISD脂噬-线粒体脂肪酸转运分子开关(IF≈8.5)、JAMA Netw Open血浆p-tau217排除Aβ病理(IF≈8.3)
 - [2026-07-13](2026-07-13/) — BMC Psychol 心理压力与端粒缩短的特异性关联(IF≈5.0)、Environ Geochem Health 铊暴露介导老年人腹型肥胖(IF≈5.0)、Acta Neuropathol Commun 轻度脊髓损伤加剧年龄相关Tau病(IF≈8.0)、Nutr J B族维生素经NAD⁺-Sirtuin轴调控骨折愈合(IF≈5.0)、Aging Ment Health 主观记忆困难关联老年抑郁焦虑(IF≈5.0)
 - [2026-07-12](2026-07-12/) — Front Aging多模态长寿人体试点实现生物学年龄净逆转(IF≈5)、Free Radic Biol Med ASAP3敲除延长小鼠健康寿命(IF≈7.4)、Cell Death Dis酸神经酰胺酶调控衰老细胞铁死亡敏感性(IF≈9.0)、Ageing Res Rev硫化氢在衰老与T2D中的代谢重编程(IF≈13.8)、Ageing Res Rev骨关节炎线粒体-ER应激串扰与NAD⁺靶向疗法(IF≈13.8)
