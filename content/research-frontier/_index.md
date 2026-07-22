@@ -2,13 +2,85 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-07-13 08:00 (Asia/Shanghai)  
+**最后更新**: 2026-07-22 17:07 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索) + Nature Aging
 
 ---
 
-## 本周新增论文 (2026.07.07 – 2026.07.13)
+## 本周新增论文 (2026.07.15 – 2026.07.22)
+
+### 📌 重点论文
+
+#### 1. Alzheimers Dement：II 期 RCT——烟酰胺核糖补充对轻度认知障碍老年人的安全性和初步疗效（临床试验 ⭐）
+- **标题**: A phase-II randomized controlled pilot study of nicotinamide riboside supplementation in older adults with amnestic mild cognitive impairment
+- **期刊**: Alzheimer's & Dementia (2026-07)
+- **关键发现**: 这是一项为期 12 周的双盲、随机、安慰剂对照 II 期试点试验，评估烟酰胺核糖（NR，NAD+ 前体）在遗忘型轻度认知障碍（aMCI）老年人中的安全性、耐受性和初步疗效。NAD+ 水平下降被认为是阿尔茨海默病的风险因素之一。该试验是 NAD+ 增强剂在认知衰退人群中开展的重要临床转化研究，为 NR 作为神经退行性疾病的潜在干预手段提供了人体试验数据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42478598/
+
+#### 2. PNAS：单细胞图谱揭示小鼠卵巢衰老和绝经过渡期细胞衰老的分子驱动因素
+- **标题**: Single-cell atlas of the mouse ovary reveals molecular drivers of aging and senescence during the estropausal transition
+- **期刊**: PNAS (2026-07-21)
+- **关键发现**: 构建了小鼠卵巢的单细胞转录组图谱，发现在绝经过渡期间，周期不规律的卵巢相比周期规律的卵巢表现出加速的衰老和细胞衰老特征，包括转录噪音增加、保守衰老基因表达改变等。揭示了卵泡耗竭的细胞基础不仅限于卵母细胞和颗粒细胞衰退，还涉及多种细胞类型的协同衰老。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42479833/
+
+#### 3. Cell Death Differ：Lamtor5 年龄相关衰退通过 cGAS 介导的旁分泌炎症驱动免疫衰老和全身衰老
+- **标题**: Age-associated decline of Lamtor5 drives immunosenescence and systemic aging via cGAS-mediated paracrine inflammation
+- **期刊**: Cell Death and Differentiation (2026-07-16)
+- **关键发现**: 揭示了衰老的先天免疫系统如何通过 cGAS 介导的旁分泌炎症驱动全身衰老。研究发现 Lamtor5（mTORC1 组分）的年龄相关衰退是启动原发性衰老和调控免疫衰老的关键环节，阐明了衰老免疫系统与机体全身衰老之间的因果关联。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42463581/
+
+#### 4. Aging (Albany NY)：靶向癌症与衰老细胞的共享代谢转变延长老年小鼠寿命
+- **标题**: Selective targeting of cancer and senescence via shared metabolic shifts extends lifespan of old mice
+- **期刊**: Aging (Albany NY) (2026-07-17)
+- **关键发现**: 发现 Navitoclax（ABT-263）通过共享的代谢转变机制同时消除衰老细胞和癌细胞，从而延长老年小鼠寿命。Navitoclax 兼具 senolytic 和抗肿瘤活性，通过干预衰老细胞与癌细胞共有的代谢脆弱性实现双重获益。该研究为 senolytic 药物的寿命延长效应提供了重要实验证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42474306/
+
+#### 5. Neurology：卒中患者的衰老基因表达谱与 90 天预后关联（临床转化）
+- **标题**: Senescence Gene Expression Profiles and 90-Day Outcome in Stroke Patients
+- **期刊**: Neurology (2026-07-21)
+- **关键发现**: 在 Neurology 发表的前瞻性临床研究，首次系统分析了细胞衰老基因表达谱与卒中患者 90 天预后的关联。研究表明细胞衰老可能通过促进血管功能障碍影响卒中后的恢复，为衰老生物学标志物在急性神经系统事件中的预后价值提供了临床证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42479998/
+
+#### 6. JCI Insight：微生物组代谢物塑造 HIV-1 感染中的 CD4+ T 细胞分化和免疫衰老
+- **标题**: Microbiome-Derived Metabolites Shape CD4+ T-Cell Differentiation and Immune Aging in HIV-1 Infection
+- **期刊**: JCI Insight (2026-07-21)
+- **关键发现**: 通过流式细胞术和单细胞 RNA 测序分析，发现微生物组衍生代谢物（PCS）通过剂量依赖性方式富集与受损分化、调节样身份和细胞衰老相关的转录程序。揭示了肠道微生物组-代谢物-免疫衰老轴在 HIV 感染中的新机制。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42479464/
+
+#### 7. Neurotoxicology：锰超载作为细胞衰老的新触发因素——槲皮素的 senolytic 救援机制
+- **标题**: Manganese overload as a previously underappreciated trigger of cellular senescence: unraveling mechanisms and therapeutic rescue by the senolytic quercetin
+- **期刊**: Neurotoxicology (2026-07-17)
+- **关键发现**: 首次揭示锰（Mn）超载作为细胞衰老的新触发因素及其机制，并发现 senolytic 化合物槲皮素（quercetin）能够救援锰诱导的衰老表型。为重金属暴露与衰老相关神经功能障碍之间的关联提供了分子证据，同时拓展了槲皮素作为 senolytic 的应用场景。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42468696/
+
+#### 8. Acta Biomater：精确靶向清除衰老细胞的策略综述
+- **标题**: Precise strategies for targeted elimination of senescent cells to combat aging and age-related diseases
+- **期刊**: Acta Biomaterialia (2026-07-15)
+- **关键发现**: 系统综述了精准靶向消除衰老细胞的新兴策略，包括纳米载体递送、PROTAC 技术、CAR-T 细胞疗法和基因编辑方法。文章强调当前 senolytics 缺乏精确选择性并可能诱导脱靶毒性，因此需要开发更精准的靶向递送系统以提高 senolytic 治疗的安全性和有效性。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42457010/
+
+#### 9. Ageing Res Rev：营养干预对人体细胞衰老生物标志物影响的系统综述
+- **标题**: Effects of nutritional interventions on biomarkers of cellular senescence in humans: A systematic review
+- **期刊**: Ageing Research Reviews (2026-07-04)
+- **关键发现**: 系统综述了营养干预对人体细胞衰老生物标志物的影响，涵盖多种饮食模式和营养补充剂。文章支持使用多标记和功能相关的终点来评估抗衰老干预效果，为基于饮食的衰老干预提供了循证基础。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42401265/
+
+#### 10. bioRxiv 预印本：哺乳动物衰老涉及全基因组剪接退化导致功能衰退（Gladyshev 实验室重磅预印本）
+- **标题**: Mammalian aging involves genome-wide splicing degeneration leading to functional decline
+- **期刊**: bioRxiv 预印本 (2026-06-29)
+- **关键发现**: Gladyshev 实验室发现全基因组剪接退化是衰老的新分子标志物。剪接错误水平随年龄增加而升高，但在热量限制或雷帕霉素治疗后得到缓解，表明其可作为衰老的新型分子标志物。研究揭示了衰老与全基因组范围剪接保真度下降之间的复杂关系，为理解衰老的分子基础提供了全新视角。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42427714/
+
+#### 11. bioRxiv 预印本：五种长寿干预的多组织代谢组学特征汇聚于麦角硫因和脂质重塑
+- **标题**: Multi-Tissue Metabolomic Signatures of Five Longevity Interventions Converge on Ergothioneine and Lipid Remodeling in Male UM-HET3 Mice
+- **期刊**: bioRxiv 预印本 (2026-06-24)
+- **关键发现**: 在 UM-HET3 小鼠中比较五种不同长寿干预（突变、饮食操控和药物）的多组织代谢组学特征，发现它们在麦角硫因（ergothioneine）代谢和脂质重塑方面存在趋同效应。揭示了不同机制的长寿干预在代谢层面共享的共同通路。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42427596/
+
+---
+
+## 上周新增论文 (2026.07.07 – 2026.07.13)
 
 ### 📌 重点论文
 
