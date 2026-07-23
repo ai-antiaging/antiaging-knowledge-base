@@ -13,6 +13,7 @@ draft: false
 
 ## 最新动态
 
+- [2026-07-23 追踪报告](/news/abc-updates/2026-07-23/) — 📝 Cell Rep Med 基因治疗论文正式刊出（2026-07-21, Vol 7(7):102870）；ABC 标签82条无变化；口腔共识审定后39天；ClockBase官网DNS解析持续失败（连续11天）
 - [2026-07-22 追踪报告](/news/abc-updates/2026-07-22/) — 🔬 Cell Stem Cell 新论文：维生素 C 衰减灵长类骨髓衰老（PMID 42462722）；ABC 标签81→82条；口腔共识审定后38天；ClockBase官网DNS解析持续失败（连续10天）
 - [2026-07-15 追踪报告](/news/abc-updates/2026-07-15/) — 🔍 定期检查，无新增动态；PubMed ABC 标签81条无变化；口腔共识审定后31天；ClockBase官网DNS解析持续失败（连续3天）
 - [2026-07-14 追踪报告](/news/abc-updates/2026-07-14/) — 🔍 定期检查，无新增动态；PubMed ABC 标签81条无变化；口腔共识审定后30天；ClockBase官网DNS解析持续失败（连续2天）
