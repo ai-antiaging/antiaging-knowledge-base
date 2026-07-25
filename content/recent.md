@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-24 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-25 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 23 | Investigation of Vaccine-Induced Immune Response After Vaccination Against Respiratory Viruses in Immunocompromised Patients With or Without Hemato-Oncological Diseases (RESPONSE): Protocol for a Prospective Cohort Study. | JMIR research protocols | [42492070](https://pubmed.ncbi.nlm.nih.gov/42492070/) | Investigation of Vaccine-Induced Immune Response After Vacci... |
-| 2026 | Bioinformatics identification of forkhead box O3 and the proto-oncogene tyrosine-protein kinase receptor RET as aging-associated biomarkers linked to immune cell infiltration in Parkinson's disease. | CytoJournal | [42491823](https://pubmed.ncbi.nlm.nih.gov/42491823/) | Bioinformatics identification of forkhead box O3 and the pro... |
-| 2026 | Aging and vaccines: impact of immunosenescence and inflammaging in vaccine response. | Frontiers in aging | [42490987](https://pubmed.ncbi.nlm.nih.gov/42490987/) | Aging and vaccines: impact of immunosenescence and inflammag... |
-| 2026 Jul | Clonal drift in the aging gut: Mapping the fate of stem cells over time. | PLoS biology | [42490637](https://pubmed.ncbi.nlm.nih.gov/42490637/) | Clonal drift in the aging gut: Mapping the fate of stem cell... |
-| 2026 Jul 23 | Epigenetic and 3D genome reprogramming during the aging of the human hippocampus. | Science (New York, N.Y.) | [42490474](https://pubmed.ncbi.nlm.nih.gov/42490474/) | Epigenetic and 3D genome reprogramming during the aging of t... |
+| 2026 Jul 24 | Dynamic regulation of lysine and arginine metabolism promotes immune evasion by limiting T cell function in cancer. | Science immunology | [42497246](https://pubmed.ncbi.nlm.nih.gov/42497246/) | Dynamic regulation of lysine and arginine metabolism promote... |
+| 2026 Jul | Role of chemokines and their receptors in lesional CD8⁺ T cell homing in Indian Post-Kala-Azar Dermal Leishmaniasis. | PLoS neglected tropical diseases | [42497210](https://pubmed.ncbi.nlm.nih.gov/42497210/) | Role of chemokines and their receptors in lesional CD8⁺ T ce... |
+| 2026 Jul 24 | Embryo-fetal and early-life protein restriction programs pulmonary structure and molecular parameters in both dams and female offspring. | Molecular and cellular biochemistry | [42496845](https://pubmed.ncbi.nlm.nih.gov/42496845/) | Embryo-fetal and early-life protein restriction programs pul... |
+| 2026 Jul 24 | Circulating factors induced by time-restricted eating drive metabolic reprogramming in endothelial cells. | GeroScience | [42496831](https://pubmed.ncbi.nlm.nih.gov/42496831/) | Circulating factors induced by time-restricted eating drive ... |
+| 2026 Jul 24 | Gestational Protein Restriction Promotes Osteoporotic Phenotype During Aging. | Calcified tissue international | [42496715](https://pubmed.ncbi.nlm.nih.gov/42496715/) | Gestational Protein Restriction Promotes Osteoporotic Phenot... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jun | The Role of Oxidative Stress in Heart Failure: Mechanisms and Therapeutic Targets. | Cureus | [42495453](https://pubmed.ncbi.nlm.nih.gov/42495453/) | The Role of Oxidative Stress in Heart Failure: Mechanisms an... |
 | 2026 Jul 23 | Sustainable Fabrication of Tailored Bone Substitutes: From High-Throughput Scaffold Manufacturing, Scaled-Up HMSC Expansion to Dynamic Cultivation in a Perfusion Bioreactor. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42490685](https://pubmed.ncbi.nlm.nih.gov/42490685/) | Sustainable Fabrication of Tailored Bone Substitutes: From H... |
 | 2026 Jul 23 | NAD⁺ biology and supplementation: From mechanisms to clinical perspectives. | Molecular biology reports | [42489969](https://pubmed.ncbi.nlm.nih.gov/42489969/) | NAD⁺ biology and supplementation: From mechanisms to clinica... |
 | 2026 Aug | SIRT Family: Biological Functions and Therapeutic Targets. | MedComm | [42488706](https://pubmed.ncbi.nlm.nih.gov/42488706/) | SIRT Family: Biological Functions and Therapeutic Targets. |
 | 2026 | SIRT3 in post-myocardial infarction macrophage reprogramming: linking mitochondrial fitness to inflammation resolution and repair. | Frontiers in immunology | [42488660](https://pubmed.ncbi.nlm.nih.gov/42488660/) | SIRT3 in post-myocardial infarction macrophage reprogramming... |
-| 2026 Jul 28 | Peroxisomal ether lipid synthesis regulates cortical neurogenesis and maintains mitochondrial energy homeostasis in radial glial cells. | Proceedings of the National Academy of Sciences of the United States of America | [42485376](https://pubmed.ncbi.nlm.nih.gov/42485376/) | Peroxisomal ether lipid synthesis regulates cortical neuroge... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -43,11 +43,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Jul 20 | Geroprotective insights into the natural metabolite spermidine in aging and age-related diseases. | npj aging | [42477363](https://pubmed.ncbi.nlm.nih.gov/42477363/) | Geroprotective insights into the natural metabolite spermidi... |
-| 2026 Jul 17 | Spermidine alleviates 2,2-dichloroacetamide/ 2,2-dibromoacetamide-exposed mouse oocyte toxicity by restoring autophagic homeostasis. | Ecotoxicology and environmental safety | [42468217](https://pubmed.ncbi.nlm.nih.gov/42468217/) | Spermidine alleviates 2,2-dichloroacetamide/ 2,2-dibromoacet... |
-| 2026 Jul 16 | The gut microbiota-metabolome axis mediates the adaptive protective effects of a high-altitude probiotic against distinct aging etiologies. | Food & function | [42458926](https://pubmed.ncbi.nlm.nih.gov/42458926/) | The gut microbiota-metabolome axis mediates the adaptive pro... |
+*暂无最新文献*
+
 
 ---
 
@@ -61,4 +58,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-24 | 自动生成*
+*最后更新：2026-07-25 | 自动生成*
