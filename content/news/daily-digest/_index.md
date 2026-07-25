@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-25](2026-07-25/) — Epigenomics 表观遗传时钟间年龄预测差异高达45年(IF≈7)、Toxicology 聚苯乙烯纳米塑料通过核仁应激诱导血管内皮衰老(IF≈5.5)、Ageing Res Rev 状态解析型衰老治疗框架(IF≈13.8)、单细胞骨骼肌衰老解析(IF≈13.8)、Autophagy 细胞静止性自噬与癌症治疗(IF≈18.8)
 - [2026-07-24](2026-07-24/) — Science 人类海马体衰老的表观遗传与3D基因组重编程(IF≈57)、GeroScience 年轻供体血浆置换用于认知障碍患者间质液年轻化(IF≈5.5)、Sci Adv COPI蛋白在细胞衰老中的独特功能衰减(IF≈14.1)、PLoS Biol 衰老肠道克隆漂移干细胞谱系追踪(IF≈9.8)、GeroScience 微量营养素与Omega-3促进健康衰老的生理学策略(IF≈5.5)
 - [2026-07-23](2026-07-23/) — Sci Transl Med Senolytics逆转SCD造血干细胞早衰(IF≈17.1)、JCI Insight p21⁺衰老β细胞驱动T2D胰岛功能障碍(JAKi可逆转 IF≈8.2)、NPJ Aging 早期糖限制与痴呆风险降低27%+大脑衰老减速6万人群自然实验(IF≈9.1)、Geroscience 多代际表观遗传时钟介导高血压-衰老关联1528人(IF≈5.4)、Mol Biomed SelO介导NAD⁺水解守护线粒体稳态
 - [2026-07-22](2026-07-22/) — Neurology 血液细胞衰老基因表达预测中风预后(IF≈12.5)、Aging Cell TFEB下调致衰老肾脏自噬缺陷与脓毒症AKI易感性(IF≈8.0)、Aging Cell 血小板膜包覆白藜芦醇纳米系统靶向内皮衰老(IF≈8.0)、Mol Nutr Food Res 低甲硫氨酸饮食经NNMT/NAD⁺/SIRT3轴减轻胃溃疡(IF≈6.0)、Biomed Pharmacother 帕纳皂苷激活SIRT1抗血管内皮衰老(IF≈6.5)
