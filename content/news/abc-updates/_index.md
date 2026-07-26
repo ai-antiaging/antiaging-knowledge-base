@@ -13,6 +13,7 @@ draft: false
 
 ## 最新动态
 
+- [2026-07-26 追踪报告](/news/abc-updates/2026-07-26/) — 🔍 定期检查，无新增动态；ClockBase 官网持续正常；ABC Affiliation 70条
 - [2026-07-25 追踪报告](/news/abc-updates/2026-07-25/) — 🔍 定期检查，无新增动态；ClockBase 官网持续正常；口腔共识审定后41天
 - [2026-07-24 追踪报告](/news/abc-updates/2026-07-24/) — 🔍 定期检查，无新增论文；🟢 ClockBase 官网 DNS 恢复正常（此前连续11天失败）；口腔共识审定后40天
 - [2026-07-23 追踪报告](/news/abc-updates/2026-07-23/) — 📝 Cell Rep Med 基因治疗论文正式刊出（2026-07-21, Vol 7(7):102870）；ABC 标签82条无变化；口腔共识审定后39天；ClockBase官网DNS解析持续失败（连续11天）
@@ -88,7 +89,7 @@ draft: false
 - [2025-03-01 脂肪衰老共识审定](/news/abc-updates/2026-05-07/) — 华东师大召开审定会
 - [2024-12-05 NAR 免疫衰老数据库](/news/abc-updates/2026-05-07/) — Immunosenescence Inventory 发布
 
-**最新检查**: 2026-07-25 12:00 — 🔍 定期检查，无新增动态；ClockBase 官网持续正常；口腔共识审定后41天
+**最新检查**: 2026-07-26 12:00 — 🔍 定期检查，无新增动态；ClockBase 官网持续正常；ABC Affiliation 70条
 
 ---
 
