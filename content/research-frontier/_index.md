@@ -2,7 +2,7 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-07-22 17:07 (Asia/Shanghai)  
+**最后更新**: 2026-07-27 08:00 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索) + Nature Aging
 
@@ -77,6 +77,74 @@
 - **期刊**: bioRxiv 预印本 (2026-06-24)
 - **关键发现**: 在 UM-HET3 小鼠中比较五种不同长寿干预（突变、饮食操控和药物）的多组织代谢组学特征，发现它们在麦角硫因（ergothioneine）代谢和脂质重塑方面存在趋同效应。揭示了不同机制的长寿干预在代谢层面共享的共同通路。
 - **链接**: https://pubmed.ncbi.nlm.nih.gov/42427596/
+
+---
+
+## 本周新增论文 (2026.07.22 – 2026.07.27)
+
+### 📌 重点论文
+
+#### 1. MedComm：细胞衰老与衰老的机制、疾病交汇与治疗前沿（重磅综述）
+- **标题**: Cellular Senescence and Aging: Mechanisms, Disease Convergence, and Therapeutic Frontiers
+- **期刊**: MedComm (2020). 2026 Jul 5;7(7):e70827. PMID: 42440782
+- **关键发现**: 全面综述了细胞衰老与机体衰老的机制关联，评估了从 senolytics 和 senomorphics 到 rejuvenation 方法的新兴干预策略，同时讨论了靶向特异性、衰老异质性和公平获取等关键转化障碍。该综述涵盖了当前抗衰老干预的主要方向，包括靶向清除衰老细胞的精确策略，为衰老生物学向临床转化提供了全景式路线图。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42440782/
+
+#### 2. Mol Biol Rep：NAD+ 生物学与补充——从机制到临床视角
+- **标题**: NAD+ biology and supplementation: From mechanisms to clinical perspectives
+- **期刊**: Mol Biol Rep. 2026 Jul 23;53(1):1249. PMID: 42489969
+- **关键发现**: 采用综合综述和数学建模相结合的方法，系统评估了 NAD+ 补充的生物学和临床相关性。NAD+ 在细胞能量代谢、氧化还原平衡和衰老、神经退行性变及代谢疾病相关信号通路中发挥核心作用。该研究为 NAD+ 前体（NR、NMN 等）作为抗衰老干预手段提供了从分子机制到临床应用的全面评估框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42489969/
+
+#### 3. MedComm：SIRT 家族的生物学功能与治疗靶点
+- **标题**: SIRT Family: Biological Functions and Therapeutic Targets
+- **期刊**: MedComm (2020). 2026 Jul 22;7(8):e70866. PMID: 42488706
+- **关键发现**: 全面综述了 SIRT1-SIRT7 作为 NAD+ 依赖性去酰基酶的功能，它们作为代谢传感器，将细胞能量状态与基因表达、DNA 修复和应激反应耦合。SIRT 家族在代谢调节、炎症控制、衰老延缓和癌症预防中发挥关键作用，是抗衰老干预的重要靶点。文章讨论了针对 SIRT 通路的药理学激活策略（如 NAD+ 前体、SIRT 激活剂）的临床潜力。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42488706/
+
+#### 4. Expert Opin Investig Drugs：长寿药理学研究的进展——我们终于看到临床进展了吗？
+- **标题**: Advancements in longevity pharmacology research - are we finally seeing clinical progression?
+- **期刊**: Expert Opin Investig Drugs. 2026 Jul 16. PMID: 42397379
+- **关键发现**: 该综述评估了长寿药理学从机制研究向临床转化的进展。尽管机制成熟度正在快速提升，但临床转化仍然是渐进和碎片化的。近期最可能的进展来自于由已验证生物标志物和 geroscience 知情的临床试验设计的低风险系统级干预。这是对当前抗衰老药物临床开发现状的权威评估。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42397379/
+
+#### 5. Exp Gerontol：Senomorphic 制剂：多靶点策略驯化 SASP 以实现健康衰老
+- **标题**: Senomorphic agents: Multi-target strategies to tame the senescence-associated secretory phenotype for healthy ageing
+- **期刊**: Exp Gerontol. 2026 Jul 24;223:113249. PMID: 42498087
+- **关键发现**: 系统综述了通过多靶点策略抑制 SASP（衰老相关分泌表型）的 senomorphic 制剂。与 senolytics（清除衰老细胞）不同，senomorphics 通过抑制 SASP 来减少慢性炎症和组织功能障碍，而不诱导细胞死亡。文章综述了多种天然产物和合成化合物的 senomorphic 潜力，并讨论了它们在神经退行性疾病、心血管衰老和代谢疾病中的转化应用前景。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42498087/
+
+#### 6. Nature Aging：TERT 在衰老顶点的定位（权威观点）
+- **标题**: Positioning TERT at the apex of aging
+- **期刊**: Nature Aging. 2026 Jul 20
+- **关键发现**: 该 Perspective 综述了 TERT 在衰老中的经典端粒维持和非经典调控作用，并提出了评估 TERT 和端粒定向抗衰老策略的证据框架。Ronald A. DePinho 是癌症和衰老领域的权威学者，该文章将 TERT 定位为衰老的核心调控因子，为端粒生物学在抗衰老干预中的应用提供了新的理论视角。
+- **链接**: https://www.nature.com/nataging/
+
+### 其他新增论文
+
+#### 7. Adv Biol：决定 Sirtuin-1 靶点结合的因素
+- **标题**: Factors Determining Sirtuin-1 Target Engagement
+- **期刊**: Adv Biol (Weinh). 2026 Jul;10(7):e00663. PMID: 42500827
+- **关键发现**: 综述了 Sirtuin-1（Sirt1）作为关键 NAD+ 依赖性去酰基酶的靶点结合机制，Sirt1 在代谢调节、应激反应、基因组稳定性和衰老中发挥核心作用。理解 Sirt1 的靶点特异性对开发精准的 SIRT 靶向抗衰老干预至关重要。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42500827/
+
+#### 8. Nature Aging：网络驱动发现靶向衰老标志物的可再利用药物
+- **标题**: Network-driven discovery of repurposable drugs targeting hallmarks of aging
+- **期刊**: Nature Aging. 2026 Jun 26
+- **关键发现**: Barabási 团队引入了一个网络医学框架，表明衰老标志物在人类相互作用组中形成了相互关联的分子模块。这种新方法可以帮助识别可能影响衰老相关转录变化的已有药物，为药物再利用提供了系统级工具。
+- **链接**: https://www.nature.com/nataging/
+
+#### 9. Aging Cell：揭示 AcSirt2-FOXO-Mitophagy 轴：蜜蜂线粒体质量控制与延缓衰老的新见解
+- **标题**: Unveiling the AcSirt2-FOXO-Mitophagy Axis: Insights Into Mitochondrial Quality Control and Delayed Aging in Apis cerana
+- **期刊**: Aging Cell. 2026 Aug;25(8):e70645. PMID: 42503023
+- **关键发现**: 首次在中华蜜蜂中揭示了 AcSirt2-FOXO-Mitophagy 轴在线粒体质量控制和延缓衰老中的作用。Sirt2 作为 Sirtuin 去乙酰化酶家族成员，在能量代谢和哺乳动物衰老中发挥关键作用。该研究揭示了线粒体质量控制通路在延缓衰老中的保守机制，为理解 Sirt2-FOXO 轴在跨物种衰老调控中的作用提供了新视角。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42503023/
+
+#### 10. Acta Physiol：人类胰岛 miR-199a-5p 和 miR-214-3p 与供体年龄、BMI 和性别相关并介导胰岛衍生细胞的细胞衰老
+- **标题**: Human Islet miR-199a-5p and miR-214-3p Associate With Donor Age, BMI, and Sex and Mediate Cellular Aging in Islet-Derived Cells
+- **期刊**: Acta Physiol (Oxf). 2026 Aug;242(8):e70277. PMID: 42502989
+- **关键发现**: 发现两种常见 microRNA（miR-199a-5p 和 miR-214-3p）的水平与胰岛功能、代谢调节和衰老关键 mRNA 呈负相关。体外验证研究表明，抑制这两种 microRNA 可减缓端粒长度缩短，为 microRNA 靶向干预在代谢性衰老中的作用提供了直接证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42502989/
 
 ---
 
