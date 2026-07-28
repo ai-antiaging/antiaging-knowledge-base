@@ -13,6 +13,7 @@ draft: false
 
 ## 最新动态
 
+- [2026-07-28 追踪报告](/news/abc-updates/2026-07-28/) — 📝 **Protein Cell 新论文：GNPTAB-STING 驱动细胞衰老**（PMID 42505080）；7月已发表 4 篇；ClockBase 官网持续正常
 - [2026-07-27 追踪报告](/news/abc-updates/2026-07-27/) — 🔍 定期检查，无新增动态；ClockBase 官网持续正常（Google Sites，HTTP 200）；Cell Stem Cell 维C论文持续传播（11天）
 - [2026-07-26 追踪报告](/news/abc-updates/2026-07-26/) — 🔍 定期检查，无新增动态；ClockBase 官网持续正常；ABC Affiliation 70条
 - [2026-07-25 追踪报告](/news/abc-updates/2026-07-25/) — 🔍 定期检查，无新增动态；ClockBase 官网持续正常；口腔共识审定后41天
@@ -90,7 +91,7 @@ draft: false
 - [2025-03-01 脂肪衰老共识审定](/news/abc-updates/2026-05-07/) — 华东师大召开审定会
 - [2024-12-05 NAR 免疫衰老数据库](/news/abc-updates/2026-05-07/) — Immunosenescence Inventory 发布
 
-**最新检查**: 2026-07-26 12:00 — 🔍 定期检查，无新增动态；ClockBase 官网持续正常；ABC Affiliation 70条
+**最新检查**: 2026-07-28 12:00 — 📝 Protein Cell 新论文：GNPTAB-STING 驱动细胞衰老（PMID 42505080）；7月已发表 4 篇；ClockBase 官网持续正常
 
 ---
 
