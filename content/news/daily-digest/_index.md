@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-07-30](2026-07-30/) — Ageing Res Rev Complosome调控细胞衰老与炎症衰老权威综述(IF≈13.8)、Mech Ageing Dev NMN联合hUC-MSC显著增强抗衰老疗效(Nrf2/HO-1通路)、Front Immunol ELOVL2表观遗传时钟连接免疫衰老与大脑功能障碍(APOE4调控 IF≈7.3)、bioRxiv 化疗诱导组织NAD⁺耗竭Nrk2作为肌肉萎缩标志物、J Ethnopharmacol 丹参素钠经SIRT1/p53保护血管内皮免于衰老
 - [2026-07-29](2026-07-29/) — iScience TRF2胞质染色质片段驱动cGAS-STAT1炎症通路(二甲双胍/JAKi可抑制 IF≈5.8)、Cell Press Blue 空间多组学揭示人类淋巴结免疫衰老生发中心B细胞功能障碍、Front Genet 衰老细胞免疫逃逸与监视失效机制综述(IF≈5.2)、J Occup Environ Med 高压职业+夜班驱动表型年龄加速NHANES 12,090人、J Bone Miner Res 24小时运动组成与老年人骨微架构SOMMA研究(IF≈6.6)
 - [2026-07-28](2026-07-28/) — J Immunol NAD⁺耗竭驱动先天免疫启动并选择性调控PANoptosis(IF≈5.5)、Aging 衰老超功能理论历史回顾与未来方向(IF≈5.2)、Mol Biol Rep 蜂王浆抑制SASP人表皮角质形成细胞衰老(IF≈3.0)、Metabolites 精准老年测量学代谢组学生物学年龄测定(IF≈4.5)、Metabolites 短链脂肪酸桥接肠道菌群与系统性衰老(IF≈4.5)
 - [2026-07-26](2026-07-26/) — Phytomedicine 单细胞解析积雪草苷经巨噬细胞/IGF1轴抑制间皮细胞衰老抗腹膜纤维化(IF≈6.5)、Chem Biol Interact 雷帕霉素激活自噬阻断双酚S诱导的继发性衰老传播(IF≈5.5)、Phytomedicine 人参皂苷Ro多组学+肠道菌群改善肌少症(IF≈6.5)、Chem Biol Interact 塑料增塑剂DiPP通过胰岛素样/p38 MAPK加速衰老(IF≈5.5)、Phytomedicine 齐墩果酸经脑-皮轴抑制应激性脱发与毛囊衰老(IF≈6.5)
