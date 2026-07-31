@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-07-30 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-07-31 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 29 | Dysregulated Iron Metabolism In Remodeling of Aging Asthmatic Human Airways. | American journal of physiology. Cell physiology | [42526057](https://pubmed.ncbi.nlm.nih.gov/42526057/) | Dysregulated Iron Metabolism In Remodeling of Aging Asthmati... |
-| 2026 Jul 31 | Lipidomic profiling reveals age-dependent changes in plasma membrane lipids that affect neural stem cell aging. | Science advances | [42525742](https://pubmed.ncbi.nlm.nih.gov/42525742/) | Lipidomic profiling reveals age-dependent changes in plasma ... |
-| 2026 Aug 4 | Cryoelectron tomography reveals an age-related decline in mitoribosomes that contributes to T cell dysfunction in older individuals. | Proceedings of the National Academy of Sciences of the United States of America | [42525521](https://pubmed.ncbi.nlm.nih.gov/42525521/) | Cryoelectron tomography reveals an age-related decline in mi... |
-| 2026 Jul 29 | Integrated bioinformatics and experimental validation reveal that kaempferol ameliorates intervertebral disc degeneration via dual anti-inflammatory and anti-aging pathways. | Naunyn-Schmiedeberg's archives of pharmacology | [42525295](https://pubmed.ncbi.nlm.nih.gov/42525295/) | Integrated bioinformatics and experimental validation reveal... |
-| 2026 Jul 29 | Age-related differences in liver damage and inflammation after femoral osteotomy. | GeroScience | [42525181](https://pubmed.ncbi.nlm.nih.gov/42525181/) | Age-related differences in liver damage and inflammation aft... |
+| 2026 Jul 30 | Modulation of miR-23b Wnt/β-catenin Axis Strengthens Endothelial Barrier Properties. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42531597](https://pubmed.ncbi.nlm.nih.gov/42531597/) | Modulation of miR-23b Wnt/β-catenin Axis Strengthens Endothe... |
+| 2026 Jul 30 | Association Characteristics and Potential Mechanisms of Aging, Gut Microbiota, and Hearing Loss. | Integrative zoology | [42531517](https://pubmed.ncbi.nlm.nih.gov/42531517/) | Association Characteristics and Potential Mechanisms of Agin... |
+| 2026 Jul 30 | Why the X chromosome is rich in L1 mobile elements. | Science (New York, N.Y.) | [42531419](https://pubmed.ncbi.nlm.nih.gov/42531419/) | Why the X chromosome is rich in L1 mobile elements. |
+| 2026 Jul 30 | Signatures of aging and disease in a single organelle. | Science (New York, N.Y.) | [42531418](https://pubmed.ncbi.nlm.nih.gov/42531418/) | Signatures of aging and disease in a single organelle. |
+| 2026 Jul 30 | Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders. | Science (New York, N.Y.) | [42531412](https://pubmed.ncbi.nlm.nih.gov/42531412/) | Atlas of lysosomal aging reveals a metabolite signature shar... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jul 30 | Oral LNAD+ rapidly elevates whole blood intracellular NAD and metabolic flux without elevating plasma NAD: evidence from a randomized controlled trial. | GeroScience | [42530810](https://pubmed.ncbi.nlm.nih.gov/42530810/) | Oral LNAD+ rapidly elevates whole blood intracellular NAD an... |
 | 2026 Jul 28 | The Human Retina in Alzheimer's Disease: Pathology, Mechanisms, and Biomarkers. | Ageing research reviews | [42521027](https://pubmed.ncbi.nlm.nih.gov/42521027/) | The Human Retina in Alzheimer's Disease: Pathology, Mechanis... |
 | 2026 Jul 28 | Enhancing the Anti-Aging Capacity of hUC-MSCs via NMN Co-Treatment in D-Galactose-Induced Mice and Cellular Senescence Models. | Mechanisms of ageing and development | [42520895](https://pubmed.ncbi.nlm.nih.gov/42520895/) | Enhancing the Anti-Aging Capacity of hUC-MSCs via NMN Co-Tre... |
 | 2026 | Aging-driven metabolic abnormalities remodel intercellular communication through the gut-liver-heart axis and may promote coronary artery disease: the key role of bile acid metabolism. | Frontiers in immunology | [42519323](https://pubmed.ncbi.nlm.nih.gov/42519323/) | Aging-driven metabolic abnormalities remodel intercellular c... |
 | 2026 Jul 13 | NAD Metabolism in Acute Myeloid Leukaemia: Biological Rationale and Therapeutic Opportunities. | Nutrients | [42514364](https://pubmed.ncbi.nlm.nih.gov/42514364/) | NAD Metabolism in Acute Myeloid Leukaemia: Biological Ration... |
-| 2026 Jul 22 | Low-Dose Ionizing Radiation and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS): A Review of Recent Evidence and Future Research Directions Toward the Elucidation of a Metabolic, Immunologic, and Signaling Cascade. | International journal of molecular sciences | [42511874](https://pubmed.ncbi.nlm.nih.gov/42511874/) | Low-Dose Ionizing Radiation and Myalgic Encephalomyelitis/Ch... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -43,8 +43,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Jun 30 | Dual Functions of Polyamines in Shaping Host-Specific Pathogen Dynamics. | Pathogens (Basel, Switzerland) | [42515022](https://pubmed.ncbi.nlm.nih.gov/42515022/) | Dual Functions of Polyamines in Shaping Host-Specific Pathog... |
+| 2026 Jul 17 | Age- and Cell-Specific Regulation of Testicular Polyamine Metabolism Promotes Increased Catabolism During Maturation and Aging in Syrian Hamsters. | Biology | [42510730](https://pubmed.ncbi.nlm.nih.gov/42510730/) | Age- and Cell-Specific Regulation of Testicular Polyamine Me... |
+| 2026 Jul 26 | A C. elegans-to-Mouse Discovery Framework for Prioritizing Sarcopenia Interventions. | Aging and disease | [42508389](https://pubmed.ncbi.nlm.nih.gov/42508389/) | A C. elegans-to-Mouse Discovery Framework for Prioritizing S... |
 
 ---
 
@@ -58,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-07-30 | 自动生成*
+*最后更新：2026-07-31 | 自动生成*
