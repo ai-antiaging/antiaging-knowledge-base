@@ -13,6 +13,7 @@ draft: false
 
 ## 最新动态
 
+- [2026-07-31 追踪报告](/news/abc-updates/2026-07-31/) — 🔍 定期检查，无新增动态；Protein Cell GNPTAB 论文仍为最新（7/27）；ClockBase 官网持续正常；口腔共识审定后47天
 - [2026-07-30 追踪报告](/news/abc-updates/2026-07-30/) — 🔍 定期检查，无新增动态；Protein Cell GNPTAB 论文仍为最新（7/27）；ClockBase 官网持续正常
 - [2026-07-29 追踪报告](/news/abc-updates/2026-07-29/) — 🔍 定期检查，无新增动态；Protein Cell GNPTAB 论文仍为最新（7/27）；ClockBase 官网持续正常
 - [2026-07-28 追踪报告](/news/abc-updates/2026-07-28/) — 📝 **Protein Cell 新论文：GNPTAB-STING 驱动细胞衰老**（PMID 42505080）；7月已发表 4 篇；ClockBase 官网持续正常
