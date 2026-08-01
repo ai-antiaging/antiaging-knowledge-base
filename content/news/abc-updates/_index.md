@@ -13,6 +13,7 @@ draft: false
 
 ## 最新动态
 
+- [2026-08-01 追踪报告](/news/abc-updates/2026-08-01/) — 🔬 **PubMed 新增 1 篇**：Protein Cell 干细胞衰老机制（PMID 42536446，线粒体-ER 接触解偶联）；7月论文产出达 5 篇；ClockBase 官网持续正常；口腔共识审定后48天
 - [2026-07-31 追踪报告](/news/abc-updates/2026-07-31/) — 🔍 定期检查，无新增动态；Protein Cell GNPTAB 论文仍为最新（7/27）；ClockBase 官网持续正常；口腔共识审定后47天
 - [2026-07-30 追踪报告](/news/abc-updates/2026-07-30/) — 🔍 定期检查，无新增动态；Protein Cell GNPTAB 论文仍为最新（7/27）；ClockBase 官网持续正常
 - [2026-07-29 追踪报告](/news/abc-updates/2026-07-29/) — 🔍 定期检查，无新增动态；Protein Cell GNPTAB 论文仍为最新（7/27）；ClockBase 官网持续正常
@@ -94,7 +95,7 @@ draft: false
 - [2025-03-01 脂肪衰老共识审定](/news/abc-updates/2026-05-07/) — 华东师大召开审定会
 - [2024-12-05 NAR 免疫衰老数据库](/news/abc-updates/2026-05-07/) — Immunosenescence Inventory 发布
 
-**最新检查**: 2026-07-28 12:00 — 📝 Protein Cell 新论文：GNPTAB-STING 驱动细胞衰老（PMID 42505080）；7月已发表 4 篇；ClockBase 官网持续正常
+**最新检查**: 2026-08-01 12:00 — 🔬 PubMed 新增 1 篇：Protein Cell 干细胞衰老机制（PMID 42536446，线粒体-ER 接触解偶联）；7月论文产出达 5 篇；ClockBase 官网持续正常；口腔共识审定后48天
 
 ---
 
