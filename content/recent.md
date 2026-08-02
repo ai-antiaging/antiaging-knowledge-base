@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-01 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-02 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 28 | Histone deacetylase inhibition alters mRNA expression of cell cycle- and senescence-associated genes in primary equine chondrocytes. | Research in veterinary science | [42537338](https://pubmed.ncbi.nlm.nih.gov/42537338/) | Histone deacetylase inhibition alters mRNA expression of cel... |
-| 2026 Jun 30 | Morphological Differences in Superior Colliculus of Adult and Juvenile African Grasscutter (Thryonomys swinderianus). | Nigerian journal of physiological sciences : official publication of the Physiological Society of Nigeria | [42537035](https://pubmed.ncbi.nlm.nih.gov/42537035/) | Morphological Differences in Superior Colliculus of Adult an... |
-| 2026 Jul 31 | Suppressing Morphological and Energetic Disorder in Copper Antimony Sulfide-based Hole-Transporting Materials via Ligand-Precursor Engineering for Efficient and Stable Perovskite Solar Cells. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42536817](https://pubmed.ncbi.nlm.nih.gov/42536817/) | Suppressing Morphological and Energetic Disorder in Copper A... |
-| 2026 Jul 31 | The role of cellular senescence in sepsis and its mechanism in copper death: An analysis based on machine learning. | Medicine | [42536548](https://pubmed.ncbi.nlm.nih.gov/42536548/) | The role of cellular senescence in sepsis and its mechanism ... |
-| 2026 Jul 30 | Nutrient stress activates RAB5B-mediated autophagy to remodel the synaptic proteome. | Cell reports | [42536478](https://pubmed.ncbi.nlm.nih.gov/42536478/) | Nutrient stress activates RAB5B-mediated autophagy to remode... |
+| 2026 Jul 24 | FusedFCR: A Fused Forward Continuation-Ratio model for marker selection along cell-fate trajectories. | bioRxiv : the preprint server for biology | [42539237](https://pubmed.ncbi.nlm.nih.gov/42539237/) | FusedFCR: A Fused Forward Continuation-Ratio model for marke... |
+| 2026 Jul 24 | An Integrated Multi-omics Single Cell Atlas of the Human RPE and Choroid. | bioRxiv : the preprint server for biology | [42539169](https://pubmed.ncbi.nlm.nih.gov/42539169/) | An Integrated Multi-omics Single Cell Atlas of the Human RPE... |
+| 2026 Jul 20 | Comprehensive molecular characterization of cutaneous squamous cell carcinoma reveals determinants of metastatic progression. | medRxiv : the preprint server for health sciences | [42539055](https://pubmed.ncbi.nlm.nih.gov/42539055/) | Comprehensive molecular characterization of cutaneous squamo... |
+| 2026 Jul 31 | Single-cell analysis of the progeria arterial wall reveals progerin-induced progressive, cell type-specific dysfunction and somatic mutation accumulation. | Genome medicine | [42538566](https://pubmed.ncbi.nlm.nih.gov/42538566/) | Single-cell analysis of the progeria arterial wall reveals p... |
+| 2026 Jul 24 | Cellular senescence: the "hidden driver" in chronic inflammatory skin disorders. | Immunity & ageing : I & A | [42538554](https://pubmed.ncbi.nlm.nih.gov/42538554/) | Cellular senescence: the "hidden driver" in chronic inflamma... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jul 31 | Metals exposure dissociates mitochondrial NAD(P)H redox state from H₂O₂ emission. | Comparative biochemistry and physiology. Toxicology & pharmacology : CBP | [42537919](https://pubmed.ncbi.nlm.nih.gov/42537919/) | Metals exposure dissociates mitochondrial NAD(P)H redox stat... |
 | 2026 | Mechanistic intersections of empagliflozin and nebivolol in aging-associated redox and inflammatory pathways. | Frontiers in pharmacology | [42534639](https://pubmed.ncbi.nlm.nih.gov/42534639/) | Mechanistic intersections of empagliflozin and nebivolol in ... |
 | 2026 Jul 30 | The chemotherapy-induced senescence-associated secretome promotes cell detachment and metastatic dissemination through metabolic reprogramming. | Nature aging | [42533106](https://pubmed.ncbi.nlm.nih.gov/42533106/) | The chemotherapy-induced senescence-associated secretome pro... |
 | 2026 Jul 30 | Oral LNAD+ rapidly elevates whole blood intracellular NAD and metabolic flux without elevating plasma NAD: evidence from a randomized controlled trial. | GeroScience | [42530810](https://pubmed.ncbi.nlm.nih.gov/42530810/) | Oral LNAD+ rapidly elevates whole blood intracellular NAD an... |
 | 2026 Jul 28 | The human retina in Alzheimer's disease: Pathology, mechanisms, and biomarkers. | Ageing research reviews | [42521027](https://pubmed.ncbi.nlm.nih.gov/42521027/) | The human retina in Alzheimer's disease: Pathology, mechanis... |
-| 2026 Jul 28 | Enhancing the Anti-Aging Capacity of hUC-MSCs via NMN Co-Treatment in D-Galactose-Induced Mice and Cellular Senescence Models. | Mechanisms of ageing and development | [42520895](https://pubmed.ncbi.nlm.nih.gov/42520895/) | Enhancing the Anti-Aging Capacity of hUC-MSCs via NMN Co-Tre... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Jul 26 | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTS ALDOSTERONE-INDUCED CARDIOVASCULAR DAMAGE. | bioRxiv : the preprint server for biology | [42538987](https://pubmed.ncbi.nlm.nih.gov/42538987/) | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTS ALD... |
 | 2026 Jun 30 | Dual Functions of Polyamines in Shaping Host-Specific Pathogen Dynamics. | Pathogens (Basel, Switzerland) | [42515022](https://pubmed.ncbi.nlm.nih.gov/42515022/) | Dual Functions of Polyamines in Shaping Host-Specific Pathog... |
 | 2026 Jul 17 | Age- and Cell-Specific Regulation of Testicular Polyamine Metabolism Promotes Increased Catabolism During Maturation and Aging in Syrian Hamsters. | Biology | [42510730](https://pubmed.ncbi.nlm.nih.gov/42510730/) | Age- and Cell-Specific Regulation of Testicular Polyamine Me... |
-| 2026 Jul 26 | A C. elegans-to-Mouse Discovery Framework for Prioritizing Sarcopenia Interventions. | Aging and disease | [42508389](https://pubmed.ncbi.nlm.nih.gov/42508389/) | A C. elegans-to-Mouse Discovery Framework for Prioritizing S... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-01 | 自动生成*
+*最后更新：2026-08-02 | 自动生成*
