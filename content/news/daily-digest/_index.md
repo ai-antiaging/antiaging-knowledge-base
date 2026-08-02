@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-08-02](2026-08-02/) — Ageing Res Rev 细胞衰老-冠心病双向界面权威综述(IF≈13.8)、Autoimmun Rev SLE免疫衰老机制与治疗(IF≈12.7)、Transplant Cell Ther 半相合HSCT驱动T细胞早衰人体研究(IF≈5.3)、Immun Ageing 慢性炎症性皮肤病隐藏驱动者(IF≈8.8)、BBRC System x(c)(-)抑制小胶质细胞谷氨酸释放改善老龄小鼠运动
 - [2026-07-31](2026-07-31/) — Geroscience 口服LNAD⁺ RCT快速提升细胞内NAD 53%(IF≈5.5)、Adv Sci 抑制miR-23b修复血脑屏障中风模型(IF≈17.7)、PLoS Pathog 新冠后T细胞代谢受损二甲双胍+Q10部分逆转(IF≈5.5)、PNAS PDS5B缺失驱动卵母细胞衰老与染色体异常(IF≈12.8)、Neurology VasCog-2-WSO VCID标准社区验证1236人9.4年随访(IF≈12.5)
 - [2026-07-30](2026-07-30/) — Ageing Res Rev Complosome调控细胞衰老与炎症衰老权威综述(IF≈13.8)、Mech Ageing Dev NMN联合hUC-MSC显著增强抗衰老疗效(Nrf2/HO-1通路)、Front Immunol ELOVL2表观遗传时钟连接免疫衰老与大脑功能障碍(APOE4调控 IF≈7.3)、bioRxiv 化疗诱导组织NAD⁺耗竭Nrk2作为肌肉萎缩标志物、J Ethnopharmacol 丹参素钠经SIRT1/p53保护血管内皮免于衰老
 - [2026-07-29](2026-07-29/) — iScience TRF2胞质染色质片段驱动cGAS-STAT1炎症通路(二甲双胍/JAKi可抑制 IF≈5.8)、Cell Press Blue 空间多组学揭示人类淋巴结免疫衰老生发中心B细胞功能障碍、Front Genet 衰老细胞免疫逃逸与监视失效机制综述(IF≈5.2)、J Occup Environ Med 高压职业+夜班驱动表型年龄加速NHANES 12,090人、J Bone Miner Res 24小时运动组成与老年人骨微架构SOMMA研究(IF≈6.6)
