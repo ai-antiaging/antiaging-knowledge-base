@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-02 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-03 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 24 | FusedFCR: A Fused Forward Continuation-Ratio model for marker selection along cell-fate trajectories. | bioRxiv : the preprint server for biology | [42539237](https://pubmed.ncbi.nlm.nih.gov/42539237/) | FusedFCR: A Fused Forward Continuation-Ratio model for marke... |
-| 2026 Jul 24 | An Integrated Multi-omics Single Cell Atlas of the Human RPE and Choroid. | bioRxiv : the preprint server for biology | [42539169](https://pubmed.ncbi.nlm.nih.gov/42539169/) | An Integrated Multi-omics Single Cell Atlas of the Human RPE... |
-| 2026 Jul 20 | Comprehensive molecular characterization of cutaneous squamous cell carcinoma reveals determinants of metastatic progression. | medRxiv : the preprint server for health sciences | [42539055](https://pubmed.ncbi.nlm.nih.gov/42539055/) | Comprehensive molecular characterization of cutaneous squamo... |
-| 2026 Jul 31 | Single-cell analysis of the progeria arterial wall reveals progerin-induced progressive, cell type-specific dysfunction and somatic mutation accumulation. | Genome medicine | [42538566](https://pubmed.ncbi.nlm.nih.gov/42538566/) | Single-cell analysis of the progeria arterial wall reveals p... |
-| 2026 Jul 24 | Cellular senescence: the "hidden driver" in chronic inflammatory skin disorders. | Immunity & ageing : I & A | [42538554](https://pubmed.ncbi.nlm.nih.gov/42538554/) | Cellular senescence: the "hidden driver" in chronic inflamma... |
+| 2026 Aug | MK-4 Ameliorates Post-Ovulatory Aging of Mouse Oocytes by Alleviating Iron Metabolism Disorder-Induced Oxidative Stress. | Molecular reproduction and development | [42543024](https://pubmed.ncbi.nlm.nih.gov/42543024/) | MK-4 Ameliorates Post-Ovulatory Aging of Mouse Oocytes by Al... |
+| 2026 Aug | Activation of the Lactate Receptor GPR81 Ameliorates Senescence Hallmarks and Improves Muscle Function in Cellular and Progeroid Models of Aging. | Aging cell | [42542973](https://pubmed.ncbi.nlm.nih.gov/42542973/) | Activation of the Lactate Receptor GPR81 Ameliorates Senesce... |
+| 2026 Aug | Safety and feasibility of oral zinc for patients with GNAO1-related disorders (ZINCGNAO1): an open-label, single-arm, single-centre, pilot trial in Germany. | EClinicalMedicine | [42542632](https://pubmed.ncbi.nlm.nih.gov/42542632/) | Safety and feasibility of oral zinc for patients with GNAO1-... |
+| 2026 Aug 1 | STIM1-mediated Treg instability in HFpEF: a new immunological target emerges? | Cardiovascular diabetology | [42542543](https://pubmed.ncbi.nlm.nih.gov/42542543/) | STIM1-mediated Treg instability in HFpEF: a new immunologica... |
+| 2026 | Generation of High-Quality Succinyl Spectral Libraries for Improved Proteome-Wide Succinylome Analysis Using Data-Independent Acquisition. | Methods in molecular biology (Clifton, N.J.) | [42542529](https://pubmed.ncbi.nlm.nih.gov/42542529/) | Generation of High-Quality Succinyl Spectral Libraries for I... |
 
 ### NAD+ 与线粒体
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Aug | Neuroprotective Potential of Spermidine in Drosophila sws Neurodegenerative Model. | Archives of insect biochemistry and physiology | [42541426](https://pubmed.ncbi.nlm.nih.gov/42541426/) | Neuroprotective Potential of Spermidine in Drosophila sws Ne... |
 | 2026 Jul 26 | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTS ALDOSTERONE-INDUCED CARDIOVASCULAR DAMAGE. | bioRxiv : the preprint server for biology | [42538987](https://pubmed.ncbi.nlm.nih.gov/42538987/) | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTS ALD... |
 | 2026 Jun 30 | Dual Functions of Polyamines in Shaping Host-Specific Pathogen Dynamics. | Pathogens (Basel, Switzerland) | [42515022](https://pubmed.ncbi.nlm.nih.gov/42515022/) | Dual Functions of Polyamines in Shaping Host-Specific Pathog... |
-| 2026 Jul 17 | Age- and Cell-Specific Regulation of Testicular Polyamine Metabolism Promotes Increased Catabolism During Maturation and Aging in Syrian Hamsters. | Biology | [42510730](https://pubmed.ncbi.nlm.nih.gov/42510730/) | Age- and Cell-Specific Regulation of Testicular Polyamine Me... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-02 | 自动生成*
+*最后更新：2026-08-03 | 自动生成*
