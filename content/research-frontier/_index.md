@@ -2,9 +2,86 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-07-27 08:00 (Asia/Shanghai)  
+**最后更新**: 2026-08-03 08:00 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索) + Nature Aging
+
+---
+
+## 本周新增论文 (2026.07.27 – 2026.08.03)
+
+### 📌 重点论文
+
+#### 1. Nature Aging：Senotypes 定义衰老细胞的多样化图谱（重磅概念综述 ⭐⭐）
+- **标题**: Senotypes define the diverse landscape of senescent cells
+- **期刊**: Nature Aging (2026-07-29)
+- **作者**: Schafer MJ, Baker DJ, Niedernhofer LJ, Robbins PD, Passos JF, Neretti N, Melov S 等
+- **关键发现**: 这篇来自衰老生物学领域权威团队的综述系统阐述了"senotypes"概念——即不同类型的衰老细胞具有独特的分子表型和功能特征。文章论证了衰老细胞并非同质群体，而是根据组织类型、诱导因素和时间阶段展现出高度异质性。这一框架为精准 senolytic 靶向策略提供了理论基础，解释了为何单一 senolytic 药物无法清除所有衰老细胞，并呼吁开发针对特定 senotypes 的精准干预策略。
+- **链接**: https://doi.org/10.1038/s43587-026-01148-5
+
+#### 2. Nature Aging：Gomes AP 实验室——空间蛋白质组学揭示人类组织衰老的分子景观（重大资源）
+- **标题**: Spatial proteomics reveals the molecular landscape of human tissue aging
+- **期刊**: Nature Aging (2026-07-30)
+- **作者**: Gomes AP, Snyder NW 等
+- **关键发现**: 利用空间蛋白质组学技术系统绘制了多个人类组织在衰老过程中的分子变化图谱。该研究揭示了组织特异性衰老特征和共享的衰老通路，为理解人类器官衰老的空间异质性提供了迄今最全面的蛋白质组学资源。这一数据集将加速衰老生物标志物发现和靶向干预策略开发。
+- **链接**: https://doi.org/10.1038/s43587-026-01148-5
+
+#### 3. Nature Aging：SenNet Collection 社论（SenNet 项目里程碑）
+- **标题**: The SenNet Collection
+- **期刊**: Nature Aging (2026-07-29)
+- **关键发现**: Nature Aging 发布 SenNet（Senescence Network）项目论文集合的社论。SenNet 是由 NIH 资助的大型研究网络，旨在系统绘制全身衰老细胞的图谱。该系列论文的发布标志着衰老细胞研究领域的一个重要里程碑，为理解衰老细胞的组织特异性特征和开发精准 senolytic 疗法提供了关键资源。
+- **链接**: https://doi.org/10.1038/s43587-026-01198-9
+
+#### 4. Aging Cell：烟酰胺核糖与高强度运动训练对骨骼肌表观遗传衰老的分歧效应（人体研究）
+- **标题**: The Divergent Effects of Nicotinamide Riboside and High-Intensity Exercise Training on Skeletal Muscle Epigenetic Aging
+- **期刊**: Aging Cell (2026 Aug; 25(8): e70638)
+- **作者**: Heikkinen A, Pirinen E, Ollikainen M, Kivelä R 等
+- **关键发现**: 这项人体研究比较了烟酰胺核糖（NR，NAD+ 前体）补充与高强度运动训练对骨骼肌表观遗传衰老的不同影响。研究发现 NR 和运动在调控骨骼肌 DNA 甲基化年龄方面展现出不同甚至相反的效果，为理解 NAD+ 增强剂与运动在抗衰老干预中的互补或拮抗关系提供了重要数据。
+- **链接**: https://doi.org/10.1111/acel.70638
+
+### 其他新增论文
+
+#### 5. Ageing Res Rev：补体小体作为细胞衰老、衰老和年龄相关疾病的关键调节因子
+- **标题**: Complosome as a key modulator of cellular senescence, aging and age-related diseases
+- **期刊**: Ageing Research Reviews (2026-07-29)
+- **作者**: Gold NM, He Y 等
+- **关键发现**: 综述了补体小体（complosome）——补体系统的细胞内组装——在细胞衰老和年龄相关疾病中的调节作用。补体小体代表了先天免疫与细胞衰老之间的新连接点，为理解炎症衰老提供了新的分子机制。
+- **链接**: https://doi.org/10.1016/j.arr.2026.103274
+
+#### 6. Autoimmun Rev：SLE 中免疫系统的衰老：致病机制与治疗意义
+- **标题**: Senescence of the immune system in SLE: Pathogenic mechanisms and therapeutic implications
+- **期刊**: Autoimmunity Reviews (2026-07-31)
+- **作者**: Jiang X, Cheng T 等
+- **关键发现**: 系统综述了系统性红斑狼疮（SLE）中免疫系统衰老的致病机制，包括 T 细胞和 B 细胞衰老、免疫衰老与自身免疫之间的交互作用，以及靶向免疫衰老在 SLE 治疗中的潜力。
+- **链接**: https://doi.org/10.1016/j.autrev.2026.104152
+
+#### 7. Aging Cell：衰老肝脏中的氨代谢——新机制洞察
+- **标题**: Ammonia Metabolism in the Aging Liver: Emerging Mechanistic Insights
+- **期刊**: Aging Cell (2026 Aug; 25(8): e70639)
+- **作者**: Zhang H, Liu A 等
+- **关键发现**: 揭示了氨代谢在肝脏衰老中的作用机制，发现衰老肝脏中氨清除能力下降可能导致全身性氨积累和代谢功能障碍，为理解肝脏衰老提供了新的代谢视角。
+- **链接**: https://doi.org/10.1111/acel.70639
+
+#### 8. Curr Opin Pharmacol：卵巢衰老的衰老治疗策略：机制洞察与转化前景
+- **标题**: Senotherapeutic strategies for ovarian aging: Mechanistic insights and translational perspectives
+- **期刊**: Current Opinion in Pharmacology (2026 Aug; 89: 102646)
+- **作者**: Alsirhani AM, Al-Hazani TMI 等
+- **关键发现**: 综述了靶向卵巢衰老的衰老治疗策略，包括 senolytics 和 senomorphics 在卵巢功能维持中的潜力。为生殖衰老干预提供了从机制到临床转化的系统框架。
+- **链接**: https://doi.org/10.1016/j.coph.2026.102646
+
+#### 9. Autophagy：自噬重塑衰老内质网
+- **标题**: Autophagy reshapes the aging ER
+- **期刊**: Autophagy (2026 Aug; 22(8): 2050-2051)
+- **作者**: Donahue EKF, Burkewitz K
+- **关键发现**: 评论文章探讨了自噬在重塑衰老内质网中的作用，揭示了自噬通量下降与内质网功能障碍之间的关联，以及恢复自噬如何可能改善衰老细胞的蛋白质稳态。
+- **链接**: https://doi.org/10.1080/15548627.2026.2662429
+
+#### 10. Tissue Cell：衰老与长寿的机制洞察：对卵巢功能和健康的意义
+- **标题**: Mechanistic insights into aging and longevity: Implications for ovarian function and health
+- **期刊**: Tissue & Cell (2026 Aug; 101: 103473)
+- **作者**: Harrath AH
+- **关键发现**: 综述了衰老和长寿的分子机制及其对卵巢功能和健康的影响，探讨了 mTOR、胰岛素信号、氧化应激和端粒维持在卵巢衰老中的作用。
+- **链接**: https://doi.org/10.1016/j.tice.2026.103473
 
 ---
 
