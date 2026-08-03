@@ -652,7 +652,30 @@ NMN 是 NAD+ 的直接前体，通过 NAMPT 酶转化为 NAD+。NAD+ 是 Sirtuin
   - NCT04785300（ALSENLITE 阿尔茨海默 senolytics）lastUpdate 2026-07-17，最新更新于上周，状态保持 Active not recruiting
 - **备注**：本次检查通过 API v2 逐条验证 26 项试验，1 项状态变化（Enrolling by invitation → Active, not recruiting）
 
-*最后更新：2026-07-27 | 下次自动更新：2026-08-03（周一）*
+### 本周状态更新摘要（2026-08-03 检查）
+
+- **状态确认**：本周通过 ClinicalTrials.gov API v2 逐条核查所有 30 项已记录试验状态，与上周（2026-07-27）记录对比，**零变化**
+- **Senolytics 领域**：14 项已记录试验全部核对完毕（14/14），状态无变化
+  - 招募中：3 项（NCT07025226 胶质瘤、NCT05758246 脓毒症、NCT06135870 子宫肌瘤）
+  - 已完成：3 项（NCT05422885、NCT04313634、NCT05506488）
+  - 暂停：1 项（NCT05276895 骨关节炎）
+  - 未招募：1 项（NCT07270120 多发性硬化）
+  - 不招募/邀请中：6 项（NCT06018467 骨质疏松、NCT04785300 阿尔茨海默、NCT05593588 间质性肺病、NCT02848131 慢性肾病、NCT04685590 阿尔茨海默 Phase II、NCT05838560 精神障碍 Phase II）
+- **NMN/NAD+ 领域**：16 项已记录试验全部核对完毕（16/16），状态无变化
+  - 招募中：9 项（NCT06592859 中国衰老、NCT06426355 卵巢储备、NCT06629636 日本 IVF、NCT05759468 糖尿病肾病、NCT06907329 免疫衰老、NCT06776510 血小板减少症、NCT05405868 青光眼 Phase III、NCT06627868 棕色脂肪、NCT07572825 DHDDS-CDG Phase I）
+  - 已完成：4 项（NCT05305677 PCOS、NCT05517122 血液 NAD+、NCT04862338 药代动力学、NCT04571008 器官系统生物学）
+  - 状态未知：3 项（NCT04903210 高血压、NCT05485610 卵巢功能、NCT06214078 溃疡性结肠炎）
+- **关注事项**：
+  - NCT05276895（天然 senolytics 骨关节炎）仍为 SUSPENDED 状态，lastUpdate 2023-07-25，已超 3 年未更新
+  - NCT04903210（NMN 高血压）仍为 UNKNOWN 状态，lastUpdate 2022-02-01，已超 4 年未更新
+  - NCT06214078（NMN 溃疡性结肠炎）仍为 UNKNOWN 状态，lastUpdate 2024-01-19，预计 2025-03 已完成但未更新
+  - NCT05405868（NAMinG 青光眼 Phase III）仍在招募中，预计 2027-04 完成
+- **API 搜索关键词**：senolytics、Dasatinib+Quercetin、Fisetin、Nicotinamide mononucleotide
+- **备注**：本次检查通过 API v2 逐条验证 30 项试验，全部状态与上周一致；senolytics 全文搜索新增试验 NCT06940297（D+Q 多发性骨髓瘤 CAR-T Phase II，Recruiting）、NCT05595499（Fisetin 乳腺癌幸存者 Phase II，Recruiting）、NCT06796374（Fisetin 药代动力学，Recruiting）、NCT06819254（Fisetin 癌症幸存者疲劳 Phase IV，Recruiting），已纳入关注列表
+
+---
+
+*最后更新：2026-08-03 | 下次自动更新：2026-08-10（周一）*
 
 ---
 
