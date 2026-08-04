@@ -14,11 +14,14 @@ draft: false
 ## 最新快讯
 
 - [2026-08-04](2026-08-04/) — PNAS 深度学习绘制全脑局部衰老图谱与认知关联(IF≈12.8)、J Endocrinol 雷帕霉素诱导脂肪肝氯喹共处理可减轻、Med Gas Res 氧化应激-SIRT1-肠菌心脑轴驱动认知衰退、J Biomol Struct Dyn 木犀草素作为热量限制模拟物计算研究、Mol Cell Biochem 利拉鲁肽经NQO1/SIRT3调控线粒体与组蛋白乙酰化
+- [2026-08-03](2026-08-03/) — Aging Cell GPR81乳酸受体激动剂逆转肌肉衰老(IF≈8.0)、Exp Gerontol 大脑衰老时钟方法学演进(IF≈4.0)、Hum Reprod 线粒体靶向辅助生殖策略(IF≈6.0)、Transl Res 细胞衰老驱动肺纤维化自维持修复回路(IF≈10.0)、Crit Rev Oncol Hematol Sirtuins在癌症中的上下文依赖药理学(IF≈6.6)
 - [2026-08-02](2026-08-02/) — Ageing Res Rev 细胞衰老-冠心病双向界面权威综述(IF≈13.8)、Autoimmun Rev SLE免疫衰老机制与治疗(IF≈12.7)、Transplant Cell Ther 半相合HSCT驱动T细胞早衰人体研究(IF≈5.3)、Immun Ageing 慢性炎症性皮肤病隐藏驱动者(IF≈8.8)、BBRC System x(c)(-)抑制小胶质细胞谷氨酸释放改善老龄小鼠运动
+- [2026-08-01](2026-08-01/) — Aging Cell GPR81激动剂逆转肌肉衰老(IF≈9.0)、Aging Cell NR vs 高强度运动表观遗传衰老(IF≈9.0)、Metabolism 单细胞+空间组学揭示肝脏衰老HGF治疗(IF≈10.0)、Sci China Life Sci 体能时钟11项指标超越PhenoAge(IF≈10.0)、Int Immunopharmacol USP10-SIRT6-PARP1轴驱动皮肤光老化(IF≈5.0)
 - [2026-07-31](2026-07-31/) — Geroscience 口服LNAD⁺ RCT快速提升细胞内NAD 53%(IF≈5.5)、Adv Sci 抑制miR-23b修复血脑屏障中风模型(IF≈17.7)、PLoS Pathog 新冠后T细胞代谢受损二甲双胍+Q10部分逆转(IF≈5.5)、PNAS PDS5B缺失驱动卵母细胞衰老与染色体异常(IF≈12.8)、Neurology VasCog-2-WSO VCID标准社区验证1236人9.4年随访(IF≈12.5)
 - [2026-07-30](2026-07-30/) — Ageing Res Rev Complosome调控细胞衰老与炎症衰老权威综述(IF≈13.8)、Mech Ageing Dev NMN联合hUC-MSC显著增强抗衰老疗效(Nrf2/HO-1通路)、Front Immunol ELOVL2表观遗传时钟连接免疫衰老与大脑功能障碍(APOE4调控 IF≈7.3)、bioRxiv 化疗诱导组织NAD⁺耗竭Nrk2作为肌肉萎缩标志物、J Ethnopharmacol 丹参素钠经SIRT1/p53保护血管内皮免于衰老
-- [2026-07-29](2026-07-29/) — iScience TRF2胞质染色质片段驱动cGAS-STAT1炎症通路(二甲双胍/JAKi可抑制 IF≈5.8)、Cell Press Blue 空间多组学揭示人类淋巴结免疫衰老生发中心B细胞功能障碍、Front Genet 衰老细胞免疫逃逸与监视失效机制综述(IF≈5.2)、J Occup Environ Med 高压职业+夜班驱动表型年龄加速NHANES 12,090人、J Bone Miner Res 24小时运动组成与老年人骨微架构SOMMA研究(IF≈6.6)
+- [2026-07-29](2026-07-29/) — Aging Cell 表观遗传时钟生物学可靠性评估PCGrimAge最优(IF≈8.0)、GeroScience 感官障碍+表观遗传衰老→死亡风险增5.8倍2395人(IF≈5.5)、GeroScience 膳食质量12年追踪降低认知衰弱风险38%(IF≈5.5)、Mech Ageing Dev NMN增强MSC抗衰老能力(IF≈5.5)、Nat Commun 骨骼肌运动损伤保护蛋白网络(IF≈14.7)
 - [2026-07-28](2026-07-28/) — J Immunol NAD⁺耗竭驱动先天免疫启动并选择性调控PANoptosis(IF≈5.5)、Aging 衰老超功能理论历史回顾与未来方向(IF≈5.2)、Mol Biol Rep 蜂王浆抑制SASP人表皮角质形成细胞衰老(IF≈3.0)、Metabolites 精准老年测量学代谢组学生物学年龄测定(IF≈4.5)、Metabolites 短链脂肪酸桥接肠道菌群与系统性衰老(IF≈4.5)
+- [2026-07-27](2026-07-27/) — Environ Int 环境暴露组与表观遗传衰老芬兰双胞胎186种因素解释28%变化(IF≈11.8)、Aging Cell 肠道真菌群网络紊乱与动脉僵硬度763人(IF≈8.0)、Aging 转录组衰老时钟揭示阿片依赖关键基因(IF≈5.7)、Arch Gerontol Geriatr 全球185国健康期望寿命2000-2021仅84.2%寿命增长转化为健康年、Mol Biol Rep 蜂王浆抑制衰老角质细胞SASP(IF≈3.0)
 - [2026-07-26](2026-07-26/) — Phytomedicine 单细胞解析积雪草苷经巨噬细胞/IGF1轴抑制间皮细胞衰老抗腹膜纤维化(IF≈6.5)、Chem Biol Interact 雷帕霉素激活自噬阻断双酚S诱导的继发性衰老传播(IF≈5.5)、Phytomedicine 人参皂苷Ro多组学+肠道菌群改善肌少症(IF≈6.5)、Chem Biol Interact 塑料增塑剂DiPP通过胰岛素样/p38 MAPK加速衰老(IF≈5.5)、Phytomedicine 齐墩果酸经脑-皮轴抑制应激性脱发与毛囊衰老(IF≈6.5)
 - [2026-07-25](2026-07-25/) — Epigenomics 表观遗传时钟间年龄预测差异高达45年(IF≈7)、Toxicology 聚苯乙烯纳米塑料通过核仁应激诱导血管内皮衰老(IF≈5.5)、Ageing Res Rev 状态解析型衰老治疗框架(IF≈13.8)、单细胞骨骼肌衰老解析(IF≈13.8)、Autophagy 细胞静止性自噬与癌症治疗(IF≈18.8)
 - [2026-07-24](2026-07-24/) — Science 人类海马体衰老的表观遗传与3D基因组重编程(IF≈57)、GeroScience 年轻供体血浆置换用于认知障碍患者间质液年轻化(IF≈5.5)、Sci Adv COPI蛋白在细胞衰老中的独特功能衰减(IF≈14.1)、PLoS Biol 衰老肠道克隆漂移干细胞谱系追踪(IF≈9.8)、GeroScience 微量营养素与Omega-3促进健康衰老的生理学策略(IF≈5.5)
