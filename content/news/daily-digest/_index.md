@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-08-04](2026-08-04/) — PNAS 深度学习绘制全脑局部衰老图谱与认知关联(IF≈12.8)、J Endocrinol 雷帕霉素诱导脂肪肝氯喹共处理可减轻、Med Gas Res 氧化应激-SIRT1-肠菌心脑轴驱动认知衰退、J Biomol Struct Dyn 木犀草素作为热量限制模拟物计算研究、Mol Cell Biochem 利拉鲁肽经NQO1/SIRT3调控线粒体与组蛋白乙酰化
 - [2026-08-02](2026-08-02/) — Ageing Res Rev 细胞衰老-冠心病双向界面权威综述(IF≈13.8)、Autoimmun Rev SLE免疫衰老机制与治疗(IF≈12.7)、Transplant Cell Ther 半相合HSCT驱动T细胞早衰人体研究(IF≈5.3)、Immun Ageing 慢性炎症性皮肤病隐藏驱动者(IF≈8.8)、BBRC System x(c)(-)抑制小胶质细胞谷氨酸释放改善老龄小鼠运动
 - [2026-07-31](2026-07-31/) — Geroscience 口服LNAD⁺ RCT快速提升细胞内NAD 53%(IF≈5.5)、Adv Sci 抑制miR-23b修复血脑屏障中风模型(IF≈17.7)、PLoS Pathog 新冠后T细胞代谢受损二甲双胍+Q10部分逆转(IF≈5.5)、PNAS PDS5B缺失驱动卵母细胞衰老与染色体异常(IF≈12.8)、Neurology VasCog-2-WSO VCID标准社区验证1236人9.4年随访(IF≈12.5)
 - [2026-07-30](2026-07-30/) — Ageing Res Rev Complosome调控细胞衰老与炎症衰老权威综述(IF≈13.8)、Mech Ageing Dev NMN联合hUC-MSC显著增强抗衰老疗效(Nrf2/HO-1通路)、Front Immunol ELOVL2表观遗传时钟连接免疫衰老与大脑功能障碍(APOE4调控 IF≈7.3)、bioRxiv 化疗诱导组织NAD⁺耗竭Nrk2作为肌肉萎缩标志物、J Ethnopharmacol 丹参素钠经SIRT1/p53保护血管内皮免于衰老
