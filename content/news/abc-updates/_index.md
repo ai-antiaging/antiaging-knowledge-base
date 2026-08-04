@@ -13,6 +13,7 @@ draft: false
 
 ## 最新动态
 
+- [2026-08-04 追踪报告](/news/abc-updates/2026-08-04/) — 📝 **补遗 1 篇**：Life Med ERV 与衰老综述 "The ancient viral whispers of ageing"（PMID 42516216，Zhang H/Liu GH/Qu J，此前追踪遗漏）；PubMed 无其他新增；ClockBase 官网 fetch 持续失败；7月论文产出修正为 4 篇
 - [2026-08-03 追踪报告](/news/abc-updates/2026-08-03/) — 📢 **2 项动态**：ClockBase Agent 线上会（Tony Wyss-Coray, 7/30）+ 第七届时光派国际长寿论坛定档（9/10-13 上海）；PubMed 无新增；ClockBase 官网持续 fetch 失败
 - [2026-08-02 追踪报告](/news/abc-updates/2026-08-02/) — 🔬 **PubMed 新增 1 篇**：Trends Immunol SenSpots 免疫衰老空间多组学评论（PMID 42538165）；7月+论文产出达 6 篇；ClockBase 官网需持续关注
 - [2026-08-01 追踪报告](/news/abc-updates/2026-08-01/) — 🔬 **PubMed 新增 1 篇**：Protein Cell 干细胞衰老机制（PMID 42536446，线粒体-ER 接触解偶联）；7月论文产出达 5 篇；ClockBase 官网持续正常；口腔共识审定后48天
@@ -97,7 +98,7 @@ draft: false
 - [2025-03-01 脂肪衰老共识审定](/news/abc-updates/2026-05-07/) — 华东师大召开审定会
 - [2024-12-05 NAR 免疫衰老数据库](/news/abc-updates/2026-05-07/) — Immunosenescence Inventory 发布
 
-**最新检查**: 2026-08-03 12:00 — 📢 ClockBase Agent 线上会（Tony Wyss-Coray）+ 第七届时光派国际长寿论坛定档（9/10-13）；PubMed 无新增；ClockBase 官网持续 fetch 失败；口腔共识审定后50天
+**最新检查**: 2026-08-04 12:00 — 📝 补遗 Life Med ERV 综述（PMID 42516216，Zhang H/Liu GH/Qu J）；PubMed 无其他新增；ClockBase 官网 fetch 持续失败；口腔共识审定后51天；7月论文产出修正为 4 篇
 
 ---
 
