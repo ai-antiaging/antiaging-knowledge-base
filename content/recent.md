@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-03 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-04 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug | MK-4 Ameliorates Post-Ovulatory Aging of Mouse Oocytes by Alleviating Iron Metabolism Disorder-Induced Oxidative Stress. | Molecular reproduction and development | [42543024](https://pubmed.ncbi.nlm.nih.gov/42543024/) | MK-4 Ameliorates Post-Ovulatory Aging of Mouse Oocytes by Al... |
-| 2026 Aug | Activation of the Lactate Receptor GPR81 Ameliorates Senescence Hallmarks and Improves Muscle Function in Cellular and Progeroid Models of Aging. | Aging cell | [42542973](https://pubmed.ncbi.nlm.nih.gov/42542973/) | Activation of the Lactate Receptor GPR81 Ameliorates Senesce... |
-| 2026 Aug | Safety and feasibility of oral zinc for patients with GNAO1-related disorders (ZINCGNAO1): an open-label, single-arm, single-centre, pilot trial in Germany. | EClinicalMedicine | [42542632](https://pubmed.ncbi.nlm.nih.gov/42542632/) | Safety and feasibility of oral zinc for patients with GNAO1-... |
-| 2026 Aug 1 | STIM1-mediated Treg instability in HFpEF: a new immunological target emerges? | Cardiovascular diabetology | [42542543](https://pubmed.ncbi.nlm.nih.gov/42542543/) | STIM1-mediated Treg instability in HFpEF: a new immunologica... |
-| 2026 | Generation of High-Quality Succinyl Spectral Libraries for Improved Proteome-Wide Succinylome Analysis Using Data-Independent Acquisition. | Methods in molecular biology (Clifton, N.J.) | [42542529](https://pubmed.ncbi.nlm.nih.gov/42542529/) | Generation of High-Quality Succinyl Spectral Libraries for I... |
+| 2026 Aug 3 | Adipose Tissue Palmitoylation Cycling Mediates Insulin Resistance and Preservation of β-Cell Function in Mice. | Diabetes | [42546226](https://pubmed.ncbi.nlm.nih.gov/42546226/) | Adipose Tissue Palmitoylation Cycling Mediates Insulin Resis... |
+| 2026 Aug 3 | Mitochondria-targeted therapeutic strategies in assisted reproduction: challenges and potential solutions. | Human reproduction (Oxford, England) | [42546117](https://pubmed.ncbi.nlm.nih.gov/42546117/) | Mitochondria-targeted therapeutic strategies in assisted rep... |
+| 2026 Aug 4 | Left Ventricular Hypertrabeculation and Prognosis in Dilated Cardiomyopathy. | Circulation | [42546101](https://pubmed.ncbi.nlm.nih.gov/42546101/) | Left Ventricular Hypertrabeculation and Prognosis in Dilated... |
+| 2026 Jul 17 | Senescence Associated With Neurodegeneration: Simultaneous Assessment of β-gal Activity And Nissl Stain In Histological Sections of Rodent Brain. | Journal of visualized experiments : JoVE | [42545971](https://pubmed.ncbi.nlm.nih.gov/42545971/) | Senescence Associated With Neurodegeneration: Simultaneous A... |
+| 2026 Jul 17 | Lysosomal Profiling With LysoTracker For Quantitative Assessment of Cellular Senescence In Human Fibroblasts. | Journal of visualized experiments : JoVE | [42545930](https://pubmed.ncbi.nlm.nih.gov/42545930/) | Lysosomal Profiling With LysoTracker For Quantitative Assess... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Aug 3 | Mitochondria-targeted therapeutic strategies in assisted reproduction: challenges and potential solutions. | Human reproduction (Oxford, England) | [42546117](https://pubmed.ncbi.nlm.nih.gov/42546117/) | Mitochondria-targeted therapeutic strategies in assisted rep... |
+| 2026 Aug 15 | Adaptation of White Adipocytes to Cooler Temperatures: Impacts on Energy Metabolism and Protein Acetylation. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42543917](https://pubmed.ncbi.nlm.nih.gov/42543917/) | Adaptation of White Adipocytes to Cooler Temperatures: Impac... |
 | 2026 Jul 31 | Metals exposure dissociates mitochondrial NAD(P)H redox state from H₂O₂ emission. | Comparative biochemistry and physiology. Toxicology & pharmacology : CBP | [42537919](https://pubmed.ncbi.nlm.nih.gov/42537919/) | Metals exposure dissociates mitochondrial NAD(P)H redox stat... |
 | 2026 | Mechanistic intersections of empagliflozin and nebivolol in aging-associated redox and inflammatory pathways. | Frontiers in pharmacology | [42534639](https://pubmed.ncbi.nlm.nih.gov/42534639/) | Mechanistic intersections of empagliflozin and nebivolol in ... |
 | 2026 Jul 30 | The chemotherapy-induced senescence-associated secretome promotes cell detachment and metastatic dissemination through metabolic reprogramming. | Nature aging | [42533106](https://pubmed.ncbi.nlm.nih.gov/42533106/) | The chemotherapy-induced senescence-associated secretome pro... |
-| 2026 Jul 30 | Oral LNAD+ rapidly elevates whole blood intracellular NAD and metabolic flux without elevating plasma NAD: evidence from a randomized controlled trial. | GeroScience | [42530810](https://pubmed.ncbi.nlm.nih.gov/42530810/) | Oral LNAD+ rapidly elevates whole blood intracellular NAD an... |
-| 2026 Jul 28 | The human retina in Alzheimer's disease: Pathology, mechanisms, and biomarkers. | Ageing research reviews | [42521027](https://pubmed.ncbi.nlm.nih.gov/42521027/) | The human retina in Alzheimer's disease: Pathology, mechanis... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-03 | 自动生成*
+*最后更新：2026-08-04 | 自动生成*
