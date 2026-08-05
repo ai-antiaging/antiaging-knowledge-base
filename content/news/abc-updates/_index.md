@@ -13,6 +13,7 @@ draft: false
 
 ## 最新动态
 
+- [2026-08-05 追踪报告](/news/abc-updates/2026-08-05/) — 🔍 **无新增动态**：PubMed 无新论文；ClockBase 官网持续不可达（连续 4 天）；中文渠道无新消息；口腔共识审定后 52 天
 - [2026-08-04 追踪报告](/news/abc-updates/2026-08-04/) — 📝 **补遗 1 篇**：Life Med ERV 与衰老综述 "The ancient viral whispers of ageing"（PMID 42516216，Zhang H/Liu GH/Qu J，此前追踪遗漏）；PubMed 无其他新增；ClockBase 官网 fetch 持续失败；7月论文产出修正为 4 篇
 - [2026-08-03 追踪报告](/news/abc-updates/2026-08-03/) — 📢 **2 项动态**：ClockBase Agent 线上会（Tony Wyss-Coray, 7/30）+ 第七届时光派国际长寿论坛定档（9/10-13 上海）；PubMed 无新增；ClockBase 官网持续 fetch 失败
 - [2026-08-02 追踪报告](/news/abc-updates/2026-08-02/) — 🔬 **PubMed 新增 1 篇**：Trends Immunol SenSpots 免疫衰老空间多组学评论（PMID 42538165）；7月+论文产出达 6 篇；ClockBase 官网需持续关注
