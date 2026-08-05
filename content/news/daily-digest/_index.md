@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-08-05](2026-08-05/) — PNAS 早期糖分限制因果性降低癌症并延缓生物学衰老(~2.2年)、eLife 甲基化时钟在遗传混合人群中泛化失败、J Natl Cancer Inst CHIP+生物学衰老协同增加癌症风险(33万人)、GeroScience 血液生物标志物关联老年人内在能力、Neurology 白质完整性与西班牙裔老年人认知衰老(2385人)
 - [2026-08-04](2026-08-04/) — PNAS 深度学习绘制全脑局部衰老图谱与认知关联(IF≈12.8)、J Endocrinol 雷帕霉素诱导脂肪肝氯喹共处理可减轻、Med Gas Res 氧化应激-SIRT1-肠菌心脑轴驱动认知衰退、J Biomol Struct Dyn 木犀草素作为热量限制模拟物计算研究、Mol Cell Biochem 利拉鲁肽经NQO1/SIRT3调控线粒体与组蛋白乙酰化
 - [2026-08-03](2026-08-03/) — Aging Cell GPR81乳酸受体激动剂逆转肌肉衰老(IF≈8.0)、Exp Gerontol 大脑衰老时钟方法学演进(IF≈4.0)、Hum Reprod 线粒体靶向辅助生殖策略(IF≈6.0)、Transl Res 细胞衰老驱动肺纤维化自维持修复回路(IF≈10.0)、Crit Rev Oncol Hematol Sirtuins在癌症中的上下文依赖药理学(IF≈6.6)
 - [2026-08-02](2026-08-02/) — Ageing Res Rev 细胞衰老-冠心病双向界面权威综述(IF≈13.8)、Autoimmun Rev SLE免疫衰老机制与治疗(IF≈12.7)、Transplant Cell Ther 半相合HSCT驱动T细胞早衰人体研究(IF≈5.3)、Immun Ageing 慢性炎症性皮肤病隐藏驱动者(IF≈8.8)、BBRC System x(c)(-)抑制小胶质细胞谷氨酸释放改善老龄小鼠运动
