@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-08 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-09 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,16 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Aug 7 | Microbiome-blood-brain barrier interactions in aging - mechanisms and therapeutic potential. | FEBS letters | [42568240](https://pubmed.ncbi.nlm.nih.gov/42568240/) | Microbiome-blood-brain barrier interactions in aging - mecha... |
+| 2026 Aug 7 | Somatic mutations and genome mosaicism in aging and disease. | Experimental & molecular medicine | [42567915](https://pubmed.ncbi.nlm.nih.gov/42567915/) | Somatic mutations and genome mosaicism in aging and disease. |
+| 2026 Aug 7 | Vitamin B(12) alleviates spliceosomopathy via phospholipid remodeling. | Nature communications | [42567856](https://pubmed.ncbi.nlm.nih.gov/42567856/) | Vitamin B(12) alleviates spliceosomopathy via phospholipid r... |
+| 2026 Aug 7 | Temporal changes in metabolism guide oligodendrocyte precursor cell dynamics in aging and multiple sclerosis. | Neuron | [42567160](https://pubmed.ncbi.nlm.nih.gov/42567160/) | Temporal changes in metabolism guide oligodendrocyte precurs... |
 | 2026 Aug 7 | Four Decades of Stress, Depression, and Close Relationships: Lessons from Psychoneuroimmunology. | Annual review of psychology | [42566682](https://pubmed.ncbi.nlm.nih.gov/42566682/) | Four Decades of Stress, Depression, and Close Relationships:... |
-| 2026 Aug 7 | Global trends in endothelial cell senescence research in cardiovascular diseases: A multi-tool bibliometric analysis (2001-2024). | Medicine | [42566559](https://pubmed.ncbi.nlm.nih.gov/42566559/) | Global trends in endothelial cell senescence research in car... |
-| 2026 Aug 7 | Ly6d expression delineates two putative postnatal thymus epithelial progenitor cells that are differentially affected by aging. | Science advances | [42566536](https://pubmed.ncbi.nlm.nih.gov/42566536/) | Ly6d expression delineates two putative postnatal thymus epi... |
-| 2026 Aug 7 | A genotype-first approach reveals the molecular basis of pyrin inflammasome activation. | Science immunology | [42566500](https://pubmed.ncbi.nlm.nih.gov/42566500/) | A genotype-first approach reveals the molecular basis of pyr... |
-| 2026 Aug 7 | An N-terminal CDC42 T43I variant reveals the mechanism of pyrin inflammasome activation. | Science immunology | [42566498](https://pubmed.ncbi.nlm.nih.gov/42566498/) | An N-terminal CDC42 T43I variant reveals the mechanism of py... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Jul-Sep | SIRT6 signaling as an underexplored mechanistic node in nanoformulation-based neuroinflammation therapy for Alzheimer's disease. | Alzheimer's & dementia (New York, N. Y.) | [42564867](https://pubmed.ncbi.nlm.nih.gov/42564867/) | SIRT6 signaling as an underexplored mechanistic node in nano... |
-| 2026 Aug 6 | Tau-induced mitochondrial reverse electron transport drives neurodegeneration. | Neuron | [42561934](https://pubmed.ncbi.nlm.nih.gov/42561934/) | Tau-induced mitochondrial reverse electron transport drives ... |
-| 2026 Aug | Polycomb-Focused Transcriptome-Wide Association Study (TWAS) Reveals a Neuronal Identity, Circuit-Maintenance, and Cellular-Logistics Architecture Linking Anorexia Nervosa and Binge-Eating Behaviour. | Cureus | [42559600](https://pubmed.ncbi.nlm.nih.gov/42559600/) | Polycomb-Focused Transcriptome-Wide Association Study (TWAS)... |
-| 2026 Jul 31 | Impaired NADH-linked mitochondrial respiration disrupts ventral midbrain neuronal programs in POLG disease. | Journal of translational medicine | [42552539](https://pubmed.ncbi.nlm.nih.gov/42552539/) | Impaired NADH-linked mitochondrial respiration disrupts vent... |
-| 2026 | Metabolic therapeutic targets in Alzheimer's disease. | International review of neurobiology | [42552038](https://pubmed.ncbi.nlm.nih.gov/42552038/) | Metabolic therapeutic targets in Alzheimer's disease. |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
@@ -43,11 +38,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Aug | Neuroprotective Potential of Spermidine in Drosophila sws Neurodegenerative Model. | Archives of insect biochemistry and physiology | [42541426](https://pubmed.ncbi.nlm.nih.gov/42541426/) | Neuroprotective Potential of Spermidine in Drosophila sws Ne... |
-| 2026 Jul 26 | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTS ALDOSTERONE-INDUCED CARDIOVASCULAR DAMAGE. | bioRxiv : the preprint server for biology | [42538987](https://pubmed.ncbi.nlm.nih.gov/42538987/) | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTS ALD... |
-| 2026 Jun 30 | Dual Functions of Polyamines in Shaping Host-Specific Pathogen Dynamics. | Pathogens (Basel, Switzerland) | [42515022](https://pubmed.ncbi.nlm.nih.gov/42515022/) | Dual Functions of Polyamines in Shaping Host-Specific Pathog... |
+*暂无最新文献*
+
 
 ---
 
@@ -61,4 +53,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-08 | 自动生成*
+*最后更新：2026-08-09 | 自动生成*
