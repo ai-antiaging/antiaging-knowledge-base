@@ -13,6 +13,7 @@ draft: false
 
 ## 最新动态
 
+- [2026-08-10 追踪报告](/news/abc-updates/2026-08-10/) — 🔬 **4 篇新论文**：Cell Stem Cell VC 正式刊出 / Cell Rep TBI 神经炎症 / Int Immunopharmacol 老年 TBI / PNAS 糖限制与生物衰老；8 月论文产出达 3 篇；口腔共识审定后 57 天
 - [2026-08-06 追踪报告](/news/abc-updates/2026-08-06/) — 🔍 **无新增动态**：PubMed 无新论文；ClockBase 官网持续不可达（连续 5 天）；PubMed 总量 87→85（索引波动）；口腔共识审定后 53 天
 - [2026-08-05 追踪报告](/news/abc-updates/2026-08-05/) — 🔍 **无新增动态**：PubMed 无新论文；ClockBase 官网持续不可达（连续 4 天）；中文渠道无新消息；口腔共识审定后 52 天
 - [2026-08-04 追踪报告](/news/abc-updates/2026-08-04/) — 📝 **补遗 1 篇**：Life Med ERV 与衰老综述 "The ancient viral whispers of ageing"（PMID 42516216，Zhang H/Liu GH/Qu J，此前追踪遗漏）；PubMed 无其他新增；ClockBase 官网 fetch 持续失败；7月论文产出修正为 4 篇
@@ -100,7 +101,7 @@ draft: false
 - [2025-03-01 脂肪衰老共识审定](/news/abc-updates/2026-05-07/) — 华东师大召开审定会
 - [2024-12-05 NAR 免疫衰老数据库](/news/abc-updates/2026-05-07/) — Immunosenescence Inventory 发布
 
-**最新检查**: 2026-08-06 12:00 — 🔍 无新增动态；PubMed 总量 85 条（索引波动 87→85）；ClockBase 官网 fetch 持续失败（连续 5 天）；口腔共识审定后 53 天；8 月论文产出 1 篇（SenSpots）
+**最新检查**: 2026-08-10 21:31 — 🔬 4 篇新论文收录（8/6-8/10）；Cell Stem Cell VC 正式刊出；8 月论文产出 3 篇；口腔共识审定后 57 天
 
 ---
 
