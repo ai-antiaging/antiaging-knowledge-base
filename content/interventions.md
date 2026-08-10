@@ -297,7 +297,7 @@ description: "抗衰老干预措施循证指南"
 
 ## 四、临床追踪
 
-> **最后检查**：2026-08-03 | 数据来源：ClinicalTrials.gov API v2
+> **最后检查**：2026-08-10 | 数据来源：ClinicalTrials.gov API v2
 
 ### Senolytics 试验
 
