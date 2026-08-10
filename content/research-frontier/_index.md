@@ -2,9 +2,122 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-08-03 08:00 (Asia/Shanghai)  
+**最后更新**: 2026-08-10 21:33 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索) + Nature Aging
+
+---
+
+## 本周新增论文 (2026.08.03 – 2026.08.10)
+
+### 📌 重点论文
+
+#### 1. Geroscience：口服 LNAD+ 快速提升全血细胞内 NAD+ 和代谢通量——随机对照试验（人体临床研究 ⭐⭐）
+- **标题**: Oral LNAD+ rapidly elevates whole blood intracellular NAD and metabolic flux without elevating plasma NAD: evidence from a randomized controlled trial
+- **期刊**: Geroscience (2026-07-30)
+- **作者**: Kornilov SA, Hastings WJ, McGrath LF, Leitz-Langan M, Magis AT, Coppess SM, Komac W
+- **关键发现**: 这项随机对照试验首次证明口服 LNAD+（一种新型 NAD+ 前体制剂）能够快速提升全血细胞内 NAD+ 水平和代谢通量，而不会升高血浆 NAD+。NAD+ 下降与衰老和疾病相关的代谢应激有关，传统 NAD+ 前体方法受限于生物合成瓶颈和首过效应。LNAD+ 通过绕过这些瓶颈实现了更高效的细胞内 NAD+ 补充，为 NAD+ 增强剂的临床转化提供了重要突破。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42530810/
+
+#### 2. Nature Aging：化疗诱导的衰老分泌组通过 NAD+-SIRT-SREBP 轴促进肿瘤转移（Gomes 实验室重磅研究 ⭐⭐）
+- **标题**: The chemotherapy-induced senescence-associated secretome promotes cell detachment and metastatic dissemination through metabolic reprogramming
+- **期刊**: Nature Aging (2026-07-30)
+- **作者**: Cole AR, Buj R, Uboveja A, Gomes AP, Snyder NW, Aird KM 等
+- **关键发现**: 发表于 Nature Aging 的重要研究，揭示了化疗诱导的衰老细胞（TIS）通过 SASP 介导的 NAD+-SIRT-SREBP 轴抑制促进肿瘤细胞脱落和转移扩散的新机制。SASP 抑制了 NAD+-SIRT-SREBP 通路，导致质膜胆固醇降低，增加了细胞脱落能力。这一发现对癌症治疗中化疗后使用 senolytics 的时机和策略具有重要指导意义，提示需谨慎评估化疗后清除衰老细胞的潜在风险。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42533106/
+
+#### 3. J Bone Miner Res：放疗后早期抑制促炎性衰老信号可减轻慢性骨损伤（临床转化研究 ⭐）
+- **标题**: Suppression of early pro-inflammatory senescent signature post-radiotherapy mitigates chronic bone damage
+- **期刊**: Journal of Bone and Mineral Research (2026-08-08)
+- **作者**: Achudhan D, Orme J, Sharma R, Khosla S, LeBrasseur NK, Pignolo RJ 等（Mayo Clinic 团队）
+- **关键发现**: Mayo Clinic 和宾夕法尼亚大学等多家权威机构合作研究发现，放疗后早期抑制促炎性衰老信号可显著减轻慢性骨损伤。研究证实 senolytic 组合 D+Q（达沙替尼+槲皮素）能够缓解放疗相关的骨丢失，为放疗后骨骼保护的临床干预策略提供了重要依据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42570308/
+
+#### 4. CPT Pharmacometrics Syst Pharmacol：系统药理学模型识别抗衰老最优联合疗法——雷帕霉素、二甲双胍、SGLT2i 的代谢-衰老参数空间分析 ⭐
+- **标题**: A Systems Pharmacology Model of Aging Identifies Optimal Combination Therapies With Secondary Benefits on Weight Loss and Metabolic Health
+- **期刊**: CPT: Pharmacometrics & Systems Pharmacology (2026-08)
+- **作者**: Goryanin I 等
+- **关键发现**: 贝叶斯荟萃分析确认了 semaglutide 的强代谢效应、SGLT2 抑制剂和二甲双胍的中度血糖效应，以及雷帕霉素近乎为零的 HbA1c 效应。敏感性分析揭示了这些药物在大体上正交的代谢和衰老参数空间中运作，提示联合疗法可能通过互补机制同时靶向代谢健康和衰老。这为多药联合抗衰老策略的系统药理学设计提供了量化框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42572918/
+
+#### 5. Neuron：Tau 诱导的线粒体逆向电子转运驱动神经退行性变——NAD+/NADH 比值下降机制 ⭐
+- **标题**: Tau-induced mitochondrial reverse electron transport drives neurodegeneration
+- **期刊**: Neuron (2026-08-06)
+- **作者**: Li W, Rimal S, Bhurtel S, Lu B 等
+- **关键发现**: 发表于顶级神经科学期刊 Neuron，揭示了 Tau 蛋白通过调控线粒体逆向电子转运（RET）产生过量活性氧（ROS），降低 NAD+/NADH 比值，且该过程受衰老或压力激活。在果蝇、小鼠和人类 iPSC 衍生神经元中均得到验证。这一发现将 Tau 病理、线粒体功能障碍和 NAD+ 代谢下降整合在一个统一的机制框架中，为阿尔茨海默病的代谢干预提供了新靶点。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42561934/
+
+### 其他新增论文
+
+#### 6. Geroscience：雷帕霉素对果蝇寿命的饮食依赖性双向效应
+- **标题**: Diet-dependent, beneficial and adverse effects of rapamycin on life span of Drosophila melanogaster
+- **期刊**: Geroscience (2026-08-08)
+- **作者**: Jackson LN, Boles AM, Frye CT, Patel IA, Mockett RJ
+- **关键发现**: 在五种果蝇品系中系统表征了雷帕霉素延长或缩短寿命的条件。在玉米粉/酵母培养基上，雷帕霉素在 1 个实验中延长寿命，在 6 个实验中无影响，在 1 个实验中则有害。研究强调了饮食背景对雷帕霉素抗衰老效果的决定性影响，为 mTOR 抑制剂的临床精准应用提供了警示。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42570192/
+
+#### 7. J Immunol Res：GPNMB 特异性 CAR-T 细胞靶向清除衰老内皮细胞——新型 senolytic 策略
+- **标题**: Targeted Clearance of Senescent Endothelium by GPNMB-Specific CAR-T Cells
+- **期刊**: Journal of Immunology Research (2026)
+- **作者**: Yu P, Du J, Liu Y, Zhou M
+- **关键发现**: 首次探索了 CAR-T 细胞作为潜在 senolytic 制剂的应用。研究鉴定出 GPNMB 作为一种在衰老细胞表面广泛表达的跨膜糖蛋白，设计的 GPNMB 特异性 CAR-T 细胞能够靶向清除衰老内皮细胞。这代表了 senolytic 疗法从传统小分子药物向免疫细胞疗法的重要拓展。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42554242/
+
+#### 8. Front Aging：加速生物学衰老——慢性炎症、风化与新型治疗策略
+- **标题**: Accelerated biological aging: the role of chronic inflammation, weathering and novel therapeutic strategies
+- **期刊**: Frontiers in Aging (2026-07-21)
+- **作者**: Marin-Maldonado FM, Santiago-Rosario MJ, Fonseca-Ferrer W 等
+- **关键发现**: 综述了炎症和细胞衰老生物学的最新进展，重点讨论了 senolytics、抗炎制剂和非编码 RNA 干预在调控衰老基本机制中的治疗潜力。文章特别关注了"风化"（weathering）概念——社会环境压力如何加速生物学衰老，为健康不平等提供了分子层面的解释框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42553227/
+
+#### 9. Semin Nephrol：中医药在肾脏衰老中的 senolytic 与 senomorphic 策略
+- **标题**: Targeting Cellular Senescence in Kidney Aging with Traditional Chinese Medicine: Potential Senolytic and Senomorphic Strategies
+- **期刊**: Seminars in Nephrology (2026-08-03)
+- **作者**: Li J, Li Y, Liu Y, Yang L, Ma L, Fu P
+- **关键发现**: 系统综述了中医药在肾脏衰老中的抗衰老潜力。将抗衰老细胞策略分为两大类：senolytics（清除衰老细胞）和 senomorphics（抑制 SASP 的旁分泌效应）。中医药的多种活性成分在两类策略中均显示出潜力，为肾脏衰老的中西医结合干预提供了新视角。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42547381/
+
+#### 10. Exp Eye Res：细胞衰老在后段新生血管性眼病中的正反馈放大模型
+- **标题**: Cellular senescence in posterior segment neovascular diseases: A proposed feed-forward amplification model
+- **期刊**: Experimental Eye Research (2026-08-07)
+- **作者**: Wang Y, Luo T, Li C, Zhou L, Lin H, Yang MM
+- **关键发现**: 提出了细胞衰老在新生血管性 AMD 和糖尿病视网膜病变中的正反馈放大模型。比较了两种疾病的衰老特异性特征，讨论了视网膜衰老的方法学挑战，并评估了 senolytics 和 SASP 调节策略作为抗 VEGF 治疗辅助手段的转化潜力和安全性问题。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42567397/
+
+#### 11. Biogerontology：SIRT1 在脑衰老中的分子机制与药理学/天然调节剂的治疗潜力
+- **标题**: SIRT1 in brain aging: molecular mechanisms and therapeutic potential of pharmacological and natural modulators
+- **期刊**: Biogerontology (2026-08-07)
+- **作者**: Mosalam EM, Abdallah MS, Gardouh AR 等
+- **关键发现**: 综述了 SIRT1 激活剂（如白藜芦醇、二甲双胍）在脑衰老中的治疗潜力。神经衰老是认知障碍和记忆衰退的主要通路，SIRT1 作为 NAD+ 依赖性去乙酰化酶在神经保护中发挥核心作用。该综述为 SIRT1 靶向干预脑衰老提供了从分子机制到药物开发的系统梳理。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42566092/
+
+#### 12. Geroscience：衰老心脏细胞促进血栓形成并损害纤溶——心血管衰老新机制
+- **标题**: Senescent cardiac cells promote thrombus formation and impair fibrinolysis
+- **期刊**: Geroscience (2026-08-01)
+- **作者**: Shahar T, Ezra N, Chen S, Kryukov O, Cohen S
+- **关键发现**: 血栓风险随年龄显著增加，但连接衰老与血栓形成的细胞机制此前不清楚。本研究首次发现心脏细胞衰老通过促进血栓形成和损害纤溶来增加血栓风险，揭示了衰老细胞在心血管血栓事件中的直接致病作用，为抗衰老干预降低老年人血栓风险提供了新依据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42542497/
+
+#### 13. iScience：TRF2 富集的细胞质染色质通过 cGAS-STAT1 驱动衰老炎症——二甲双胍的抑制作用
+- **标题**: TRF2 enriched cytoplasmic chromatin drives cGAS-STAT1-mediated inflammation in senescence
+- **期刊**: iScience (2026-07-14)
+- **作者**: Kandhaya-Pillai R, Kim HY, Belhadj J, Tchkonia T, Kirkland JL, Oshima J
+- **关键发现**: 由 Kirkland/Tchkonia 等 senolytics 领域权威参与的研究发现，TRF2 富集的细胞质染色质片段（CCFs）通过 cGAS-STAT1 通路驱动衰老相关炎症。药理学抑制 JAK-STAT 或二甲双胍处理可抑制 TRF2 富集的 CCFs，减少 cGAS-STAT1 激活、DNA 损伤标志物和 SASP。为二甲双胍的抗炎衰老机制提供了新的分子解释。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42519061/
+
+#### 14. Nat Rev Rheumatol：类风湿关节炎中的代谢耗竭与免疫衰老
+- **标题**: Metabolic exhaustion and immune ageing in rheumatoid arthritis
+- **期刊**: Nature Reviews Rheumatology (2026-08-03)
+- **作者**: Weyand CM, Goronzy JJ
+- **关键发现**: 顶级综述期刊发表，系统阐述了类风湿关节炎中由线粒体功能不足导致的 NAD+ 和 ATP 匮乏状态，以及碳代谢从氧化磷酸化的偏离。将免疫衰老与代谢耗竭直接关联，为靶向 NAD+ 代谢改善自身免疫疾病中的免疫衰老提供了理论基础。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42547808/
+
+#### 15. Clin Exp Reprod Med：NMN 对卵巢健康的影响——临床前证据与治疗潜力综述
+- **标题**: The impact of nicotinamide mononucleotide on ovarian health: A comprehensive literature review of preclinical evidence and therapeutic potential
+- **期刊**: Clinical and Experimental Reproductive Medicine (2026-08-04)
+- **作者**: Kang I, Lee J
+- **关键发现**: NMN 作为 NAD+ 的关键前体，最近成为年龄相关疾病的有前景治疗候选物。该综述总结了 NMN 影响的分子通路，包括 NAD+ 生物合成、线粒体功能改善和氧化应激缓解，为 NMN 在生殖衰老中的应用提供了临床前证据基础。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42547047/
 
 ---
 
@@ -968,6 +1081,8 @@
 ## 按研究方向分类
 
 ### 1. Senolytics（衰老细胞清除）
+- **GPNMB 特异性 CAR-T 细胞靶向清除衰老内皮细胞 (J Immunol Res, 2026-08)** ⬆️ 本周新增
+- **放疗后早期抑制衰老信号减轻骨损伤——D+Q senolytic 验证 (J Bone Miner Res, 2026-08)** ⬆️ 本周新增
 - **衰老疗法：心血管疾病治疗新概念 (Cardiovasc Res, 2026-05)** ⬆️
 - **衰老及相关疾病治疗策略全面综述 (STTT, 2026-06)** ⬆️
 - 衰老心脏再生治疗中的衰老细胞靶点 (2026-05)
@@ -985,6 +1100,10 @@
 - **FASTIS 胆固醇依赖性衰老作为 (immuno)senolytic 联合策略 (Cell Death Dis, 2026-06)** ⬆️ 本周新增
 
 ### 2. NAD+ 增强剂
+- **口服 LNAD+ 快速提升细胞内 NAD+ 和代谢通量——RCT (Geroscience, 2026-07)** ⬆️ 本周新增
+- **化疗 SASP 通过 NAD+-SIRT-SREBP 轴促进肿瘤转移 (Nature Aging, 2026-07)** ⬆️ 本周新增
+- **Tau 诱导 RET 降低 NAD+/NADH 比值驱动神经退行性变 (Neuron, 2026-08)** ⬆️ 本周新增
+- **NMN 对卵巢健康的影响——临床前综述 (Clin Exp Reprod Med, 2026-08)** ⬆️ 本周新增
 - **NAD⁺ 稳态在衰老与疾病中的机制 (Annu Rev Nutr, 2026)** ⬆️
 - **烟酸核糖维持 NAD+ 稳态并改善衰老相关 NAD+ 下降 (Cell Metabolism, 2026-05)** ⬆️
 - **衰老相关 NAD+ 下降导致 CAR-T 细胞治疗失败 (Nature Cancer, 2026-05)** ⬆️
@@ -998,6 +1117,8 @@
 - SIRT1 在动脉粥样硬化中的整合调控 (2026-03)
 
 ### 3. mTOR 抑制剂与自噬
+- **系统药理学模型揭示抗衰老联合疗法最优组合 (CPT Pharmacometrics Syst Pharmacol, 2026-08)** ⬆️ 本周新增
+- **雷帕霉素对寿命的饮食依赖性双向效应 (Geroscience, 2026-08)** ⬆️ 本周新增
 - **雷帕霉素治疗 AD 及相关痴呆：首个 I 期临床试验 (Commun Med, 2026-05)** ⬆️
 - 新型雷帕霉素衍生物 FIM-X8 降低免疫抑制活性并延长寿命 (2026-04)
 - ER-phagy 是 mTOR 抑制延长寿命所必需的主动机制 (2026-04)
@@ -1043,6 +1164,7 @@
 - 表观遗传时钟纵向变化预测 InCHIANTI 队列生存率 (2026-03)
 
 ### 9. 心血管衰老与环境因素
+- **衰老心脏细胞促进血栓形成并损害纤溶 (Geroscience, 2026-08)** ⬆️ 本周新增
 - **微塑料 BPF 经肠-心轴加速心血管衰老 (Circulation, IF≈37.8, 2026-05)** ⬆️
 - 血管衰老：健康寿命的核心决定因素 (Circulation, 2026-05)
 - 晚期补充 25-羟胆固醇减少主动脉僵硬和细胞衰老 (Aging Cell, 2026-05)
@@ -1059,6 +1181,10 @@
 - **衰老细胞与免疫系统双向互作 (J Transl Med, 2026-06)**
 - **亚精胺减轻免疫细胞衰老并增强疫苗应答 (Aging Cell, 2026-06) RCT**
 
+### 12. 中医药与天然产物抗衰老（新增分类）
+- **中医药在肾脏衰老中的 senolytic 与 senomorphic 策略 (Semin Nephrol, 2026-08)** ⬆️ 本周新增
+- **SIRT1 在脑衰老中的天然调节剂治疗潜力 (Biogerontology, 2026-08)** ⬆️ 本周新增
+
 ---
 
 ## 信息来源
@@ -1073,6 +1199,7 @@
 
 | 日期 | 更新内容 | 新增论文数 |
 |------|----------|------------|
+| 2026-08-10 | 第 9 次更新：Geroscience LNAD+ 口服 RCT、Nature Aging 化疗 SASP 促转移机制、Neuron Tau 线粒体逆向电子转运、CPT 系统药理学联合疗法、GPNMB CAR-T senolytic 新策略、二甲双胍抑制 cGAS-STAT1 新机制 | 15 |
 | 2026-07-13 | 第 8 次更新：Nat Med Wyss-Coray & Topol 生物学时钟综述、J Med Chem 新型环己烯基 senolytic、Ageing Res Rev 细胞粘性特性衰老生物标志物、Autophagy NAD+-SIRT1-REST 轴改善 AD、Geroscience Kirkland 团队皮肤衰老 senolytic 策略 | 8 |
 | 2026-06-22 | 第 7 次更新：REPROGRAM 试验方案（二甲双胍/非瑟酮/亚精胺 RCT）、JAMA 二甲双胍与多发病研究、Cell Metabolism 肝肠通讯、NPJ Aging 免疫衰老综述、靶向衰老细胞促进烧伤伤口愈合，新增分类「免疫衰老」 | 10 |
 | 2026-06-15 | 第 6 次更新：SenCat 人类衰老多组学图谱、补骨脂酚促进健康衰老、Science 胎盘 NAD⁺ 代谢钟、热量限制 rejuvenates 成年干细胞 | 10 |
