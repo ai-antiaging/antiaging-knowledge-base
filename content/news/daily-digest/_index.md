@@ -14,6 +14,7 @@ draft: false
 ## 最新快讯
 
 - [2026-08-09](2026-08-09/) — Cell Metabolism 蛋氨酸精准调控实现无虚弱健康衰老、PNAS 生命早期糖限制因果性降低成年癌症风险+减缓生物衰老、Bioactive Materials 双模态抗氧化+表观遗传协同打破骨关节炎衰老自循环、Exp Mol Med 体细胞突变与基因组嵌合驱动衰老的因果框架、Redox Biology FABP5驱动肌成纤维细胞衰老与肺纤维化
+- [2026-08-07](2026-08-07/) — Exp Mol Med 体细胞突变与基因组嵌合驱动衰老综述(Vijg)、Nat Commun 维生素B12缓解剪接体病(Antebi)、Aging Dis 皮层衰老速率个体差异纵向聚类、Cell Stress 苯二氮䓬加速医源性衰老(Kroemer)、Trends Endocrinol Metab GLP-1受体激动剂老年人群重评估
 - [2026-08-12](2026-08-12/) — Gpld1敲除下调Sirtuin+抗氧化酶揭示运动年轻化机制、Diabetes 1型糖尿病脑加速老化3.5年MRI深度学习评估、Environ Sci Technol DBDPE通过NAD⁺损害加重酒精性肝损伤、Advanced Science 银杏内酯PREP抑制剂减轻神经炎症获Healthy Longevity奖资助、Science Signaling 胶质细胞调控脑ECM老化新框架
 - [2026-08-11](2026-08-11/) — PNAS 生命早期糖限制因果性降低癌症风险+延缓生物衰老(IF≈11.1)、Advanced Science Fibrillarin-SIRT1-NAD⁺代谢轴抵抗细胞衰老+增强Senolytic疗效(IF≈14.3)、JACC ACC科学声明CVD-认知障碍-衰弱三大衰老表型交织(IF≈21.7)、GeroScience 衰老标志框架下慢性硬膜下血肿的新视角(IF≈5.6)、Biogerontology 母体生物衰老与端粒损耗综述
 - [2026-08-10](2026-08-10/) — Bioact Mater 双模态抗氧化+表观遗传协同打破软骨细胞衰老自维持循环(IF≈18.9)、Diabetes Obes Metab 靶向线粒体Complex I经NAD⁺/NADH轴保护内皮功能、J Nutr Health Aging 运动零食Meta分析21项RCT不同年龄层效应、Aging Ment Health GBD2023墨西哥痴呆症负担不均衡进展
