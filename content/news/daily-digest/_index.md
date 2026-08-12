@@ -16,6 +16,7 @@ draft: false
 - [2026-08-12](2026-08-12/) — Gpld1敲除下调Sirtuin+抗氧化酶揭示运动年轻化机制、Diabetes 1型糖尿病脑加速老化3.5年MRI深度学习评估、Environ Sci Technol DBDPE通过NAD⁺损害加重酒精性肝损伤、Advanced Science 银杏内酯PREP抑制剂减轻神经炎症获Healthy Longevity奖资助、Science Signaling 胶质细胞调控脑ECM老化新框架
 - [2026-08-11](2026-08-11/) — PNAS 生命早期糖限制因果性降低癌症风险+延缓生物衰老(IF≈11.1)、Advanced Science Fibrillarin-SIRT1-NAD⁺代谢轴抵抗细胞衰老+增强Senolytic疗效(IF≈14.3)、JACC ACC科学声明CVD-认知障碍-衰弱三大衰老表型交织(IF≈21.7)、GeroScience 衰老标志框架下慢性硬膜下血肿的新视角(IF≈5.6)、Biogerontology 母体生物衰老与端粒损耗综述
 - [2026-08-10](2026-08-10/) — Bioact Mater 双模态抗氧化+表观遗传协同打破软骨细胞衰老自维持循环(IF≈18.9)、Diabetes Obes Metab 靶向线粒体Complex I经NAD⁺/NADH轴保护内皮功能、J Nutr Health Aging 运动零食Meta分析21项RCT不同年龄层效应、Aging Ment Health GBD2023墨西哥痴呆症负担不均衡进展
+- [2026-08-08](2026-08-08/) — Neuron 衰老小胶质细胞端粒缩短分泌DLK1致髓鞘退化与神经元功能障碍(IF≈18.3)、JAMA Netw Open 表观遗传时钟揭示童年虐待加速中晚年生物学衰老(IF≈13.8)、Ageing Res Rev CHIP作为炎症衰老与年龄相关疾病的新兴决定因素(IF≈13.8)、Aging 二甲双胍在衰老与长寿交汇点上的多重作用(IF≈5.2)、Age Ageing 中国农村老年CVD患者跌倒预防CRT二次分析(IF≈12.1)
 - [2026-08-06](2026-08-06/) — Adv Sci USP5-TGFBR1轴驱动血管平滑肌细胞衰老与动脉粥样硬化、J Mol Endocrinol 糖尿病损害DNA修复与端粒维持致脂肪细胞早衰、GeroScience 生活方式与心理社会因素驱动韧性衰老、Pharmacology 右美托咪定经MDH2/NF-κB通路减轻心肌细胞衰老
 - [2026-08-05](2026-08-05/) — PNAS 早期糖分限制因果性降低癌症并延缓生物学衰老(~2.2年)、eLife 甲基化时钟在遗传混合人群中泛化失败、J Natl Cancer Inst CHIP+生物学衰老协同增加癌症风险(33万人)、GeroScience 血液生物标志物关联老年人内在能力、Neurology 白质完整性与西班牙裔老年人认知衰老(2385人)
 - [2026-08-04](2026-08-04/) — PNAS 深度学习绘制全脑局部衰老图谱与认知关联(IF≈12.8)、J Endocrinol 雷帕霉素诱导脂肪肝氯喹共处理可减轻、Med Gas Res 氧化应激-SIRT1-肠菌心脑轴驱动认知衰退、J Biomol Struct Dyn 木犀草素作为热量限制模拟物计算研究、Mol Cell Biochem 利拉鲁肽经NQO1/SIRT3调控线粒体与组蛋白乙酰化
