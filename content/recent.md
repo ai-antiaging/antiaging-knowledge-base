@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-11 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-12 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug 18 | Morphological maturation and circuit integration of adult-born neurons are key to functional recovery after traumatic brain injury. | Proceedings of the National Academy of Sciences of the United States of America | [42574629](https://pubmed.ncbi.nlm.nih.gov/42574629/) | Morphological maturation and circuit integration of adult-bo... |
-| 2026 Jul 24 | Multiplexed Immunofluorescence Assay for Spatial Assessment of Senescence Markers in vivo. | Journal of visualized experiments : JoVE | [42574380](https://pubmed.ncbi.nlm.nih.gov/42574380/) | Multiplexed Immunofluorescence Assay for Spatial Assessment ... |
-| 2026 Aug 10 | Protocol for proteomic profiling of hypusinated protein candidates using a clickable spermidine probe. | STAR protocols | [42574220](https://pubmed.ncbi.nlm.nih.gov/42574220/) | Protocol for proteomic profiling of hypusinated protein cand... |
-| 2026 Aug 7 | A practical guide to investigating biomolecular condensates: a comment from the plant community. | Science China. Life sciences | [42573943](https://pubmed.ncbi.nlm.nih.gov/42573943/) | A practical guide to investigating biomolecular condensates:... |
-| 2026 Aug 10 | Chronic subdural hematoma through the hallmarks of aging: a geroscience framework for the commonest neurosurgical condition of older adults. | GeroScience | [42573875](https://pubmed.ncbi.nlm.nih.gov/42573875/) | Chronic subdural hematoma through the hallmarks of aging: a ... |
+| 2026 Aug 10 | From aging biology to cardiac biotechnology: emerging platforms for modeling cardiac aging. | JCI insight | [42579795](https://pubmed.ncbi.nlm.nih.gov/42579795/) | From aging biology to cardiac biotechnology: emerging platfo... |
+| 2026 Aug 11 | Beyond the scaffold: Glia as architects of the neural extracellular matrix. | Science signaling | [42579754](https://pubmed.ncbi.nlm.nih.gov/42579754/) | Beyond the scaffold: Glia as architects of the neural extrac... |
+| 2026 Aug 10 | Stearoyl-CoA desaturases regulate intestinal stem and progenitor cell metabolism and function in response to nutrient abundance. | Cell reports | [42579558](https://pubmed.ncbi.nlm.nih.gov/42579558/) | Stearoyl-CoA desaturases regulate intestinal stem and progen... |
+| 2026 Aug 9 | KDM4C inhibition reinforces NK cell cytotoxicity through the cGAS-STING pathway in TP53-mutated AML. | Aging and disease | [42579361](https://pubmed.ncbi.nlm.nih.gov/42579361/) | KDM4C inhibition reinforces NK cell cytotoxicity through the... |
+| 2026 Aug 10 | Single-Nucleus RNA-Seq of Human and Rat Cardiomyocytes Identifies Shared and Distinct Regulators and Features of Aging and Disease. | Aging and disease | [42579360](https://pubmed.ncbi.nlm.nih.gov/42579360/) | Single-Nucleus RNA-Seq of Human and Rat Cardiomyocytes Ident... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Aug 10 | Concentration-sensitive control of the stabilization-degradation balance in poly(butylene succinate-co-adipate) films via calcium lignosulfonate and 2,5-dimethyl-2,5-di(tert-butylperoxy)hexane. | International journal of biological macromolecules | [42575359](https://pubmed.ncbi.nlm.nih.gov/42575359/) | Concentration-sensitive control of the stabilization-degrada... |
 | 2026 | Metabolic therapeutic targets in Alzheimer's disease. | International review of neurobiology | [42552038](https://pubmed.ncbi.nlm.nih.gov/42552038/) | Metabolic therapeutic targets in Alzheimer's disease. |
 | 2026 Aug | Rewiring the mitochondrial NAD(+)-CoQ axis using metabolic nanomedicine for acute kidney injury therapy. | Materials today. Bio | [42569254](https://pubmed.ncbi.nlm.nih.gov/42569254/) | Rewiring the mitochondrial NAD(+)-CoQ axis using metabolic n... |
 | 2026 | Aerobic exercise combined with FK866 ameliorates Alzheimer's disease-like pathology in APP/PS1 mice with NAMPT abnormality. | Frontiers in immunology | [42568438](https://pubmed.ncbi.nlm.nih.gov/42568438/) | Aerobic exercise combined with FK866 ameliorates Alzheimer's... |
 | 2026 Jul-Sep | SIRT6 signaling as an underexplored mechanistic node in nanoformulation-based neuroinflammation therapy for Alzheimer's disease. | Alzheimer's & dementia (New York, N. Y.) | [42564867](https://pubmed.ncbi.nlm.nih.gov/42564867/) | SIRT6 signaling as an underexplored mechanistic node in nano... |
-| 2026 Aug 6 | Tau-induced mitochondrial reverse electron transport drives neurodegeneration. | Neuron | [42561934](https://pubmed.ncbi.nlm.nih.gov/42561934/) | Tau-induced mitochondrial reverse electron transport drives ... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-11 | 自动生成*
+*最后更新：2026-08-12 | 自动生成*
