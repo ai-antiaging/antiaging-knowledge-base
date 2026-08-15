@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-14 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-15 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,39 +15,26 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug 13 ⚠️ | Development of a multi-species luciferase-based double-antigen ELISA for the detection of antibodies against influenza A virus H5 clade 2.3.4.4b. | Journal of clinical microbiology | [42594285](https://pubmed.ncbi.nlm.nih.gov/42594285/) | Development of a multi-species luciferase-based double-antig... |
-| 2026 ⚠️ | Unraveling the molecular Nexus of Alzheimer's Disease and HIV encephalitis: The role of cellular senescence and transcriptional regulation. | PloS one | [42594145](https://pubmed.ncbi.nlm.nih.gov/42594145/) | Unraveling the molecular Nexus of Alzheimer's Disease and HI... |
-| 2026 Aug 13 ⚠️ | Discovery of ZJC-11 as a Novel Selective CDK7 Inhibitor for Treating Triple-Negative Breast Cancer by Inducing Cell Senescence. | Journal of medicinal chemistry | [42593900](https://pubmed.ncbi.nlm.nih.gov/42593900/) | Discovery of ZJC-11 as a Novel Selective CDK7 Inhibitor for ... |
-| 2026 Aug 13 ⚠️ | Senolytics Reverse PM(2.5) - Induced Cell and Vascular Dysfunction. | Cardiovascular toxicology | [42593595](https://pubmed.ncbi.nlm.nih.gov/42593595/) | Senolytics Reverse PM(2.5) - Induced Cell and Vascular Dysfu... |
-| 2026 Aug 13 ⚠️ | Metformin Enhances Antioxidant Defenses and Limits Lipid Peroxidation Through the Modulation of Nrf2/KEAP1 Pathway in Hippocampal Neurons Exposed to Amyloid-β Oligomers. | Neurotoxicity research | [42593551](https://pubmed.ncbi.nlm.nih.gov/42593551/) | Metformin Enhances Antioxidant Defenses and Limits Lipid Per... |
+| 2026 Aug 31 ⚠️ | Magnesium Attenuates Renal Senescence and Fibrosis With Reduced DNA Damage Response and H3K4me3 Enrichment at the p16(INK4a) Promoter. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42600046](https://pubmed.ncbi.nlm.nih.gov/42600046/) | Magnesium Attenuates Renal Senescence and Fibrosis With Redu... |
+| 2026 Aug 14 ⚠️ | Dual-Action Sulfonium-Amino Acid Additive Enabling Crystallization Regulation and Defect Passivation for High-Performance Carbon-Electrode Printable Mesoscopic Perovskite Solar Cells. | Angewandte Chemie (International ed. in English) | [42599814](https://pubmed.ncbi.nlm.nih.gov/42599814/) | Dual-Action Sulfonium-Amino Acid Additive Enabling Crystalli... |
+| 2026 Aug 14 ⚠️ | Astrocytes orchestrate neuroprotection and pathogenesis via bidirectional neuronal interactions in Parkinson's disease. | Journal of physiology and biochemistry | [42599550](https://pubmed.ncbi.nlm.nih.gov/42599550/) | Astrocytes orchestrate neuroprotection and pathogenesis via ... |
+| 2026 Dec ⚠️ | The hormetic landscape: from evolutionary origination to mechanistic pathways in therapeutics. | Cell cycle (Georgetown, Tex.) | [42599026](https://pubmed.ncbi.nlm.nih.gov/42599026/) | The hormetic landscape: from evolutionary origination to mec... |
+| 2026 Aug 11 ⚠️ | Time-Resolved Structural Insight into Zinc Metal Plating in Aqueous Batteries. | Chemistry of materials : a publication of the American Chemical Society | [42598613](https://pubmed.ncbi.nlm.nih.gov/42598613/) | Time-Resolved Structural Insight into Zinc Metal Plating in ... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Aug 5 ⚠️ | Hepatic SIRT6 Deficiency Accelerates Female-Specific Aging Through SULT1E1-Mediated Estrogen Depletion. | International journal of molecular sciences | [42589691](https://pubmed.ncbi.nlm.nih.gov/42589691/) | Hepatic SIRT6 Deficiency Accelerates Female-Specific Aging T... |
-| 2026 Aug 1 ⚠️ | Sirtuins as Molecular Mediators of Caloric Restriction in the Pancreas: Implications for β-Cell Function, Metabolism, and Longevity. | International journal of molecular sciences | [42589577](https://pubmed.ncbi.nlm.nih.gov/42589577/) | Sirtuins as Molecular Mediators of Caloric Restriction in th... |
-| 2026 Jul 23 ⚠️ | Redox Molecules in Aging and Neurodegenerative Disorders. | International journal of molecular sciences | [42589223](https://pubmed.ncbi.nlm.nih.gov/42589223/) | Redox Molecules in Aging and Neurodegenerative Disorders. |
-| 2026 Aug 3 ⚠️ | Mitochondrial Dysfunction as a Driver of Meta-Inflammation in Aging: The Emerging Role of PDK4 in Bioenergetic Reprogramming and Inflammatory Amplification. | Cells | [42587812](https://pubmed.ncbi.nlm.nih.gov/42587812/) | Mitochondrial Dysfunction as a Driver of Meta-Inflammation i... |
-| 2026 Aug 12 ⚠️ | Protective mechanisms of Sirtuin Family in myocardial ischemia-reperfusion injury and translational therapeutic perspectives. | Molecular biology reports | [42584557](https://pubmed.ncbi.nlm.nih.gov/42584557/) | Protective mechanisms of Sirtuin Family in myocardial ischem... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Aug ⚠️ | Urolithin A Exerts Neuroprotective Effects Against Ischemic Stroke by Inhibiting Oxidative Stress and Neuroinflammation. | CNS neuroscience & therapeutics | [42590804](https://pubmed.ncbi.nlm.nih.gov/42590804/) | Urolithin A Exerts Neuroprotective Effects Against Ischemic ... |
-| 2026 Aug 3 ⚠️ | Natural Bioactive Compounds Targeting Key Hallmarks of Aging: Functional Food Potential of Spermidine, Fisetin, Berberine, and Urolithin A. | Nutrients | [42588134](https://pubmed.ncbi.nlm.nih.gov/42588134/) | Natural Bioactive Compounds Targeting Key Hallmarks of Aging... |
-| 2026 Aug 8 ⚠️ | The gut-brain-mitophagy axis: Urolithin A as a transcriptional activator of Parkin in Alzheimer's and Parkinson's diseases. | Molecular and cellular neurosciences | [42570712](https://pubmed.ncbi.nlm.nih.gov/42570712/) | The gut-brain-mitophagy axis: Urolithin A as a transcription... |
-| 2026 Dec 31 ⚠️ | Mechanistic pathways linking gut microbial metabolites, microbial structural products, and host-microbe co-metabolites to mitochondrial function. | Gut microbes | [42563439](https://pubmed.ncbi.nlm.nih.gov/42563439/) | Mechanistic pathways linking gut microbial metabolites, micr... |
-| 2026 Aug 4 ⚠️ | Yiqi Huoxue Jiedu formula protects against sepsis-associated lung injury by modulating macrophage mitophagy and mtDNA-STING signaling. | Chinese medicine | [42552538](https://pubmed.ncbi.nlm.nih.gov/42552538/) | Yiqi Huoxue Jiedu formula protects against sepsis-associated... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Aug 3 ⚠️ | Natural Bioactive Compounds Targeting Key Hallmarks of Aging: Functional Food Potential of Spermidine, Fisetin, Berberine, and Urolithin A. | Nutrients | [42588134](https://pubmed.ncbi.nlm.nih.gov/42588134/) | Natural Bioactive Compounds Targeting Key Hallmarks of Aging... |
-| 2026 Aug 10 ⚠️ | Protocol for proteomic profiling of hypusinated protein candidates using a clickable spermidine probe. | STAR protocols | [42574220](https://pubmed.ncbi.nlm.nih.gov/42574220/) | Protocol for proteomic profiling of hypusinated protein cand... |
-| 2026 Aug ⚠️ | Neuroprotective Potential of Spermidine in Drosophila sws Neurodegenerative Model. | Archives of insect biochemistry and physiology | [42541426](https://pubmed.ncbi.nlm.nih.gov/42541426/) | Neuroprotective Potential of Spermidine in Drosophila sws Ne... |
+*暂无最新文献*
+
 
 ---
 
@@ -61,4 +48,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-14 | 自动生成*
+*最后更新：2026-08-15 | 自动生成*
