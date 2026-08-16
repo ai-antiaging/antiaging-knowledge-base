@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-08-16](2026-08-16/) — Free Radical Biol Med ALDH2/SIRT1缓解糖尿病心肌衰老、Clin Chim Acta 多组学鉴定肾纤维化衰老诊断基因、Free Radical Biol Med Prdx1基因治疗辐射骨衰老、Environ Pollut SIRT1保护微塑料致视网膜衰老、FEBS Lett 皮肤微生物组与衰老综述
 - [2026-08-15](2026-08-15/) — Cell Reports 脉络丛TTN⁺巨噬细胞衰老与AD、Andrology 睾酮RCT对端粒长度无显著影响、FEBS J 裸鼹鼠溶酶体应激可逆空泡化、J Infect Dis 衰弱框架理解结核病后遗症、Cell Biochem Biophys 长期培养致衰老重编程
 - [2026-08-13](2026-08-13/) — Science Advances 线粒体应激-溶酶体蛋白稳态延长寿命、eLife GATA4驱动软骨细胞衰老与骨关节炎、PNAS miR-34a促年龄相关性黄斑变性、Eur Geriatr Med 自重间歇训练改善老年人衰弱RCT、J Alzheimers Dis B细胞衰老在AD中的机制研究
 - [2026-08-09](2026-08-09/) — Cell Metabolism 蛋氨酸精准调控实现无虚弱健康衰老、PNAS 生命早期糖限制因果性降低成年癌症风险+减缓生物衰老、Bioactive Materials 双模态抗氧化+表观遗传协同打破骨关节炎衰老自循环、Exp Mol Med 体细胞突变与基因组嵌合驱动衰老的因果框架、Redox Biology FABP5驱动肌成纤维细胞衰老与肺纤维化
