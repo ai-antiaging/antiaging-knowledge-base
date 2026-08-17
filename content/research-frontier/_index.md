@@ -2,9 +2,101 @@
 
 > 本文件由自动化系统每周更新，追踪最新抗衰老研究进展。
 
-**最后更新**: 2026-08-10 21:33 (Asia/Shanghai)  
+**最后更新**: 2026-08-17 08:00 (Asia/Shanghai)  
 **更新频率**: 每周  
 **数据来源**: PubMed (多关键词交叉检索) + Nature Aging
+
+---
+
+## 本周新增论文 (2026.08.10 – 2026.08.17)
+
+### 📌 重点论文
+
+#### 1. Cardiovasc Toxicol：Senolytics 逆转 PM2.5 诱导的细胞和血管功能障碍（⭐ 环境衰老新机制）
+- **标题**: Senolytics Reverse PM(2.5) - Induced Cell and Vascular Dysfunction
+- **期刊**: Cardiovascular Toxicology (2026-08-13)
+- **作者**: Gomes D 等
+- **关键发现**: 空气污染物 PM2.5 暴露（浓缩环境颗粒物 CAP）诱导了外周血单核细胞（MNCs）和内皮祖细胞（EPCs）的衰老，进而导致血管功能障碍。使用 senolytic 药物达沙替尼（Dasatinib）治疗后，成功逆转了 PM2.5 诱导的细胞衰老和血管功能损害。这一发现将环境污染物暴露与细胞衰老直接关联，为 senolytics 在环境相关血管疾病中的应用提供了新证据。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42593595/
+
+#### 2. Nat Rev Immunol：衰老细胞的免疫监视与免疫逃逸（⭐⭐ 权威综述）
+- **标题**: Immune surveillance and immune evasion of senescent cells
+- **期刊**: Nature Reviews Immunology (2026-08-11)
+- **作者**: Garcia-Baucells P, Serrano M, Amor C
+- **关键发现**: 免疫系统对衰老细胞的监视和清除是维持组织稳态的必要条件。当免疫监视效率下降时（如衰老和肿瘤发生过程中），衰老细胞会累积并产生病理后果。综述系统阐述了衰老细胞的免疫逃逸策略，包括表达"不要吃我"信号（如 CD47）来逃避巨噬细胞吞噬，以及通过免疫检查点分子抑制 T 细胞和 NK 细胞功能。这为免疫介导的 senolytic 策略提供了理论基础。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42581082/
+
+#### 3. Ageing Res Rev：超越衰老进入——个体细胞命运、群体结局与治疗意义（⭐ 概念框架）
+- **标题**: Beyond senescence entry: Individual-cell fates, population outcomes and therapeutic implications in ageing and disease
+- **期刊**: Ageing Research Reviews (2026-08-11)
+- **作者**: Wang G, Meng Y, Han J
+- **关键发现**: 提出了一个重要的"命运解析框架"（fate-resolved framework），区分了持续停滞、细胞死亡、物理脱落和恢复增殖四种衰老后细胞命运。指出个体细胞层面的命运与衰老细胞群体的行为之间的混淆长期阻碍了该领域的解释。该框架为精准设计 senolytic/senomorphic 干预策略提供了新的理论指导。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42580600/
+
+#### 4. Bone Res：骨髓 Adipoq+ 细胞由 Cbfβ 维持的年轻状态促进干细胞骨修复（⭐ 骨骼衰老）
+- **标题**: Youthfulness of marrow Adipoq+ cells maintained by Cbfβ facilitates stem cell-based bone repair
+- **期刊**: Bone Research (2026-08-10)
+- **作者**: Huang T, Wu S, Qian W 等
+- **关键发现**: 多组学分析（RNA-seq、CUT&Tag-seq、ATAC-seq）揭示 Cbfβ 通过维持 DNA 修复位点的染色质可及性，保持基因组稳定性，防止骨髓微环境细胞衰老，减轻 SASP 表型。Senolytic 疗法在骨修复中显示了治疗潜力。该研究将表观遗传调控、基因组稳定性和衰老细胞清除整合在骨再生的统一框架中。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42575886/
+
+#### 5. Geroscience：慢性硬膜下血肿通过衰老标志物框架的重新解读（⭐ 概念创新）
+- **标题**: Chronic subdural hematoma through the hallmarks of aging: a geroscience framework for the commonest neurosurgical condition of older adults
+- **期刊**: Geroscience (2026-08-10)
+- **作者**: Zammit Dimech D
+- **关键发现**: 将老年人最常见的神经外科疾病——慢性硬膜下血肿（CSDH）重新定义为 geroscience 疾病，系统性地将其发病机制映射到 López-Otín 等人提出的 12 项衰老标志物。其中两项标志物（细胞衰老和慢性炎症）在 CSDH 文献中有强有力的直接支持。引用 2024 年中等剂量地塞米松的随机试验结果，为 geroscience 框架在神经外科疾病中的应用提供了新视角。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42573875/
+
+#### 6. Int J Mol Sci：萜类化合物作为新兴 senotherapeutic——机制洞察与治疗潜力（⭐ 天然产物）
+- **标题**: Terpenoids as Emerging Senotherapeutics: Mechanistic Insights and Therapeutic Potential
+- **期刊**: International Journal of Molecular Sciences (2026-07-31)
+- **作者**: Yi S, Park JY, Lee SJ
+- **关键发现**: 系统综述了萜类化合物（terpenoids）作为新兴 senotherapeutic 的潜力。细胞衰老随年龄增长在多种组织中增加，通过抵抗凋亡、损害再生和释放 SASP 促进病理发生。萜类化合物在自然界中广泛存在，具有 senolytic 和 senomorphic 双重活性，为天然产物抗衰老药物开发提供了新方向。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42589528/
+
+#### 7. Nutrients：靶向衰老关键标志物的天然生物活性化合物——亚精胺、非瑟酮、小檗碱和尿石素 A（⭐ 功能食品）
+- **标题**: Natural Bioactive Compounds Targeting Key Hallmarks of Aging: Functional Food Potential of Spermidine, Fisetin, Berberine, and Urolithin A
+- **期刊**: Nutrients (2026-08-03)
+- **作者**: Rzeski W, Rzeska W
+- **关键发现**: 综述了四种天然生物活性化合物如何协同作用于衰老标志物：非瑟酮（草莓和苹果中的黄酮类化合物）具有 senolytic 活性；亚精胺激活自噬；小檗碱调节 AMPK/mTOR 通路；尿石素 A 促进线粒体自噬。文章强调这些化合物可能在多个衰老标志物上产生协同效应，为功能性食品抗衰老干预提供了循证框架。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42588134/
+
+#### 8. Front Aging：senolytics 在代谢疾病患者肺部健康中的应用——突破障碍（⭐ 临床转化）
+- **标题**: Breaking barriers in pulmonary health of patients with metabolic diseases: senolytics and beyond
+- **期刊**: Frontiers in Aging (2026-07-17)
+- **作者**: Rennerova M, Zaloudikova M, Haluzik M, Stemberkova Hubackova S
+- **关键发现**: 综述了 senolytics 在代谢疾病（如糖尿病、肥胖）患者肺部健康中的应用前景。代谢疾病加速肺部衰老，而 senolytics 通过清除衰老细胞可改善肺功能，为代谢疾病合并肺部衰老的患者提供了新的治疗策略。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42539827/
+
+### 其他新增论文
+
+#### 9. Int J Mol Sci：心代谢衰老的多器官串扰驱动机制与治疗策略
+- **标题**: Cardiometabolic Aging Driven by Multi-Organ Crosstalk: Mechanisms and Therapeutic Strategies
+- **期刊**: International Journal of Molecular Sciences (2026-08-01)
+- **作者**: Zhang S, Xu C, Song Y, Zhang X
+- **关键发现**: 综述强调心代谢衰老中的器官间信号并非孤立运作，而是通过循环系统协同作用，将局部器官功能障碍转化为系统性心脏衰老，核心汇聚于共享的衰老通路。将衰老重新定义为"潜在可逆的全身性状态"。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42589535/
+
+#### 10. Curr Osteoporos Rep：靶向间充质干细胞衰老的 rejuvenation 策略及其对骨骼健康的影响
+- **标题**: A Review of Rejuvenation Strategies Targeting Mesenchymal Stem Cell Senescence and Their Impact on Bone Health and Regeneration
+- **期刊**: Current Osteoporosis Reports (2026-08-12)
+- **作者**: Heinrichs DP, Samsonraj RM
+- **关键发现**: 综述了衰老和细胞衰老对间充质干细胞（MSC）功能的关键影响及其在骨骼健康中的作用。涵盖了多种成熟的 rejuvenation 策略，包括 senolytics、表观遗传重编程和代谢干预，为骨骼衰老的干细胞治疗提供了系统评估。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42581264/
+
+#### 11. Aging Dis：衰老宿主中的年轻模型——重新思考癌症免疫逃逸
+- **标题**: Old Hosts, Young Models: Rethinking Cancer Immune Evasion in Aging
+- **期刊**: Aging and Disease (2026-08-08)
+- **作者**: Karimova N 等
+- **关键发现**: 提出实际年龄（chronological age）不等于免疫年龄（immunological age）。预测癌症免疫治疗反应更准确的是免疫年龄而非实际年龄。该假说正在通过 senolytic 策略进行评估，以验证免疫 rejuvenation 是否可改善老年癌症患者的免疫治疗反应。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42579355/
+
+#### 12. Front Immunol：靶向 CD47 介导的癌症衰老——新型免疫治疗策略
+- **标题**: Targeting CD47-mediated cancer senescence, a novel strategy for cancer immunotherapy
+- **期刊**: Frontiers in Immunology (2026-07-21)
+- **作者**: Zhao B, Liao C, Wang H, Chen M, Yang J
+- **关键发现**: 综述了 CD47 阻断作为一种 senolytic 方式的治疗策略。CD47 是治疗诱导衰老（TIS）与免疫耐受之间的关键分子桥梁，CD47 阻断可以促进免疫系统清除衰老癌细胞，为癌症免疫治疗与 senolytic 的联合策略提供了新方向。
+- **链接**: https://pubmed.ncbi.nlm.nih.gov/42553329/
 
 ---
 
@@ -1081,8 +1173,13 @@
 ## 按研究方向分类
 
 ### 1. Senolytics（衰老细胞清除）
-- **GPNMB 特异性 CAR-T 细胞靶向清除衰老内皮细胞 (J Immunol Res, 2026-08)** ⬆️ 本周新增
-- **放疗后早期抑制衰老信号减轻骨损伤——D+Q senolytic 验证 (J Bone Miner Res, 2026-08)** ⬆️ 本周新增
+- **Senolytics 逆转 PM2.5 诱导的细胞和血管功能障碍 (Cardiovasc Toxicol, 2026-08)** ⬆️ 本周新增
+- **衰老细胞的免疫监视与免疫逃逸 (Nat Rev Immunol, 2026-08)** ⬆️ 本周新增
+- **超越衰老进入：细胞命运解析框架 (Ageing Res Rev, 2026-08)** ⬆️ 本周新增
+- **骨髓 Adipoq+ 细胞与 senolytic 在骨修复中的应用 (Bone Res, 2026-08)** ⬆️ 本周新增
+- **萜类化合物作为新兴 senotherapeutic (Int J Mol Sci, 2026-07)** ⬆️ 本周新增
+- GPNMB 特异性 CAR-T 细胞靶向清除衰老内皮细胞 (J Immunol Res, 2026-08)
+- 放疗后早期抑制衰老信号减轻骨损伤——D+Q senolytic 验证 (J Bone Miner Res, 2026-08)
 - **衰老疗法：心血管疾病治疗新概念 (Cardiovasc Res, 2026-05)** ⬆️
 - **衰老及相关疾病治疗策略全面综述 (STTT, 2026-06)** ⬆️
 - 衰老心脏再生治疗中的衰老细胞靶点 (2026-05)
@@ -1164,7 +1261,8 @@
 - 表观遗传时钟纵向变化预测 InCHIANTI 队列生存率 (2026-03)
 
 ### 9. 心血管衰老与环境因素
-- **衰老心脏细胞促进血栓形成并损害纤溶 (Geroscience, 2026-08)** ⬆️ 本周新增
+- **Senolytics 逆转 PM2.5 诱导的血管功能障碍 (Cardiovasc Toxicol, 2026-08)** ⬆️ 本周新增
+- **衰老心脏细胞促进血栓形成并损害纤溶 (Geroscience, 2026-08)**
 - **微塑料 BPF 经肠-心轴加速心血管衰老 (Circulation, IF≈37.8, 2026-05)** ⬆️
 - 血管衰老：健康寿命的核心决定因素 (Circulation, 2026-05)
 - 晚期补充 25-羟胆固醇减少主动脉僵硬和细胞衰老 (Aging Cell, 2026-05)
@@ -1182,8 +1280,10 @@
 - **亚精胺减轻免疫细胞衰老并增强疫苗应答 (Aging Cell, 2026-06) RCT**
 
 ### 12. 中医药与天然产物抗衰老（新增分类）
-- **中医药在肾脏衰老中的 senolytic 与 senomorphic 策略 (Semin Nephrol, 2026-08)** ⬆️ 本周新增
-- **SIRT1 在脑衰老中的天然调节剂治疗潜力 (Biogerontology, 2026-08)** ⬆️ 本周新增
+- **萜类化合物作为新兴 senotherapeutic (Int J Mol Sci, 2026-07)** ⬆️ 本周新增
+- **亚精胺、非瑟酮、小檗碱和尿石素 A 协同靶向衰老标志物 (Nutrients, 2026-08)** ⬆️ 本周新增
+- 中医药在肾脏衰老中的 senolytic 与 senomorphic 策略 (Semin Nephrol, 2026-08)
+- SIRT1 在脑衰老中的天然调节剂治疗潜力 (Biogerontology, 2026-08)
 
 ---
 
@@ -1199,6 +1299,7 @@
 
 | 日期 | 更新内容 | 新增论文数 |
 |------|----------|------------|
+| 2026-08-17 | 第 10 次更新：Nat Rev Immunol 衰老细胞免疫监视与逃逸综述、Cardiovasc Toxicol PM2.5 senolytic 逆转血管衰老、Ageing Res Rev 细胞命运解析框架、Bone Res 骨髓 Cbfβ 干细胞骨修复、萜类化合物 senotherapeutic 综述、天然产物四联协同靶向衰老标志物 | 12 |
 | 2026-08-10 | 第 9 次更新：Geroscience LNAD+ 口服 RCT、Nature Aging 化疗 SASP 促转移机制、Neuron Tau 线粒体逆向电子转运、CPT 系统药理学联合疗法、GPNMB CAR-T senolytic 新策略、二甲双胍抑制 cGAS-STAT1 新机制 | 15 |
 | 2026-07-13 | 第 8 次更新：Nat Med Wyss-Coray & Topol 生物学时钟综述、J Med Chem 新型环己烯基 senolytic、Ageing Res Rev 细胞粘性特性衰老生物标志物、Autophagy NAD+-SIRT1-REST 轴改善 AD、Geroscience Kirkland 团队皮肤衰老 senolytic 策略 | 8 |
 | 2026-06-22 | 第 7 次更新：REPROGRAM 试验方案（二甲双胍/非瑟酮/亚精胺 RCT）、JAMA 二甲双胍与多发病研究、Cell Metabolism 肝肠通讯、NPJ Aging 免疫衰老综述、靶向衰老细胞促进烧伤伤口愈合，新增分类「免疫衰老」 | 10 |
