@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快讯
 
+- [2026-08-19](2026-08-19/) — Aging Cell lncRNA AK050834双靶向ATF3/p21预防血管衰老、Aging Cell GLP-1-线粒体轴代谢衰老新靶点、Nat Commun 微生物源Corisin驱动蛋白稳态崩溃与肺纤维化、J Nat Med 黄芪异黄酮延缓肝脏衰老
 - [2026-08-18](2026-08-18/) — eLife 胶质细胞表面蛋白组学发现长寿因子DIP-β、PNAS CXCR4靶向纳米颗粒诱导衰老疗法治疗肝纤维化、Cell Reports 热量限制通过CD8⁺ T细胞抑制老年小鼠肿瘤、GeroScience lncRNA失调驱动早衰症动脉病变
 - [2026-08-16](2026-08-16/) — Free Radical Biol Med ALDH2/SIRT1缓解糖尿病心肌衰老、Clin Chim Acta 多组学鉴定肾纤维化衰老诊断基因、Free Radical Biol Med Prdx1基因治疗辐射骨衰老、Environ Pollut SIRT1保护微塑料致视网膜衰老、FEBS Lett 皮肤微生物组与衰老综述
 - [2026-08-15](2026-08-15/) — Cell Reports 脉络丛TTN⁺巨噬细胞衰老与AD、Andrology 睾酮RCT对端粒长度无显著影响、FEBS J 裸鼹鼠溶酶体应激可逆空泡化、J Infect Dis 衰弱框架理解结核病后遗症、Cell Biochem Biophys 长期培养致衰老重编程
