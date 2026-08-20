@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-19 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-20 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug 4 ⚠️ | Measuring the Effects of Pharmacological Compounds on Mitochondrial Morphology in Mouse Aging Models. | Journal of visualized experiments : JoVE | [42612026](https://pubmed.ncbi.nlm.nih.gov/42612026/) | Measuring the Effects of Pharmacological Compounds on Mitoch... |
-| 2026 Aug 7 ⚠️ | Detection of Mitochondria-Associated Endoplasmic Reticulum Membrane Tightness Using Inducible FRET Biosensors. | Journal of visualized experiments : JoVE | [42611963](https://pubmed.ncbi.nlm.nih.gov/42611963/) | Detection of Mitochondria-Associated Endoplasmic Reticulum M... |
-| 2026 Aug 18 ⚠️ | Isomucronulatol attenuates liver aging by inhibiting GSK-3β acetylation and promoting β-catenin accumulation. | Journal of natural medicines | [42611424](https://pubmed.ncbi.nlm.nih.gov/42611424/) | Isomucronulatol attenuates liver aging by inhibiting GSK-3β ... |
-| 2026 Aug 18 ⚠️ | Fully Inorganic Hole Contacts Enabled by CeI3 for High-Performance Perovskite Solar Modules. | ACS nano | [42611247](https://pubmed.ncbi.nlm.nih.gov/42611247/) | Fully Inorganic Hole Contacts Enabled by CeI3 for High-Perfo... |
-| 2026 Aug 18 ⚠️ | The Neuroimmune Duality of CD4⁺ T Cells: Drivers of Damage and Repair in the Brain. | Molecular neurobiology | [42611157](https://pubmed.ncbi.nlm.nih.gov/42611157/) | The Neuroimmune Duality of CD4⁺ T Cells: Drivers of Damage a... |
+| 2026 Aug 19 ⚠️ | Effects of low-dose γ-radiation on skeletal muscle stem cells. | International journal of radiation biology | [42617041](https://pubmed.ncbi.nlm.nih.gov/42617041/) | Effects of low-dose γ-radiation on skeletal muscle stem cell... |
+| 2026 Aug 19 ⚠️ | Urea transporter B-mediated urea uptake-induced protein carbamylation in platelets underlies bleeding in chronic kidney disease. | Science translational medicine | [42616841](https://pubmed.ncbi.nlm.nih.gov/42616841/) | Urea transporter B-mediated urea uptake-induced protein carb... |
+| 2026 Aug 25 ⚠️ | High-resolution mapping of osteoblast metabolism and bone matrix turnover in vivo. | Proceedings of the National Academy of Sciences of the United States of America | [42616780](https://pubmed.ncbi.nlm.nih.gov/42616780/) | High-resolution mapping of osteoblast metabolism and bone ma... |
+| 2026 Aug 19 ⚠️ | NIR-II Ratiometric Imaging of SOD Activity with a Superoxide-Responsive Nanoprobe. | Nano letters | [42616391](https://pubmed.ncbi.nlm.nih.gov/42616391/) | NIR-II Ratiometric Imaging of SOD Activity with a Superoxide... |
+| 2026 Aug 3 ⚠️ | In Vivo Human Cone Photoreceptor Inner Segment Diameter Database Using Adaptive Optics Retinal Imaging. | Investigative ophthalmology & visual science | [42615800](https://pubmed.ncbi.nlm.nih.gov/42615800/) | In Vivo Human Cone Photoreceptor Inner Segment Diameter Data... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-19 | 自动生成*
+*最后更新：2026-08-20 | 自动生成*
