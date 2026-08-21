@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-20 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-21 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug 19 ⚠️ | Effects of low-dose γ-radiation on skeletal muscle stem cells. | International journal of radiation biology | [42617041](https://pubmed.ncbi.nlm.nih.gov/42617041/) | Effects of low-dose γ-radiation on skeletal muscle stem cell... |
-| 2026 Aug 19 ⚠️ | Urea transporter B-mediated urea uptake-induced protein carbamylation in platelets underlies bleeding in chronic kidney disease. | Science translational medicine | [42616841](https://pubmed.ncbi.nlm.nih.gov/42616841/) | Urea transporter B-mediated urea uptake-induced protein carb... |
-| 2026 Aug 25 ⚠️ | High-resolution mapping of osteoblast metabolism and bone matrix turnover in vivo. | Proceedings of the National Academy of Sciences of the United States of America | [42616780](https://pubmed.ncbi.nlm.nih.gov/42616780/) | High-resolution mapping of osteoblast metabolism and bone ma... |
-| 2026 Aug 19 ⚠️ | NIR-II Ratiometric Imaging of SOD Activity with a Superoxide-Responsive Nanoprobe. | Nano letters | [42616391](https://pubmed.ncbi.nlm.nih.gov/42616391/) | NIR-II Ratiometric Imaging of SOD Activity with a Superoxide... |
-| 2026 Aug 3 ⚠️ | In Vivo Human Cone Photoreceptor Inner Segment Diameter Database Using Adaptive Optics Retinal Imaging. | Investigative ophthalmology & visual science | [42615800](https://pubmed.ncbi.nlm.nih.gov/42615800/) | In Vivo Human Cone Photoreceptor Inner Segment Diameter Data... |
+| 2026 Aug 20 ⚠️ | An Adiponectin Receptor Agonist Dispersed via Nonencapsulative Exosomes Alleviates Aging-Associated Cardiac Dysfunction. | ACS applied materials & interfaces | [42623148](https://pubmed.ncbi.nlm.nih.gov/42623148/) | An Adiponectin Receptor Agonist Dispersed via Nonencapsulati... |
+| 2026 Aug ⚠️ | Semi-Automated Analysis of Lymph Node Immune and Fibroblast Architecture From Immunofluorescent Images. | Current protocols | [42623020](https://pubmed.ncbi.nlm.nih.gov/42623020/) | Semi-Automated Analysis of Lymph Node Immune and Fibroblast ... |
+| 2026 Aug 20 ⚠️ | YTHDF3-Dependent m(6)A Modification of cGAS Drives Nanoparticle-Induced Senescence in Spermatocytes. | Andrology | [42622143](https://pubmed.ncbi.nlm.nih.gov/42622143/) | YTHDF3-Dependent m(6)A Modification of cGAS Drives Nanoparti... |
+| 2026 Aug 20 ⚠️ | Venetoclax combined with high-dose cytarabine and mitoxantrone for relapsed or refractory acute myeloid leukemia: outcomes and risk stratification. | Haematologica | [42622110](https://pubmed.ncbi.nlm.nih.gov/42622110/) | Venetoclax combined with high-dose cytarabine and mitoxantro... |
+| 2026 ⚠️ | Post-COVID varicella-zoster virus reactivation: lowering the immunological threshold for latency breakdown. | Frontiers in cellular and infection microbiology | [42621909](https://pubmed.ncbi.nlm.nih.gov/42621909/) | Post-COVID varicella-zoster virus reactivation: lowering the... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug 18 ⚠️ | The Effects of Phosphorylation on the Structure and Function of Motif A, an Intrinsically Disordered Region within SIRT1. | Biochemistry | [42610734](https://pubmed.ncbi.nlm.nih.gov/42610734/) | The Effects of Phosphorylation on the Structure and Function... |
-| 2026 Aug 17 ⚠️ | NAD⁺ Circuits in Aging, Tissue Repair and Fibrosis. | Ageing research reviews | [42607935](https://pubmed.ncbi.nlm.nih.gov/42607935/) | NAD⁺ Circuits in Aging, Tissue Repair and Fibrosis. |
-| 2026 Aug 17 ⚠️ | Mitochondrial Dysfunction as a Central Hub of Aging: From Molecular Cascades to Inter-Organ Communication Networks. | Gerontology | [42607021](https://pubmed.ncbi.nlm.nih.gov/42607021/) | Mitochondrial Dysfunction as a Central Hub of Aging: From Mo... |
-| 2026 Aug 17 ⚠️ | Effects of moderate-intensity continuous training on cardiac mitochondrial bioenergetics, oxidative balance, and mitochondrial dynamic in juvenile overnourished rats. | Molecular and cellular biochemistry | [42606685](https://pubmed.ncbi.nlm.nih.gov/42606685/) | Effects of moderate-intensity continuous training on cardiac... |
-| 2026 Oct ⚠️ | Nicotinamide Adenine Dinucleotide Augmentation in Diabetic Kidney Disease: Randomized Trial Study Protocol. | Kidney international reports | [42603990](https://pubmed.ncbi.nlm.nih.gov/42603990/) | Nicotinamide Adenine Dinucleotide Augmentation in Diabetic K... |
+| 2026 Aug 13 ⚠️ | Irreversible NADH Cleavage by a Mitochondria-Targeted Metal-Free Photoredox Sensitizer with Activity in Cancer Cells. | ACS medicinal chemistry letters | [42621457](https://pubmed.ncbi.nlm.nih.gov/42621457/) | Irreversible NADH Cleavage by a Mitochondria-Targeted Metal-... |
+| 2026 Aug 7 ⚠️ | NAMPT activation uncovers a senescence-specific vulnerability and promotes healthy aging in combination with NAM. | bioRxiv : the preprint server for biology | [42620342](https://pubmed.ncbi.nlm.nih.gov/42620342/) | NAMPT activation uncovers a senescence-specific vulnerabilit... |
+| 2026 Jul 28 ⚠️ | Nocturnin drives mitochondrial NADP(H)/NAD(H) rhythms to regulate steroid rhythm amplitude and time metabolism. | bioRxiv : the preprint server for biology | [42619672](https://pubmed.ncbi.nlm.nih.gov/42619672/) | Nocturnin drives mitochondrial NADP(H)/NAD(H) rhythms to reg... |
+| 2026 Aug 19 ⚠️ | Tryptophan Metabolism Regulates Immunosenescence and Inflammaging: The Macrophage Immunometabolic Axis and Therapeutic Targets. | Ageing research reviews | [42617980](https://pubmed.ncbi.nlm.nih.gov/42617980/) | Tryptophan Metabolism Regulates Immunosenescence and Inflamm... |
+| 2026 Aug 15 ⚠️ | Cross-ancestry TWAS suggests conserved ageing-immune signatures and a putative NAD/Sirtuin axis in schizophrenia. | Asian journal of psychiatry | [42617334](https://pubmed.ncbi.nlm.nih.gov/42617334/) | Cross-ancestry TWAS suggests conserved ageing-immune signatu... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-20 | 自动生成*
+*最后更新：2026-08-21 | 自动生成*
