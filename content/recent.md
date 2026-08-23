@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-22 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-23 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug 10 ⚠️ | Mitochondrial dysfunction, metabolic quiescence and premature senescence in CMT4B3 fibroblasts. | Human molecular genetics | [42627996](https://pubmed.ncbi.nlm.nih.gov/42627996/) | Mitochondrial dysfunction, metabolic quiescence and prematur... |
-| 2026 Aug 21 ⚠️ | Geneformer-guided multiomics integration identifies Pbx1 as a network hub of hematopoietic stem cell aging. | Science advances | [42627902](https://pubmed.ncbi.nlm.nih.gov/42627902/) | Geneformer-guided multiomics integration identifies Pbx1 as ... |
-| 2026 Aug 21 ⚠️ | Caveolin 1 is a conserved host factor mediating Bacillus cereus hemolysin BL toxin cytolytic toxicity. | PLoS biology | [42627856](https://pubmed.ncbi.nlm.nih.gov/42627856/) | Caveolin 1 is a conserved host factor mediating Bacillus cer... |
-| 2026 Aug 21 ⚠️ | Hippo signaling regulates cuticle pigmentation and dopamine metabolism in Drosophila. | PLoS genetics | [42627852](https://pubmed.ncbi.nlm.nih.gov/42627852/) | Hippo signaling regulates cuticle pigmentation and dopamine ... |
-| 2026 ⚠️ | Integrated liver transcriptomic data reveal differences in aging-associated regulation between metabolic dysfunction-associated steatotic liver disease and normal liver aging. | PloS one | [42627788](https://pubmed.ncbi.nlm.nih.gov/42627788/) | Integrated liver transcriptomic data reveal differences in a... |
+| 2026 ⚠️ | The auditory nerve glial transition zone is a focal site of age-related immune-myelin interactions. | Frontiers in immunology | [42630213](https://pubmed.ncbi.nlm.nih.gov/42630213/) | The auditory nerve glial transition zone is a focal site of ... |
+| 2026 Aug ⚠️ | Dissecting Alzheimer's proteomic landscape through NULISA profiling of brain cell-specific extracellular vesicles. | Alzheimer's & dementia : the journal of the Alzheimer's Association | [42630134](https://pubmed.ncbi.nlm.nih.gov/42630134/) | Dissecting Alzheimer's proteomic landscape through NULISA pr... |
+| 2026 Aug 22 ⚠️ | Cell cycle regulators contribute to extravillous trophoblast cell differentiation and function. | Human reproduction (Oxford, England) | [42630068](https://pubmed.ncbi.nlm.nih.gov/42630068/) | Cell cycle regulators contribute to extravillous trophoblast... |
+| 2026 Sep ⚠️ | Piezo1 Activation Rescues Anabolic Response to Mechanical Loading in Aged Bone via Connexin 43 Hemichannels. | Aging cell | [42630044](https://pubmed.ncbi.nlm.nih.gov/42630044/) | Piezo1 Activation Rescues Anabolic Response to Mechanical Lo... |
+| 2026 Aug 21 ⚠️ | Dysregulated adult hippocampal neurogenesis in major depressive disorders. | Nature medicine | [42629468](https://pubmed.ncbi.nlm.nih.gov/42629468/) | Dysregulated adult hippocampal neurogenesis in major depress... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Aug 20 ⚠️ | Targeting SIRT6: the design and therapeutic implications of activators and inhibitors. | Bioorganic & medicinal chemistry | [42628273](https://pubmed.ncbi.nlm.nih.gov/42628273/) | Targeting SIRT6: the design and therapeutic implications of ... |
+| 2026 Aug 17 ⚠️ | Dynamics of blood NAD and glutathione in health, disease, aging, and under NAD(+)-booster treatment. | Redox biology | [42628241](https://pubmed.ncbi.nlm.nih.gov/42628241/) | Dynamics of blood NAD and glutathione in health, disease, ag... |
 | 2026 Aug 21 ⚠️ | Investigation of antioxidants and intrinsic factors as the cause of discoloration in vacuum-packaged beef. | Food science of animal resources | [42627430](https://pubmed.ncbi.nlm.nih.gov/42627430/) | Investigation of antioxidants and intrinsic factors as the c... |
 | 2026 Aug ⚠️ | A combined artificial intelligence-wet lab approach identifies a pivotal role of the NAD(+)-mitophagy axis on aging and neurodegeneration. | Alzheimer's & dementia : the journal of the Alzheimer's Association | [42626968](https://pubmed.ncbi.nlm.nih.gov/42626968/) | A combined artificial intelligence-wet lab approach identifi... |
 | 2026 ⚠️ | SIRT6 activation relieves neuropathic pain by restoring Nrf2 signaling and inhibiting NLRP3 inflammasome. | Frontiers in physiology | [42625583](https://pubmed.ncbi.nlm.nih.gov/42625583/) | SIRT6 activation relieves neuropathic pain by restoring Nrf2... |
-| 2026 ⚠️ | Integrated SDH, COX histochemistry, and MHC fibre typing in skeletal muscles: Methods and interpretation. | Methods in enzymology | [42624559](https://pubmed.ncbi.nlm.nih.gov/42624559/) | Integrated SDH, COX histochemistry, and MHC fibre typing in ... |
-| 2026 ⚠️ | Sirtuins in mitochondrial physiology and energy homeostasis. | Methods in enzymology | [42624555](https://pubmed.ncbi.nlm.nih.gov/42624555/) | Sirtuins in mitochondrial physiology and energy homeostasis. |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-22 | 自动生成*
+*最后更新：2026-08-23 | 自动生成*
