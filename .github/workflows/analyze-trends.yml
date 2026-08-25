@@ -29,6 +29,8 @@ jobs:
       
       - name: Run trend analysis
         id: analysis
+        env:
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
         run: |
           python scripts/analyze-trends.py
           echo "analysis_completed=true" >> $GITHUB_OUTPUT
@@ -36,14 +38,14 @@ jobs:
       - name: Check for changes
         id: git-check
         run: |
-          git diff --quiet content/recent.md || echo "has_changes=true" >> $GITHUB_OUTPUT
+          git diff --quiet content/trend-report.md || echo "has_changes=true" >> $GITHUB_OUTPUT
       
       - name: Commit and push changes
         if: steps.git-check.outputs.has_changes == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add content/recent.md data/trend_analysis.json
+          git add content/trend-report.md data/trend_analysis.json
           git pull --rebase origin main
           git commit -m "docs: 自动生成月度趋势简报 $(date +%Y-%m-%d)"
           git push
