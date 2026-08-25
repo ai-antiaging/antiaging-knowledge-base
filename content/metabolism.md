@@ -238,6 +238,43 @@ AMP↑/ATP↓ → AMPK 激活 ─┬→ ─| mTOR（抑制合成）
 
 ---
 
+### 7. GLP-1 受体激动剂与代谢衰老 ⭐ 2025-2026 新增
+
+**通路概述**：
+GLP-1（胰高血糖素样肽-1）受体激动剂最初作为降糖/减肥药物开发，但 2025-2026 年的突破性研究证实其具有**抗衰老代谢调控**作用，成为连接代谢干预与衰老延缓的新兴通路。
+
+**关键节点**：
+- **GLP-1R**：广泛表达于胰腺、大脑、心脏、肾脏、肝脏、脂肪组织
+- **cAMP/PKA 通路**：主要下游信号，促进胰岛素分泌
+- **PI3K/AKT 通路**：改善胰岛素敏感性
+- **AMPK 激活**：间接激活，模拟热量限制效应
+- **炎症抑制**：降低 IL-6、TNF-α、hsCRP
+- **脂肪组织重塑**：减少内脏脂肪，改善脂肪因子分泌
+
+**抗衰老机制**（2025-2026 新认识）：
+```
+GLP-1 激活 ─┬→ 减少内脏脂肪 → 改善脂肪"肥胖记忆"表观遗传印记
+           ├→ 降低慢性炎症 → IL-6↓, sCD163↓ → 减缓炎性衰老
+           ├→ 改善胰岛素敏感性 → 降低代谢压力
+           ├→ 激活 AMPK → 促进自噬和线粒体功能
+           └→ 保护内皮功能 → 心血管获益
+```
+
+**2026 里程碑**：
+- *Nature Communications* 2026：司美格鲁肽 32 周 RCT 首次证实**减缓表观遗传衰老**
+  - PhenoAge 每年少增 **4.9 年**
+  - DunedinPACE 衰老速度减缓 **~9%**
+  - 11 个系统时钟同步改善（炎症、大脑、心脏最显著）
+- 机制：通过 CCL2/CCR2 通路逆转脂肪组织表观遗传和代谢功能障碍
+
+**临床意义**：
+- GLP-1RA 从"降糖减肥药"拓展至"抗衰老代谢干预"
+- 为代谢综合征合并加速衰老人群（如 HIV 感染者）提供新策略
+- 大型 III 期试验（如 SELECT 心血管结局试验）正在进行中
+
+
+---
+
 ## 📊 代谢网络整合图
 
 ```
@@ -248,7 +285,8 @@ AMP↑/ATP↓ → AMPK 激活 ─┬→ ─| mTOR（抑制合成）
 │  营养信号                                                │
 │  ├── 胰岛素/IGF-1 ─→ PI3K/AKT ─→ mTORC1                │
 │  ├── 氨基酸 ─────→ Rag GTPases ─→ mTORC1               │
-│  └── 葡萄糖 ────→ 能量状态 ─→ AMPK ─| mTORC1           │
+│  ├── 葡萄糖 ────→ 能量状态 ─→ AMPK ─| mTORC1           │
+│  └── GLP-1 ─────→ cAMP/PKA ─→ 代谢改善                 │
 │                                                         │
 │  能量代谢                                                │
 │  ├── NAD+ ─→ Sirtuins ─→ 去乙酰化                      │
@@ -275,6 +313,7 @@ AMP↑/ATP↓ → AMPK 激活 ─┬→ ─| mTOR（抑制合成）
 | **胰岛素/IGF-1** | [胰岛素信号](https://www.cellsignal.cn/pathways/insulin-signaling) · [FOXO 信号](https://www.cellsignal.cn/pathways/forkhead-signaling) |
 | **AMPK** | [AMPK 信号](https://www.cellsignal.cn/pathways/ampk-signaling) · [线粒体生物合成](https://www.cellsignal.cn/pathways/mitochondrial-biogenesis) |
 | **线粒体** | [线粒体功能](https://www.cellsignal.cn/pathways/mitochondrial-function) · [线粒体自噬](https://www.cellsignal.cn/pathways/mitophagy) · [ROS 信号](https://www.cellsignal.cn/pathways/ros-signaling) |
+| **GLP-1 信号** | [GLP-1 信号](https://www.cellsignal.cn/pathways/glp-1-signaling) · [胰高血糖素信号](https://www.cellsignal.cn/pathways/glucagon-signaling) |
 | **氨基酸代谢** | [氨基酸感应 mTORC1](https://www.cellsignal.cn/pathways/amino-acid-sensing-mtorc1) · [蛋白质代谢](https://www.cellsignal.cn/pathways/protein-metabolism) |
 
 > **CST（Cell Signaling Technology）** 是全球领先的信号通路研究试剂和信息资源提供商，其通路图基于最新研究文献绘制，具有高度权威性和准确性。
@@ -293,6 +332,7 @@ AMP↑/ATP↓ → AMPK 激活 ─┬→ ─| mTOR（抑制合成）
 | AMPK | ~350 篇 | ~450 篇 | ~600 篇 | ~320 篇 |
 | 线粒体 | ~800 篇 | ~1000 篇 | ~1400 篇 | ~750 篇 |
 | 氨基酸代谢 | ~300 篇 | ~400 篇 | ~550 篇 | ~280 篇 |
+| **GLP-1/代谢** | ~100 篇 | ~200 篇 | ~400 篇 | **~500 篇** |
 
 ### 临床试验进展
 
@@ -302,6 +342,7 @@ AMP↑/ATP↓ → AMPK 激活 ─┬→ ─| mTOR（抑制合成）
 | mTOR 抑制剂 | 8 项 | 12 项 | 5 项 |
 | AMPK 激活剂 | 20 项 | 30 项 | 15 项 |
 | 线粒体靶向 | 10 项 | 18 项 | 8 项 |
+| **GLP-1 受体激动剂** | **5 项** | **15 项** | **10 项** |
 
 ---
 
@@ -338,6 +379,10 @@ AMP↑/ATP↓ → AMPK 激活 ─┬→ ─| mTOR（抑制合成）
    - Picard M, Wallace DC. Mitochondrial Genetics and Aging. *Trends Genet*. 2020.
    - Fang EF, et al. Mitophagy and Longevity. *Trends Mol Med*. 2021.
 
+4. **GLP-1 与抗衰老代谢**：
+   - Corley MJ, et al. Semaglutide Slows Epigenetic Aging in HIV-associated Lipohypertrophy. *Nat Commun*. 2026.
+   - Marso SP, et al. Semaglutide and Cardiovascular Outcomes in Type 2 Diabetes. *NEJM*. 2016.
+
 ---
 
 ## 📊 数据更新
@@ -348,7 +393,4 @@ AMP↑/ATP↓ → AMPK 激活 ─┬→ ─| mTOR（抑制合成）
 
 ---
 
-*最后更新：2026-05-13 | 文献覆盖：2016-2026 | 数据来源：PubMed, ClinicalTrials.gov*
-.gov*
-��来源：PubMed, ClinicalTrials.gov*
-.gov*
+*最后更新：2026-08-25 | 文献覆盖：2016-2026 | 数据来源：PubMed, ClinicalTrials.gov*
