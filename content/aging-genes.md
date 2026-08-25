@@ -192,7 +192,7 @@ draft: false
 <div style="font-size: 64px; margin-bottom: 20px;">🕸️</div>
 <p style="font-size: 18px; font-weight: 500;">基因 - 衰老标志物关联网络</p>
 <p style="font-size: 14px; margin-top: 10px;">（实际部署时应集成 D3.js 或 Cytoscape.js 渲染交互式网络图）</p>
-<p style="font-size: 12px; margin-top: 20px; color: #a0aec0;">查询基因后，将显示该基因与衰老十二大标志物的关联关系</p>
+<p style="font-size: 12px; margin-top: 20px; color: #a0aec0;">查询基因后，将显示该基因与衰老十四大标志物的关联关系</p>
 </div>
 </div>
 
@@ -252,7 +252,7 @@ draft: false
 
 #### 步骤 3：查看关联网络
 
-- 查看基因与衰老十二大标志物的关联
+- 查看基因与衰老十四大标志物的关联
 - 了解基因在衰老过程中的作用机制
 - 探索潜在的治疗靶点
 
