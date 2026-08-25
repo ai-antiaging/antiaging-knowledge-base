@@ -153,7 +153,7 @@ def verify_pubmed_link(pmid: str) -> bool:
             timeout=5,
             allow_redirects=True
         )
-        return response.status_code == 200
+        return response.status_code in (200, 203)
     except:
         return False
 

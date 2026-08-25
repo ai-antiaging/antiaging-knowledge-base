@@ -26,7 +26,7 @@ def verify_pubmed_link(pmid):
         response = requests.head(url, timeout=5, allow_redirects=True)
         return {
             "pmid": pmid,
-            "valid": response.status_code == 200,
+            "valid": response.status_code in (200, 203),
             "status_code": response.status_code,
             "url": url
         }
