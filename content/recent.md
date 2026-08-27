@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-26 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-27 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug 3 | Nanoliposomal curcumin protects against D-galactose-induced hepatic aging by targeting oxidative stress, mitochondrial dysfunction, and inflammatory signaling. | The Journal of pharmacy and pharmacology | [42641061](https://pubmed.ncbi.nlm.nih.gov/42641061/) | Nanoliposomal curcumin protects against D-galactose-induced ... |
-| 2026 Aug 18 | Serum-induced recovery of proliferative capacity and differentiation potential in aged dental pulp stem cells. | Stem cells translational medicine | [42641051](https://pubmed.ncbi.nlm.nih.gov/42641051/) | Serum-induced recovery of proliferative capacity and differe... |
-| 2026 Aug 25 | Age-Related Hearing Loss Begins with Gain, Not Silence: Physiological Compensation in Dorsal Cochlear Nucleus Fusiform Cells During Auditory Aging. | Journal of neurophysiology | [42640896](https://pubmed.ncbi.nlm.nih.gov/42640896/) | Age-Related Hearing Loss Begins with Gain, Not Silence: Phys... |
-| 2026 Aug 25 | Cell-Free Regenerative Therapies for Wound Healing and Skin Repair: The Emerging Role of Adipose-Derived Stem Cell Extracellular Vesicles. | Advances in wound care | [42640785](https://pubmed.ncbi.nlm.nih.gov/42640785/) | Cell-Free Regenerative Therapies for Wound Healing and Skin ... |
-| 2026 Aug 25 | Heat-shock pathway activation by TRC051384 protects spiral ganglion neurons from noise-induced hearing loss. | JCI insight | [42640720](https://pubmed.ncbi.nlm.nih.gov/42640720/) | Heat-shock pathway activation by TRC051384 protects spiral g... |
+| 2026 Aug 27 | Spontaneous hepatocellular carcinoma in laboratory-reared degus (Octodon degus): histopathological and immunohistochemical characterization. | Experimental animals | [42649023](https://pubmed.ncbi.nlm.nih.gov/42649023/) | Spontaneous hepatocellular carcinoma in laboratory-reared de... |
+| 2026 Aug 11 | Psoriasis-like skin inflammation drives an elongated mitochondrial network marked by functional failure in keratinocytes. | Journal of dermatological science | [42648943](https://pubmed.ncbi.nlm.nih.gov/42648943/) | Psoriasis-like skin inflammation drives an elongated mitocho... |
+| 2026 Oct 22 | Semiconducting polymer-based ratiometric fluorescent nanoprobe for highly accurate imaging of H(2)S in inflammatory and tumor cells. | Analytica chimica acta | [42648821](https://pubmed.ncbi.nlm.nih.gov/42648821/) | Semiconducting polymer-based ratiometric fluorescent nanopro... |
+| 2026 Oct | Astrocyte-Predominant Tau Pathology in a Patient With VCP R191Q Variant. | Neuropathology : official journal of the Japanese Society of Neuropathology | [42648719](https://pubmed.ncbi.nlm.nih.gov/42648719/) | Astrocyte-Predominant Tau Pathology in a Patient With VCP R1... |
+| 2026 Aug 26 | From molecular decline to regeneration failure: seed aging in European beech (Fagus sylvatica) challenges the conservation of forest reproductive material. | Tree physiology | [42648718](https://pubmed.ncbi.nlm.nih.gov/42648718/) | From molecular decline to regeneration failure: seed aging i... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug 3 | Nicotinamide Mononucleotide Attenuates Inflammatory Activation, Choroidal Neovascularization, and Lesion-Associated Remodeling. | Investigative ophthalmology & visual science | [42640154](https://pubmed.ncbi.nlm.nih.gov/42640154/) | Nicotinamide Mononucleotide Attenuates Inflammatory Activati... |
-| 2026 Aug 25 | Theranostic Potential of an NAD(P)H-Activatable Fluorophore: Assessing Cancer Aggressiveness and Triggering Apoptosis. | Angewandte Chemie (International ed. in English) | [42639950](https://pubmed.ncbi.nlm.nih.gov/42639950/) | Theranostic Potential of an NAD(P)H-Activatable Fluorophore:... |
-| 2026 Aug 25 | Polyethylene Nanoplastic Exposure Causes Miscarriage by Impairing Trophoblast NAD(+) Metabolism via Mitochondrial Dysfunction. | Small (Weinheim an der Bergstrasse, Germany) | [42639858](https://pubmed.ncbi.nlm.nih.gov/42639858/) | Polyethylene Nanoplastic Exposure Causes Miscarriage by Impa... |
-| 2026 Aug 24 | SIRT1 Activator Resveratrol Attenuates Age-Related Skin Thinning in Mice. | The Journal of dermatology | [42638272](https://pubmed.ncbi.nlm.nih.gov/42638272/) | SIRT1 Activator Resveratrol Attenuates Age-Related Skin Thin... |
-| 2026 Aug | Nicotinamide Mononucleotide (NMN) Prevents Age-Associated Transcriptional Drift in a Tissue-Dependent Manner: Mechanistic Leads From Ras-Related Protein Rab-11A-Mediated Trafficking and Carnitine Palmitoyltransferase 2-Linked Fatty Acid Oxidation. | Cureus | [42634749](https://pubmed.ncbi.nlm.nih.gov/42634749/) | Nicotinamide Mononucleotide (NMN) Prevents Age-Associated Tr... |
+| 2026 Aug 22 | AIE-pharmacology-enabled organelle therapeutics for microplastic-induced asthenozoospermia. | Biomaterials | [42648265](https://pubmed.ncbi.nlm.nih.gov/42648265/) | AIE-pharmacology-enabled organelle therapeutics for micropla... |
+| 2026 Aug 21 | Nicotinamide Mononucleotide Adenylyltransferase 1 and NAD(+) Homeostasis in Neuroprotection and Aging. | Metabolites | [42646333](https://pubmed.ncbi.nlm.nih.gov/42646333/) | Nicotinamide Mononucleotide Adenylyltransferase 1 and NAD(+)... |
+| 2026 Jul 29 | Visceral Obesity and Its Complications: The Role of Bioelectrical Impedance Analysis in Longevity Medicine. | Metabolites | [42646271](https://pubmed.ncbi.nlm.nih.gov/42646271/) | Visceral Obesity and Its Complications: The Role of Bioelect... |
+| 2026 Aug 26 | The Reductive Stress Nexus: Integrated Pathways of Metabolic Dysregulation, Senescence and Blood-Brain Barrier Failure in Neurodegenerative Disease and Brain Aging. | Cell biochemistry and biophysics | [42645669](https://pubmed.ncbi.nlm.nih.gov/42645669/) | The Reductive Stress Nexus: Integrated Pathways of Metabolic... |
+| 2026 Aug 31 | Mitochondrial DNA A3243G variant-associated MELAS: Recent advances in clinical trials, therapeutic interventions, and disease-modifying strategies. | Intractable & rare diseases research | [42644018](https://pubmed.ncbi.nlm.nih.gov/42644018/) | Mitochondrial DNA A3243G variant-associated MELAS: Recent ad... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-26 | 自动生成*
+*最后更新：2026-08-27 | 自动生成*
