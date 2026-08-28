@@ -30,7 +30,7 @@ jobs:
       - name: Run trend analysis
         id: analysis
         env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DS_API_KEY: ${{ secrets.DS_API_KEY }}
         run: |
           python scripts/analyze-trends.py
           echo "analysis_completed=true" >> $GITHUB_OUTPUT

@@ -18,7 +18,7 @@ PUBMED_ESUMMARY = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
 PUBMED_EFETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 
 # DeepSeek API
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+DS_API_KEY = os.environ.get("DS_API_KEY", "")
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 输出目录
@@ -170,8 +170,8 @@ def filter_high_impact_papers(papers):
 
 def generate_ai_summary(paper):
     """使用 DeepSeek API 生成研究摘要"""
-    if not DEEPSEEK_API_KEY:
-        print("⚠️  DEEPSEEK_API_KEY 未设置，使用模板摘要")
+    if not DS_API_KEY:
+        print("⚠️  DS_API_KEY 未设置，使用模板摘要")
         return generate_fallback_summary(paper)
     
     title = paper.get("title", "")
@@ -212,7 +212,7 @@ def generate_ai_summary(paper):
         response = requests.post(
             DEEPSEEK_API_URL,
             headers={
-                "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
+                "Authorization": f"Bearer {DS_API_KEY}",
                 "Content-Type": "application/json"
             },
             json={
@@ -349,7 +349,7 @@ type: "daily-digest"
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
 **生成时间**: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}  
-**摘要生成**: {'DeepSeek AI' if DEEPSEEK_API_KEY else '模板模式（DeepSeek API 未配置）'}
+**摘要生成**: {'DeepSeek AI' if DS_API_KEY else '模板模式（DeepSeek API 未配置）'}
 
 ---
 
@@ -425,7 +425,7 @@ def run_daily_task():
     """执行每日任务"""
     print("=" * 60)
     print("AI 新闻官 v2.1 - 每日任务")
-    print(f"DeepSeek API: {'已配置 ✅' if DEEPSEEK_API_KEY else '未配置 ⚠️（将使用模板摘要）'}")
+    print(f"DeepSeek API: {'已配置 ✅' if DS_API_KEY else '未配置 ⚠️（将使用模板摘要）'}")
     print("=" * 60)
     
     # 搜索 PubMed

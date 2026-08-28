@@ -32,7 +32,7 @@ jobs:
       - name: Run AI News Officer
         id: news
         env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DS_API_KEY: ${{ secrets.DS_API_KEY }}
         run: |
           python scripts/ai-news-officer.py
           echo "digest_completed=true" >> $GITHUB_OUTPUT

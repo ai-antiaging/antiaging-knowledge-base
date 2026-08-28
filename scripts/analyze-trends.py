@@ -18,7 +18,7 @@ PUBMED_ESEARCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_ESUMMARY = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
 
 # DeepSeek API
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+DS_API_KEY = os.environ.get("DS_API_KEY", "")
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 输出文件
@@ -141,8 +141,8 @@ def get_trend_label(growth_rate):
 
 def generate_ai_trend_report(trend_data, top_papers):
     """使用 DeepSeek API 生成趋势分析报告"""
-    if not DEEPSEEK_API_KEY:
-        print("⚠️  DEEPSEEK_API_KEY 未设置，使用模板报告")
+    if not DS_API_KEY:
+        print("⚠️  DS_API_KEY 未设置，使用模板报告")
         return generate_fallback_report(trend_data)
     
     # 构建数据摘要
@@ -209,7 +209,7 @@ def generate_ai_trend_report(trend_data, top_papers):
         response = requests.post(
             DEEPSEEK_API_URL,
             headers={
-                "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
+                "Authorization": f"Bearer {DS_API_KEY}",
                 "Content-Type": "application/json"
             },
             json={
@@ -274,7 +274,7 @@ def analyze_trends():
     """主分析函数"""
     print("=" * 60)
     print("衰老研究趋势分析 v2.0")
-    print(f"DeepSeek API: {'已配置 ✅' if DEEPSEEK_API_KEY else '未配置 ⚠️'}")
+    print(f"DeepSeek API: {'已配置 ✅' if DS_API_KEY else '未配置 ⚠️'}")
     print("=" * 60)
     
     # 搜索当前月份数据
@@ -380,7 +380,7 @@ date: {datetime.now().strftime('%Y-%m-%d')}
 **数据来源**: PubMed E-utilities  
 **分析方法**: 关键词频率统计 + AI 趋势解读  
 **生成时间**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}  
-**AI 生成**: {'DeepSeek AI' if DEEPSEEK_API_KEY else '模板模式'}
+**AI 生成**: {'DeepSeek AI' if DS_API_KEY else '模板模式'}
 
 ---
 
