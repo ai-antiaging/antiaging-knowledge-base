@@ -17,9 +17,9 @@ import os
 PUBMED_ESEARCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_ESUMMARY = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
 
-# Kimi API
-KIMI_API_KEY = os.environ.get("KIMI_API_KEY", "")
-KIMI_API_URL = "https://api.moonshot.cn/v1/chat/completions"
+# DeepSeek API
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 输出文件
 CONTENT_FILE = Path(__file__).parent.parent / "content" / "recent.md"
@@ -140,9 +140,9 @@ def get_trend_label(growth_rate):
 
 
 def generate_ai_trend_report(trend_data, top_papers):
-    """使用 Kimi API 生成趋势分析报告"""
-    if not KIMI_API_KEY:
-        print("⚠️  KIMI_API_KEY 未设置，使用模板报告")
+    """使用 DeepSeek API 生成趋势分析报告"""
+    if not DEEPSEEK_API_KEY:
+        print("⚠️  DEEPSEEK_API_KEY 未设置，使用模板报告")
         return generate_fallback_report(trend_data)
     
     # 构建数据摘要
@@ -207,13 +207,13 @@ def generate_ai_trend_report(trend_data, top_papers):
     
     try:
         response = requests.post(
-            KIMI_API_URL,
+            DEEPSEEK_API_URL,
             headers={
-                "Authorization": f"Bearer {KIMI_API_KEY}",
+                "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
                 "Content-Type": "application/json"
             },
             json={
-                "model": "kimi-k2p6",
+                "model": "deepseek-chat",
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": 0.4,
                 "max_tokens": 2000
@@ -225,7 +225,7 @@ def generate_ai_trend_report(trend_data, top_papers):
         return data["choices"][0]["message"]["content"]
         
     except Exception as e:
-        print(f"✗ Kimi API 调用失败：{e}")
+        print(f"✗ DeepSeek API 调用失败：{e}")
         return generate_fallback_report(trend_data)
 
 
@@ -274,7 +274,7 @@ def analyze_trends():
     """主分析函数"""
     print("=" * 60)
     print("衰老研究趋势分析 v2.0")
-    print(f"Kimi API: {'已配置 ✅' if KIMI_API_KEY else '未配置 ⚠️'}")
+    print(f"DeepSeek API: {'已配置 ✅' if DEEPSEEK_API_KEY else '未配置 ⚠️'}")
     print("=" * 60)
     
     # 搜索当前月份数据
@@ -380,7 +380,7 @@ date: {datetime.now().strftime('%Y-%m-%d')}
 **数据来源**: PubMed E-utilities  
 **分析方法**: 关键词频率统计 + AI 趋势解读  
 **生成时间**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}  
-**AI 生成**: {'Kimi AI (k2p6)' if KIMI_API_KEY else '模板模式'}
+**AI 生成**: {'DeepSeek AI' if DEEPSEEK_API_KEY else '模板模式'}
 
 ---
 

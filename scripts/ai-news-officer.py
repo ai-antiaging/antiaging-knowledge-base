@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-AI 新闻官 v2.0
+AI 新闻官 v2.1
 功能：每日自动发布抗衰老领域前沿研究解读
-升级：接入 Kimi API，生成有洞察力的研究摘要
+升级：接入 DeepSeek API，生成有洞察力的研究摘要
 """
 
 import requests
@@ -17,9 +17,9 @@ PUBMED_ESEARCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_ESUMMARY = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
 PUBMED_EFETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 
-# Kimi API
-KIMI_API_KEY = os.environ.get("KIMI_API_KEY", "")
-KIMI_API_URL = "https://api.moonshot.cn/v1/chat/completions"
+# DeepSeek API
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 输出目录
 CONTENT_DIR = Path(__file__).parent.parent / "content"
@@ -169,9 +169,9 @@ def filter_high_impact_papers(papers):
 
 
 def generate_ai_summary(paper):
-    """使用 Kimi API 生成研究摘要"""
-    if not KIMI_API_KEY:
-        print("⚠️  KIMI_API_KEY 未设置，使用模板摘要")
+    """使用 DeepSeek API 生成研究摘要"""
+    if not DEEPSEEK_API_KEY:
+        print("⚠️  DEEPSEEK_API_KEY 未设置，使用模板摘要")
         return generate_fallback_summary(paper)
     
     title = paper.get("title", "")
@@ -210,13 +210,13 @@ def generate_ai_summary(paper):
     
     try:
         response = requests.post(
-            KIMI_API_URL,
+            DEEPSEEK_API_URL,
             headers={
-                "Authorization": f"Bearer {KIMI_API_KEY}",
+                "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
                 "Content-Type": "application/json"
             },
             json={
-                "model": "kimi-k2p6",
+                "model": "deepseek-chat",
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": 0.3,
                 "max_tokens": 800
@@ -231,7 +231,7 @@ def generate_ai_summary(paper):
         return parse_ai_response(content, paper)
         
     except Exception as e:
-        print(f"  ✗ Kimi API 调用失败：{e}")
+        print(f"  ✗ DeepSeek API 调用失败：{e}")
         return generate_fallback_summary(paper)
 
 
@@ -349,7 +349,7 @@ type: "daily-digest"
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
 **生成时间**: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}  
-**摘要生成**: {'Kimi AI (k2p6)' if KIMI_API_KEY else '模板模式（Kimi API 未配置）'}
+**摘要生成**: {'DeepSeek AI' if DEEPSEEK_API_KEY else '模板模式（DeepSeek API 未配置）'}
 
 ---
 
@@ -424,8 +424,8 @@ AI 新闻官每日自动：
 def run_daily_task():
     """执行每日任务"""
     print("=" * 60)
-    print("AI 新闻官 v2.0 - 每日任务")
-    print(f"Kimi API: {'已配置 ✅' if KIMI_API_KEY else '未配置 ⚠️（将使用模板摘要）'}")
+    print("AI 新闻官 v2.1 - 每日任务")
+    print(f"DeepSeek API: {'已配置 ✅' if DEEPSEEK_API_KEY else '未配置 ⚠️（将使用模板摘要）'}")
     print("=" * 60)
     
     # 搜索 PubMed
