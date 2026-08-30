@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-29 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-08-30 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug 28 | Senescent cells maintain viability through adhesion-dependent fragmentation that promotes debris deposition. | Developmental cell | [42664977](https://pubmed.ncbi.nlm.nih.gov/42664977/) | Senescent cells maintain viability through adhesion-dependen... |
-| 2026 Aug 28 | Genome-scale perturb-seq in primary human CD4(+) T cells maps context-specific regulators of T cell programs and human immune traits. | Cell | [42664972](https://pubmed.ncbi.nlm.nih.gov/42664972/) | Genome-scale perturb-seq in primary human CD4(+) T cells map... |
-| 2026 Aug 22 | Oxaliplatin-chemotherapy induced cochlear synaptopathy. | Hearing research | [42664864](https://pubmed.ncbi.nlm.nih.gov/42664864/) | Oxaliplatin-chemotherapy induced cochlear synaptopathy. |
-| 2026 Aug 25 | Human dermal fibroblast-derived exosomes attenuate UVB-induced photoaging phenotypes by reducing oxidative DNA damage and modulating PGC-1α/Nrf2 signaling. | Tissue & cell | [42664583](https://pubmed.ncbi.nlm.nih.gov/42664583/) | Human dermal fibroblast-derived exosomes attenuate UVB-induc... |
-| 2026 Aug 26 | Assessing mechanisms and evidence of a causal role for cellular senescence and somatic mutations in aging. | Aging | [42664504](https://pubmed.ncbi.nlm.nih.gov/42664504/) | Assessing mechanisms and evidence of a causal role for cellu... |
+| 2026 Aug 29 | A simple method for identifying latent spasticity following compressive spinal cord injury by provoking clonic contractions of the hindpaw- and back musculature in rats. | Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft | [42668126](https://pubmed.ncbi.nlm.nih.gov/42668126/) | A simple method for identifying latent spasticity following ... |
+| 2026 Aug 29 | EAAT1 sustains redox homeostasis and temozolomide resistance through glutamate-dependent regulation of the Keap1/Nrf2 axis in glioblastoma. | Experimental neurology | [42668078](https://pubmed.ncbi.nlm.nih.gov/42668078/) | EAAT1 sustains redox homeostasis and temozolomide resistance... |
+| 2026 Aug 29 | APOE4-AGE axis is linked to mtDNA release and cGAS-STING mediated neuroinflammation in the aging brain. | Free radical biology & medicine | [42667969](https://pubmed.ncbi.nlm.nih.gov/42667969/) | APOE4-AGE axis is linked to mtDNA release and cGAS-STING med... |
+| 2026 Aug 26 | A novel dual-pathway AhR mechanism underpins cardiac senescence induced by 6PPDQ. | Environment international | [42667892](https://pubmed.ncbi.nlm.nih.gov/42667892/) | A novel dual-pathway AhR mechanism underpins cardiac senesce... |
+| 2026 Aug 29 | Integrative transcriptomics identifies shared aging-associated inhibitory-neuron states and prioritizes RGL2 across postoperative delirium and Alzheimer's disease. | Journal of molecular neuroscience : MN | [42667495](https://pubmed.ncbi.nlm.nih.gov/42667495/) | Integrative transcriptomics identifies shared aging-associat... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-29 | 自动生成*
+*最后更新：2026-08-30 | 自动生成*
