@@ -429,7 +429,7 @@ ABC 团队在《Nature Reviews Molecular Cell Biology》发表灵长类衰老生
 > **ABC 共识**：推荐标志物需结合临床实际情况使用。
 > 
 > 数据来源：ClinicalTrials.gov, PubMed, ABC Consortium  
-> 最后更新：2026-04-18  
+> 最后更新：2026-09-01  
 > 更新频率：每日自动监控 · 每周邮件简报
 
 ---
