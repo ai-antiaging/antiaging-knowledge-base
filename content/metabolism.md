@@ -35,7 +35,7 @@ NAD+（烟酰胺腺嘌呤二核苷酸）是细胞能量代谢和信号传导的�
           Sirtuins / PARPs / CD38
 ```
 
-**CST 通路图**：[NAD+ 代谢通路图](https://www.cellsignal.cn/pathways/nad-metabolism) | [Sirtuin 通路](https://www.cellsignal.cn/pathways/sirtuin-pathway) | [AMPK 信号](https://www.cellsignal.cn/pathways/ampk-signaling)
+**CST 通路图**：[NAD+ 代谢通路图](https://www.cellsignal.com/pathways/nad-metabolism) | [Sirtuin 通路](https://www.cellsignal.com/pathways/sirtuin-pathway) | [AMPK 信号](https://www.cellsignal.com/pathways/ampk-signaling)
 
 **10 年研究热点**（2016-2026）：
 
@@ -218,7 +218,7 @@ AMP↑/ATP↓ → AMPK 激活 ─┬→ ─| mTOR（抑制合成）
 - **CASTOR1**：精氨酸感应器
 - **Rag GTPases**：mTORC1 招募
 
-**CST 通路图**：[氨基酸感应 mTORC1](https://www.cellsignal.cn/pathways/amino-acid-sensing-mtorc1) | [蛋白质代谢调控](https://www.cellsignal.cn/pathways/protein-metabolism) | [泛素 - 蛋白酶体](https://www.cellsignal.cn/pathways/ubiquitin-proteasome)
+**CST 通路图**：[氨基酸感应 mTORC1](https://www.cellsignal.com/pathways/amino-acid-sensing-mtorc1) | [蛋白质代谢调控](https://www.cellsignal.com/pathways/protein-metabolism) | [泛素 - 蛋白酶体](https://www.cellsignal.com/pathways/ubiquitin-proteasome)
 
 **10 年研究热点**（2016-2026）：
 
@@ -308,13 +308,13 @@ GLP-1 激活 ─┬→ 减少内脏脂肪 → 改善脂肪"肥胖记忆"表观�
 
 | 通路 | CST 通路图链接 |
 |------|---------------|
-| **NAD+ 代谢** | [NAD+ 代谢](https://www.cellsignal.cn/pathways/nad-metabolism) · [Sirtuin 通路](https://www.cellsignal.cn/pathways/sirtuin-pathway) |
-| **mTOR 信号** | [mTOR 信号](https://www.cellsignal.cn/pathways/mtor-signaling) · [PI3K/AKT](https://www.cellsignal.cn/pathways/pi3k-akt-pathway) |
-| **胰岛素/IGF-1** | [胰岛素信号](https://www.cellsignal.cn/pathways/insulin-signaling) · [FOXO 信号](https://www.cellsignal.cn/pathways/forkhead-signaling) |
-| **AMPK** | [AMPK 信号](https://www.cellsignal.cn/pathways/ampk-signaling) · [线粒体生物合成](https://www.cellsignal.cn/pathways/mitochondrial-biogenesis) |
-| **线粒体** | [线粒体功能](https://www.cellsignal.cn/pathways/mitochondrial-function) · [线粒体自噬](https://www.cellsignal.cn/pathways/mitophagy) · [ROS 信号](https://www.cellsignal.cn/pathways/ros-signaling) |
-| **GLP-1 信号** | [GLP-1 信号](https://www.cellsignal.cn/pathways/glp-1-signaling) · [胰高血糖素信号](https://www.cellsignal.cn/pathways/glucagon-signaling) |
-| **氨基酸代谢** | [氨基酸感应 mTORC1](https://www.cellsignal.cn/pathways/amino-acid-sensing-mtorc1) · [蛋白质代谢](https://www.cellsignal.cn/pathways/protein-metabolism) |
+| **NAD+ 代谢** | [NAD+ 代谢](https://www.cellsignal.com/pathways/nad-metabolism) · [Sirtuin 通路](https://www.cellsignal.com/pathways/sirtuin-pathway) |
+| **mTOR 信号** | [mTOR 信号](https://www.cellsignal.com/pathways/mtor-signaling) · [PI3K/AKT](https://www.cellsignal.com/pathways/pi3k-akt-pathway) |
+| **胰岛素/IGF-1** | [胰岛素信号](https://www.cellsignal.com/pathways/insulin-signaling) · [FOXO 信号](https://www.cellsignal.com/pathways/forkhead-signaling) |
+| **AMPK** | [AMPK 信号](https://www.cellsignal.com/pathways/ampk-signaling) · [线粒体生物合成](https://www.cellsignal.com/pathways/mitochondrial-biogenesis) |
+| **线粒体** | [线粒体功能](https://www.cellsignal.com/pathways/mitochondrial-function) · [线粒体自噬](https://www.cellsignal.com/pathways/mitophagy) · [ROS 信号](https://www.cellsignal.com/pathways/ros-signaling) |
+| **GLP-1 信号** | [GLP-1 信号](https://www.cellsignal.com/pathways/glp-1-signaling) · [胰高血糖素信号](https://www.cellsignal.com/pathways/glucagon-signaling) |
+| **氨基酸代谢** | [氨基酸感应 mTORC1](https://www.cellsignal.com/pathways/amino-acid-sensing-mtorc1) · [蛋白质代谢](https://www.cellsignal.com/pathways/protein-metabolism) |
 
 > **CST（Cell Signaling Technology）** 是全球领先的信号通路研究试剂和信息资源提供商，其通路图基于最新研究文献绘制，具有高度权威性和准确性。
 

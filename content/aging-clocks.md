@@ -352,7 +352,7 @@ exBAClock 数据库为每个时钟提供两项专有评分：
 ## 🔗 外部资源
 
 - **[exBAClock 官方网站](https://akob.shinyapps.io/exbaclock/)** - 完整的数据库和交互式工具
-- **[DNA Methylation Age Calculator](https://dnamage.genetics.ucla.edu/)** - Horvath 实验室的表观遗传年龄计算器
+- **[DNA Methylation Age Calculator](https://dnamage.genetics.ucla.edu/)** - Horvath 实验室的表观遗传年龄计算器 ⚠️ 链接失效
 - **[PhenoAge Calculator](/phenoage-calculator/)** - 本站提供的 PhenoAge 计算器
 
 ---

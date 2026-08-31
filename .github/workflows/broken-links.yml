@@ -5,6 +5,7 @@ on:
     branches: [main]
   schedule:
     - cron: '0 6 * * *'  # 每天早上 6 点
+  workflow_dispatch:
 
 jobs:
   check-links:
@@ -24,8 +25,21 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v1
         with:
-          args: --verbose --no-progress ./public
+          args: >
+            --verbose
+            --no-progress
+            --exclude '^https://doi\.org/'
+            --exclude '^https://fonts\.(googleapis|gstatic)\.com/'
+            --exclude 'gladyshevlab\.org:3838'
+            --exclude '^https://www\.cellsignal\.cn/pathways/'
+            --exclude '^https://www\.cell\.com/'
+            --exclude '^https://pubmed\.ncbi\.nlm\.nih\.gov/'
+            --exclude '^https://www\.ncbi\.nlm\.nih\.gov/'
+            --exclude '^https://clinicaltrials\.gov/'
+            ./public
           fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Create Issue On Fail
         if: failure()

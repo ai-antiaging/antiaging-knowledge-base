@@ -260,7 +260,7 @@ draft: false
 | **深度学习** | 神经网络、CNN、RNN | 复杂模式识别 |
 | **数据可视化** | 出版级图表生成 | 论文、报告 |
 
-[→ 查看完整 136 项技能列表](https://k-dense.ai/skills)
+[→ 查看完整 136 项技能列表](https://k-dense.ai/skills) ⚠️ 链接失效
 
 </div>
 
@@ -354,7 +354,7 @@ K-Dense 生成的完整研究流程包括：
 - ✅ 图表生成脚本
 - ✅ 论文 LaTeX 模板
 
-[→ 查看完整案例研究](https://k-dense.ai/case-studies/sinclair-transcriptomic-clock)
+[→ 查看完整案例研究](https://k-dense.ai/case-studies/sinclair-transcriptomic-clock) ⚠️ 链接失效
 
 </div>
 

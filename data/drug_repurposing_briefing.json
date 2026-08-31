@@ -1,0 +1,605 @@
+{
+  "last_check": "2026-09-01T02:12:44.851882",
+  "briefings": [
+    {
+      "date": "2026-09-01T02:12:44.851739",
+      "papers": [
+        {
+          "pmid": "42663799",
+          "title": "Identifying novel druggable targets and repurposable drugs for premature ovarian insufficiency by integrated multiomics and causal inference analysis.",
+          "journal": "GeroScience",
+          "pubdate": "2026 Aug 28",
+          "doi": "",
+          "authors": [
+            {
+              "name": "Liu C",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Wang R",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Liu X",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Li Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Ren L",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Zhao Z",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Fan Z",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Xiao J",
+              "authtype": "Author",
+              "clusterid": ""
+            }
+          ],
+          "rpr": {
+            "responsiveness": 5,
+            "prognostication": 5,
+            "reliability": 5,
+            "total": 5.0
+          }
+        },
+        {
+          "pmid": "42649044",
+          "title": "Construction and Validation of Plasma Protein-Based Musculoskeletal Biological Age and Genetic and Environmental Risk Profiles.",
+          "journal": "Aging cell",
+          "pubdate": "2026 Aug",
+          "doi": "",
+          "authors": [
+            {
+              "name": "Zhong Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Xia M",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Zhao X",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Qu Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Lei B",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Zhen S",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Han T",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Xiang R",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Xiao J",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Song X",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Ma X",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Yang B",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Zhang D",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Zhou J",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Chen Z",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Pang Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Ju Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Liu T",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Li Z",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Long L",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Zhang T",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Li J",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Fan M",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Liu Z",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Jiang X",
+              "authtype": "Author",
+              "clusterid": ""
+            }
+          ],
+          "rpr": {
+            "responsiveness": 5,
+            "prognostication": 5,
+            "reliability": 5,
+            "total": 5.0
+          }
+        },
+        {
+          "pmid": "42633094",
+          "title": "Sex- and APOE-specific transcriptomic drug repurposing identifies four candidate therapeutics for Alzheimer's disease.",
+          "journal": "Alzheimer's & dementia (New York, N. Y.)",
+          "pubdate": "2026 Jul-Sep",
+          "doi": "",
+          "authors": [
+            {
+              "name": "Vitali F",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Raikes AC",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Merlini S",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Shang Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Torrandell-Haro G",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Hernandez GD",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Yin F",
+              "authtype": "Author",
+              "clusterid": ""
+            }
+          ],
+          "rpr": {
+            "responsiveness": 5,
+            "prognostication": 5,
+            "reliability": 5,
+            "total": 5.0
+          }
+        },
+        {
+          "pmid": "42570063",
+          "title": "Discovery of Anti-Neuroinflammatory Compounds in Alzheimer's Disease: Current Trends and Future Perspectives.",
+          "journal": "Molecular neurobiology",
+          "pubdate": "2026 Aug 8",
+          "doi": "",
+          "authors": [
+            {
+              "name": "Paelaong N",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Sripha K",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Boondam Y",
+              "authtype": "Author",
+              "clusterid": ""
+            }
+          ],
+          "rpr": {
+            "responsiveness": 5,
+            "prognostication": 5,
+            "reliability": 5,
+            "total": 5.0
+          }
+        },
+        {
+          "pmid": "42537761",
+          "title": "From antioxidant to senotherapeutic: Repurposing n-acetylcysteine to counteract senescence via the HuR pathway in human endothelial cells.",
+          "journal": "Experimental gerontology",
+          "pubdate": "2026 Oct 1",
+          "doi": "",
+          "authors": [
+            {
+              "name": "Campagnoli LIM",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Marchesi N",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Barbieri A",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Galeotti N",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Pascale A",
+              "authtype": "Author",
+              "clusterid": ""
+            }
+          ],
+          "rpr": {
+            "responsiveness": 5,
+            "prognostication": 5,
+            "reliability": 5,
+            "total": 5.0
+          }
+        },
+        {
+          "pmid": "42501452",
+          "title": "Discovery of a quinoline-based senomorphic agent for the treatment of chronic kidney disease.",
+          "journal": "European journal of medicinal chemistry",
+          "pubdate": "2026 Nov 15",
+          "doi": "",
+          "authors": [
+            {
+              "name": "Chen Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Qiao S",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Chen X",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Li L",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Wu J",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Shi C",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Li J",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Guo Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Huang Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Liu W",
+              "authtype": "Author",
+              "clusterid": ""
+            }
+          ],
+          "rpr": {
+            "responsiveness": 5,
+            "prognostication": 5,
+            "reliability": 5,
+            "total": 5.0
+          }
+        },
+        {
+          "pmid": "42498087",
+          "title": "Senomorphic agents: Multi-target strategies to tame the senescence-associated secretory phenotype for healthy ageing.",
+          "journal": "Experimental gerontology",
+          "pubdate": "2026 Oct 1",
+          "doi": "",
+          "authors": [
+            {
+              "name": "Kong Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Zhang Q",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Zhang J",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Fu Q",
+              "authtype": "Author",
+              "clusterid": ""
+            }
+          ],
+          "rpr": {
+            "responsiveness": 5,
+            "prognostication": 5,
+            "reliability": 5,
+            "total": 5.0
+          }
+        },
+        {
+          "pmid": "42476282",
+          "title": "Unlocking new uses: The promise of antidepressants in treating Alzheimer's and Parkinson's through Neuroinflammation modulation.",
+          "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+          "pubdate": "2026 Jul 20",
+          "doi": "",
+          "authors": [
+            {
+              "name": "Abbaszadeh F",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Amini NB",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Davoody S",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Rezaei M",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Ghasemi R",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Javadpour P",
+              "authtype": "Author",
+              "clusterid": ""
+            }
+          ],
+          "rpr": {
+            "responsiveness": 5,
+            "prognostication": 5,
+            "reliability": 5,
+            "total": 5.0
+          }
+        },
+        {
+          "pmid": "42464365",
+          "title": "Aging-driven transcriptional programs in diabetic kidney disease: multi-omics discovery of diagnostic biomarkers and drug-repurposing targets.",
+          "journal": "Clinical epigenetics",
+          "pubdate": "2026 Jul 16",
+          "doi": "",
+          "authors": [
+            {
+              "name": "Hu X",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Li Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Wang Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Luo B",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Xia C",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Wang J",
+              "authtype": "Author",
+              "clusterid": ""
+            }
+          ],
+          "rpr": {
+            "responsiveness": 5,
+            "prognostication": 5,
+            "reliability": 5,
+            "total": 5.0
+          }
+        },
+        {
+          "pmid": "42448019",
+          "title": "Drug repurposing of glucosamine to ameliorate alcoholic liver disease and delay liver aging through activation of AMPK signaling pathway.",
+          "journal": "European journal of pharmacology",
+          "pubdate": "2026 Jul 15",
+          "doi": "",
+          "authors": [
+            {
+              "name": "Song Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Li W",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Shao Q",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Huang J",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Guo X",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Wang X",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Gu C",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Ke J",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Zhu T",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Gao X",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Liu W",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Wang M",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Li J",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Xu Y",
+              "authtype": "Author",
+              "clusterid": ""
+            },
+            {
+              "name": "Li X",
+              "authtype": "Author",
+              "clusterid": ""
+            }
+          ],
+          "rpr": {
+            "responsiveness": 5,
+            "prognostication": 5,
+            "reliability": 5,
+            "total": 5.0
+          }
+        }
+      ]
+    }
+  ]
+}

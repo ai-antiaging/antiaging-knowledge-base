@@ -452,7 +452,7 @@ draft: false
 - **[ClockBase Agent 官网](https://clockbase.io/)** - 访问完整平台
 - **[技术报告](https://www.biorxiv.org/content/10.1101/2023.02.28.530532v4)** - bioRxiv 预印本
 - **[Gladyshev 实验室](https://gladyshevlab.org/)** - 哈佛医学院
-- **[应可钧博士主页](https://yingkj.github.io/)** - 斯坦福大学
+- **[应可钧博士主页](https://yingkj.github.io/)** - 斯坦福大学 ⚠️ 链接失效
 
 ---
 

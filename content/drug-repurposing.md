@@ -343,7 +343,7 @@ n = 2 × [(Zα + Zβ) × σ / δ]²
 
 ### 药物再利用 + 衰老 最新研究
 
-**最后更新**：2026-04-18  
+**最后更新**：2026-09-01  
 **更新频率**：每月自动监控  
 **筛选标准**：基于 TranslAGE RPR 框架
 
@@ -368,11 +368,53 @@ n = 2 × [(Zα + Zβ) × σ / δ]²
 | **预后性** | 关联至少 1 个衰老结局 | 无临床结局数据 |
 | **可靠性** | 独立队列验证 | 单中心小样本 |
 
-#### 最新简报
 
-> ⏳ **正在等待首次自动监控**
+#### 最新简报 (2026-09-01)
+
+**找到 10 篇相关文献**
+
+
+**1. Identifying novel druggable targets and repurposable drugs for premature ovarian insufficiency by integrated multiomics and causal inference analysis.**
+
+- **期刊**: GeroScience
+- **日期**: 2026 Aug 28
+- **PMID**: [42663799](https://pubmed.ncbi.nlm.nih.gov/42663799/)
+- **RPR 评分**: 响应性 5/10 | 预后性 5/10 | 可靠性 5/10 | 总分 5.0/10
+
+
+**2. Construction and Validation of Plasma Protein-Based Musculoskeletal Biological Age and Genetic and Environmental Risk Profiles.**
+
+- **期刊**: Aging cell
+- **日期**: 2026 Aug
+- **PMID**: [42649044](https://pubmed.ncbi.nlm.nih.gov/42649044/)
+- **RPR 评分**: 响应性 5/10 | 预后性 5/10 | 可靠性 5/10 | 总分 5.0/10
+
+
+**3. Sex- and APOE-specific transcriptomic drug repurposing identifies four candidate therapeutics for Alzheimer's disease.**
+
+- **期刊**: Alzheimer's & dementia (New York, N. Y.)
+- **日期**: 2026 Jul-Sep
+- **PMID**: [42633094](https://pubmed.ncbi.nlm.nih.gov/42633094/)
+- **RPR 评分**: 响应性 5/10 | 预后性 5/10 | 可靠性 5/10 | 总分 5.0/10
+
+
+**4. Discovery of Anti-Neuroinflammatory Compounds in Alzheimer's Disease: Current Trends and Future Perspectives.**
+
+- **期刊**: Molecular neurobiology
+- **日期**: 2026 Aug 8
+- **PMID**: [42570063](https://pubmed.ncbi.nlm.nih.gov/42570063/)
+- **RPR 评分**: 响应性 5/10 | 预后性 5/10 | 可靠性 5/10 | 总分 5.0/10
+
+
+**5. From antioxidant to senotherapeutic: Repurposing n-acetylcysteine to counteract senescence via the HuR pathway in human endothelial cells.**
+
+- **期刊**: Experimental gerontology
+- **日期**: 2026 Oct 1
+- **PMID**: [42537761](https://pubmed.ncbi.nlm.nih.gov/42537761/)
+- **RPR 评分**: 响应性 5/10 | 预后性 5/10 | 可靠性 5/10 | 总分 5.0/10
+
+
 > 
-> 首次监控将于下月初（2026-05-01）执行
 > 
 > 简报将在此处显示最新动态
 
@@ -434,16 +476,16 @@ n = 2 × [(Zα + Zβ) × σ / δ]²
 
 ## 🔗 外部资源
 
-- **[REVIVE 平台](https://revive-platform.io/)** - 访问药物再利用平台（待上线）
-- **[TranslAGE Consortium](https://translateage.org/)** - 访问生物标志物验证平台
-- **[TAME 试验](https://www.afarf.org/TAME.html)** - 二甲双胍抗衰老临床试验
+- **[REVIVE 平台](https://revive-platform.io/)** - 访问药物再利用平台（待上线）⚠️ 目前无法访问
+- **[TranslAGE Consortium](https://translateage.org/)** - 访问生物标志物验证平台 ⚠️ 链接失效
+- **[TAME 试验](https://www.afarf.org/TAME.html)** - 二甲双胍抗衰老临床试验 ⚠️ 链接失效
 - **[ClinicalTrials.gov](https://clinicaltrials.gov/)** - 搜索抗衰老药物临床试验
 
 ---
 
 **数据来源**：REVIVE Platform, TranslAGE Consortium  
 **技术框架**：RPR (Responsiveness-Prognostication-Reliability)  
-**最后更新**：2026-04-18  
+**最后更新**：2026-09-01  
 **监控频率**：每月自动监控  
 
 ---

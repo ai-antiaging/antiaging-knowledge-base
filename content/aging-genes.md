@@ -363,8 +363,8 @@ draft: false
 - **[HAGR 官方网站](https://genomics.senescence.info/)** - 访问完整的 HAGR 数据库
 - **[GenAge 人类基因](https://genomics.senescence.info/genes/)** - 浏览人类衰老相关基因
 - **[AnAge 动物寿命](https://genomics.senescence.info/species/)** - 探索长寿物种记录
-- **[CellAge 细胞衰老](https://genomics.senescence.info/cellage/)** - 细胞衰老相关基因
-- **[DrugAge 抗衰老化合物](https://genomics.senescence.info/drugage/)** - 抗衰老药物数据库
+- **[CellAge 细胞衰老](https://genomics.senescence.info/cellage/)** - 细胞衰老相关基因 ⚠️ 子站可能已整合至主站
+- **[DrugAge 抗衰老化合物](https://genomics.senescence.info/drugage/)** - 抗衰老药物数据库 ⚠️ 子站可能已整合至主站
 
 ---
 

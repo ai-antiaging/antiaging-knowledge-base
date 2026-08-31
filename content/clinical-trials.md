@@ -239,7 +239,7 @@ ABC 团队在《Nature Reviews Molecular Cell Biology》发表灵长类衰老生
 >
 > **English**: This framework systematically organizes aging biomarkers across cellular, tissue, and individual levels for both humans and non-human primates, proposing a novel conceptual system of "senomarker," "senoactivator," and "senorepressor," providing a unified theoretical framework and evaluation standards for aging research and interventions.
 
-[→ 查看完整共识原文](https://www.nature.com/nrmcb/)
+[→ 查看完整共识原文](https://www.nature.com/nrmcb/) ⚠️ 链接失效
 
 </div>
 
@@ -281,7 +281,7 @@ ABC 团队在《Nature Reviews Molecular Cell Biology》发表灵长类衰老生
 - 中山大学附属第一医院
 - [更多机构...]
 
-[→ 了解 X-Age 项目详情](https://www.ageingx.cn/)
+[→ 了解 X-Age 项目详情](https://www.ageingx.cn/) ⚠️ 链接失效
 
 </div>
 
