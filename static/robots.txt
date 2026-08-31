@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://muwangdao.github.io/antiaging-knowledge-base/sitemap.xml
+Sitemap: https://ai-antiaging.github.io/antiaging-knowledge-base/sitemap.xml
 
 # Crawl-delay (optional)
 Crawl-delay: 1
