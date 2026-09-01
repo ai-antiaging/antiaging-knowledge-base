@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-01T01:13:24.289501",
+  "date": "2026-09-02T01:13:26.953374",
   "new_trials": [
     {
       "protocolSection": {
@@ -256,7 +256,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -830,7 +830,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -885,6 +885,193 @@
               "term": "Behavior"
             }
           ]
+        }
+      },
+      "hasResults": false
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07344896",
+          "orgStudyIdInfo": {
+            "id": "Karatay University"
+          },
+          "organization": {
+            "fullName": "KTO Karatay University",
+            "class": "OTHER"
+          },
+          "briefTitle": "MBSR Effects on Aging Anxiety and Body Image",
+          "officialTitle": "Effects of a Mindfulness-Based Stress Reduction Program on Aging Anxiety and Body Image in Middle-Aged Women: A Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2025-12",
+          "overallStatus": "NOT_YET_RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2026-09-01",
+            "type": "ESTIMATED"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-11-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-30",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2025-12-08",
+          "studyFirstSubmitQcDate": "2026-01-08",
+          "studyFirstPostDateStruct": {
+            "date": "2026-01-15",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2026-08-24",
+          "lastUpdatePostDateStruct": {
+            "date": "2026-08-25",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "KTO Karatay University",
+            "class": "OTHER"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false
+        },
+        "descriptionModule": {
+          "briefSummary": "This study was designed to determine the effect of a mindfulness-based stress reduction (MBSR) program on aging anxiety and body image among middle-aged women. The primary hypotheses to be tested are as follows:\n\nH0a: There is no difference in the mean scores of the Aging Anxiety Scale between the women in the experimental group who receive the mindfulness-based stress reduction program and the women in the control group.\n\nH0b: There is no difference in the mean scores of the Body Image Scale between the women in the experimental group who receive the mindfulness-based stress reduction program and the women in the control group.\n\nH0c: There is no difference between the pre-intervention and post-intervention mean scores of the Aging Anxiety Scale among the women in the experimental group who receive the mindfulness-based stress reduction program.\n\nH0d: There is no difference between the pre-intervention and post-intervention mean scores of the Body Image Scale among the women in the experimental group who receive the mindfulness-based stress reduction program.\n\nThe researchers will compare the experimental group with the control group in order to assess the effect of the mindfulness-based stress reduction program on aging anxiety and body image among middle-aged women.\n\nParticipants:\n\n* They will attend an 8-session mindfulness-based stress reduction program.\n* They will participate in one silent mindfulness retreat session."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Body Image",
+            "Mindfulness Based Stress Reduction",
+            "Middle Aged"
+          ],
+          "keywords": [
+            "aging anxiety",
+            "middle age woman",
+            "mindfulness",
+            "body image"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "interventionModelDescription": "In this study, block randomization will be applied. Participants will be stratified based on two variables: menopausal status (yes/no) with two levels, and educational level (literate-primary school / high school / university and above) with three levels. Within each stratum, block randomization will be conducted using variable block sizes (4 and 6) to ensure a 1:1 allocation ratio.",
+            "primaryPurpose": "SUPPORTIVE_CARE",
+            "maskingInfo": {
+              "masking": "DOUBLE",
+              "whoMasked": [
+                "PARTICIPANT",
+                "OUTCOMES_ASSESSOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "mindfulness-based stress reduction program intervention group",
+              "type": "EXPERIMENTAL",
+              "description": "After the pre-test, a mindfulness-based stress reduction program will be implemented. It will be evaluated with a post-test.",
+              "interventionNames": [
+                "Behavioral: bilinçli farkındalık temelli stres azaltma programı"
+              ]
+            },
+            {
+              "label": "control group",
+              "type": "NO_INTERVENTION",
+              "description": "A pre-test will be administered. No practice will be conducted. Students will be evaluated with a post-test"
+            }
+          ],
+          "interventions": [
+            {
+              "type": "BEHAVIORAL",
+              "name": "bilinçli farkındalık temelli stres azaltma programı",
+              "description": "Following application to the center, the Mindfulness-Based Stress Reduction (MBSR) program will be implemented starting from the scheduled date. The program will last a total of 8 weeks, with one session per week, each session lasting approximately 2 hours. At the end of the 6th week, one day will be designated as a \"day of silence,\" during which a 6-hour session will be conducted.\n\nThe 8-week program is structured around the themes of aging anxiety and body image. During the day of silent awareness (after the 6th week), the 6-hour silence period will include body scan practices, mindful walking, and breathing meditation. The aim of this silent retreat day is to deepen participants' internal awareness.",
+              "armGroupLabels": [
+                "mindfulness-based stress reduction program intervention group"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Change in Aging Anxiety Score as Measured by the Aging Anxiety Scale for Middle-Aged Women",
+              "description": "Aging anxiety will be assessed using the Aging Anxiety Scale for Middle-Aged Women, a self-report questionnaire consisting of Likert-type items. The outcome will be evaluated as the mean change in total scale score from baseline to immediately post-intervention. Higher scores indicate higher levels of aging anxiety.",
+              "timeFrame": "Baseline and immediately post-intervention (8 weeks)"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Change in Body Image Score as Measured by the Body Image Scale",
+              "description": "Body image will be assessed using the Body Image Scale, a self-report instrument measuring individuals' perceptions and attitudes toward their own bodies. The outcome will be evaluated as the mean change in total scale score from baseline to post-intervention. Higher scores indicate a more positive body image.",
+              "timeFrame": "Baseline and post-intervention (8 weeks)"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* At least primary school graduate,\n* Being between 40-59 years old,\n* Living in Çumra district center,\n* Being open to communication and cooperation\n\nExclusion Criteria:\n\n* Those with chronic illnesses (self-report)\n* Foreign nationals Those with psychiatric illnesses (self-report) Those with physical disabilities and limited mobility",
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "59 Years",
+          "stdAges": [
+            "ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Necibe ş tunalı, master",
+              "role": "CONTACT",
+              "phone": "+90 543 242 0280",
+              "email": "necibe.seyda.tunali@karatay.edu.tr"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Necibe Ş TUNALI, 1",
+              "affiliation": "KTO KARATAY UNİVERSİTY",
+              "role": "STUDY_DIRECTOR"
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "type": "BACKGROUND",
+              "citation": "Aydın, A., & Kabasakal, E. (2022). Turkish adaptation of the Aging Anxiety Scale for middle-aged women: Validity and reliability study. Journal of Basic and Clinical Health Sciences, 6, 173-180. https://doi.org/10.30621/jbachs.2022.1012 Bergman, Y. S., & Segel-Karpas, D. (2018). Future time perspective, loneliness, and depressive symptoms among middle-aged adults: A mediation model. Journal of Affective Disorders, 241, 173-175. https://doi.org/10.1016/j.jad.2018.08.019 Bergman, Y. S., & Segel-Karpas, D. (2021). Aging anxiety, loneliness, and depressive symptoms among middle-aged adults: The moderating role of ageism. Journal of Affective Disorders, 290, 89-92. https://doi.org/10.1016/j.jad.2021.04.077 Cameron, E., Ward, P., Mandville-Anstey, S. A., & Coombs, A. (2018). The female aging body: A systematic review of female perspectives on aging, health, and body image. Journal of Women & Aging, 31(1), 3-17. https://doi.org/10.1080/08952841.2018.1449586 Creswell, J. D. (2017). Mindfulness interventions. Annual Review of Psychology, 68, 491-516. https://doi.org/10.1146/annurev-psych-042716-051139 Fernandez-Jimenez, C., Alvarez-Hernandez, J. F., Salguero-Garcia, D., Aguilar-Parra, J. M., & Trigueros, R. (2020). Validation of the Lasher and Faulkender Anxiety about Aging Scale (AAS) for the Spanish context. International Journal of Environmental Research and Public Health, 17(12), 4231. https://doi.org/10.3390/ijerph17124231 Gendron, T. L., Inker, J. K., Andricosky, R., & Zanjani, F. (2020). Development of the relational ageism scale: Confirmatory test on survey data. International Journal of Aging and Human Development, 90(3), 281-296. https://doi.org/10.1177/0091415019836956 Lee, H., & You, M. (2019). Development of an aging anxiety scale for middle-aged women. Journal of Korean Academy of Nursing, 49(1), 14-25. https://doi.org/10.4040/jkan.2019.49.1.14"
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO",
+          "description": "Individual participant data (IPD) will not be shared due to the sensitive nature of the psychological and health-related information collected from middle-aged women. The dataset includes identifiable variables related to aging anxiety, body image, and mindfulness-based intervention outcomes. Sharing such data may pose confidentiality risks despite anonymization efforts. Aggregated results will be available upon request."
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2026-09-01"
         }
       },
       "hasResults": false
@@ -1121,7 +1308,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -1164,193 +1351,6 @@
               "term": "Signs and Symptoms"
             }
           ]
-        }
-      },
-      "hasResults": false
-    },
-    {
-      "protocolSection": {
-        "identificationModule": {
-          "nctId": "NCT07344896",
-          "orgStudyIdInfo": {
-            "id": "Karatay University"
-          },
-          "organization": {
-            "fullName": "KTO Karatay University",
-            "class": "OTHER"
-          },
-          "briefTitle": "MBSR Effects on Aging Anxiety and Body Image",
-          "officialTitle": "Effects of a Mindfulness-Based Stress Reduction Program on Aging Anxiety and Body Image in Middle-Aged Women: A Randomized Controlled Trial"
-        },
-        "statusModule": {
-          "statusVerifiedDate": "2025-12",
-          "overallStatus": "NOT_YET_RECRUITING",
-          "expandedAccessInfo": {
-            "hasExpandedAccess": false
-          },
-          "startDateStruct": {
-            "date": "2026-09-01",
-            "type": "ESTIMATED"
-          },
-          "primaryCompletionDateStruct": {
-            "date": "2026-11-30",
-            "type": "ESTIMATED"
-          },
-          "completionDateStruct": {
-            "date": "2027-05-30",
-            "type": "ESTIMATED"
-          },
-          "studyFirstSubmitDate": "2025-12-08",
-          "studyFirstSubmitQcDate": "2026-01-08",
-          "studyFirstPostDateStruct": {
-            "date": "2026-01-15",
-            "type": "ACTUAL"
-          },
-          "lastUpdateSubmitDate": "2026-08-24",
-          "lastUpdatePostDateStruct": {
-            "date": "2026-08-25",
-            "type": "ACTUAL"
-          }
-        },
-        "sponsorCollaboratorsModule": {
-          "responsibleParty": {
-            "type": "SPONSOR"
-          },
-          "leadSponsor": {
-            "name": "KTO Karatay University",
-            "class": "OTHER"
-          }
-        },
-        "oversightModule": {
-          "oversightHasDmc": true,
-          "isFdaRegulatedDrug": false,
-          "isFdaRegulatedDevice": false
-        },
-        "descriptionModule": {
-          "briefSummary": "This study was designed to determine the effect of a mindfulness-based stress reduction (MBSR) program on aging anxiety and body image among middle-aged women. The primary hypotheses to be tested are as follows:\n\nH0a: There is no difference in the mean scores of the Aging Anxiety Scale between the women in the experimental group who receive the mindfulness-based stress reduction program and the women in the control group.\n\nH0b: There is no difference in the mean scores of the Body Image Scale between the women in the experimental group who receive the mindfulness-based stress reduction program and the women in the control group.\n\nH0c: There is no difference between the pre-intervention and post-intervention mean scores of the Aging Anxiety Scale among the women in the experimental group who receive the mindfulness-based stress reduction program.\n\nH0d: There is no difference between the pre-intervention and post-intervention mean scores of the Body Image Scale among the women in the experimental group who receive the mindfulness-based stress reduction program.\n\nThe researchers will compare the experimental group with the control group in order to assess the effect of the mindfulness-based stress reduction program on aging anxiety and body image among middle-aged women.\n\nParticipants:\n\n* They will attend an 8-session mindfulness-based stress reduction program.\n* They will participate in one silent mindfulness retreat session."
-        },
-        "conditionsModule": {
-          "conditions": [
-            "Body Image",
-            "Mindfulness Based Stress Reduction",
-            "Middle Aged"
-          ],
-          "keywords": [
-            "aging anxiety",
-            "middle age woman",
-            "mindfulness",
-            "body image"
-          ]
-        },
-        "designModule": {
-          "studyType": "INTERVENTIONAL",
-          "phases": [
-            "NA"
-          ],
-          "designInfo": {
-            "allocation": "RANDOMIZED",
-            "interventionModel": "PARALLEL",
-            "interventionModelDescription": "In this study, block randomization will be applied. Participants will be stratified based on two variables: menopausal status (yes/no) with two levels, and educational level (literate-primary school / high school / university and above) with three levels. Within each stratum, block randomization will be conducted using variable block sizes (4 and 6) to ensure a 1:1 allocation ratio.",
-            "primaryPurpose": "SUPPORTIVE_CARE",
-            "maskingInfo": {
-              "masking": "DOUBLE",
-              "whoMasked": [
-                "PARTICIPANT",
-                "OUTCOMES_ASSESSOR"
-              ]
-            }
-          },
-          "enrollmentInfo": {
-            "count": 58,
-            "type": "ESTIMATED"
-          }
-        },
-        "armsInterventionsModule": {
-          "armGroups": [
-            {
-              "label": "mindfulness-based stress reduction program intervention group",
-              "type": "EXPERIMENTAL",
-              "description": "After the pre-test, a mindfulness-based stress reduction program will be implemented. It will be evaluated with a post-test.",
-              "interventionNames": [
-                "Behavioral: bilinçli farkındalık temelli stres azaltma programı"
-              ]
-            },
-            {
-              "label": "control group",
-              "type": "NO_INTERVENTION",
-              "description": "A pre-test will be administered. No practice will be conducted. Students will be evaluated with a post-test"
-            }
-          ],
-          "interventions": [
-            {
-              "type": "BEHAVIORAL",
-              "name": "bilinçli farkındalık temelli stres azaltma programı",
-              "description": "Following application to the center, the Mindfulness-Based Stress Reduction (MBSR) program will be implemented starting from the scheduled date. The program will last a total of 8 weeks, with one session per week, each session lasting approximately 2 hours. At the end of the 6th week, one day will be designated as a \"day of silence,\" during which a 6-hour session will be conducted.\n\nThe 8-week program is structured around the themes of aging anxiety and body image. During the day of silent awareness (after the 6th week), the 6-hour silence period will include body scan practices, mindful walking, and breathing meditation. The aim of this silent retreat day is to deepen participants' internal awareness.",
-              "armGroupLabels": [
-                "mindfulness-based stress reduction program intervention group"
-              ]
-            }
-          ]
-        },
-        "outcomesModule": {
-          "primaryOutcomes": [
-            {
-              "measure": "Change in Aging Anxiety Score as Measured by the Aging Anxiety Scale for Middle-Aged Women",
-              "description": "Aging anxiety will be assessed using the Aging Anxiety Scale for Middle-Aged Women, a self-report questionnaire consisting of Likert-type items. The outcome will be evaluated as the mean change in total scale score from baseline to immediately post-intervention. Higher scores indicate higher levels of aging anxiety.",
-              "timeFrame": "Baseline and immediately post-intervention (8 weeks)"
-            }
-          ],
-          "secondaryOutcomes": [
-            {
-              "measure": "Change in Body Image Score as Measured by the Body Image Scale",
-              "description": "Body image will be assessed using the Body Image Scale, a self-report instrument measuring individuals' perceptions and attitudes toward their own bodies. The outcome will be evaluated as the mean change in total scale score from baseline to post-intervention. Higher scores indicate a more positive body image.",
-              "timeFrame": "Baseline and post-intervention (8 weeks)"
-            }
-          ]
-        },
-        "eligibilityModule": {
-          "eligibilityCriteria": "Inclusion Criteria:\n\n* At least primary school graduate,\n* Being between 40-59 years old,\n* Living in Çumra district center,\n* Being open to communication and cooperation\n\nExclusion Criteria:\n\n* Those with chronic illnesses (self-report)\n* Foreign nationals Those with psychiatric illnesses (self-report) Those with physical disabilities and limited mobility",
-          "healthyVolunteers": true,
-          "sex": "FEMALE",
-          "minimumAge": "40 Years",
-          "maximumAge": "59 Years",
-          "stdAges": [
-            "ADULT"
-          ]
-        },
-        "contactsLocationsModule": {
-          "centralContacts": [
-            {
-              "name": "Necibe ş tunalı, master",
-              "role": "CONTACT",
-              "phone": "+90 543 242 0280",
-              "email": "necibe.seyda.tunali@karatay.edu.tr"
-            }
-          ],
-          "overallOfficials": [
-            {
-              "name": "Necibe Ş TUNALI, 1",
-              "affiliation": "KTO KARATAY UNİVERSİTY",
-              "role": "STUDY_DIRECTOR"
-            }
-          ]
-        },
-        "referencesModule": {
-          "references": [
-            {
-              "type": "BACKGROUND",
-              "citation": "Aydın, A., & Kabasakal, E. (2022). Turkish adaptation of the Aging Anxiety Scale for middle-aged women: Validity and reliability study. Journal of Basic and Clinical Health Sciences, 6, 173-180. https://doi.org/10.30621/jbachs.2022.1012 Bergman, Y. S., & Segel-Karpas, D. (2018). Future time perspective, loneliness, and depressive symptoms among middle-aged adults: A mediation model. Journal of Affective Disorders, 241, 173-175. https://doi.org/10.1016/j.jad.2018.08.019 Bergman, Y. S., & Segel-Karpas, D. (2021). Aging anxiety, loneliness, and depressive symptoms among middle-aged adults: The moderating role of ageism. Journal of Affective Disorders, 290, 89-92. https://doi.org/10.1016/j.jad.2021.04.077 Cameron, E., Ward, P., Mandville-Anstey, S. A., & Coombs, A. (2018). The female aging body: A systematic review of female perspectives on aging, health, and body image. Journal of Women & Aging, 31(1), 3-17. https://doi.org/10.1080/08952841.2018.1449586 Creswell, J. D. (2017). Mindfulness interventions. Annual Review of Psychology, 68, 491-516. https://doi.org/10.1146/annurev-psych-042716-051139 Fernandez-Jimenez, C., Alvarez-Hernandez, J. F., Salguero-Garcia, D., Aguilar-Parra, J. M., & Trigueros, R. (2020). Validation of the Lasher and Faulkender Anxiety about Aging Scale (AAS) for the Spanish context. International Journal of Environmental Research and Public Health, 17(12), 4231. https://doi.org/10.3390/ijerph17124231 Gendron, T. L., Inker, J. K., Andricosky, R., & Zanjani, F. (2020). Development of the relational ageism scale: Confirmatory test on survey data. International Journal of Aging and Human Development, 90(3), 281-296. https://doi.org/10.1177/0091415019836956 Lee, H., & You, M. (2019). Development of an aging anxiety scale for middle-aged women. Journal of Korean Academy of Nursing, 49(1), 14-25. https://doi.org/10.4040/jkan.2019.49.1.14"
-            }
-          ]
-        },
-        "ipdSharingStatementModule": {
-          "ipdSharing": "NO",
-          "description": "Individual participant data (IPD) will not be shared due to the sensitive nature of the psychological and health-related information collected from middle-aged women. The dataset includes identifiable variables related to aging anxiety, body image, and mindfulness-based intervention outcomes. Sharing such data may pose confidentiality risks despite anonymization efforts. Aggregated results will be available upon request."
-        }
-      },
-      "derivedSection": {
-        "miscInfoModule": {
-          "versionHolder": "2026-08-31"
         }
       },
       "hasResults": false
@@ -1602,7 +1602,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "interventionBrowseModule": {
           "meshes": [
@@ -1826,7 +1826,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -2216,7 +2216,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -2352,7 +2352,7 @@
           "officialTitle": "Senolytics To slOw Progression of Sepsis (STOP-Sepsis) Trial"
         },
         "statusModule": {
-          "statusVerifiedDate": "2025-10",
+          "statusVerifiedDate": "2026-08",
           "overallStatus": "RECRUITING",
           "expandedAccessInfo": {
             "hasExpandedAccess": false
@@ -2362,11 +2362,11 @@
             "type": "ACTUAL"
           },
           "primaryCompletionDateStruct": {
-            "date": "2026-08-23",
+            "date": "2027-03-30",
             "type": "ESTIMATED"
           },
           "completionDateStruct": {
-            "date": "2026-08-23",
+            "date": "2027-06-30",
             "type": "ESTIMATED"
           },
           "studyFirstSubmitDate": "2023-02-24",
@@ -2375,9 +2375,9 @@
             "date": "2023-03-07",
             "type": "ACTUAL"
           },
-          "lastUpdateSubmitDate": "2025-10-13",
+          "lastUpdateSubmitDate": "2026-08-27",
           "lastUpdatePostDateStruct": {
-            "date": "2025-10-15",
+            "date": "2026-09-01",
             "type": "ACTUAL"
           }
         },
@@ -2391,10 +2391,8 @@
           }
         },
         "oversightModule": {
-          "oversightHasDmc": false,
           "isFdaRegulatedDrug": true,
-          "isFdaRegulatedDevice": false,
-          "isUsExport": false
+          "isFdaRegulatedDevice": false
         },
         "descriptionModule": {
           "briefSummary": "The long-term goal is to test the clinical efficacy of senolytic therapies to reduce progression to and severity of sepsis in older patients. The central hypothesis is that a threshold burden of SnCs predisposes to a SASP mediated dysfunctional response to PAMPs, contributing to a disproportionate burden of sepsis in older patients. The study hypothesizes timely treatment with fisetin will interrupt this pathway.\n\nA multicenter, randomized, adaptive allocation clinical trial to identify the most efficacious dose of the senolytic fisetin to reduce the composite cardiovascular, respiratory, and renal sequential organ failure assessment score at 1 week, and predict the probability of success of a definitive phase III clinical trial."
@@ -2583,19 +2581,11 @@
           "locations": [
             {
               "facility": "University of Florida",
-              "status": "RECRUITING",
+              "status": "ACTIVE_NOT_RECRUITING",
               "city": "Gainesville",
               "state": "Florida",
               "zip": "32608",
               "country": "United States",
-              "contacts": [
-                {
-                  "name": "Faheem W Guirgis, MD",
-                  "role": "CONTACT",
-                  "phone": "352-265-5911",
-                  "email": "fguirgis@ufl.edu"
-                }
-              ],
               "geoPoint": {
                 "lat": 29.65163,
                 "lon": -82.32483
@@ -2698,7 +2688,7 @@
             },
             {
               "facility": "University of Minnesota",
-              "status": "RECRUITING",
+              "status": "ACTIVE_NOT_RECRUITING",
               "city": "Minneapolis",
               "state": "Minnesota",
               "zip": "55414",
@@ -2776,14 +2766,11 @@
               "citation": "Silva M, Wacker DA, Driver BE, Staugaitis A, Niedernhofer LJ, Schmidt EL, Kirkland JL, Tchkonia T, Evans T, Serrano CH, Ventz S, Koopmeiners JS, Puskarich MA; STOP-Sepsis Investigators. Senolytics To slOw Progression of Sepsis (STOP-Sepsis) in elderly patients: Study protocol for a multicenter, randomized, adaptive allocation clinical trial. Trials. 2024 Oct 21;25(1):698. doi: 10.1186/s13063-024-08474-2."
             }
           ]
-        },
-        "ipdSharingStatementModule": {
-          "ipdSharing": "NO"
         }
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -3197,7 +3184,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -3532,7 +3519,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -4015,7 +4002,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "interventionBrowseModule": {
           "meshes": [
@@ -4455,7 +4442,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -4938,7 +4925,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "interventionBrowseModule": {
           "meshes": [
@@ -5384,7 +5371,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -5622,7 +5609,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -6802,7 +6789,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -7066,7 +7053,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -7539,7 +7526,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -7986,7 +7973,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "interventionBrowseModule": {
           "meshes": [
@@ -8394,7 +8381,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "interventionBrowseModule": {
           "meshes": [
@@ -8808,7 +8795,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -9142,7 +9129,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -9453,7 +9440,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         }
       },
       "hasResults": false
@@ -9713,7 +9700,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -9992,7 +9979,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -10220,7 +10207,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         }
       },
       "hasResults": false
@@ -10581,7 +10568,7 @@
       },
       "derivedSection": {
         "miscInfoModule": {
-          "versionHolder": "2026-08-31"
+          "versionHolder": "2026-09-01"
         },
         "conditionBrowseModule": {
           "meshes": [
@@ -10645,11 +10632,11 @@
   ],
   "updated_trials": [],
   "new_publications": [
+    "42675504",
+    "42675254",
     "42669133",
+    "42669054",
     "42666229",
-    "42666156",
-    "42666130",
-    "42665974",
     "42633989",
     "42579355",
     "42573852",
@@ -10670,10 +10657,10 @@
     "42133066",
     "41985884",
     "41151579",
+    "42675504",
+    "42675254",
+    "42669054",
     "42666229",
-    "42666130",
-    "42665974",
-    "42664543",
-    "42662092"
+    "42666130"
   ]
 }
