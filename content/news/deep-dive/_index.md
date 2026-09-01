@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[Supporting Development of Mechanistic Reasoning Across Chemistry and Biology.](./2026-08-25-weekly/)** — 2026年09月01日
+  - *CBE life sciences education* · PMID: 42673545
+
 - **[糖与衰老的因果铁证：生命早期糖分限制降低癌症风险并延缓生物衰老](./2026-08-11-weekly/)** — 2026年8月11日
   - *PNAS* (IF≈11.1) · 基于 UK Biobank 的大规模自然实验 (n=64,761) · 首次提供因果级别证据：生命早期前 1000 天糖分限制可降低成年后多种癌症风险（HR 0.31-0.64），端粒长度延长约 2.2 年生物年龄 · 揭示行为通路和表观遗传通路双重机制
 
