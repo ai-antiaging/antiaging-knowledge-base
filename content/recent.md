@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-08-31 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-01 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug | Age-Related Changes in bis-Retinoids of Lipofuscin Granules in Human Retinal Pigment Epithelium Cells. | Biochemistry. Biokhimiia | [42669560](https://pubmed.ncbi.nlm.nih.gov/42669560/) | Age-Related Changes in bis-Retinoids of Lipofuscin Granules ... |
-| 2026 Aug 28 | Human-relevant Ptpn6 mutation alters immune and hepatic functions during aging. | Aging | [42669491](https://pubmed.ncbi.nlm.nih.gov/42669491/) | Human-relevant Ptpn6 mutation alters immune and hepatic func... |
-| 2026 Dec | Prolonged brain cytokine elevation and microgliosis following exposure to World Trade Center dust particulate matter in male spontaneously hypertensive rats. | Journal of immunotoxicology | [42669197](https://pubmed.ncbi.nlm.nih.gov/42669197/) | Prolonged brain cytokine elevation and microgliosis followin... |
-| 2026 Aug 30 | Primary BPH Stromal Cell Cultures Exhibit Heightened Androgen-Responsiveness. | The Prostate | [42669190](https://pubmed.ncbi.nlm.nih.gov/42669190/) | Primary BPH Stromal Cell Cultures Exhibit Heightened Androge... |
-| 2026 Sep | SIRT1 Silences L1 Retrotransposons by Stabilizing Heterochromatin-Modifying Complexes. | Aging cell | [42669067](https://pubmed.ncbi.nlm.nih.gov/42669067/) | SIRT1 Silences L1 Retrotransposons by Stabilizing Heterochro... |
+| 2026 Aug 31 | Short-term passive heat acclimation modulates autophagy and cellular stress responses in older active adults. | Journal of sport and health science | [42674107](https://pubmed.ncbi.nlm.nih.gov/42674107/) | Short-term passive heat acclimation modulates autophagy and ... |
+| 2026 Aug 31 | An IRAK1-snRNA axis activates ATM to promote accurate repair within transcriptionally active chromatin. | Molecular cell | [42673958](https://pubmed.ncbi.nlm.nih.gov/42673958/) | An IRAK1-snRNA axis activates ATM to promote accurate repair... |
+| 2026 Aug 31 | RNA-binding protein OTUD1 maintains skeletal homeostasis by determining mesenchymal stem cell lineage commitment. | Cell reports | [42671913](https://pubmed.ncbi.nlm.nih.gov/42671913/) | RNA-binding protein OTUD1 maintains skeletal homeostasis by ... |
+| 2026 Aug 31 | MYDGF as a telomerase activator and therapeutic target for osteoarthritis. | Advanced biotechnology | [42671689](https://pubmed.ncbi.nlm.nih.gov/42671689/) | MYDGF as a telomerase activator and therapeutic target for o... |
+| 2026 Aug 31 | Inflammaging and cytokine-driven cardiovascular senescence in age-related myocardial infarction: mechanisms, biomarkers, and precision immunotherapy strategies. | Biogerontology | [42671457](https://pubmed.ncbi.nlm.nih.gov/42671457/) | Inflammaging and cytokine-driven cardiovascular senescence i... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | A Staged Translational Framework for Evaluating Oral Glutamatergic and Senescence-Modulating Strategies in Treatment-Resistant Depression. | Drug design, development and therapy | [42670437](https://pubmed.ncbi.nlm.nih.gov/42670437/) | A Staged Translational Framework for Evaluating Oral Glutama... |
+| 2026 Aug 18 | Nicotinamide Adenine Dinucleotide and Its Anti-aging Effects in the Context of Longevity and Menopause. | Mini reviews in medicinal chemistry | [42669985](https://pubmed.ncbi.nlm.nih.gov/42669985/) | Nicotinamide Adenine Dinucleotide and Its Anti-aging Effects... |
 | 2026 Aug 29 | NAD(+) precursor treatment prevents cardiomyopathy but disrupts erythroid maturation in mitochondrial progeria. | Cell reports | [42669151](https://pubmed.ncbi.nlm.nih.gov/42669151/) | NAD(+) precursor treatment prevents cardiomyopathy but disru... |
 | 2026 Aug 28 | Targeting macrophage mitochondrial metabolism in tuberculosis: from pathogen-driven biochemical reprogramming to host-directed pharmacotherapy. | Biochemical pharmacology | [42665100](https://pubmed.ncbi.nlm.nih.gov/42665100/) | Targeting macrophage mitochondrial metabolism in tuberculosi... |
 | 2026 Aug 28 | The organellar biology of aging: A mitochondrial vantage. | Molecular biology reports | [42663794](https://pubmed.ncbi.nlm.nih.gov/42663794/) | The organellar biology of aging: A mitochondrial vantage. |
-| 2026 | High-fructose diet-induced gut dysbiosis as a mechanistic driver of chronic inflammation and accelerated biological aging: a comprehensive review. | Frontiers in microbiology | [42662784](https://pubmed.ncbi.nlm.nih.gov/42662784/) | High-fructose diet-induced gut dysbiosis as a mechanistic dr... |
-| 2026 | Understanding cardiovascular aging as a disorder of mitochondrial network. | The journal of cardiovascular aging | [42662706](https://pubmed.ncbi.nlm.nih.gov/42662706/) | Understanding cardiovascular aging as a disorder of mitochon... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-08-31 | 自动生成*
+*最后更新：2026-09-01 | 自动生成*
