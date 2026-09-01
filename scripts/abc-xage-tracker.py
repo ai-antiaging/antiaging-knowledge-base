@@ -33,8 +33,10 @@ AGING_KEYWORDS = [
 ]
 
 
-def search_author_papers(author, days=7):
+def search_author_papers(author, days=None):
     """搜索特定作者的近期论文"""
+    if days is None:
+        days = int(os.environ.get("LOOKBACK_DAYS", "7"))
     date_from = (datetime.now() - timedelta(days=days)).strftime("%Y/%m/%d")
     date_to = datetime.now().strftime("%Y/%m/%d")
     
@@ -119,7 +121,12 @@ def format_paper_row(paper, author_tag):
 
 def generate_abc_report(papers_by_author):
     """生成 ABC 追踪报告"""
-    today = datetime.now().strftime("%Y-%m-%d")
+    output_date = os.environ.get("OUTPUT_DATE", "")
+    if output_date:
+        today = output_date
+    else:
+        today = datetime.now().strftime("%Y-%m-%d")
+    lookback = os.environ.get("LOOKBACK_DAYS", "7")
     
     # 统计
     total_papers = sum(len(papers) for papers in papers_by_author.values())
@@ -280,15 +287,17 @@ description: "中国衰老标志物研究联合体最新动态"
 
 def run_abc_tracker():
     """执行 ABC 追踪任务"""
+    lookback = os.environ.get("LOOKBACK_DAYS", "7")
     print("=" * 60)
     print("ABC / X-Age 追踪器")
+    print(f"回溯天数: {lookback}")
     print("=" * 60)
     
     all_papers = {}
     
     for author in ABC_AUTHORS:
         print(f"正在搜索 {author} 的近期论文...")
-        pmids = search_author_papers(author, days=7)
+        pmids = search_author_papers(author, days=int(lookback))
         papers = get_pubmed_details(pmids)
         all_papers[author] = papers
         print(f"  找到 {len(papers)} 篇")

@@ -36,8 +36,10 @@ HIGH_IF_JOURNALS = [
 ]
 
 
-def search_pubmed(keywords, days=7, max_results=20):
+def search_pubmed(keywords, days=None, max_results=20):
     """搜索 PubMed 文献"""
+    if days is None:
+        days = int(os.environ.get("LOOKBACK_DAYS", "7"))
     date_from = (datetime.now() - timedelta(days=days)).strftime("%Y/%m/%d")
     date_to = datetime.now().strftime("%Y/%m/%d")
     
@@ -243,7 +245,12 @@ DOI：{paper.get('doi', 'N/A')}
 
 def save_deep_dive(paper, content):
     """保存深度解读"""
-    today = datetime.now().strftime("%Y-%m-%d")
+    # 支持通过环境变量指定输出日期（用于补更）
+    output_date = os.environ.get("OUTPUT_DATE", "")
+    if output_date:
+        today = output_date
+    else:
+        today = datetime.now().strftime("%Y-%m-%d")
     week_str = f"{today}-weekly"
     
     # 创建目录
@@ -318,14 +325,19 @@ def update_index(new_entry):
 
 def run_weekly_task():
     """执行每周深度解读任务"""
+    lookback = os.environ.get("LOOKBACK_DAYS", "7")
+    output_date = os.environ.get("OUTPUT_DATE", "")
     print("=" * 60)
     print("周深度解读生成器")
     print(f"DeepSeek API: {'已配置 ✅' if DS_API_KEY else '未配置 ⚠️'}")
+    print(f"回溯天数: {lookback}")
+    if output_date:
+        print(f"输出日期: {output_date}")
     print("=" * 60)
     
-    # 搜索最近一周的文献
+    # 搜索文献
     print("正在搜索 PubMed 文献...")
-    pmids = search_pubmed(KEYWORDS, days=7, max_results=20)
+    pmids = search_pubmed(KEYWORDS, days=int(lookback), max_results=20)
     print(f"找到 {len(pmids)} 篇文献")
     
     if not pmids:

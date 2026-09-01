@@ -4,6 +4,17 @@ on:
   schedule:
     - cron: '30 0 * * *'  # 每天凌晨 00:30 UTC（北京时间 08:30）
   workflow_dispatch:  # 允许手动触发
+    inputs:
+      lookback_days:
+        description: '回溯天数（用于补更）'
+        required: false
+        default: '1'
+        type: string
+      output_date:
+        description: '输出日期 YYYY-MM-DD（用于补更）'
+        required: false
+        default: ''
+        type: string
 
 jobs:
   research-snapshot:
@@ -33,6 +44,8 @@ jobs:
         id: snapshot
         env:
           DS_API_KEY: ${{ secrets.DS_API_KEY }}
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days || '1' }}
+          OUTPUT_DATE: ${{ github.event.inputs.output_date || '' }}
         run: |
           python scripts/research-snapshot.py
           echo "snapshot_completed=true" >> $GITHUB_OUTPUT

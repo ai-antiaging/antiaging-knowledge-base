@@ -33,8 +33,10 @@ HIGH_IF_JOURNALS = [
 ]
 
 
-def search_pubmed(keywords, days=1, max_results=10):
+def search_pubmed(keywords, days=None, max_results=10):
     """搜索 PubMed 文献"""
+    if days is None:
+        days = int(os.environ.get("LOOKBACK_DAYS", "1"))
     date_from = (datetime.now() - timedelta(days=days)).strftime("%Y/%m/%d")
     date_to = datetime.now().strftime("%Y/%m/%d")
     
@@ -183,7 +185,11 @@ def generate_hashtags(paper):
 
 def save_snapshot(paper, card_content):
     """保存研究快照"""
-    today = datetime.now().strftime("%Y-%m-%d")
+    output_date = os.environ.get("OUTPUT_DATE", "")
+    if output_date:
+        today = output_date
+    else:
+        today = datetime.now().strftime("%Y-%m-%d")
     
     # 创建目录（支持每天多篇）
     dir_path = CONTENT_DIR / today
@@ -269,14 +275,16 @@ description: "社交媒体风格的研究速览卡片"
 
 def run_snapshot_task():
     """执行研究快照任务"""
+    lookback = os.environ.get("LOOKBACK_DAYS", "1")
     print("=" * 60)
     print("研究快照生成器")
     print(f"DeepSeek API: {'已配置 ✅' if DS_API_KEY else '未配置 ⚠️'}")
+    print(f"回溯天数: {lookback}")
     print("=" * 60)
     
-    # 搜索最近文献
+    # 搜索文献
     print("正在搜索 PubMed 文献...")
-    pmids = search_pubmed(KEYWORDS, days=1, max_results=5)
+    pmids = search_pubmed(KEYWORDS, days=int(lookback), max_results=5)
     print(f"找到 {len(pmids)} 篇文献")
     
     if not pmids:

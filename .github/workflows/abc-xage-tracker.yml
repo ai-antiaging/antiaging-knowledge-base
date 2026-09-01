@@ -4,6 +4,17 @@ on:
   schedule:
     - cron: '0 3 * * 1'  # 每周一凌晨 3:00 UTC（北京时间 11:00）
   workflow_dispatch:  # 允许手动触发
+    inputs:
+      lookback_days:
+        description: '回溯天数（用于补更）'
+        required: false
+        default: '7'
+        type: string
+      output_date:
+        description: '输出日期 YYYY-MM-DD（用于补更）'
+        required: false
+        default: ''
+        type: string
 
 jobs:
   abc-tracker:
@@ -31,6 +42,9 @@ jobs:
       
       - name: Run ABC tracker
         id: abc-track
+        env:
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days || '7' }}
+          OUTPUT_DATE: ${{ github.event.inputs.output_date || '' }}
         run: |
           python scripts/abc-xage-tracker.py
           echo "abc_completed=true" >> $GITHUB_OUTPUT
