@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Aug 31 | Short-term passive heat acclimation modulates autophagy and cellular stress responses in older active adults. | Journal of sport and health science | [42674107](https://pubmed.ncbi.nlm.nih.gov/42674107/) | Short-term passive heat acclimation modulates autophagy and ... |
-| 2026 Aug 31 | An IRAK1-snRNA axis activates ATM to promote accurate repair within transcriptionally active chromatin. | Molecular cell | [42673958](https://pubmed.ncbi.nlm.nih.gov/42673958/) | An IRAK1-snRNA axis activates ATM to promote accurate repair... |
-| 2026 Aug 31 | RNA-binding protein OTUD1 maintains skeletal homeostasis by determining mesenchymal stem cell lineage commitment. | Cell reports | [42671913](https://pubmed.ncbi.nlm.nih.gov/42671913/) | RNA-binding protein OTUD1 maintains skeletal homeostasis by ... |
-| 2026 Aug 31 | MYDGF as a telomerase activator and therapeutic target for osteoarthritis. | Advanced biotechnology | [42671689](https://pubmed.ncbi.nlm.nih.gov/42671689/) | MYDGF as a telomerase activator and therapeutic target for o... |
-| 2026 Aug 31 | Inflammaging and cytokine-driven cardiovascular senescence in age-related myocardial infarction: mechanisms, biomarkers, and precision immunotherapy strategies. | Biogerontology | [42671457](https://pubmed.ncbi.nlm.nih.gov/42671457/) | Inflammaging and cytokine-driven cardiovascular senescence i... |
+| 2026 Sep 1 | Micro- and nanoplastics-induced neurotoxicity: a CNS-centered, evidence-graded adverse outcome pathway framework based on systematic weight-of-evidence assessment. | Archives of toxicology | [42678399](https://pubmed.ncbi.nlm.nih.gov/42678399/) | Micro- and nanoplastics-induced neurotoxicity: a CNS-centere... |
+| 2026 Aug 27 | Near-Surface Sulfidation-Induced p-n Junction Enabling High-Efficiency Inverted Perovskite Solar Cells. | ACS applied materials & interfaces | [42678027](https://pubmed.ncbi.nlm.nih.gov/42678027/) | Near-Surface Sulfidation-Induced p-n Junction Enabling High-... |
+| 2026 Sep 1 | Human iPSC-Derived Vascularised Lung Organoids for Modelling COPD and Pulmonary Hypertension. | Cell proliferation | [42677920](https://pubmed.ncbi.nlm.nih.gov/42677920/) | Human iPSC-Derived Vascularised Lung Organoids for Modelling... |
+| 2026 Sep 1 | Biological Pathways of Strength Preservation During Calorie Restriction-Induced Weight Loss Among Adults Without Obesity. | Obesity (Silver Spring, Md.) | [42677907](https://pubmed.ncbi.nlm.nih.gov/42677907/) | Biological Pathways of Strength Preservation During Calorie ... |
+| 2026 Aug | Retraction Note. | European review for medical and pharmacological sciences | [42677695](https://pubmed.ncbi.nlm.nih.gov/42677695/) | Retraction Note. |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Aug 3 | Maternal metabolic stress regulates progeny intestinal stem cell niche signaling through heritable changes in redox metabolites. | Nature communications | [42675070](https://pubmed.ncbi.nlm.nih.gov/42675070/) | Maternal metabolic stress regulates progeny intestinal stem ... |
 | 2026 | A Staged Translational Framework for Evaluating Oral Glutamatergic and Senescence-Modulating Strategies in Treatment-Resistant Depression. | Drug design, development and therapy | [42670437](https://pubmed.ncbi.nlm.nih.gov/42670437/) | A Staged Translational Framework for Evaluating Oral Glutama... |
 | 2026 Aug 18 | Nicotinamide Adenine Dinucleotide and Its Anti-aging Effects in the Context of Longevity and Menopause. | Mini reviews in medicinal chemistry | [42669985](https://pubmed.ncbi.nlm.nih.gov/42669985/) | Nicotinamide Adenine Dinucleotide and Its Anti-aging Effects... |
 | 2026 Aug 29 | NAD(+) precursor treatment prevents cardiomyopathy but disrupts erythroid maturation in mitochondrial progeria. | Cell reports | [42669151](https://pubmed.ncbi.nlm.nih.gov/42669151/) | NAD(+) precursor treatment prevents cardiomyopathy but disru... |
 | 2026 Aug 28 | Targeting macrophage mitochondrial metabolism in tuberculosis: from pathogen-driven biochemical reprogramming to host-directed pharmacotherapy. | Biochemical pharmacology | [42665100](https://pubmed.ncbi.nlm.nih.gov/42665100/) | Targeting macrophage mitochondrial metabolism in tuberculosi... |
-| 2026 Aug 28 | The organellar biology of aging: A mitochondrial vantage. | Molecular biology reports | [42663794](https://pubmed.ncbi.nlm.nih.gov/42663794/) | The organellar biology of aging: A mitochondrial vantage. |
 
 ### 尿石素 A 与线粒体自噬
 
