@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[Crotonylome profiling identifies MLKL crotonylation in lupus nephritis associated with RAB1A-mTOR signalling and autophagy changes in tubular epithelial cells.](./2026-09-01-weekly/)** — 2026年09月01日
+  - *Lupus science & medicine* · PMID: 42674810
+
 - **[Supporting Development of Mechanistic Reasoning Across Chemistry and Biology.](./2026-08-25-weekly/)** — 2026年09月01日
   - *CBE life sciences education* · PMID: 42673545
 
