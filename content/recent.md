@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-01 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-02 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 1 | Micro- and nanoplastics-induced neurotoxicity: a CNS-centered, evidence-graded adverse outcome pathway framework based on systematic weight-of-evidence assessment. | Archives of toxicology | [42678399](https://pubmed.ncbi.nlm.nih.gov/42678399/) | Micro- and nanoplastics-induced neurotoxicity: a CNS-centere... |
-| 2026 Aug 27 | Near-Surface Sulfidation-Induced p-n Junction Enabling High-Efficiency Inverted Perovskite Solar Cells. | ACS applied materials & interfaces | [42678027](https://pubmed.ncbi.nlm.nih.gov/42678027/) | Near-Surface Sulfidation-Induced p-n Junction Enabling High-... |
-| 2026 Sep 1 | Human iPSC-Derived Vascularised Lung Organoids for Modelling COPD and Pulmonary Hypertension. | Cell proliferation | [42677920](https://pubmed.ncbi.nlm.nih.gov/42677920/) | Human iPSC-Derived Vascularised Lung Organoids for Modelling... |
-| 2026 Sep 1 | Biological Pathways of Strength Preservation During Calorie Restriction-Induced Weight Loss Among Adults Without Obesity. | Obesity (Silver Spring, Md.) | [42677907](https://pubmed.ncbi.nlm.nih.gov/42677907/) | Biological Pathways of Strength Preservation During Calorie ... |
-| 2026 Aug | Retraction Note. | European review for medical and pharmacological sciences | [42677695](https://pubmed.ncbi.nlm.nih.gov/42677695/) | Retraction Note. |
+| 2026 Sep 2 | Alzheimer's disease through the lens of mesenchymal drift: the collapse of cellular identity. | BMB reports | [42680479](https://pubmed.ncbi.nlm.nih.gov/42680479/) | Alzheimer's disease through the lens of mesenchymal drift: t... |
+| 2026 Oct 31 | Purification reshapes systemic exposure and immunomodulation-mediated antiviral responses of licorice triterpenoids. | Food research international (Ottawa, Ont.) | [42680348](https://pubmed.ncbi.nlm.nih.gov/42680348/) | Purification reshapes systemic exposure and immunomodulation... |
+| 2026 Sep 1 | Targeting Senescence-Associated Biomarkers: Emerging Strategies for Anti-Ageing Therapy. | Ageing research reviews | [42680071](https://pubmed.ncbi.nlm.nih.gov/42680071/) | Targeting Senescence-Associated Biomarkers: Emerging Strateg... |
+| 2026 Sep 1 | Stemness as a Systems-Level State: From Ancestral Plasticity to Systemic Control in Regeneration, Aging, and Cancer. | Annual review of genetics | [42679850](https://pubmed.ncbi.nlm.nih.gov/42679850/) | Stemness as a Systems-Level State: From Ancestral Plasticity... |
+| 2026 Sep 1 | Effectiveness of digital health technologies for post-discharge follow-up and management in older adults: a systematic review. | The lancet. Healthy longevity | [42679838](https://pubmed.ncbi.nlm.nih.gov/42679838/) | Effectiveness of digital health technologies for post-discha... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 1 | Exercise elicits mitonuclear protein imbalance and UPR(mt) in the liver of mice with obesity. | Journal of physiology and biochemistry | [42678495](https://pubmed.ncbi.nlm.nih.gov/42678495/) | Exercise elicits mitonuclear protein imbalance and UPR(mt) i... |
 | 2026 Aug 3 | Maternal metabolic stress regulates progeny intestinal stem cell niche signaling through heritable changes in redox metabolites. | Nature communications | [42675070](https://pubmed.ncbi.nlm.nih.gov/42675070/) | Maternal metabolic stress regulates progeny intestinal stem ... |
 | 2026 | A Staged Translational Framework for Evaluating Oral Glutamatergic and Senescence-Modulating Strategies in Treatment-Resistant Depression. | Drug design, development and therapy | [42670437](https://pubmed.ncbi.nlm.nih.gov/42670437/) | A Staged Translational Framework for Evaluating Oral Glutama... |
 | 2026 Aug 18 | Nicotinamide Adenine Dinucleotide and Its Anti-aging Effects in the Context of Longevity and Menopause. | Mini reviews in medicinal chemistry | [42669985](https://pubmed.ncbi.nlm.nih.gov/42669985/) | Nicotinamide Adenine Dinucleotide and Its Anti-aging Effects... |
 | 2026 Aug 29 | NAD(+) precursor treatment prevents cardiomyopathy but disrupts erythroid maturation in mitochondrial progeria. | Cell reports | [42669151](https://pubmed.ncbi.nlm.nih.gov/42669151/) | NAD(+) precursor treatment prevents cardiomyopathy but disru... |
-| 2026 Aug 28 | Targeting macrophage mitochondrial metabolism in tuberculosis: from pathogen-driven biochemical reprogramming to host-directed pharmacotherapy. | Biochemical pharmacology | [42665100](https://pubmed.ncbi.nlm.nih.gov/42665100/) | Targeting macrophage mitochondrial metabolism in tuberculosi... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-01 | 自动生成*
+*最后更新：2026-09-02 | 自动生成*
