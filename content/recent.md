@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 2 | Transient Regulation of Crystallization via Volatile Additives to Obtain High-Quality Perovskite Films. | Angewandte Chemie (International ed. in English) | [42683784](https://pubmed.ncbi.nlm.nih.gov/42683784/) | Transient Regulation of Crystallization via Volatile Additiv... |
-| 2026 | Global Burden of Secondhand Smoke-Attributable ER-Negative Breast Cancer and Exploratory Immune-Metabolic Mediation Using Mendelian Randomization. | International journal of women's health | [42683488](https://pubmed.ncbi.nlm.nih.gov/42683488/) | Global Burden of Secondhand Smoke-Attributable ER-Negative B... |
-| 2026 | CCN1 as a compartment-specific biomarker of active microenvironmental remodeling: evidence from bone repair, aging, inflammation, and cancer. | Frontiers in medicine | [42683406](https://pubmed.ncbi.nlm.nih.gov/42683406/) | CCN1 as a compartment-specific biomarker of active microenvi... |
-| 2026 | Inflammaging and immunosenescence-driven remodeling of the immune microenvironment in osteoarthritis: mechanisms, immune regulation and immune reprogramming. | Frontiers in immunology | [42683402](https://pubmed.ncbi.nlm.nih.gov/42683402/) | Inflammaging and immunosenescence-driven remodeling of the i... |
-| 2026 | Exercise interventions remodel the aging microenvironment to improve prognosis in older patients with cancer. | Frontiers in immunology | [42683260](https://pubmed.ncbi.nlm.nih.gov/42683260/) | Exercise interventions remodel the aging microenvironment to... |
+| 2026 Oct 7 | Probing biomolecular condensates with a minimally perturbative experimental readout framework. | The Biochemical journal | [42689411](https://pubmed.ncbi.nlm.nih.gov/42689411/) | Probing biomolecular condensates with a minimally perturbati... |
+| 2026 Sep 3 | DPM2 promotes melanoma progression and serves as a prognostic factor. | Melanoma research | [42689369](https://pubmed.ncbi.nlm.nih.gov/42689369/) | DPM2 promotes melanoma progression and serves as a prognosti... |
+| 2026 | Molecular mechanisms of traditional Chinese medicine in skin aging: a narrative review. | Frontiers in pharmacology | [42689125](https://pubmed.ncbi.nlm.nih.gov/42689125/) | Molecular mechanisms of traditional Chinese medicine in skin... |
+| 2026 Jul 20 | [Research Advances on Mechanisms and Interventions of DNA Methylation-Regulated Aging-Related Imbalance in Bone Metabolism]. | Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition | [42688583](https://pubmed.ncbi.nlm.nih.gov/42688583/) | [Research Advances on Mechanisms and Interventions of DNA Me... |
+| 2026 Jul 20 | [Oral Aging: Age-Related Changes and Their Association With Systemic Aging]. | Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition | [42688549](https://pubmed.ncbi.nlm.nih.gov/42688549/) | [Oral Aging: Age-Related Changes and Their Association With ... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | Molecular mechanisms of traditional Chinese medicine in skin aging: a narrative review. | Frontiers in pharmacology | [42689125](https://pubmed.ncbi.nlm.nih.gov/42689125/) | Molecular mechanisms of traditional Chinese medicine in skin... |
+| 2026 Jul 20 | [Systemic Reprogramming of Cellular Senescence: Coordinated Regulation of Metabolism, Epigenetics, and Proteostasis]. | Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition | [42688282](https://pubmed.ncbi.nlm.nih.gov/42688282/) | [Systemic Reprogramming of Cellular Senescence: Coordinated ... |
+| 2026 | A minimal three-arm oral regimen for healthspan: mechanistic alignment with transcriptomic signals from a large parental-lifespan GWAS. | Frontiers in aging | [42688195](https://pubmed.ncbi.nlm.nih.gov/42688195/) | A minimal three-arm oral regimen for healthspan: mechanistic... |
 | 2026 Sep 1 | Exercise elicits mitonuclear protein imbalance and UPR(mt) in the liver of mice with obesity. | Journal of physiology and biochemistry | [42678495](https://pubmed.ncbi.nlm.nih.gov/42678495/) | Exercise elicits mitonuclear protein imbalance and UPR(mt) i... |
 | 2026 Aug 3 | Maternal metabolic stress regulates progeny intestinal stem cell niche signaling through heritable changes in redox metabolites. | Nature communications | [42675070](https://pubmed.ncbi.nlm.nih.gov/42675070/) | Maternal metabolic stress regulates progeny intestinal stem ... |
-| 2026 | A Staged Translational Framework for Evaluating Oral Glutamatergic and Senescence-Modulating Strategies in Treatment-Resistant Depression. | Drug design, development and therapy | [42670437](https://pubmed.ncbi.nlm.nih.gov/42670437/) | A Staged Translational Framework for Evaluating Oral Glutama... |
-| 2026 Aug 18 | Nicotinamide Adenine Dinucleotide and Its Anti-aging Effects in the Context of Longevity and Menopause. | Mini reviews in medicinal chemistry | [42669985](https://pubmed.ncbi.nlm.nih.gov/42669985/) | Nicotinamide Adenine Dinucleotide and Its Anti-aging Effects... |
-| 2026 Aug 29 | NAD(+) precursor treatment prevents cardiomyopathy but disrupts erythroid maturation in mitochondrial progeria. | Cell reports | [42669151](https://pubmed.ncbi.nlm.nih.gov/42669151/) | NAD(+) precursor treatment prevents cardiomyopathy but disru... |
 
 ### 尿石素 A 与线粒体自噬
 
