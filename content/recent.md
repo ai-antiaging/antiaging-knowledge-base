@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-02 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-03 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 2 | Alzheimer's disease through the lens of mesenchymal drift: the collapse of cellular identity. | BMB reports | [42680479](https://pubmed.ncbi.nlm.nih.gov/42680479/) | Alzheimer's disease through the lens of mesenchymal drift: t... |
-| 2026 Oct 31 | Purification reshapes systemic exposure and immunomodulation-mediated antiviral responses of licorice triterpenoids. | Food research international (Ottawa, Ont.) | [42680348](https://pubmed.ncbi.nlm.nih.gov/42680348/) | Purification reshapes systemic exposure and immunomodulation... |
-| 2026 Sep 1 | Targeting Senescence-Associated Biomarkers: Emerging Strategies for Anti-Ageing Therapy. | Ageing research reviews | [42680071](https://pubmed.ncbi.nlm.nih.gov/42680071/) | Targeting Senescence-Associated Biomarkers: Emerging Strateg... |
-| 2026 Sep 1 | Stemness as a Systems-Level State: From Ancestral Plasticity to Systemic Control in Regeneration, Aging, and Cancer. | Annual review of genetics | [42679850](https://pubmed.ncbi.nlm.nih.gov/42679850/) | Stemness as a Systems-Level State: From Ancestral Plasticity... |
-| 2026 Sep 1 | Effectiveness of digital health technologies for post-discharge follow-up and management in older adults: a systematic review. | The lancet. Healthy longevity | [42679838](https://pubmed.ncbi.nlm.nih.gov/42679838/) | Effectiveness of digital health technologies for post-discha... |
+| 2026 Sep 2 | Transient Regulation of Crystallization via Volatile Additives to Obtain High-Quality Perovskite Films. | Angewandte Chemie (International ed. in English) | [42683784](https://pubmed.ncbi.nlm.nih.gov/42683784/) | Transient Regulation of Crystallization via Volatile Additiv... |
+| 2026 | Global Burden of Secondhand Smoke-Attributable ER-Negative Breast Cancer and Exploratory Immune-Metabolic Mediation Using Mendelian Randomization. | International journal of women's health | [42683488](https://pubmed.ncbi.nlm.nih.gov/42683488/) | Global Burden of Secondhand Smoke-Attributable ER-Negative B... |
+| 2026 | CCN1 as a compartment-specific biomarker of active microenvironmental remodeling: evidence from bone repair, aging, inflammation, and cancer. | Frontiers in medicine | [42683406](https://pubmed.ncbi.nlm.nih.gov/42683406/) | CCN1 as a compartment-specific biomarker of active microenvi... |
+| 2026 | Inflammaging and immunosenescence-driven remodeling of the immune microenvironment in osteoarthritis: mechanisms, immune regulation and immune reprogramming. | Frontiers in immunology | [42683402](https://pubmed.ncbi.nlm.nih.gov/42683402/) | Inflammaging and immunosenescence-driven remodeling of the i... |
+| 2026 | Exercise interventions remodel the aging microenvironment to improve prognosis in older patients with cancer. | Frontiers in immunology | [42683260](https://pubmed.ncbi.nlm.nih.gov/42683260/) | Exercise interventions remodel the aging microenvironment to... |
 
 ### NAD+ 与线粒体
 
@@ -36,7 +36,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
 | 2026 Aug | Urolithins: microbial biosynthesis, metabolic pathways and health benefits for functional food and cosmeceutical applications. | Food science and biotechnology | [42661872](https://pubmed.ncbi.nlm.nih.gov/42661872/) | Urolithins: microbial biosynthesis, metabolic pathways and h... |
-| 2026 Aug 27 | Neonatal Reversible Aortic Constriction Mice Model Unlocks Distinctive Footprints of Young Heart Recovery. | Journal of the American Heart Association | [42657742](https://pubmed.ncbi.nlm.nih.gov/42657742/) | Neonatal Reversible Aortic Constriction Mice Model Unlocks D... |
+| 2026 Sep | Neonatal Reversible Aortic Constriction Mice Model Unlocks Distinctive Footprints of Young Heart Recovery. | Journal of the American Heart Association | [42657742](https://pubmed.ncbi.nlm.nih.gov/42657742/) | Neonatal Reversible Aortic Constriction Mice Model Unlocks D... |
 | 2026 | Urolithins in clinical translation: from gut microbial metabolites to precision interventions. | Frontiers in nutrition | [42626640](https://pubmed.ncbi.nlm.nih.gov/42626640/) | Urolithins in clinical translation: from gut microbial metab... |
 | 2026 Aug 23 | Sequalae and reversal of age-dependent alterations in mitochondrial dynamics via autophagy enhancement in reprogrammed human neurons. | Autophagy | [42604495](https://pubmed.ncbi.nlm.nih.gov/42604495/) | Sequalae and reversal of age-dependent alterations in mitoch... |
 | 2026 Aug | Urolithin A Exerts Neuroprotective Effects Against Ischemic Stroke by Inhibiting Oxidative Stress and Neuroinflammation. | CNS neuroscience & therapeutics | [42590804](https://pubmed.ncbi.nlm.nih.gov/42590804/) | Urolithin A Exerts Neuroprotective Effects Against Ischemic ... |
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-02 | 自动生成*
+*最后更新：2026-09-03 | 自动生成*
