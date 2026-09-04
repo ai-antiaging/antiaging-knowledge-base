@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-09-04 #1"
 date: 2026-09-04
-description: "Gender Differences in Sexually Active Life Expectancy in France...."
+description: 'Gender Differences in Sexually Active Life Expectancy in France....'
 draft: false
 type: "snapshot"
 ---

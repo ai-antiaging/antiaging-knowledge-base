@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-09-04 #3"
 date: 2026-09-04
-description: "Corrigendum to "Qinghuang powder ameliorates cellular senescence and energy meta..."
+description: 'Corrigendum to "Qinghuang powder ameliorates cellular senescence and energy meta...'
 draft: false
 type: "snapshot"
 ---
