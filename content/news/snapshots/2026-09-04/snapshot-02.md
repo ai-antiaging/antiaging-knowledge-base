@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-09-04 #2"
 date: 2026-09-04
-description: "Corrigendum to "Electrospun nanofibers based on carboxymethyl cellulose/polyviny..."
+description: 'Corrigendum to "Electrospun nanofibers based on carboxymethyl cellulose/polyviny...'
 draft: false
 type: "snapshot"
 ---
