@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-03 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-04 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 7 | Probing biomolecular condensates with a minimally perturbative experimental readout framework. | The Biochemical journal | [42689411](https://pubmed.ncbi.nlm.nih.gov/42689411/) | Probing biomolecular condensates with a minimally perturbati... |
-| 2026 Sep 3 | DPM2 promotes melanoma progression and serves as a prognostic factor. | Melanoma research | [42689369](https://pubmed.ncbi.nlm.nih.gov/42689369/) | DPM2 promotes melanoma progression and serves as a prognosti... |
-| 2026 | Molecular mechanisms of traditional Chinese medicine in skin aging: a narrative review. | Frontiers in pharmacology | [42689125](https://pubmed.ncbi.nlm.nih.gov/42689125/) | Molecular mechanisms of traditional Chinese medicine in skin... |
-| 2026 Jul 20 | [Research Advances on Mechanisms and Interventions of DNA Methylation-Regulated Aging-Related Imbalance in Bone Metabolism]. | Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition | [42688583](https://pubmed.ncbi.nlm.nih.gov/42688583/) | [Research Advances on Mechanisms and Interventions of DNA Me... |
-| 2026 Jul 20 | [Oral Aging: Age-Related Changes and Their Association With Systemic Aging]. | Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition | [42688549](https://pubmed.ncbi.nlm.nih.gov/42688549/) | [Oral Aging: Age-Related Changes and Their Association With ... |
+| 2026 Sep 4 | Mechanical Regulation of Transient Receptor Potential Vanilloid 4 Function in Aging and Cardiovasculature Disease. | ACS applied materials & interfaces | [42692791](https://pubmed.ncbi.nlm.nih.gov/42692791/) | Mechanical Regulation of Transient Receptor Potential Vanill... |
+| 2026 | Mass spectrometry-based mapping of the ubiquitin chaperone code. | Methods in enzymology | [42692755](https://pubmed.ncbi.nlm.nih.gov/42692755/) | Mass spectrometry-based mapping of the ubiquitin chaperone c... |
+| 2026 Oct | Osteoarthritis as a Whole-Joint Disease, Part II: Emerging Nociceptive, Metabolic, Senescence, and Regenerative Therapeutic Targets, with Perspectives on Precision Care. | The Orthopedic clinics of North America | [42692564](https://pubmed.ncbi.nlm.nih.gov/42692564/) | Osteoarthritis as a Whole-Joint Disease, Part II: Emerging N... |
+| 2026 | Flow cytometric distinction of early apoptotic, late apoptotic and primary necrotic morphological markers in Saccharomyces cerevisiae. | Methods in cell biology | [42692562](https://pubmed.ncbi.nlm.nih.gov/42692562/) | Flow cytometric distinction of early apoptotic, late apoptot... |
+| 2026 | CRISPR-Cas9 screen to identify genes regulating cell death. | Methods in cell biology | [42692561](https://pubmed.ncbi.nlm.nih.gov/42692561/) | CRISPR-Cas9 screen to identify genes regulating cell death. |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | Experimental approaches for investigating sirtuin-mediated mitochondrial function, cellular metabolism, and epigenetic regulation. | Methods in enzymology | [42692759](https://pubmed.ncbi.nlm.nih.gov/42692759/) | Experimental approaches for investigating sirtuin-mediated m... |
+| 2026 | Identification of 2,4-dihydroxy-azaflavanone as an allosteric activator of SIRT1 and its potential role in cellular models of Parkinson's disease. | Methods in enzymology | [42692752](https://pubmed.ncbi.nlm.nih.gov/42692752/) | Identification of 2,4-dihydroxy-azaflavanone as an allosteri... |
+| 2026 Sep 3 | Sn-2 palmitate-enriched structured lipids attenuate early aging phenotypes in senescence-accelerated mice. | The Journal of nutritional biochemistry | [42692095](https://pubmed.ncbi.nlm.nih.gov/42692095/) | Sn-2 palmitate-enriched structured lipids attenuate early ag... |
+| 2026 Dec | The mitochondrial deacetylase SIRT3 is nonessential for cyclophilin D-dependent procoagulant platelet formation in mice. | Platelets | [42689685](https://pubmed.ncbi.nlm.nih.gov/42689685/) | The mitochondrial deacetylase SIRT3 is nonessential for cycl... |
 | 2026 | Molecular mechanisms of traditional Chinese medicine in skin aging: a narrative review. | Frontiers in pharmacology | [42689125](https://pubmed.ncbi.nlm.nih.gov/42689125/) | Molecular mechanisms of traditional Chinese medicine in skin... |
-| 2026 Jul 20 | [Systemic Reprogramming of Cellular Senescence: Coordinated Regulation of Metabolism, Epigenetics, and Proteostasis]. | Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition | [42688282](https://pubmed.ncbi.nlm.nih.gov/42688282/) | [Systemic Reprogramming of Cellular Senescence: Coordinated ... |
-| 2026 | A minimal three-arm oral regimen for healthspan: mechanistic alignment with transcriptomic signals from a large parental-lifespan GWAS. | Frontiers in aging | [42688195](https://pubmed.ncbi.nlm.nih.gov/42688195/) | A minimal three-arm oral regimen for healthspan: mechanistic... |
-| 2026 Sep 1 | Exercise elicits mitonuclear protein imbalance and UPR(mt) in the liver of mice with obesity. | Journal of physiology and biochemistry | [42678495](https://pubmed.ncbi.nlm.nih.gov/42678495/) | Exercise elicits mitonuclear protein imbalance and UPR(mt) i... |
-| 2026 Aug 3 | Maternal metabolic stress regulates progeny intestinal stem cell niche signaling through heritable changes in redox metabolites. | Nature communications | [42675070](https://pubmed.ncbi.nlm.nih.gov/42675070/) | Maternal metabolic stress regulates progeny intestinal stem ... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-03 | 自动生成*
+*最后更新：2026-09-04 | 自动生成*
