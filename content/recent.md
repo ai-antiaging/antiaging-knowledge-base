@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-04 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-05 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 4 | Mechanical Regulation of Transient Receptor Potential Vanilloid 4 Function in Aging and Cardiovasculature Disease. | ACS applied materials & interfaces | [42692791](https://pubmed.ncbi.nlm.nih.gov/42692791/) | Mechanical Regulation of Transient Receptor Potential Vanill... |
-| 2026 | Mass spectrometry-based mapping of the ubiquitin chaperone code. | Methods in enzymology | [42692755](https://pubmed.ncbi.nlm.nih.gov/42692755/) | Mass spectrometry-based mapping of the ubiquitin chaperone c... |
-| 2026 Oct | Osteoarthritis as a Whole-Joint Disease, Part II: Emerging Nociceptive, Metabolic, Senescence, and Regenerative Therapeutic Targets, with Perspectives on Precision Care. | The Orthopedic clinics of North America | [42692564](https://pubmed.ncbi.nlm.nih.gov/42692564/) | Osteoarthritis as a Whole-Joint Disease, Part II: Emerging N... |
-| 2026 | Flow cytometric distinction of early apoptotic, late apoptotic and primary necrotic morphological markers in Saccharomyces cerevisiae. | Methods in cell biology | [42692562](https://pubmed.ncbi.nlm.nih.gov/42692562/) | Flow cytometric distinction of early apoptotic, late apoptot... |
-| 2026 | CRISPR-Cas9 screen to identify genes regulating cell death. | Methods in cell biology | [42692561](https://pubmed.ncbi.nlm.nih.gov/42692561/) | CRISPR-Cas9 screen to identify genes regulating cell death. |
+| 2026 Aug 18 | Stem cell-based therapeutics in epilepsy: current advances and future prospects. | Stem cells translational medicine | [42697696](https://pubmed.ncbi.nlm.nih.gov/42697696/) | Stem cell-based therapeutics in epilepsy: current advances a... |
+| 2026 Sep 4 | Therapeutic Targeting of Tauopathies: From Druggable Biology to Precision Intervention. | Pharmacological research | [42697418](https://pubmed.ncbi.nlm.nih.gov/42697418/) | Therapeutic Targeting of Tauopathies: From Druggable Biology... |
+| 2026 Sep 4 | Betaine attenuates methamphetamine-induced reinstatement through CAMKK2-AMPK signaling in the nucleus Accumbens Core. | Progress in neuro-psychopharmacology & biological psychiatry | [42697357](https://pubmed.ncbi.nlm.nih.gov/42697357/) | Betaine attenuates methamphetamine-induced reinstatement thr... |
+| 2026 Sep 4 | Posttranslational Oxidation of SOD1 and Skin Aging: Evidence, Gaps, and Future Directions. | Ageing research reviews | [42697334](https://pubmed.ncbi.nlm.nih.gov/42697334/) | Posttranslational Oxidation of SOD1 and Skin Aging: Evidence... |
+| 2026 Sep 1 | Accelerated transformation and enhanced gastrointestinal toxicity of tire wear particles during photo-chlorination mediated by reactive species. | Journal of hazardous materials | [42696884](https://pubmed.ncbi.nlm.nih.gov/42696884/) | Accelerated transformation and enhanced gastrointestinal tox... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-04 | 自动生成*
+*最后更新：2026-09-05 | 自动生成*
