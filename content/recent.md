@@ -23,18 +23,31 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### NAD+ 与线粒体
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Sep | P7C3 Compounds as Targeted Mitochondrial Therapeutics for Brain Disorders. | CNS neuroscience & therapeutics | [42698301](https://pubmed.ncbi.nlm.nih.gov/42698301/) | P7C3 Compounds as Targeted Mitochondrial Therapeutics for Br... |
+| 2026 | Experimental approaches for investigating sirtuin-mediated mitochondrial function, cellular metabolism, and epigenetic regulation. | Methods in enzymology | [42692759](https://pubmed.ncbi.nlm.nih.gov/42692759/) | Experimental approaches for investigating sirtuin-mediated m... |
+| 2026 | Identification of 2,4-dihydroxy-azaflavanone as an allosteric activator of SIRT1 and its potential role in cellular models of Parkinson's disease. | Methods in enzymology | [42692752](https://pubmed.ncbi.nlm.nih.gov/42692752/) | Identification of 2,4-dihydroxy-azaflavanone as an allosteri... |
+| 2026 Sep 3 | Sn-2 palmitate-enriched structured lipids attenuate early aging phenotypes in senescence-accelerated mice. | The Journal of nutritional biochemistry | [42692095](https://pubmed.ncbi.nlm.nih.gov/42692095/) | Sn-2 palmitate-enriched structured lipids attenuate early ag... |
+| 2026 Dec | The mitochondrial deacetylase SIRT3 is nonessential for cyclophilin D-dependent procoagulant platelet formation in mice. | Platelets | [42689685](https://pubmed.ncbi.nlm.nih.gov/42689685/) | The mitochondrial deacetylase SIRT3 is nonessential for cycl... |
 
 ### 尿石素 A 与线粒体自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Aug | Urolithins: microbial biosynthesis, metabolic pathways and health benefits for functional food and cosmeceutical applications. | Food science and biotechnology | [42661872](https://pubmed.ncbi.nlm.nih.gov/42661872/) | Urolithins: microbial biosynthesis, metabolic pathways and h... |
+| 2026 Sep | Neonatal Reversible Aortic Constriction Mice Model Unlocks Distinctive Footprints of Young Heart Recovery. | Journal of the American Heart Association | [42657742](https://pubmed.ncbi.nlm.nih.gov/42657742/) | Neonatal Reversible Aortic Constriction Mice Model Unlocks D... |
+| 2026 | Urolithins in clinical translation: from gut microbial metabolites to precision interventions. | Frontiers in nutrition | [42626640](https://pubmed.ncbi.nlm.nih.gov/42626640/) | Urolithins in clinical translation: from gut microbial metab... |
+| 2026 Aug 23 | Sequalae and reversal of age-dependent alterations in mitochondrial dynamics via autophagy enhancement in reprogrammed human neurons. | Autophagy | [42604495](https://pubmed.ncbi.nlm.nih.gov/42604495/) | Sequalae and reversal of age-dependent alterations in mitoch... |
+| 2026 Aug | Urolithin A Exerts Neuroprotective Effects Against Ischemic Stroke by Inhibiting Oxidative Stress and Neuroinflammation. | CNS neuroscience & therapeutics | [42590804](https://pubmed.ncbi.nlm.nih.gov/42590804/) | Urolithin A Exerts Neuroprotective Effects Against Ischemic ... |
 
 ### 亚精胺与自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 | Polyamine Metabolism in Brain Health and Disease. | Neuropharmacology and therapy | [42631064](https://pubmed.ncbi.nlm.nih.gov/42631064/) | Polyamine Metabolism in Brain Health and Disease. |
+| 2026 Aug 30 | Non-cell autonomous control of presynaptic remodeling by the hypothalamic autophagy-NPY axis. | Autophagy | [42609005](https://pubmed.ncbi.nlm.nih.gov/42609005/) | Non-cell autonomous control of presynaptic remodeling by the... |
+| 2026 Aug 21 | Comprehensive transcriptomic profiling reveals impaired polyamine metabolism as a contributor to age-related muscle decline. | iScience | [42602328](https://pubmed.ncbi.nlm.nih.gov/42602328/) | Comprehensive transcriptomic profiling reveals impaired poly... |
 
 ---
 
