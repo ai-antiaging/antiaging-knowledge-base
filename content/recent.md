@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-07 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-08 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 7 | Cracks in the barrier: The hidden cost of over-relying on HaCaT cells. | The Journal of investigative dermatology | [42704324](https://pubmed.ncbi.nlm.nih.gov/42704324/) | Cracks in the barrier: The hidden cost of over-relying on Ha... |
-| 2026 Sep 7 | MicroRNA-Mediated Autophagy and Cardiovascular Diseases: Exploring the Crossroads of Atherosclerosis and Beyond. | Journal of clinical laboratory analysis | [42704033](https://pubmed.ncbi.nlm.nih.gov/42704033/) | MicroRNA-Mediated Autophagy and Cardiovascular Diseases: Exp... |
-| 2026 Sep 6 | Rapid Cooling After Device Annealing Suppresses Interface Losses in Cu(2)ZnSnS(4) Solar Cells Enabling High Efficiency and Stability. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42702859](https://pubmed.ncbi.nlm.nih.gov/42702859/) | Rapid Cooling After Device Annealing Suppresses Interface Lo... |
-| 2026 Sep 7 | Vascular smooth muscle cell-derived osteoprotegerin drives pulmonary arterial hypertension via AKT activation and is attenuated by monoclonal antibody therapy. | Cardiovascular research | [42702807](https://pubmed.ncbi.nlm.nih.gov/42702807/) | Vascular smooth muscle cell-derived osteoprotegerin drives p... |
-| 2026 Aug 25 | Genome-wide association study of sarcopenia index reveals sex-stratified genetic architecture. | Biology of sex differences | [42702734](https://pubmed.ncbi.nlm.nih.gov/42702734/) | Genome-wide association study of sarcopenia index reveals se... |
+| 2026 Jul 7 | [The role of TXNIP-mediated ferroptosis in the senescence of cochlear hair cells in age-related hearing loss]. | Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery | [42706065](https://pubmed.ncbi.nlm.nih.gov/42706065/) | [The role of TXNIP-mediated ferroptosis in the senescence of... |
+| 2026 Sep 7 | Relationship between age, pseudophakia, diabetes mellitus and endothelial cell density in corneal donor tissue: a 10-year retrospective study. | BMJ open ophthalmology | [42705837](https://pubmed.ncbi.nlm.nih.gov/42705837/) | Relationship between age, pseudophakia, diabetes mellitus an... |
+| 2026 Sep 7 | Haematopoietic stem cell fitness mechanisms. | Experimental hematology | [42705591](https://pubmed.ncbi.nlm.nih.gov/42705591/) | Haematopoietic stem cell fitness mechanisms. |
+| 2026 Sep 7 | Immunotherapy for invasive Candida infections: Translating host-directed strategies into clinical practice. | Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases | [42705534](https://pubmed.ncbi.nlm.nih.gov/42705534/) | Immunotherapy for invasive Candida infections: Translating h... |
+| 2026 Sep 7 | Athero-Oncology: Vascular Smooth Muscle Cell Tumor-Like Transformation in Atherosclerosis and Therapeutic Opportunities. | Ageing research reviews | [42705482](https://pubmed.ncbi.nlm.nih.gov/42705482/) | Athero-Oncology: Vascular Smooth Muscle Cell Tumor-Like Tran... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-07 | 自动生成*
+*最后更新：2026-09-08 | 自动生成*
