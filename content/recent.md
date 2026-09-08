@@ -15,39 +15,26 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul 7 | [The role of TXNIP-mediated ferroptosis in the senescence of cochlear hair cells in age-related hearing loss]. | Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery | [42706065](https://pubmed.ncbi.nlm.nih.gov/42706065/) | [The role of TXNIP-mediated ferroptosis in the senescence of... |
-| 2026 Sep 7 | Relationship between age, pseudophakia, diabetes mellitus and endothelial cell density in corneal donor tissue: a 10-year retrospective study. | BMJ open ophthalmology | [42705837](https://pubmed.ncbi.nlm.nih.gov/42705837/) | Relationship between age, pseudophakia, diabetes mellitus an... |
-| 2026 Sep 7 | Haematopoietic stem cell fitness mechanisms. | Experimental hematology | [42705591](https://pubmed.ncbi.nlm.nih.gov/42705591/) | Haematopoietic stem cell fitness mechanisms. |
-| 2026 Sep 7 | Immunotherapy for invasive Candida infections: Translating host-directed strategies into clinical practice. | Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases | [42705534](https://pubmed.ncbi.nlm.nih.gov/42705534/) | Immunotherapy for invasive Candida infections: Translating h... |
-| 2026 Sep 7 | Athero-Oncology: Vascular Smooth Muscle Cell Tumor-Like Transformation in Atherosclerosis and Therapeutic Opportunities. | Ageing research reviews | [42705482](https://pubmed.ncbi.nlm.nih.gov/42705482/) | Athero-Oncology: Vascular Smooth Muscle Cell Tumor-Like Tran... |
+| 2026 Sep 18 | Comprehensive multi-post-translational modifications profiling reveals age-associated remodeling in skeletal muscle. | Zoological research | [42706783](https://pubmed.ncbi.nlm.nih.gov/42706783/) | Comprehensive multi-post-translational modifications profili... |
+| 2026 Sep 5 | No evidence of major integrative brain clearance impairment in an Alzheimer´s disease model of transgenic APPswe/PS1dE9 mice. | Fluids and barriers of the CNS | [42706570](https://pubmed.ncbi.nlm.nih.gov/42706570/) | No evidence of major integrative brain clearance impairment ... |
+| 2026 Sep 7 | Effectiveness of an on-site vaccination campaign for patients with cancer. | BMC public health | [42706520](https://pubmed.ncbi.nlm.nih.gov/42706520/) | Effectiveness of an on-site vaccination campaign for patient... |
+| 2026 Sep | Muscle-Specific Upregulation of Timeless Mediates Exercise-Induced Amelioration of Age-Related Circadian Rhythm Disruption and Cardiac Dysfunction in Drosophila. | Aging cell | [42706483](https://pubmed.ncbi.nlm.nih.gov/42706483/) | Muscle-Specific Upregulation of Timeless Mediates Exercise-I... |
+| 2026 Sep 8 | Convergent and Divergent Molecular Pathways in FMR1-, TSC2- and FMR1/TSC2 Knockout Neurons. | Molecular neurobiology | [42706412](https://pubmed.ncbi.nlm.nih.gov/42706412/) | Convergent and Divergent Molecular Pathways in FMR1-, TSC2- ... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Sep 5 | Insights Into the Mechanisms of Biological Aging That Guide Translational and Clinical Research. | Aging medicine (Milton (N.S.W)) | [42701765](https://pubmed.ncbi.nlm.nih.gov/42701765/) | Insights Into the Mechanisms of Biological Aging That Guide ... |
-| 2026 Sep 5 | Circular RNAs and SIRT1 in post-transcriptional regulation and human disease. | Biochimica et biophysica acta. Molecular basis of disease | [42700874](https://pubmed.ncbi.nlm.nih.gov/42700874/) | Circular RNAs and SIRT1 in post-transcriptional regulation a... |
-| 2026 Sep 1 | Bioactive vitamin E-NAD(+) conjugate nanoparticles for osteoarthritis management via simultaneous suppression of inflammation and oxidative stress. | Biomaterials | [42700728](https://pubmed.ncbi.nlm.nih.gov/42700728/) | Bioactive vitamin E-NAD(+) conjugate nanoparticles for osteo... |
-| 2026 Sep | P7C3 Compounds as Targeted Mitochondrial Therapeutics for Brain Disorders. | CNS neuroscience & therapeutics | [42698301](https://pubmed.ncbi.nlm.nih.gov/42698301/) | P7C3 Compounds as Targeted Mitochondrial Therapeutics for Br... |
-| 2026 | Experimental approaches for investigating sirtuin-mediated mitochondrial function, cellular metabolism, and epigenetic regulation. | Methods in enzymology | [42692759](https://pubmed.ncbi.nlm.nih.gov/42692759/) | Experimental approaches for investigating sirtuin-mediated m... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Aug | Urolithins: microbial biosynthesis, metabolic pathways and health benefits for functional food and cosmeceutical applications. | Food science and biotechnology | [42661872](https://pubmed.ncbi.nlm.nih.gov/42661872/) | Urolithins: microbial biosynthesis, metabolic pathways and h... |
-| 2026 Sep | Neonatal Reversible Aortic Constriction Mice Model Unlocks Distinctive Footprints of Young Heart Recovery. | Journal of the American Heart Association | [42657742](https://pubmed.ncbi.nlm.nih.gov/42657742/) | Neonatal Reversible Aortic Constriction Mice Model Unlocks D... |
-| 2026 | Urolithins in clinical translation: from gut microbial metabolites to precision interventions. | Frontiers in nutrition | [42626640](https://pubmed.ncbi.nlm.nih.gov/42626640/) | Urolithins in clinical translation: from gut microbial metab... |
-| 2026 Aug 23 | Sequalae and reversal of age-dependent alterations in mitochondrial dynamics via autophagy enhancement in reprogrammed human neurons. | Autophagy | [42604495](https://pubmed.ncbi.nlm.nih.gov/42604495/) | Sequalae and reversal of age-dependent alterations in mitoch... |
-| 2026 Aug | Urolithin A Exerts Neuroprotective Effects Against Ischemic Stroke by Inhibiting Oxidative Stress and Neuroinflammation. | CNS neuroscience & therapeutics | [42590804](https://pubmed.ncbi.nlm.nih.gov/42590804/) | Urolithin A Exerts Neuroprotective Effects Against Ischemic ... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Sep 7 | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTSALDOSTERONE-INDUCED CARDIOVASCULAR DAMAGE. | Clinical science (London, England : 1979) | [42704046](https://pubmed.ncbi.nlm.nih.gov/42704046/) | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTSALDO... |
-| 2026 | Polyamine Metabolism in Brain Health and Disease. | Neuropharmacology and therapy | [42631064](https://pubmed.ncbi.nlm.nih.gov/42631064/) | Polyamine Metabolism in Brain Health and Disease. |
-| 2026 Aug 30 | Non-cell autonomous control of presynaptic remodeling by the hypothalamic autophagy-NPY axis. | Autophagy | [42609005](https://pubmed.ncbi.nlm.nih.gov/42609005/) | Non-cell autonomous control of presynaptic remodeling by the... |
+*暂无最新文献*
+
 
 ---
 
