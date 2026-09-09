@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-09-08 #3"
 date: 2026-09-08
-description: "[Is osteoarthritis merely a local "wear and tear" or a systemic disease? :explor..."
+description: '[Is osteoarthritis merely a local "wear and tear" or a systemic disease? :explor...'
 draft: false
 type: "snapshot"
 ---
