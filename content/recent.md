@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 8 | RNA dysregulation as a determinant of aging and neurodegenerative vulnerability. | Trends in cell biology | [42711219](https://pubmed.ncbi.nlm.nih.gov/42711219/) | RNA dysregulation as a determinant of aging and neurodegener... |
-| 2026 | Lipid and protein oxidation of foods and their implications on food quality, health, and diseases. | Advances in food and nutrition research | [42711038](https://pubmed.ncbi.nlm.nih.gov/42711038/) | Lipid and protein oxidation of foods and their implications ... |
-| 2026 Sep 9 | SIRT3-dependent mitochondrial redox homeostasis protects against age-related tendon degeneration. | Bone & joint research | [42710873](https://pubmed.ncbi.nlm.nih.gov/42710873/) | SIRT3-dependent mitochondrial redox homeostasis protects aga... |
-| 2026 Sep 8 | Palmatine blocks GAPDH K263 lactylation, thereby inhibiting glycolysis and osteogenic differentiation in calcific aortic valve disease. | Biochemical pharmacology | [42710787](https://pubmed.ncbi.nlm.nih.gov/42710787/) | Palmatine blocks GAPDH K263 lactylation, thereby inhibiting ... |
-| 2026 Sep 8 | Senotherapeutic Potential of Anti-Diabetic Medications: Bridging Type 2 Diabetes and Accelerated Aging. | Pharmacological research | [42710703](https://pubmed.ncbi.nlm.nih.gov/42710703/) | Senotherapeutic Potential of Anti-Diabetic Medications: Brid... |
+| 2026 Sep 9 | Microfluidic Mechanical Reactivation of Senescent Stem Cells. | Small (Weinheim an der Bergstrasse, Germany) | [42714311](https://pubmed.ncbi.nlm.nih.gov/42714311/) | Microfluidic Mechanical Reactivation of Senescent Stem Cells... |
+| 2026 Sep 1 | A Systems View of Posterior Capsule Opacification: TGF-β/ROS Signaling, Mitochondrial Homeostasis, and Injury/Aging Cues-Therapeutic Opportunities. | Investigative ophthalmology & visual science | [42714241](https://pubmed.ncbi.nlm.nih.gov/42714241/) | A Systems View of Posterior Capsule Opacification: TGF-β/ROS... |
+| 2026 Sep 8 | Effects of Qi-fu-yin on Improving Cognitive Impairment and Reducing Cellular Senescence in the Brains of 5xFAD Mice. | Journal of visualized experiments : JoVE | [42714032](https://pubmed.ncbi.nlm.nih.gov/42714032/) | Effects of Qi-fu-yin on Improving Cognitive Impairment and R... |
+| 2026 | Aging and Viral Respiratory Infections: Focus on Vitamin D and Microbiota. | BioMed research international | [42713810](https://pubmed.ncbi.nlm.nih.gov/42713810/) | Aging and Viral Respiratory Infections: Focus on Vitamin D a... |
+| 2026 | Mitochondrial homeostasis and aging: the mtDNA-cGAS-STING axis. | Frontiers in immunology | [42713362](https://pubmed.ncbi.nlm.nih.gov/42713362/) | Mitochondrial homeostasis and aging: the mtDNA-cGAS-STING ax... |
 
 ### NAD+ 与线粒体
 
@@ -35,11 +35,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 8 | Urolithin A Enhances the Development of Porcine Parthenogenetic Embryos by Promoting Mitochondrial Function and Quantity Through the SIRT1/PGC-1α Signaling Pathway. | Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada | [42713995](https://pubmed.ncbi.nlm.nih.gov/42713995/) | Urolithin A Enhances the Development of Porcine Parthenogene... |
 | 2026 Sep 7 | Strengthening muscle for healthy ageing: innovative treatments for sarcopenia. | Nature reviews. Drug discovery | [42706321](https://pubmed.ncbi.nlm.nih.gov/42706321/) | Strengthening muscle for healthy ageing: innovative treatmen... |
 | 2026 Aug | Urolithins: microbial biosynthesis, metabolic pathways and health benefits for functional food and cosmeceutical applications. | Food science and biotechnology | [42661872](https://pubmed.ncbi.nlm.nih.gov/42661872/) | Urolithins: microbial biosynthesis, metabolic pathways and h... |
 | 2026 Sep | Neonatal Reversible Aortic Constriction Mice Model Unlocks Distinctive Footprints of Young Heart Recovery. | Journal of the American Heart Association | [42657742](https://pubmed.ncbi.nlm.nih.gov/42657742/) | Neonatal Reversible Aortic Constriction Mice Model Unlocks D... |
 | 2026 | Urolithins in clinical translation: from gut microbial metabolites to precision interventions. | Frontiers in nutrition | [42626640](https://pubmed.ncbi.nlm.nih.gov/42626640/) | Urolithins in clinical translation: from gut microbial metab... |
-| 2026 Aug 23 | Sequalae and reversal of age-dependent alterations in mitochondrial dynamics via autophagy enhancement in reprogrammed human neurons. | Autophagy | [42604495](https://pubmed.ncbi.nlm.nih.gov/42604495/) | Sequalae and reversal of age-dependent alterations in mitoch... |
 
 ### 亚精胺与自噬
 
