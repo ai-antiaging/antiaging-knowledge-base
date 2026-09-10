@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-09 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-10 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 9 | Microfluidic Mechanical Reactivation of Senescent Stem Cells. | Small (Weinheim an der Bergstrasse, Germany) | [42714311](https://pubmed.ncbi.nlm.nih.gov/42714311/) | Microfluidic Mechanical Reactivation of Senescent Stem Cells... |
-| 2026 Sep 1 | A Systems View of Posterior Capsule Opacification: TGF-β/ROS Signaling, Mitochondrial Homeostasis, and Injury/Aging Cues-Therapeutic Opportunities. | Investigative ophthalmology & visual science | [42714241](https://pubmed.ncbi.nlm.nih.gov/42714241/) | A Systems View of Posterior Capsule Opacification: TGF-β/ROS... |
-| 2026 Sep 8 | Effects of Qi-fu-yin on Improving Cognitive Impairment and Reducing Cellular Senescence in the Brains of 5xFAD Mice. | Journal of visualized experiments : JoVE | [42714032](https://pubmed.ncbi.nlm.nih.gov/42714032/) | Effects of Qi-fu-yin on Improving Cognitive Impairment and R... |
-| 2026 | Aging and Viral Respiratory Infections: Focus on Vitamin D and Microbiota. | BioMed research international | [42713810](https://pubmed.ncbi.nlm.nih.gov/42713810/) | Aging and Viral Respiratory Infections: Focus on Vitamin D a... |
-| 2026 | Mitochondrial homeostasis and aging: the mtDNA-cGAS-STING axis. | Frontiers in immunology | [42713362](https://pubmed.ncbi.nlm.nih.gov/42713362/) | Mitochondrial homeostasis and aging: the mtDNA-cGAS-STING ax... |
+| 2026 Jul | Frailty and COPD: a bidirectional relationship in the context of systemic and accelerated ageing. | European respiratory review : an official journal of the European Respiratory Society | [42716547](https://pubmed.ncbi.nlm.nih.gov/42716547/) | Frailty and COPD: a bidirectional relationship in the contex... |
+| 2026 Sep 9 | The evolution of asymmetrical regulation of physiology is central to aging. | Ageing research reviews | [42716445](https://pubmed.ncbi.nlm.nih.gov/42716445/) | The evolution of asymmetrical regulation of physiology is ce... |
+| 2026 Sep 9 | The redox architecture of gestational diabetes mellitus: from cellular stress engine to epigenetic and mitochondrial rewiring. | Free radical biology & medicine | [42716407](https://pubmed.ncbi.nlm.nih.gov/42716407/) | The redox architecture of gestational diabetes mellitus: fro... |
+| 2026 Sep 9 | MicroRNA-322 Promotes Granulosa Cell Senescence and Premature Ovarian Failure by Suppressing Klotho expression and Cell Cycle Progression. | Mechanisms of ageing and development | [42716314](https://pubmed.ncbi.nlm.nih.gov/42716314/) | MicroRNA-322 Promotes Granulosa Cell Senescence and Prematur... |
+| 2026 Sep 9 | A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Reprogramming to Mitigate Skin Fibrosis. | The Journal of investigative dermatology | [42716212](https://pubmed.ncbi.nlm.nih.gov/42716212/) | A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Rep... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 9 | A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Reprogramming to Mitigate Skin Fibrosis. | The Journal of investigative dermatology | [42716212](https://pubmed.ncbi.nlm.nih.gov/42716212/) | A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Rep... |
+| 2026 Sep 15 | SIRT1 in Neurodegenerative Diseases: Molecular Mechanisms, Disease Relevance, and Therapeutic Potential. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42714849](https://pubmed.ncbi.nlm.nih.gov/42714849/) | SIRT1 in Neurodegenerative Diseases: Molecular Mechanisms, D... |
 | 2026 Sep 8 | NLRP3 Mediated Kupffer Cell Pyroptosis Aggravated Ischemia-reperfusion Injury After Aging Donor Liver Transplantation Through CD38-NAD(+)-Sirt1 Dependent Acetylation of ERRα. | American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons | [42710596](https://pubmed.ncbi.nlm.nih.gov/42710596/) | NLRP3 Mediated Kupffer Cell Pyroptosis Aggravated Ischemia-r... |
 | 2026 Sep 8 | Beyond a Surface Marker: The Multifaceted Role of CD38 in Metabolic Disruption and Tumor Progression. | Cell biochemistry and biophysics | [42709393](https://pubmed.ncbi.nlm.nih.gov/42709393/) | Beyond a Surface Marker: The Multifaceted Role of CD38 in Me... |
 | 2026 Sep | Dual miRNA-Mediated Axes Act in Concert in the Antioxidant Action of Eicosapentaenoic Acid: let-7c-3p/TFAM Drives Mitochondrial Biogenesis While miR-34c-5p/SIRT1 Potentiates Enzymatic Defenses. | Cell biochemistry and function | [42708391](https://pubmed.ncbi.nlm.nih.gov/42708391/) | Dual miRNA-Mediated Axes Act in Concert in the Antioxidant A... |
-| 2026 | Precision Nanodelivery Enables Spatiotemporal Control of NAD⁺ Metabolism in Ageing and Disease. | International journal of nanomedicine | [42708068](https://pubmed.ncbi.nlm.nih.gov/42708068/) | Precision Nanodelivery Enables Spatiotemporal Control of NAD... |
-| 2026 | Mitochondria in health and disease: cellular powerhouses, signaling centers, and drivers of dysfunction. | Frontiers in cell and developmental biology | [42707544](https://pubmed.ncbi.nlm.nih.gov/42707544/) | Mitochondria in health and disease: cellular powerhouses, si... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-09 | 自动生成*
+*最后更新：2026-09-10 | 自动生成*
