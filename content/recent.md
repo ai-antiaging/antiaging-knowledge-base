@@ -15,39 +15,31 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Jul | Frailty and COPD: a bidirectional relationship in the context of systemic and accelerated ageing. | European respiratory review : an official journal of the European Respiratory Society | [42716547](https://pubmed.ncbi.nlm.nih.gov/42716547/) | Frailty and COPD: a bidirectional relationship in the contex... |
-| 2026 Sep 9 | The evolution of asymmetrical regulation of physiology is central to aging. | Ageing research reviews | [42716445](https://pubmed.ncbi.nlm.nih.gov/42716445/) | The evolution of asymmetrical regulation of physiology is ce... |
-| 2026 Sep 9 | The redox architecture of gestational diabetes mellitus: from cellular stress engine to epigenetic and mitochondrial rewiring. | Free radical biology & medicine | [42716407](https://pubmed.ncbi.nlm.nih.gov/42716407/) | The redox architecture of gestational diabetes mellitus: fro... |
-| 2026 Sep 9 | MicroRNA-322 Promotes Granulosa Cell Senescence and Premature Ovarian Failure by Suppressing Klotho expression and Cell Cycle Progression. | Mechanisms of ageing and development | [42716314](https://pubmed.ncbi.nlm.nih.gov/42716314/) | MicroRNA-322 Promotes Granulosa Cell Senescence and Prematur... |
-| 2026 Sep 9 | A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Reprogramming to Mitigate Skin Fibrosis. | The Journal of investigative dermatology | [42716212](https://pubmed.ncbi.nlm.nih.gov/42716212/) | A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Rep... |
+| 2026 Sep | Sleep Deprivation Induces Glial Dysfunction, Synaptic Loss, Metabolic Imbalance, and Cognitive Impairment in 12-Month-Old Mice: Protective Effects of D30. | CNS neuroscience & therapeutics | [42720516](https://pubmed.ncbi.nlm.nih.gov/42720516/) | Sleep Deprivation Induces Glial Dysfunction, Synaptic Loss, ... |
+| 2026 Sep 10 | Sex and age differences in antibody responses to seasonal influenza vaccination are mediated by estrogenic upregulation of NF-κB and TNF signaling in B cells. | mBio | [42720319](https://pubmed.ncbi.nlm.nih.gov/42720319/) | Sex and age differences in antibody responses to seasonal in... |
+| 2026 Sep 10 | Mechanisms of Hexavalent Chromium-Induced Reproductive Toxicity: A Focus on the Ovary and Placenta. | Biology of reproduction | [42720308](https://pubmed.ncbi.nlm.nih.gov/42720308/) | Mechanisms of Hexavalent Chromium-Induced Reproductive Toxic... |
+| 2026 Sep | Comparative Phytochemical and Biological Evaluation of Four Thymus Species From Türkiye for Dermocosmetic Applications. | Chemistry & biodiversity | [42720075](https://pubmed.ncbi.nlm.nih.gov/42720075/) | Comparative Phytochemical and Biological Evaluation of Four ... |
+| 2026 Aug 29 | Heterogeneous Expression of TREM2 And STAB1 Among Tumor-Associated Macrophages in Clear-Cell Renal Cell Carcinoma. | Acta histochemica et cytochemica | [42719362](https://pubmed.ncbi.nlm.nih.gov/42719362/) | Heterogeneous Expression of TREM2 And STAB1 Among Tumor-Asso... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 10 | Mitochondrial homeodynamics in ageing: mechanisms, resilience, and interventions. | Biogerontology | [42720714](https://pubmed.ncbi.nlm.nih.gov/42720714/) | Mitochondrial homeodynamics in ageing: mechanisms, resilienc... |
+| 2026 | Mitochondrial NMNAT3 reduces amyloid aggregates in Drosophila and alters the amyloid processing in the 3xTgAD mouse. | Mitochondrial communications | [42719345](https://pubmed.ncbi.nlm.nih.gov/42719345/) | Mitochondrial NMNAT3 reduces amyloid aggregates in Drosophil... |
+| 2026 Dec | Pharmacological activation of SIRT1 alleviates sepsis-associated acute kidney injury by improving renal mitochondrial energy metabolism. | Renal failure | [42717829](https://pubmed.ncbi.nlm.nih.gov/42717829/) | Pharmacological activation of SIRT1 alleviates sepsis-associ... |
+| 2026 Sep | NAD(+) Metabolic Reprogramming Drives CD8(+) T Cells Senescence and Exacerbates Ulcerative Colitis. | Aging cell | [42717261](https://pubmed.ncbi.nlm.nih.gov/42717261/) | NAD(+) Metabolic Reprogramming Drives CD8(+) T Cells Senesce... |
 | 2026 Sep 9 | A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Reprogramming to Mitigate Skin Fibrosis. | The Journal of investigative dermatology | [42716212](https://pubmed.ncbi.nlm.nih.gov/42716212/) | A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Rep... |
-| 2026 Sep 15 | SIRT1 in Neurodegenerative Diseases: Molecular Mechanisms, Disease Relevance, and Therapeutic Potential. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42714849](https://pubmed.ncbi.nlm.nih.gov/42714849/) | SIRT1 in Neurodegenerative Diseases: Molecular Mechanisms, D... |
-| 2026 Sep 8 | NLRP3 Mediated Kupffer Cell Pyroptosis Aggravated Ischemia-reperfusion Injury After Aging Donor Liver Transplantation Through CD38-NAD(+)-Sirt1 Dependent Acetylation of ERRα. | American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons | [42710596](https://pubmed.ncbi.nlm.nih.gov/42710596/) | NLRP3 Mediated Kupffer Cell Pyroptosis Aggravated Ischemia-r... |
-| 2026 Sep 8 | Beyond a Surface Marker: The Multifaceted Role of CD38 in Metabolic Disruption and Tumor Progression. | Cell biochemistry and biophysics | [42709393](https://pubmed.ncbi.nlm.nih.gov/42709393/) | Beyond a Surface Marker: The Multifaceted Role of CD38 in Me... |
-| 2026 Sep | Dual miRNA-Mediated Axes Act in Concert in the Antioxidant Action of Eicosapentaenoic Acid: let-7c-3p/TFAM Drives Mitochondrial Biogenesis While miR-34c-5p/SIRT1 Potentiates Enzymatic Defenses. | Cell biochemistry and function | [42708391](https://pubmed.ncbi.nlm.nih.gov/42708391/) | Dual miRNA-Mediated Axes Act in Concert in the Antioxidant A... |
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Sep 8 | Urolithin A Enhances the Development of Porcine Parthenogenetic Embryos by Promoting Mitochondrial Function and Quantity Through the SIRT1/PGC-1α Signaling Pathway. | Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada | [42713995](https://pubmed.ncbi.nlm.nih.gov/42713995/) | Urolithin A Enhances the Development of Porcine Parthenogene... |
-| 2026 Sep 7 | Strengthening muscle for healthy ageing: innovative treatments for sarcopenia. | Nature reviews. Drug discovery | [42706321](https://pubmed.ncbi.nlm.nih.gov/42706321/) | Strengthening muscle for healthy ageing: innovative treatmen... |
-| 2026 Aug | Urolithins: microbial biosynthesis, metabolic pathways and health benefits for functional food and cosmeceutical applications. | Food science and biotechnology | [42661872](https://pubmed.ncbi.nlm.nih.gov/42661872/) | Urolithins: microbial biosynthesis, metabolic pathways and h... |
-| 2026 Sep | Neonatal Reversible Aortic Constriction Mice Model Unlocks Distinctive Footprints of Young Heart Recovery. | Journal of the American Heart Association | [42657742](https://pubmed.ncbi.nlm.nih.gov/42657742/) | Neonatal Reversible Aortic Constriction Mice Model Unlocks D... |
-| 2026 | Urolithins in clinical translation: from gut microbial metabolites to precision interventions. | Frontiers in nutrition | [42626640](https://pubmed.ncbi.nlm.nih.gov/42626640/) | Urolithins in clinical translation: from gut microbial metab... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Sep 7 | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTSALDOSTERONE-INDUCED CARDIOVASCULAR DAMAGE. | Clinical science (London, England : 1979) | [42704046](https://pubmed.ncbi.nlm.nih.gov/42704046/) | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTSALDO... |
-| 2026 | Polyamine Metabolism in Brain Health and Disease. | Neuropharmacology and therapy | [42631064](https://pubmed.ncbi.nlm.nih.gov/42631064/) | Polyamine Metabolism in Brain Health and Disease. |
-| 2026 Aug 30 | Non-cell autonomous control of presynaptic remodeling by the hypothalamic autophagy-NPY axis. | Autophagy | [42609005](https://pubmed.ncbi.nlm.nih.gov/42609005/) | Non-cell autonomous control of presynaptic remodeling by the... |
+*暂无最新文献*
+
 
 ---
 
