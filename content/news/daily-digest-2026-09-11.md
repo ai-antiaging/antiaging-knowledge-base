@@ -12,135 +12,135 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Platinum chemotherapy ages the liver.
+## 研究 1: Medical AI across Data Regimes to Promote Proactive Health.
 
-**期刊**: Science (New York, N.Y.)  
-**发表日期**: 2026 Sep 10  
-**第一作者**: Vasudevan SA 等 | **PMID**: [42721257](https://pubmed.ncbi.nlm.nih.gov/42721257/)  
+**期刊**: Health data science  
+**发表日期**: 2026  
+**第一作者**: Li P 等 | **PMID**: [42724282](https://pubmed.ncbi.nlm.nih.gov/42724282/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究揭示铂类化疗药物不仅杀伤肿瘤，还会在儿童癌症幸存者中诱发肝脏基因突变并加速肝脏衰老。这一发现将化疗的长期毒性从“器官损伤”提升到“衰老驱动”层面，对儿童癌症幸存者的长期健康管理具有重要警示意义。
+该研究提出“主动健康”是公共卫生范式的转型方向，强调从被动、碎片化的疾病治疗转向连续、可预期的预防性健康管理。在慢病负担加重与人口老龄化背景下，这一转变具有紧迫性和战略意义。
 
 ### 🔬 关键发现
 
-接受铂类药物治疗的儿童癌症患者肝脏中积累了体细胞突变，并表现出肝脏衰老的分子特征。这表明化疗暴露与肝脏生物学年龄提前相关，且损伤在治疗结束后持续存在。
+摘要指出，慢性病负担上升、人口老龄化及医疗系统压力增大，共同构成了主动健康转型的现实驱动力。医学数据与人工智能的进步被认为是支撑这一转型的关键基础，但摘要未提供具体实验数据或量化结果。
 
 ### 🧪 方法简介
 
-研究采用基因组测序与衰老生物标志物分析相结合的策略，在儿童化疗队列中系统评估肝脏突变负荷与衰老特征。该整合分析框架为化疗药物的远期毒性评估提供了新范式。
+研究聚焦于“跨数据范式的医学AI”这一框架，探讨不同数据条件下AI如何支撑主动健康管理。摘要未披露具体技术路线或算法创新，更多是概念性与方向性论述。
 
 ### 🏥 临床相关性
 
-提示儿童癌症幸存者需长期监测肝脏衰老相关疾病风险，并探索senolytics等抗衰老干预是否可缓解化疗诱导的肝脏早衰。未来临床实践或需将“化疗衰老毒性”纳入治疗方案权衡。
+该研究提示，AI驱动的主动健康有望推动抗衰老干预从“病后应对”转向“风险预警与持续管理”。对临床实践而言，这意味着需要更重视多源健康数据的整合与早期干预策略的设计。
 
 ---
 
-## 研究 2: The complete telomere-to-telomere sequence of a mouse Y chromosome.
+## 研究 2: Retraction: Intracrinology and Testosterone Pellet Therapy: An Enzyme-Aware, Symptom-Driven Approach to Hormone Optimization in Aging.
 
-**期刊**: Science (New York, N.Y.)  
-**发表日期**: 2026 Sep 10  
-**第一作者**: Li Q 等 | **PMID**: [42721245](https://pubmed.ncbi.nlm.nih.gov/42721245/)  
+**期刊**: Cureus  
+**发表日期**: 2026 Sep  
+**第一作者**: Glaser R 等 | **PMID**: [42724771](https://pubmed.ncbi.nlm.nih.gov/42724771/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次完成小鼠Y染色体端粒到端粒（T2T）无间隙组装，填补GRCm39全部25个缺口并修正结构错误，新增超8.70 Mb序列，实现C57BL/6全染色体T2T参考基因组。
+该论文已被期刊正式撤稿，原研究探讨的是睾酮埋植疗法在衰老激素优化中的应用，但撤稿本身意味着其结论不再被学界认可。这一事件提醒研究者关注该领域证据质量的脆弱性。
 
 ### 🔬 关键发现
 
-组装出95.21 Mb的mT2T Y染色体，注释142个新基因，鉴定Y特异性卫星阵列，定位PAR区同源重组位点，并揭示X-Y同源基因表达存在Y染色体剂量补偿机制。
+摘要仅包含撤稿声明，未提供任何原始实验数据或统计结果。可确认的唯一信息是：原论文因故被撤回，其关于酶感知、症状驱动的睾酮埋植方案的所有主张均需重新审视。
 
 ### 🧪 方法简介
 
-利用含亲本基因组的C57BL/6小鼠进行T2T组装，结合mT2T Y与T2T mhaESC，完成全部C57BL/6染色体的完整组装（T2T mhaESC+Y）。
+由于论文已撤稿，其声称的“酶感知、症状驱动”方法学框架无法被评估或验证。撤稿本身不构成方法学创新，反而提示相关研究设计或报告规范可能存在缺陷。
 
 ### 🏥 临床相关性
 
-为雄性生殖与Y染色体相关研究提供完整参考，Y染色体剂量补偿机制的揭示有助于理解性别差异在衰老中的潜在作用，但尚需进一步转化验证。
+临床医生和健康从业者不应基于该撤稿论文调整睾酮埋植疗法的实践。未来抗衰老激素干预需依赖更严谨的随机对照试验和可重复的证据，而非单一症状驱动方案。
 
 ---
 
-## 研究 3: Neutropenic Diet Versus Liberalized Diet in Patients With Cancer: A Systematic Review and Meta-Analysis.
+## 研究 3: Transcatheter Edge-to-Edge Repair in Older Adults With Mitral and Tricuspid Valve Disease.
 
-**期刊**: JCO oncology practice  
-**发表日期**: 2026 Sep 10  
-**第一作者**: Jamal F 等 | **PMID**: [42721418](https://pubmed.ncbi.nlm.nih.gov/42721418/)  
+**期刊**: Circulation. Cardiovascular interventions  
+**发表日期**: 2026 Sep 11  
+**第一作者**: Alkhatib R 等 | **PMID**: [42723624](https://pubmed.ncbi.nlm.nih.gov/42723624/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究通过系统综述与荟萃分析，重新审视了中性粒细胞减少饮食（ND）与放宽饮食（LD）在癌症患者中的安全性争议，尤其关注造血干细胞移植（HSCT）人群。其核心价值在于为临床饮食管理策略提供高级别证据，回应了近十年ND使用下降后浮现的安全性担忧。
+经导管缘对缘修复（TEER）为因衰弱、多病共存而无法手术的老年二尖瓣/三尖瓣反流患者提供了安全有效的替代方案，可持久减少反流并改善功能状态。其重要性在于回应了快速增长的老年心血管疾病治疗需求。
 
 ### 🔬 关键发现
 
-研究汇总比较ND与LD的现有证据，聚焦感染并发症风险。摘要未提供具体合并效应量，但明确指出近期HSCT相关研究重新引发了对LD安全性的关注，提示LD在该人群中的感染风险可能不容忽视。
+随机试验和当代注册研究显示，TEER在各年龄组中均能持久减少反流、改善功能状态并降低心衰住院率。但临床试验对衰弱和认知状态的描述不一致，且缺乏评估年龄相关风险的TEER专用工具及功能独立性和生活质量的长期数据。
 
 ### 🧪 方法简介
 
-采用系统综述与荟萃分析方法，整合多项比较ND与LD的研究，以提升统计效能并减少单一研究偏倚。该方法适合评估饮食干预这类难以开展大样本随机试验的临床问题。
+研究倡导将老年心脏病学工具整合到TEER围术期管理中，包括综合老年评估、简易营养评估简表、Katz日常生活活动独立指数、堪萨斯城心肌病问卷和认知筛查工具，以实现个体化风险分层和护理规划。
 
 ### 🏥 临床相关性
 
-提示在HSCT等高风险癌症人群中，盲目放宽饮食限制可能带来感染风险，临床需个体化权衡。对衰老相关免疫低下人群的饮食管理亦有参考价值，但需更多前瞻性研究验证。
+未来研究应优先关注以患者为中心的结局，开发整合多学科护理路径，将手术成功与老年人有意义的预期寿命和功能长寿相对齐。围术期结构化康复、早期活动、谵妄预防和照护者参与可进一步增强功能恢复。
 
 ---
 
-## 研究 4: Two Genomes, one Outcome: Stratifying Donor and Recipient Polygenic Risk Score to Improve Kidney Allograft Longevity.
+## 研究 4: Immunometabolic Reprogramming as a Therapeutic Platform: Integrating Systems Immunology with Precision Biopharmaceutical Engineering.
 
-**期刊**: Transplantation  
-**发表日期**: 2026 Sep 10  
-**第一作者**: Swiatecka-Urban A 等 | **PMID**: [42721407](https://pubmed.ncbi.nlm.nih.gov/42721407/)  
+**期刊**: Immunological investigations  
+**发表日期**: 2026 Sep 11  
+**第一作者**: Yousefi H 等 | **PMID**: [42723562](https://pubmed.ncbi.nlm.nih.gov/42723562/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该综述提出“双基因组”多基因风险评分（PRS）框架，同时整合供体器官遗传易感性与受体遗传背景，突破传统单基因组模型。这一视角强调移植结局由供受体基因组交互决定，为提升移植物长期存活提供了新思路。
+该综述提出将免疫代谢重编程视为一个多尺度调控网络，连接微环境压力、营养感知、代谢通量与免疫细胞状态。其核心价值在于突破单一代谢靶点思维，为精准生物制药工程提供系统免疫学整合框架。
 
 ### 🔬 关键发现
 
-传统临床风险模型仅能解释移植结局变异的有限部分；PRS在现有临床预测因子之外仅贡献增量变异。当前PRS仍受欧洲血统偏倚、队列规模小、缺乏重复验证及临床可操作阈值未定义等限制。
+代谢表型具有高度情境依赖性，免疫代谢整合了能量需求、生物合成、氧化还原稳态与免疫功能。系统级生物标志物可映射代谢通量至免疫细胞状态，为治疗干预提供可量化节点。
 
 ### 🧪 方法简介
 
-采用变异聚类方法，将多基因信号映射至同种免疫、纤维化和代谢功能障碍等特定生物学通路。提出双基因组PRS架构，在统一框架内同时量化供体器官遗传负荷与受体遗传易感性。
+研究采用系统免疫学与精准生物制药工程交叉整合的策略，构建从微环境压力到代谢物介导调控的多尺度网络模型。该方法强调代谢通量与免疫状态的动态映射，而非静态指标分析。
 
 ### 🏥 临床相关性
 
-双基因组PRS有望用于供体选择、免疫抑制方案个体化及移植后监测，推动精准肾移植。但实现该潜力需在足够样本量、血统多样化的前瞻性移植队列中验证，目前尚不支持临床常规应用。
+该框架为抗衰老干预提供新思路：通过重编程免疫代谢网络而非单靶点调节，可能延缓免疫衰老及相关慢性炎症。未来临床实践可借助系统级生物标志物指导精准生物药设计，实现个体化免疫代谢干预。
 
 ---
 
-## 研究 5: Intensity-dependent associations of physical activity and cardiorespiratory fitness with hair cortisol concentrations in the context of lifetime air pollution exposure.
+## 研究 5: Amniotic fluid stem cells alleviate neuronal injury-related changes in spina bifida by inducing autophagy via regulating the FOXO1/STAT3 axis.
 
-**期刊**: Stress (Amsterdam, Netherlands)  
+**期刊**: Organogenesis  
 **发表日期**: 2026 Dec 31  
-**第一作者**: Cibulcova V 等 | **PMID**: [42721376](https://pubmed.ncbi.nlm.nih.gov/42721376/)  
+**第一作者**: Li C 等 | **PMID**: [42723550](https://pubmed.ncbi.nlm.nih.gov/42723550/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次在终生空气污染暴露背景下，同时考察客观与主观体力活动、心肺适能与头发皮质醇的关系，揭示运动强度对慢性压力的差异化关联。
+详见原文
 
 ### 🔬 关键发现
 
-头发皮质醇与中等及剧烈体力活动、心肺适能的关联呈强度依赖性，且终生空气污染暴露可能修饰这些关联。
+详见原文
 
 ### 🧪 方法简介
 
-整合客观与主观体力活动评估、心肺适能测试及终生空气污染暴露估算，以头发皮质醇作为慢性压力生物标志物。
+详见原文
 
 ### 🏥 临床相关性
 
-提示抗衰老干预需考虑运动强度与长期空气污染暴露的交互作用，个性化运动处方可能更有效调节慢性压力。
+详见原文
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-09-11 02:08:46  
+**生成时间**: 2026-09-11 16:17:49  
 **摘要生成**: DeepSeek AI
 
 ---
