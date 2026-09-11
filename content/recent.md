@@ -15,16 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep | Hypothalamic Inflammaging: A Central Driver of Type 2 Diabetes Mellitus and Metabolic Disease in Aging. | Diabetes & metabolism journal | [42722379](https://pubmed.ncbi.nlm.nih.gov/42722379/) | Hypothalamic Inflammaging: A Central Driver of Type 2 Diabet... |
-| 2026 Sep 10 | Decoding SUMOylation as a metabolic stress sensor in aging and age-related disorders: mechanisms, tissue specificity and therapeutic potential. | Ageing research reviews | [42722300](https://pubmed.ncbi.nlm.nih.gov/42722300/) | Decoding SUMOylation as a metabolic stress sensor in aging a... |
-| 2026 Sep 10 | Enzymatic and non-enzymatic proteins from Bothrops snake venoms, their anticancer activity, and translational challenges in oncovenomics: A review. | International journal of biological macromolecules | [42722255](https://pubmed.ncbi.nlm.nih.gov/42722255/) | Enzymatic and non-enzymatic proteins from Bothrops snake ven... |
-| 2026 Sep 10 | Immunosenescence, inflammaging, and metabolic disease: A geroscience perspective on mechanisms and links. | Experimental gerontology | [42722211](https://pubmed.ncbi.nlm.nih.gov/42722211/) | Immunosenescence, inflammaging, and metabolic disease: A ger... |
-| 2026 Sep 10 | Fasting and Aging: Mechanistic Insights into Epigenomic and Transcriptional Regulation of Healthspan. | Mechanisms of ageing and development | [42722133](https://pubmed.ncbi.nlm.nih.gov/42722133/) | Fasting and Aging: Mechanistic Insights into Epigenomic and ... |
+| 2026 | Transcriptomic signatures as biomarkers for the progression of mild cognitive impairment. | Frontiers in aging neuroscience | [42724701](https://pubmed.ncbi.nlm.nih.gov/42724701/) | Transcriptomic signatures as biomarkers for the progression ... |
+| 2026 | Mechanism and intervention strategy of thymus atrophy in cancer immunotherapy. | American journal of cancer research | [42724492](https://pubmed.ncbi.nlm.nih.gov/42724492/) | Mechanism and intervention strategy of thymus atrophy in can... |
+| 2026 | The potential role of NLRP3 inflammasome in integrating redox, metabolic, and inflammatory signals during follicular development: a hypothesis-driven redox-metabolic integrator framework. | Frontiers in cell and developmental biology | [42724380](https://pubmed.ncbi.nlm.nih.gov/42724380/) | The potential role of NLRP3 inflammasome in integrating redo... |
+| 2026 | The proteomic architecture of clonal hematopoiesis: a systematic review of niche remodeling and multi-compartment predictors of malignant transformation. | Frontiers in medicine | [42723723](https://pubmed.ncbi.nlm.nih.gov/42723723/) | The proteomic architecture of clonal hematopoiesis: a system... |
+| 2026 Sep 11 | Proteostasis in the regulation of pancreatic islet cell plasticity. | Journal of diabetes investigation | [42723547](https://pubmed.ncbi.nlm.nih.gov/42723547/) | Proteostasis in the regulation of pancreatic islet cell plas... |
 
 ### NAD+ 与线粒体
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Sep | Mitochondrial Proteostasis Links Diabetes and Sarcopenia: Cross-Scale Convergence from Experimental Models to Human Multi-Omics. | Diabetes & metabolism journal | [42722377](https://pubmed.ncbi.nlm.nih.gov/42722377/) | Mitochondrial Proteostasis Links Diabetes and Sarcopenia: Cr... |
+| 2026 Sep 10 | Bazi Bushen attenuates musculoskeletal degeneration in Ercc1(+/-) mice. | Experimental gerontology | [42722215](https://pubmed.ncbi.nlm.nih.gov/42722215/) | Bazi Bushen attenuates musculoskeletal degeneration in Ercc1... |
+| 2026 Sep 10 | Mitochondrial homeodynamics in ageing: mechanisms, resilience, and interventions. | Biogerontology | [42720714](https://pubmed.ncbi.nlm.nih.gov/42720714/) | Mitochondrial homeodynamics in ageing: mechanisms, resilienc... |
+| 2026 | Mitochondrial NMNAT3 reduces amyloid aggregates in Drosophila and alters the amyloid processing in the 3xTgAD mouse. | Mitochondrial communications | [42719345](https://pubmed.ncbi.nlm.nih.gov/42719345/) | Mitochondrial NMNAT3 reduces amyloid aggregates in Drosophil... |
+| 2026 Dec | Pharmacological activation of SIRT1 alleviates sepsis-associated acute kidney injury by improving renal mitochondrial energy metabolism. | Renal failure | [42717829](https://pubmed.ncbi.nlm.nih.gov/42717829/) | Pharmacological activation of SIRT1 alleviates sepsis-associ... |
 
 ### 尿石素 A 与线粒体自噬
 
