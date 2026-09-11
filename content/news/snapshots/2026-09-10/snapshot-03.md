@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-09-10 #3"
 date: 2026-09-10
-description: "Corrigendum to "Cardiovascular disease incidence among aging patients with rheum..."
+description: 'Corrigendum to "Cardiovascular disease incidence among aging patients with rheum..."'
 draft: false
 type: "snapshot"
 ---
