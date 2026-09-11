@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-10 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-11 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,16 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep | Sleep Deprivation Induces Glial Dysfunction, Synaptic Loss, Metabolic Imbalance, and Cognitive Impairment in 12-Month-Old Mice: Protective Effects of D30. | CNS neuroscience & therapeutics | [42720516](https://pubmed.ncbi.nlm.nih.gov/42720516/) | Sleep Deprivation Induces Glial Dysfunction, Synaptic Loss, ... |
-| 2026 Sep 10 | Sex and age differences in antibody responses to seasonal influenza vaccination are mediated by estrogenic upregulation of NF-κB and TNF signaling in B cells. | mBio | [42720319](https://pubmed.ncbi.nlm.nih.gov/42720319/) | Sex and age differences in antibody responses to seasonal in... |
-| 2026 Sep 10 | Mechanisms of Hexavalent Chromium-Induced Reproductive Toxicity: A Focus on the Ovary and Placenta. | Biology of reproduction | [42720308](https://pubmed.ncbi.nlm.nih.gov/42720308/) | Mechanisms of Hexavalent Chromium-Induced Reproductive Toxic... |
-| 2026 Sep | Comparative Phytochemical and Biological Evaluation of Four Thymus Species From Türkiye for Dermocosmetic Applications. | Chemistry & biodiversity | [42720075](https://pubmed.ncbi.nlm.nih.gov/42720075/) | Comparative Phytochemical and Biological Evaluation of Four ... |
-| 2026 Aug 29 | Heterogeneous Expression of TREM2 And STAB1 Among Tumor-Associated Macrophages in Clear-Cell Renal Cell Carcinoma. | Acta histochemica et cytochemica | [42719362](https://pubmed.ncbi.nlm.nih.gov/42719362/) | Heterogeneous Expression of TREM2 And STAB1 Among Tumor-Asso... |
+| 2026 Sep | Hypothalamic Inflammaging: A Central Driver of Type 2 Diabetes Mellitus and Metabolic Disease in Aging. | Diabetes & metabolism journal | [42722379](https://pubmed.ncbi.nlm.nih.gov/42722379/) | Hypothalamic Inflammaging: A Central Driver of Type 2 Diabet... |
+| 2026 Sep 10 | Decoding SUMOylation as a metabolic stress sensor in aging and age-related disorders: mechanisms, tissue specificity and therapeutic potential. | Ageing research reviews | [42722300](https://pubmed.ncbi.nlm.nih.gov/42722300/) | Decoding SUMOylation as a metabolic stress sensor in aging a... |
+| 2026 Sep 10 | Enzymatic and non-enzymatic proteins from Bothrops snake venoms, their anticancer activity, and translational challenges in oncovenomics: A review. | International journal of biological macromolecules | [42722255](https://pubmed.ncbi.nlm.nih.gov/42722255/) | Enzymatic and non-enzymatic proteins from Bothrops snake ven... |
+| 2026 Sep 10 | Immunosenescence, inflammaging, and metabolic disease: A geroscience perspective on mechanisms and links. | Experimental gerontology | [42722211](https://pubmed.ncbi.nlm.nih.gov/42722211/) | Immunosenescence, inflammaging, and metabolic disease: A ger... |
+| 2026 Sep 10 | Fasting and Aging: Mechanistic Insights into Epigenomic and Transcriptional Regulation of Healthspan. | Mechanisms of ageing and development | [42722133](https://pubmed.ncbi.nlm.nih.gov/42722133/) | Fasting and Aging: Mechanistic Insights into Epigenomic and ... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Sep 10 | Mitochondrial homeodynamics in ageing: mechanisms, resilience, and interventions. | Biogerontology | [42720714](https://pubmed.ncbi.nlm.nih.gov/42720714/) | Mitochondrial homeodynamics in ageing: mechanisms, resilienc... |
-| 2026 | Mitochondrial NMNAT3 reduces amyloid aggregates in Drosophila and alters the amyloid processing in the 3xTgAD mouse. | Mitochondrial communications | [42719345](https://pubmed.ncbi.nlm.nih.gov/42719345/) | Mitochondrial NMNAT3 reduces amyloid aggregates in Drosophil... |
-| 2026 Dec | Pharmacological activation of SIRT1 alleviates sepsis-associated acute kidney injury by improving renal mitochondrial energy metabolism. | Renal failure | [42717829](https://pubmed.ncbi.nlm.nih.gov/42717829/) | Pharmacological activation of SIRT1 alleviates sepsis-associ... |
-| 2026 Sep | NAD(+) Metabolic Reprogramming Drives CD8(+) T Cells Senescence and Exacerbates Ulcerative Colitis. | Aging cell | [42717261](https://pubmed.ncbi.nlm.nih.gov/42717261/) | NAD(+) Metabolic Reprogramming Drives CD8(+) T Cells Senesce... |
-| 2026 Sep 9 | A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Reprogramming to Mitigate Skin Fibrosis. | The Journal of investigative dermatology | [42716212](https://pubmed.ncbi.nlm.nih.gov/42716212/) | A Bisubstrate Inhibitor of NNMT Suppresses Myofibroblast Rep... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
@@ -53,4 +48,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-10 | 自动生成*
+*最后更新：2026-09-11 | 自动生成*
