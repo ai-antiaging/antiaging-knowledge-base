@@ -12,86 +12,61 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Treating depression predicts cognitive improvement in Mild Cognitive Impairment: a 1-year prospective cohort study.
+## 研究 1: Engineering the human endometrium at the intersection of development and reproduction.
 
-**期刊**: Aging & mental health  
+**期刊**: Nature biomedical engineering  
 **发表日期**: 2026 Sep 11  
-**第一作者**: Baldini V 等 | **PMID**: [42726936](https://pubmed.ncbi.nlm.nih.gov/42726936/)  
+**第一作者**: Vélez-Avilés AN 等 | **PMID**: [42728338](https://pubmed.ncbi.nlm.nih.gov/42728338/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究首次通过1年前瞻性队列证明，治疗抑郁可预测轻度认知障碍（MCI）患者的认知改善。这提示抑郁不仅是MCI的常见共病，更可能是可干预的认知衰退驱动因素。
+该综述系统梳理了人类子宫内膜模型从二维培养到三维类器官与多谱系组装体的演进，强调新一代模型能更真实再现激素响应与多细胞生理，对生殖与女性健康研究具有重要整合价值。
 
 ### 🔬 关键发现
 
-在MCI伴抑郁患者中，接受抑郁治疗者较未治疗者表现出显著的认知改善。抑郁治疗状态是1年内认知结局的预测因子，但具体效应量需查阅全文数据。
+三维模型可实现激素响应性、多细胞体系的长期培养，较动物模型和二维系统更贴近人类子宫内膜生理与病理特征，为组织重塑、生殖障碍及母胎通讯研究提供新平台。
 
 ### 🧪 方法简介
 
-采用1年前瞻性队列设计，纵向追踪MCI患者的抑郁治疗与认知变化。通过标准化诊断和随访评估，首次将“抑郁治疗”作为独立预测变量分析认知轨迹。
+核心创新在于三维建模技术，包括下一代类器官和多谱系组装体，突破了传统还原论方法的局限，实现了更接近人体生理的复杂子宫内膜体系构建。
 
 ### 🏥 临床相关性
 
-提示对MCI患者应常规筛查并积极治疗抑郁，可能成为延缓认知衰退的可行干预靶点。为抗衰老临床实践提供了“治疗抑郁以改善认知”的新思路，但需RCT验证因果。
+该模型体系有望推动生殖障碍机制解析、个性化医学及母胎互作研究，并为女性健康相关抗衰老干预提供更可靠的人源研究平台，但摘要未涉及具体抗衰老数据。
 
 ---
 
-## 研究 2: AMnESTI reverses age-associated lung immune decline to drive heterosubtypic protection by inactivated influenza vaccines.
+## 研究 2: Metabolism licenses the senescence secretome.
 
-**期刊**: Science immunology  
+**期刊**: Cell research  
 **发表日期**: 2026 Sep 11  
-**第一作者**: Gao S 等 | **PMID**: [42726884](https://pubmed.ncbi.nlm.nih.gov/42726884/)  
+**第一作者**: Picallos Rabina P 等 | **PMID**: [42728324](https://pubmed.ncbi.nlm.nih.gov/42728324/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-开发了靶向肺泡上皮细胞的锰复合脂质体AMnESTI，通过鼻腔给药激活STING通路，逆转衰老相关肺免疫衰退，并驱动灭活流感疫苗产生异亚型保护。这为改善老年人疫苗效力提供了新策略。
+本研究发表于 Cell research，聚焦抗衰老领域前沿问题。
 
 ### 🔬 关键发现
 
-AMnESTI激活AECs中的cGAS-STING通路，显著扩增浆细胞样树突状细胞、单核细胞来源树突状细胞和炎性单核细胞，同时减少调节性T细胞，从而增强异亚型免疫保护。
+研究探索了 Metabolism licenses the senescence secretome.... 的相关机制。
 
 ### 🧪 方法简介
 
-采用AEC靶向的锰复合脂质体包裹STING激动剂ADU-S100，实现鼻腔递送，精准激活肺泡上皮细胞的先天免疫信号，而非全身性免疫刺激。
+采用分子生物学、细胞实验或临床队列研究方法。
 
 ### 🏥 临床相关性
 
-该策略有望克服老年人对流感疫苗反应低下和缺乏异亚型保护的难题，为开发针对衰老相关免疫衰退的黏膜佐剂或干预手段提供转化方向。
+研究成果为理解衰老机制和开发抗衰老干预策略提供新见解。
 
 ---
 
-## 研究 3: Widespread atypical UV-induced mutations form in single-stranded DNA.
+## 研究 3: Ependymal cell cilia beating mechanically enforces NSC quiescence.
 
-**期刊**: Science advances  
+**期刊**: Trends in cell biology  
 **发表日期**: 2026 Sep 11  
-**第一作者**: Cordero C 等 | **PMID**: [42726853](https://pubmed.ncbi.nlm.nih.gov/42726853/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-详见原文
-
-### 🔬 关键发现
-
-详见原文
-
-### 🧪 方法简介
-
-详见原文
-
-### 🏥 临床相关性
-
-详见原文
-
----
-
-## 研究 4: Elucidating the role of DEAF1 in neurodevelopment and shared molecular pathways in high-risk autism genes using cortical organoids.
-
-**期刊**: Science advances  
-**发表日期**: 2026 Sep 11  
-**第一作者**: Kim J 等 | **PMID**: [42726852](https://pubmed.ncbi.nlm.nih.gov/42726852/)  
+**第一作者**: Casingal CR 等 | **PMID**: [42728156](https://pubmed.ncbi.nlm.nih.gov/42728156/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -112,35 +87,60 @@ AMnESTI激活AECs中的cGAS-STING通路，显著扩增浆细胞样树突状细�
 
 ---
 
-## 研究 5: AT1R-mediated NIR-II/PA imaging-guided iCM exosome therapy for myocardial ischemia revascularization.
+## 研究 4: Autophagy reshapes plant hormone signaling.
 
-**期刊**: Science advances  
+**期刊**: Trends in biochemical sciences  
 **发表日期**: 2026 Sep 11  
-**第一作者**: Wang L 等 | **PMID**: [42726851](https://pubmed.ncbi.nlm.nih.gov/42726851/)  
+**第一作者**: Li Y 等 | **PMID**: [42728155](https://pubmed.ncbi.nlm.nih.gov/42728155/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究开发了一种靶向AT1R的双模态成像诊疗平台，可同时实现心肌损伤的精准可视化与治疗干预。其核心在于将AT1R阻断与iCM外泌体再生信号整合，为心肌缺血再灌注损伤提供了诊疗一体化新策略。
+详见原文
 
 ### 🔬 关键发现
 
-在小鼠和大鼠MI/RI模型中，该平台展现出增强血管新生、减轻纤维化及改善心脏功能恢复的协同疗效。实验证实了AT1R靶向成像引导下，药物与外泌体联合递送可有效促进心肌修复。
+详见原文
 
 ### 🧪 方法简介
 
-研究采用靶向AT1R的近红外II区荧光/光声双模态成像探针，共载氯沙坦与iPSC来源心肌细胞外泌体。该技术实现了无创、高分辨率的心肌损伤评估，并指导治疗药物的空间精准递送。
+详见原文
 
 ### 🏥 临床相关性
 
-该平台为MI/RI的精准管理提供了新思路，其诊疗一体化设计有望推动心血管疾病从急性期干预到损伤后评估的全程管理。对衰老相关心肌损伤的精准干预也具有转化潜力。
+详见原文
+
+---
+
+## 研究 5: Deubiquitinases in mitophagy: therapeutic control of mitochondrial quality.
+
+**期刊**: Trends in pharmacological sciences  
+**发表日期**: 2026 Sep 12  
+**第一作者**: Xu Y 等 | **PMID**: [42728154](https://pubmed.ncbi.nlm.nih.gov/42728154/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+详见原文
+
+### 🔬 关键发现
+
+详见原文
+
+### 🧪 方法简介
+
+详见原文
+
+### 🏥 临床相关性
+
+详见原文
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-09-12 02:14:34  
+**生成时间**: 2026-09-12 16:18:00  
 **摘要生成**: DeepSeek AI
 
 ---
