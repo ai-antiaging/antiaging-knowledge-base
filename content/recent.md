@@ -23,13 +23,23 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### NAD+ 与线粒体
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Sep 11 | Mitochondrial homeostasis in musculoskeletal diseases: from pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: from ... |
+| 2026 Sep | Mitochondrial Proteostasis Links Diabetes and Sarcopenia: Cross-Scale Convergence from Experimental Models to Human Multi-Omics. | Diabetes & metabolism journal | [42722377](https://pubmed.ncbi.nlm.nih.gov/42722377/) | Mitochondrial Proteostasis Links Diabetes and Sarcopenia: Cr... |
+| 2026 Sep 10 | Bazi Bushen attenuates musculoskeletal degeneration in Ercc1(+/-) mice. | Experimental gerontology | [42722215](https://pubmed.ncbi.nlm.nih.gov/42722215/) | Bazi Bushen attenuates musculoskeletal degeneration in Ercc1... |
+| 2026 Sep 10 | Mitochondrial homeodynamics in ageing: mechanisms, resilience, and interventions. | Biogerontology | [42720714](https://pubmed.ncbi.nlm.nih.gov/42720714/) | Mitochondrial homeodynamics in ageing: mechanisms, resilienc... |
+| 2026 | Mitochondrial NMNAT3 reduces amyloid aggregates in Drosophila and alters the amyloid processing in the 3xTgAD mouse. | Mitochondrial communications | [42719345](https://pubmed.ncbi.nlm.nih.gov/42719345/) | Mitochondrial NMNAT3 reduces amyloid aggregates in Drosophil... |
 
 ### 尿石素 A 与线粒体自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Sep 11 | Mitochondrial homeostasis in musculoskeletal diseases: from pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: from ... |
+| 2026 Sep 8 | Urolithin A Enhances the Development of Porcine Parthenogenetic Embryos by Promoting Mitochondrial Function and Quantity Through the SIRT1/PGC-1α Signaling Pathway. | Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada | [42713995](https://pubmed.ncbi.nlm.nih.gov/42713995/) | Urolithin A Enhances the Development of Porcine Parthenogene... |
+| 2026 Sep 7 | Strengthening muscle for healthy ageing: innovative treatments for sarcopenia. | Nature reviews. Drug discovery | [42706321](https://pubmed.ncbi.nlm.nih.gov/42706321/) | Strengthening muscle for healthy ageing: innovative treatmen... |
+| 2026 Aug | Urolithins: microbial biosynthesis, metabolic pathways and health benefits for functional food and cosmeceutical applications. | Food science and biotechnology | [42661872](https://pubmed.ncbi.nlm.nih.gov/42661872/) | Urolithins: microbial biosynthesis, metabolic pathways and h... |
+| 2026 Sep | Neonatal Reversible Aortic Constriction Mice Model Unlocks Distinctive Footprints of Young Heart Recovery. | Journal of the American Heart Association | [42657742](https://pubmed.ncbi.nlm.nih.gov/42657742/) | Neonatal Reversible Aortic Constriction Mice Model Unlocks D... |
 
 ### 亚精胺与自噬
 
