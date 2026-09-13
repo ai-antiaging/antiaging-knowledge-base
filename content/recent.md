@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-12 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-13 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 11 | Gain-of-function suppressors restore microtubule dynamics and rescue dominant-negative tubulinopathies. | Nature cell biology | [42728306](https://pubmed.ncbi.nlm.nih.gov/42728306/) | Gain-of-function suppressors restore microtubule dynamics an... |
 | 2026 Sep 11 | Human gingival epithelial cell adhesion and proliferation on Ti-6Al-4V surface biofunctionalized with a nanoceramic thin film: An in vitro study. | The Journal of prosthetic dentistry | [42728178](https://pubmed.ncbi.nlm.nih.gov/42728178/) | Human gingival epithelial cell adhesion and proliferation on... |
 | 2026 Sep 11 | Integrated analysis of hematopoietic changes following heterochronic bone marrow transplantation between young and aged mice. | Transplantation and cellular therapy | [42727883](https://pubmed.ncbi.nlm.nih.gov/42727883/) | Integrated analysis of hematopoietic changes following heter... |
 | 2026 Sep 11 | Evidence for similar enzymatic but different cellular generation of pE79-modified α-synuclein in PD and AD mouse models. | Neurochemistry international | [42727643](https://pubmed.ncbi.nlm.nih.gov/42727643/) | Evidence for similar enzymatic but different cellular genera... |
 | 2026 Sep 11 | Distinct cochlear cell types associated with genetic susceptibility to sensory and metabolic hearing loss in older adults. | American journal of human genetics | [42727577](https://pubmed.ncbi.nlm.nih.gov/42727577/) | Distinct cochlear cell types associated with genetic suscept... |
-| 2026 Sep 10 | Mitochondria-targeted esculetin mitigates age-associated cardiac remodeling through coordinated activation of AMPK-SIRT1 and inhibition of p38 MAPK signaling. | Biochemical and biophysical research communications | [42727477](https://pubmed.ncbi.nlm.nih.gov/42727477/) | Mitochondria-targeted esculetin mitigates age-associated car... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-12 | 自动生成*
+*最后更新：2026-09-13 | 自动生成*
