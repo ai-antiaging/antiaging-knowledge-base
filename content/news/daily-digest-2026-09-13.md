@@ -12,85 +12,135 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Deubiquitinases in mitophagy: therapeutic control of mitochondrial quality.
+## 研究 1: Early-Onset Preeclampsia-Derived hUC-MSCs Exhibit Accelerated Initial Culture Kinetics Without Sustained Growth Advantage: A Comparative In Vitro Study.
 
-**期刊**: Trends in pharmacological sciences  
+**期刊**: Stem cells international  
+**发表日期**: 2026  
+**第一作者**: Alptekin İ 等 | **PMID**: [42732262](https://pubmed.ncbi.nlm.nih.gov/42732262/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+首次系统比较早发型与晚发型子痫前期来源的hUC-MSCs体外生长动力学，发现早发型PE来源细胞仅在初始培养阶段表现出加速生长，但无持续生长优势。这一发现提示宫内病理环境对干细胞行为的影响是阶段性而非永久性的。
+
+### 🔬 关键发现
+
+早发型PE来源的hUC-MSCs在初始培养阶段展现出更快的增殖动力学，但随着传代培养，这种生长优势并未持续，最终与晚发型PE来源细胞无显著差异。表明EOPE对干细胞的影响主要体现在早期适应阶段。
+
+### 🧪 方法简介
+
+采用对比性体外研究设计，分别从早发型和晚发型子痫前期妊娠的脐带样本中分离hUC-MSCs，系统比较两者的体外生长动力学特征，为区分不同PE亚型对干细胞生物学行为的影响提供了直接证据。
+
+### 🏥 临床相关性
+
+提示子痫前期来源的hUC-MSCs在再生医学应用中需考虑初始培养阶段的差异，但长期扩增后可能具有相似的细胞质量。为抗衰老研究中干细胞来源选择及宫内环境对干细胞质量的长期影响评估提供了参考依据。
+
+---
+
+## 研究 2: Calcium in agriculture and crop production.
+
+**期刊**: Trends in plant science  
 **发表日期**: 2026 Sep 12  
-**第一作者**: Xu Y 等 | **PMID**: [42728154](https://pubmed.ncbi.nlm.nih.gov/42728154/)  
+**第一作者**: Zörb C 等 | **PMID**: [42731916](https://pubmed.ncbi.nlm.nih.gov/42731916/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-线粒体去泛素化酶（DUBs）被证实是线粒体自噬的关键调控者，通过编辑受损线粒体表面的泛素信号，决定其清除效率与选择性。这一发现将DUBs定位为线粒体质量控制的“信号编辑者”，为理解多种疾病机制提供了新视角。
+该综述系统梳理了钙在农业生产与作物生长中的核心作用，提出钙不仅是营养元素，更是调控作物抗逆性与品质形成的关键信号分子。这一视角对理解植物源抗衰老策略具有重要参考价值。
 
 ### 🔬 关键发现
 
-DUBs以情境依赖的方式重塑线粒体外膜蛋白的泛素化状态，进而影响线粒体自噬的效率和选择性。线粒体自噬缺陷与神经退行性疾病、心血管疾病、癌症及遗传性线粒体病的关联被进一步强化，提示DUBs是这些疾病的潜在病理节点。
+钙通过维持细胞壁与膜稳定性、参与信号转导，影响作物产量与采后品质。钙缺乏与多种生理失调密切相关，而外源补钙可显著改善果实贮藏性与营养品质。
 
 ### 🧪 方法简介
 
-该研究系统整合了线粒体DUBs在生理与病理条件下的功能证据，并提出了以DUBs为靶点的药理学策略框架。这一“从机制到药物”的综述性整合，为开发线粒体自噬靶向疗法提供了理论路线图。
+文章整合了分子生物学、细胞成像与田间试验等多层次手段，系统评估钙转运蛋白、钙信号通路及农艺补钙策略的最新进展。
 
 ### 🏥 临床相关性
 
-靶向线粒体DUBs有望实现对线粒体质量的精准药理学调控，为神经退行性疾病、心血管病和癌症等衰老相关疾病提供新型干预策略。这提示DUBs可能成为抗衰老药物开发中可成药的靶点类别。
+作物钙营养强化可能提升植物源食品的钙生物利用度，为通过膳食干预延缓骨质疏松等年龄相关退行性疾病提供新思路，但需进一步人体研究验证。
 
 ---
 
-## 研究 2: Creatine and cognitive function in rodents: A systematic review of behavioral and neurobiological evidence.
+## 研究 3: Integrated metabolomics and DNA methylation signatures and their association with flare remission in SLE.
 
-**期刊**: Behavioural brain research  
-**发表日期**: 2026 Sep 13  
-**第一作者**: Sal-Sarria S 等 | **PMID**: [42331064](https://pubmed.ncbi.nlm.nih.gov/42331064/)  
+**期刊**: Lupus science & medicine  
+**发表日期**: 2026 Sep 12  
+**第一作者**: Horton M 等 | **PMID**: [42731887](https://pubmed.ncbi.nlm.nih.gov/42731887/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+该研究首次将代谢组学与DNA甲基化整合分析，探索SLE（系统性红斑狼疮） flare缓解的生物标志物。其核心价值在于揭示代谢物丰度变化与DNAm改变的关联，为理解SLE缓解机制提供新视角。
 
 ### 🔬 关键发现
 
-详见原文
+研究发现特定代谢物丰度的变化与SLE flare缓解显著相关，且这些代谢变化伴随DNA甲基化模式的改变。这提示代谢重编程与表观遗传调控在疾病缓解中可能存在协同作用。
 
 ### 🧪 方法简介
 
-详见原文
+研究采用整合代谢组学与DNA甲基化测序的联合分析策略，同步检测代谢物丰度与全基因组DNAm水平。该方法突破了单一组学局限，可系统解析代谢-表观遗传交互网络。
 
 ### 🏥 临床相关性
 
-详见原文
+该发现提示代谢物与DNAm标志物可作为SLE flare缓解的预测指标，并为靶向代谢-表观遗传轴的干预策略提供依据。对衰老相关免疫失调的监测与干预具有潜在转化价值。
 
 ---
 
-## 研究 3: FTO alleviates chronic restraint stress-induced cognitive deficits and depressive-like behaviors via regulating PI3K/Akt signaling, autophagy, and synaptic plasticity.
+## 研究 4: Association of Environmental Factors and Aging Levels Under Different Urbanization Levels in China.
 
-**期刊**: Behavioural brain research  
-**发表日期**: 2026 Sep 13  
-**第一作者**: Shen J 等 | **PMID**: [42320557](https://pubmed.ncbi.nlm.nih.gov/42320557/)  
+**期刊**: GeoHealth  
+**发表日期**: 2026 Sep  
+**第一作者**: Zheng Z 等 | **PMID**: [42732324](https://pubmed.ncbi.nlm.nih.gov/42732324/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次揭示FTO蛋白能缓解慢性束缚应激引发的认知障碍与抑郁样行为，为应激相关神经精神损伤提供了新的分子靶点。
+研究揭示了中国不同城市化水平下环境因素与老龄化水平的关联存在梯度差异，2010至2020年间各城市化层级老龄化水平均上升1.5至2.1倍，为制定区域差异化应对策略提供了依据。
 
 ### 🔬 关键发现
 
-FTO通过调控PI3K/Akt信号通路、自噬过程及突触可塑性，改善CRS诱导的神经行为缺陷，提示其多途径保护作用。
+高、中、低城市化地区老龄化均显著加剧；固定效应与随机森林模型一致显示，影响因素因城市化水平而异——低城市化地区居民储蓄和PM（颗粒物）等因素作用突出。
 
 ### 🧪 方法简介
 
-研究采用慢性束缚应激模型结合行为学评估与分子机制分析，系统验证FTO在应激反应中的功能及下游通路。
+整合2010与2020年县级老龄化及22项相关因素数据，以65岁和85岁以上人口占比量化老龄化，并联合运用固定效应模型与随机森林模型分析不同城市化梯度下的影响因素。
 
 ### 🏥 临床相关性
 
-靶向FTO或PI3K/Akt-自噬-突触轴可能成为延缓应激相关认知衰退及抑郁的干预策略，为抗衰老神经保护提供新思路。
+提示抗衰老干预需考虑城市化背景差异，低城市化地区应关注经济保障与空气污染控制等环境因素，为制定因地制宜的公共卫生与老龄健康策略提供科学参考。
+
+---
+
+## 研究 5: Inferred functional microbiome features are associated with clinical trajectories of low-grade cervical lesions.
+
+**期刊**: BMC microbiology  
+**发表日期**: 2026 Sep 12  
+**第一作者**: Stosic M 等 | **PMID**: [42732072](https://pubmed.ncbi.nlm.nih.gov/42732072/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究首次系统评估了宫颈阴道微生物组的分类、生态及推断功能特征，能否区分低级别鳞状上皮内病变（LSIL）的消退与进展。这为HPV相关宫颈病变的临床轨迹预测提供了微生物组层面的新视角。
+
+### 🔬 关键发现
+
+研究发现，基于微生物组推断的功能特征与LSIL的临床轨迹（消退或进展）显著相关。这些特征有望改善对LSIL患者的风险分层，辅助识别高风险进展个体。
+
+### 🧪 方法简介
+
+研究采用“推断功能微生物组特征”的分析策略，即不依赖传统分离培养，而是通过微生物组测序数据推断其功能潜力。该方法整合了分类、生态与功能三个维度，提升了预测LSIL轨迹的区分能力。
+
+### 🏥 临床相关性
+
+该发现提示，微生物组功能特征可作为LSIL风险分层的新型生物标志物，辅助临床决策（如加强随访或干预）。未来或可通过调控微生物组功能，延缓宫颈病变进展，为抗衰老相关干预提供新靶点。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-09-13 02:11:38  
+**生成时间**: 2026-09-13 16:17:53  
 **摘要生成**: DeepSeek AI
 
 ---
