@@ -15,17 +15,17 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 11 | Gain-of-function suppressors restore microtubule dynamics and rescue dominant-negative tubulinopathies. | Nature cell biology | [42728306](https://pubmed.ncbi.nlm.nih.gov/42728306/) | Gain-of-function suppressors restore microtubule dynamics an... |
-| 2026 Sep 11 | Human gingival epithelial cell adhesion and proliferation on Ti-6Al-4V surface biofunctionalized with a nanoceramic thin film: An in vitro study. | The Journal of prosthetic dentistry | [42728178](https://pubmed.ncbi.nlm.nih.gov/42728178/) | Human gingival epithelial cell adhesion and proliferation on... |
-| 2026 Sep 11 | Integrated analysis of hematopoietic changes following heterochronic bone marrow transplantation between young and aged mice. | Transplantation and cellular therapy | [42727883](https://pubmed.ncbi.nlm.nih.gov/42727883/) | Integrated analysis of hematopoietic changes following heter... |
-| 2026 Sep 11 | Evidence for similar enzymatic but different cellular generation of pE79-modified α-synuclein in PD and AD mouse models. | Neurochemistry international | [42727643](https://pubmed.ncbi.nlm.nih.gov/42727643/) | Evidence for similar enzymatic but different cellular genera... |
-| 2026 Sep 11 | Distinct cochlear cell types associated with genetic susceptibility to sensory and metabolic hearing loss in older adults. | American journal of human genetics | [42727577](https://pubmed.ncbi.nlm.nih.gov/42727577/) | Distinct cochlear cell types associated with genetic suscept... |
+| 2026 Sep 12 | Toll-like receptor 2 modulates age-associated insulitis and fibrotic remodeling of Langerhans islets. | Immunity & ageing : I & A | [42732051](https://pubmed.ncbi.nlm.nih.gov/42732051/) | Toll-like receptor 2 modulates age-associated insulitis and ... |
+| 2026 Sep 12 | UVB-aged polystyrene microplastics induce enhanced stress responses in human proximal tubular cells. | Toxicology | [42731774](https://pubmed.ncbi.nlm.nih.gov/42731774/) | UVB-aged polystyrene microplastics induce enhanced stress re... |
+| 2026 Sep 12 | Epigenetic clocks and accelerated biological aging in people living with HIV: Emerging mechanisms and clinical implications. | Experimental gerontology | [42731644](https://pubmed.ncbi.nlm.nih.gov/42731644/) | Epigenetic clocks and accelerated biological aging in people... |
+| 2026 Sep 12 | Silibinin Ameliorated Lipid Accumulation Through Insulin/IGF-1 signaling Pathway in HGI C. elegans. | The Journal of nutritional biochemistry | [42731639](https://pubmed.ncbi.nlm.nih.gov/42731639/) | Silibinin Ameliorated Lipid Accumulation Through Insulin/IGF... |
+| 2026 Sep 12 | Connected care in a digital world: Engagement and telehealth use in older cancer survivors. | Journal of geriatric oncology | [42731363](https://pubmed.ncbi.nlm.nih.gov/42731363/) | Connected care in a digital world: Engagement and telehealth... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 11 | Mitochondrial homeostasis in musculoskeletal diseases: from pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: from ... |
+| 2026 Sep 11 | Mitochondrial homeostasis in musculoskeletal diseases: From pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: From ... |
 | 2026 Sep | Mitochondrial Proteostasis Links Diabetes and Sarcopenia: Cross-Scale Convergence from Experimental Models to Human Multi-Omics. | Diabetes & metabolism journal | [42722377](https://pubmed.ncbi.nlm.nih.gov/42722377/) | Mitochondrial Proteostasis Links Diabetes and Sarcopenia: Cr... |
 | 2026 Sep 10 | Bazi Bushen attenuates musculoskeletal degeneration in Ercc1(+/-) mice. | Experimental gerontology | [42722215](https://pubmed.ncbi.nlm.nih.gov/42722215/) | Bazi Bushen attenuates musculoskeletal degeneration in Ercc1... |
 | 2026 Sep 10 | Mitochondrial homeodynamics in ageing: mechanisms, resilience, and interventions. | Biogerontology | [42720714](https://pubmed.ncbi.nlm.nih.gov/42720714/) | Mitochondrial homeodynamics in ageing: mechanisms, resilienc... |
@@ -35,7 +35,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 11 | Mitochondrial homeostasis in musculoskeletal diseases: from pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: from ... |
+| 2026 Sep 11 | Mitochondrial homeostasis in musculoskeletal diseases: From pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: From ... |
 | 2026 Sep 8 | Urolithin A Enhances the Development of Porcine Parthenogenetic Embryos by Promoting Mitochondrial Function and Quantity Through the SIRT1/PGC-1α Signaling Pathway. | Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada | [42713995](https://pubmed.ncbi.nlm.nih.gov/42713995/) | Urolithin A Enhances the Development of Porcine Parthenogene... |
 | 2026 Sep 7 | Strengthening muscle for healthy ageing: innovative treatments for sarcopenia. | Nature reviews. Drug discovery | [42706321](https://pubmed.ncbi.nlm.nih.gov/42706321/) | Strengthening muscle for healthy ageing: innovative treatmen... |
 | 2026 Aug | Urolithins: microbial biosynthesis, metabolic pathways and health benefits for functional food and cosmeceutical applications. | Food science and biotechnology | [42661872](https://pubmed.ncbi.nlm.nih.gov/42661872/) | Urolithins: microbial biosynthesis, metabolic pathways and h... |
