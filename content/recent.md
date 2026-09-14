@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-13 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-14 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep | A Review of Senescence-Associated Secretory Phenotype-Mediated Remodeling of the Tumor Microenvironment: Implications for Cancer Progression and Therapy. | Cancer reports (Hoboken, N.J.) | [42732921](https://pubmed.ncbi.nlm.nih.gov/42732921/) | A Review of Senescence-Associated Secretory Phenotype-Mediat... |
+| 2026 Sep 13 | Diagnostic value of interferon-stimulated gene 15 muscle expression in dermatomyositis. | Journal of the European Academy of Dermatology and Venereology : JEADV | [42732551](https://pubmed.ncbi.nlm.nih.gov/42732551/) | Diagnostic value of interferon-stimulated gene 15 muscle exp... |
 | 2026 Sep 12 | Toll-like receptor 2 modulates age-associated insulitis and fibrotic remodeling of Langerhans islets. | Immunity & ageing : I & A | [42732051](https://pubmed.ncbi.nlm.nih.gov/42732051/) | Toll-like receptor 2 modulates age-associated insulitis and ... |
 | 2026 Sep 12 | UVB-aged polystyrene microplastics induce enhanced stress responses in human proximal tubular cells. | Toxicology | [42731774](https://pubmed.ncbi.nlm.nih.gov/42731774/) | UVB-aged polystyrene microplastics induce enhanced stress re... |
 | 2026 Sep 12 | Epigenetic clocks and accelerated biological aging in people living with HIV: Emerging mechanisms and clinical implications. | Experimental gerontology | [42731644](https://pubmed.ncbi.nlm.nih.gov/42731644/) | Epigenetic clocks and accelerated biological aging in people... |
-| 2026 Sep 12 | Silibinin Ameliorated Lipid Accumulation Through Insulin/IGF-1 signaling Pathway in HGI C. elegans. | The Journal of nutritional biochemistry | [42731639](https://pubmed.ncbi.nlm.nih.gov/42731639/) | Silibinin Ameliorated Lipid Accumulation Through Insulin/IGF... |
-| 2026 Sep 12 | Connected care in a digital world: Engagement and telehealth use in older cancer survivors. | Journal of geriatric oncology | [42731363](https://pubmed.ncbi.nlm.nih.gov/42731363/) | Connected care in a digital world: Engagement and telehealth... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-13 | 自动生成*
+*最后更新：2026-09-14 | 自动生成*
