@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep | A Review of Senescence-Associated Secretory Phenotype-Mediated Remodeling of the Tumor Microenvironment: Implications for Cancer Progression and Therapy. | Cancer reports (Hoboken, N.J.) | [42732921](https://pubmed.ncbi.nlm.nih.gov/42732921/) | A Review of Senescence-Associated Secretory Phenotype-Mediat... |
-| 2026 Sep 13 | Diagnostic value of interferon-stimulated gene 15 muscle expression in dermatomyositis. | Journal of the European Academy of Dermatology and Venereology : JEADV | [42732551](https://pubmed.ncbi.nlm.nih.gov/42732551/) | Diagnostic value of interferon-stimulated gene 15 muscle exp... |
-| 2026 Sep 12 | Toll-like receptor 2 modulates age-associated insulitis and fibrotic remodeling of Langerhans islets. | Immunity & ageing : I & A | [42732051](https://pubmed.ncbi.nlm.nih.gov/42732051/) | Toll-like receptor 2 modulates age-associated insulitis and ... |
-| 2026 Sep 12 | UVB-aged polystyrene microplastics induce enhanced stress responses in human proximal tubular cells. | Toxicology | [42731774](https://pubmed.ncbi.nlm.nih.gov/42731774/) | UVB-aged polystyrene microplastics induce enhanced stress re... |
-| 2026 Sep 12 | Epigenetic clocks and accelerated biological aging in people living with HIV: Emerging mechanisms and clinical implications. | Experimental gerontology | [42731644](https://pubmed.ncbi.nlm.nih.gov/42731644/) | Epigenetic clocks and accelerated biological aging in people... |
+| 2026 Sep 14 | Clearance of p16-positive cardiac cells improves age-related cardiac remodeling in mice. | Experimental physiology | [42734482](https://pubmed.ncbi.nlm.nih.gov/42734482/) | Clearance of p16-positive cardiac cells improves age-related... |
+| 2027 Jan 1 | Molecular hydrogen: a potential guardian against environmental radiation damage. | Medical gas research | [42734460](https://pubmed.ncbi.nlm.nih.gov/42734460/) | Molecular hydrogen: a potential guardian against environment... |
+| 2027 Jan 1 | Gas signaling molecule: a new research focus in the treatment of erectile dysfunction. | Medical gas research | [42734459](https://pubmed.ncbi.nlm.nih.gov/42734459/) | Gas signaling molecule: a new research focus in the treatmen... |
+| 2026 Sep 14 | 5-Fluorouracil-based chemotherapy disrupts autophagy flux and protein synthesis in cultured myotubes: a role for mTORC1 signaling. | American journal of physiology. Cell physiology | [42734427](https://pubmed.ncbi.nlm.nih.gov/42734427/) | 5-Fluorouracil-based chemotherapy disrupts autophagy flux an... |
+| 2026 Sep | Determination of Expression and Relationships of Nedd4-Related E3 Ubiquitin Ligase-2 (NEDL2) and Ubiquitin Proteasome System Proteins in Developing Rat Pancreatic Tissue. | Anatomia, histologia, embryologia | [42734320](https://pubmed.ncbi.nlm.nih.gov/42734320/) | Determination of Expression and Relationships of Nedd4-Relat... |
 
 ### NAD+ 与线粒体
 
