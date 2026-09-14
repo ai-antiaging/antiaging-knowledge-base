@@ -12,86 +12,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: The insect effector CSPs activate an atypical plant TNL immune receptor.
+## 研究 1: 5-Fluorouracil-based chemotherapy disrupts autophagy flux and protein synthesis in cultured myotubes: a role for mTORC1 signaling.
 
-**期刊**: Plant cell reports  
-**发表日期**: 2026 Sep 13  
-**第一作者**: Rao W 等 | **PMID**: [42732488](https://pubmed.ncbi.nlm.nih.gov/42732488/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-首次揭示昆虫效应蛋白CSP通过激活植物非典型TNL免疫受体RCSP引发矮化，阐明了RCSP-TIR结构域以非经典机制实现免疫信号重编程，为植物-昆虫互作提供新范式。
-
-### 🔬 关键发现
-
-RCSP-TIR存在BB-loop缺失、α5α6-loop插入及催化谷氨酸被谷氨酰胺替代（E87Q）；BB-loop缺失破坏经典NAD⁺结合口袋及四聚化，α5α6-loop插入补偿形成非典型四聚体；RCSP依赖D86/Q87双催化残基介导弱细胞死亡。
-
-### 🧪 方法简介
-
-整合AlphaFold3/DMFold结构建模、分子对接与定点突变，结合进化分析将RCSP-TIR同源物分为四支，揭示茄科特异性适应。
-
-### 🏥 临床相关性
-
-该研究虽聚焦植物免疫，但其“非经典催化残基+结构补偿”机制为理解衰老相关慢性炎症中免疫受体异常激活提供类比思路，提示靶向非典型TIR结构域或成未来干预新方向。
-
----
-
-## 研究 2: Diagnostic value of interferon-stimulated gene 15 muscle expression in dermatomyositis.
-
-**期刊**: Journal of the European Academy of Dermatology and Venereology : JEADV  
-**发表日期**: 2026 Sep 13  
-**第一作者**: Šarić A 等 | **PMID**: [42732551](https://pubmed.ncbi.nlm.nih.gov/42732551/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-本研究发表于 Journal of the European Academy of Dermatology and Venereology : JEADV，聚焦抗衰老领域前沿问题。
-
-### 🔬 关键发现
-
-研究探索了 Diagnostic value of interferon-stimulated gene 15 muscle expression in dermatomy... 的相关机制。
-
-### 🧪 方法简介
-
-采用分子生物学、细胞实验或临床队列研究方法。
-
-### 🏥 临床相关性
-
-研究成果为理解衰老机制和开发抗衰老干预策略提供新见解。
-
----
-
-## 研究 3: MMP-2 Responsive Functional Bladder Acellular Matrix Scaffold Combined With Urine Derived Stem Cells for Bladder Nerve Regeneration.
-
-**期刊**: Chembiochem : a European journal of chemical biology  
+**期刊**: American journal of physiology. Cell physiology  
 **发表日期**: 2026 Sep 14  
-**第一作者**: Xia H 等 | **PMID**: [42708372](https://pubmed.ncbi.nlm.nih.gov/42708372/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-本研究开发了一种MMP-2响应型功能性膀胱脱细胞基质支架，联合尿液来源干细胞（USCs）促进膀胱神经再生。这是首次将NGF模拟肽（NMP）通过MMP-2可控释放系统递送至膀胱重建部位，显著改善了神经再生效果。
-
-### 🔬 关键发现
-
-在大鼠膀胱重建模型中，BAM/USCs/bFGF/NMP-TIMP功能材料显著促进了内皮细胞、毛细血管、平滑肌细胞和神经纤维的再生，并改善了膀胱功能。结果表明该材料能有效提升膀胱组织工程中的神经再生水平。
-
-### 🧪 方法简介
-
-研究设计了基于TIMP（可被MMP-2切割）的MMP-2响应型NMP递送系统，可根据局部微环境中MMP-2的量控制NMP释放。通过化学交联将NMP-TIMP和bFGF与负载USCs的BAM结合，构建了多功能生物材料。
-
-### 🏥 临床相关性
-
-该策略为膀胱组织工程提供了促进神经再生的新思路，有望改善膀胱重建术后神经功能恢复。其MMP-2响应释放机制也可为其他组织再生中的生长因子递送提供参考，对再生医学和抗衰老干预具有潜在启示。
-
----
-
-## 研究 4: Creatine and cognitive function in rodents: A systematic review of behavioral and neurobiological evidence.
-
-**期刊**: Behavioural brain research  
-**发表日期**: 2026 Sep 13  
-**第一作者**: Sal-Sarria S 等 | **PMID**: [42331064](https://pubmed.ncbi.nlm.nih.gov/42331064/)  
+**第一作者**: Halle JL 等 | **PMID**: [42734427](https://pubmed.ncbi.nlm.nih.gov/42734427/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -112,35 +37,110 @@ RCSP-TIR存在BB-loop缺失、α5α6-loop插入及催化谷氨酸被谷氨酰胺
 
 ---
 
-## 研究 5: FTO alleviates chronic restraint stress-induced cognitive deficits and depressive-like behaviors via regulating PI3K/Akt signaling, autophagy, and synaptic plasticity.
+## 研究 2: DNA methylome responses to biotic and abiotic stress in Arabidopsis thaliana: A multi-study analysis.
 
-**期刊**: Behavioural brain research  
-**发表日期**: 2026 Sep 13  
-**第一作者**: Shen J 等 | **PMID**: [42320557](https://pubmed.ncbi.nlm.nih.gov/42320557/)  
+**期刊**: Plant biology (Stuttgart, Germany)  
+**发表日期**: 2026 Sep 14  
+**第一作者**: Behl R 等 | **PMID**: [42734610](https://pubmed.ncbi.nlm.nih.gov/42734610/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次揭示FTO蛋白可缓解慢性束缚应激引发的认知障碍与抑郁样行为，将肥胖相关基因FTO与应激诱导的神经精神损伤直接关联，为应激相关障碍提供了新的分子靶点。
+该研究通过跨研究整合分析，首次系统比较了拟南芥在多种生物与非生物胁迫下的DNA甲基化响应，揭示了不同胁迫间共享与特异的甲基化模式，为理解植物胁迫表观遗传调控提供了新视角。
 
 ### 🔬 关键发现
 
-FTO通过调控PI3K/Akt信号通路、自噬过程及突触可塑性，改善CRS诱导的神经行为缺陷，提示FTO是整合代谢信号与神经元稳态的关键节点。
+研究发现不同胁迫可诱导部分重叠的DNA甲基化变化，同时存在胁迫特异性响应区域，表明DNA甲基化在植物胁迫应答中兼具通用性与专一性调控功能。
 
 ### 🧪 方法简介
 
-研究采用慢性束缚应激模型结合行为学评估与分子机制解析，系统验证FTO在应激反应中的功能，但摘要未提及具体新技术手段。
+采用多研究整合分析策略，克服了单一研究中分析方法与实验设计差异带来的比较障碍，实现了跨实验的DNA甲基化响应模式统一评估。
 
 ### 🏥 临床相关性
 
-靶向FTO或其下游PI3K/Akt-自噬-突触轴，可能成为干预应激相关认知衰退与抑郁的新策略，为抗衰老领域提供代谢-神经交叉干预思路。
+该研究为理解环境胁迫下表观遗传调控的共性规律提供了模型，提示未来抗衰老干预可借鉴多因素整合分析思路，探索不同应激源对甲基化组的共享与特异影响。
+
+---
+
+## 研究 3: Improving Quantum-Chemical Prediction of 19F NMR Chemical Shifts via Machine Learning.
+
+**期刊**: Journal of chemical information and modeling  
+**发表日期**: 2026 Sep 14  
+**第一作者**: Chen D 等 | **PMID**: [42734509](https://pubmed.ncbi.nlm.nih.gov/42734509/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究用机器学习诊断并修正量子化学计算中“屏蔽值—实验位移”映射关系的分域性偏差，而非简单套用机器学习。这一思路显著提升了19F NMR化学位移预测精度，为含氟分子结构解析提供了更可靠的工具。
+
+### 🔬 关键发现
+
+基于2605个实验位移数据，分域建模后预测平均绝对误差低于4 ppm；在60 MHz台式仪器条件下经简单线性校准即具实用价值，并成功用于含氟反应混合物的谱图解析与候选结构排序。
+
+### 🧪 方法简介
+
+整合DFT/GIAO量子化学计算与机器学习，识别出计算屏蔽值与实验位移映射存在系统性差异的结构相关区域，并针对各区域分别构建预测模型，实现分域校正。
+
+### 🏥 临床相关性
+
+含氟药物与探针在抗衰老研究中日益增多，该框架可提升含氟代谢物、候选药物的结构鉴定效率与可靠性，辅助反应混合物解析，加速相关干预措施的研发与质控。
+
+---
+
+## 研究 4: Fragment-Based Discovery of KLK6 and KLK7 Inhibitors.
+
+**期刊**: Journal of chemical information and modeling  
+**发表日期**: 2026 Sep 14  
+**第一作者**: de Freitas RF 等 | **PMID**: [42734496](https://pubmed.ncbi.nlm.nih.gov/42734496/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究首次系统验证了组织激肽释放酶KLK6和KLK7可被基于片段的策略有效抑制，填补了这两个靶点在小分子抑制剂开发上的空白。其意义在于为神经退行性疾病、皮肤病和肿瘤等领域的药物研发提供了化学结构简单、配体效率高的起点分子。
+
+### 🔬 关键发现
+
+虚拟筛选结合体外酶学验证获得了4%（KLK7）至21.6%（KLK6）的命中率（IC50 ≤ 100 μM）。片段69对KLK6抑制活性最强（IC50 = 2.1 μM，LE = 0.43），而中性2-羟基喹啉片段38对KLK7有效（IC50 = 43.3 μM，LE = 0.46）。
+
+### 🧪 方法简介
+
+研究采用基于片段的虚拟筛选（FBVS）策略，结合针对丝氨酸蛋白酶活性位点定制的结构导向对接方法，并通过体外酶学实验进行验证，形成了一套可推广至其他激肽释放酶的筛选级联流程。
+
+### 🏥 临床相关性
+
+该发现为靶向激肽释放酶相关病理（如神经炎症、皮肤屏障失调和肿瘤进展）的先导化合物优化提供了可行起点，有望推动针对这些衰老相关通路的选择性小分子药物开发，但尚需后续细胞和体内实验验证。
+
+---
+
+## 研究 5: Clearance of p16-positive cardiac cells improves age-related cardiac remodeling in mice.
+
+**期刊**: Experimental physiology  
+**发表日期**: 2026 Sep 14  
+**第一作者**: Mehdizadeh M 等 | **PMID**: [42734482](https://pubmed.ncbi.nlm.nih.gov/42734482/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+靶向清除表达p16的衰老心脏细胞可显著改善老年小鼠的心脏重构与舒张功能，首次系统评估了不同心脏细胞类型在这一过程中的作用，为心脏衰老的可逆性提供了直接证据。
+
+### 🔬 关键发现
+
+AP20187清除p16阳性细胞后，老年小鼠左心室质量/舒张末内径及前壁厚度增加被显著抑制，舒张功能障碍恢复正常；FACS和免疫荧光显示p16阳性成纤维细胞和心肌细胞被清除；衰老成纤维细胞产物可上调心肌细胞肥大标志物。
+
+### 🧪 方法简介
+
+研究采用NK-ATTAC转基因小鼠模型，通过AP20187二聚化剂实现体内靶向清除p16阳性细胞，并结合超声心动图、Millar导管血流动力学、FACS及免疫荧光多维度评估心脏结构与功能。
+
+### 🏥 临床相关性
+
+衰老成纤维细胞和心肌细胞通过旁分泌机制驱动年龄相关心脏重构，提示调控细胞衰老或可成为心力衰竭等年龄相关心脏疾病的新型干预策略。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-09-14 02:29:29  
+**生成时间**: 2026-09-14 16:17:50  
 **摘要生成**: DeepSeek AI
 
 ---
