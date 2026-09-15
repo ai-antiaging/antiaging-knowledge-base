@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 14 | Spatially Patterned Podocyte State Transitions Coordinate Aging of the Glomerulus. | Journal of the American Society of Nephrology : JASN | [42735037](https://pubmed.ncbi.nlm.nih.gov/42735037/) | Spatially Patterned Podocyte State Transitions Coordinate Ag... |
-| 2026 Sep | USP18 Serves as a Key Mediator of cGAS-STING for Cardiac Aging in Diabetes. | Cell biochemistry and function | [42734990](https://pubmed.ncbi.nlm.nih.gov/42734990/) | USP18 Serves as a Key Mediator of cGAS-STING for Cardiac Agi... |
-| 2026 Sep 14 | Clearance of p16-positive cardiac cells improves age-related cardiac remodeling in mice. | Experimental physiology | [42734482](https://pubmed.ncbi.nlm.nih.gov/42734482/) | Clearance of p16-positive cardiac cells improves age-related... |
-| 2027 Jan 1 | Molecular hydrogen: a potential guardian against environmental radiation damage. | Medical gas research | [42734460](https://pubmed.ncbi.nlm.nih.gov/42734460/) | Molecular hydrogen: a potential guardian against environment... |
-| 2027 Jan 1 | Gas signaling molecule: a new research focus in the treatment of erectile dysfunction. | Medical gas research | [42734459](https://pubmed.ncbi.nlm.nih.gov/42734459/) | Gas signaling molecule: a new research focus in the treatmen... |
+| 2026 Sep 15 | Multidimensional Regulatory Network of Cellular Senescence: From Mechanisms to Theranostics. | ACS biomaterials science & engineering | [42742054](https://pubmed.ncbi.nlm.nih.gov/42742054/) | Multidimensional Regulatory Network of Cellular Senescence: ... |
+| 2026 Sep 15 | LSD1-mediated demethylation of the DNA damage response factor ATM promotes senescence and organ aging. | The Journal of clinical investigation | [42741942](https://pubmed.ncbi.nlm.nih.gov/42741942/) | LSD1-mediated demethylation of the DNA damage response facto... |
+| 2026 Oct | Spatial partitioning of cell and extracellular matrix in multiplexed fluorescence imaging of defined bone compartments in whole-femur cross-sections. | JBMR plus | [42741507](https://pubmed.ncbi.nlm.nih.gov/42741507/) | Spatial partitioning of cell and extracellular matrix in mul... |
+| 2026 Sep | A Biomimetic 3D Human Skeletal Muscle Microtissue for Modeling Biological and Functional Hallmarks of Aging. | Small science | [42741479](https://pubmed.ncbi.nlm.nih.gov/42741479/) | A Biomimetic 3D Human Skeletal Muscle Microtissue for Modeli... |
+| 2026 Nov-Dec | Premature immunosenescence in AYA gastrointestinal cancer: The metabolic-inflammatory-hormonal axis as an integrative framework: A systematic review. | Medicine international | [42741245](https://pubmed.ncbi.nlm.nih.gov/42741245/) | Premature immunosenescence in AYA gastrointestinal cancer: T... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Aug 22 | Geroprotective Effects of Drugs Modulating Metabolic Pathways: Perspectives of Pharmacology in Anti-Aging Therapy. | International journal of molecular sciences | [42737424](https://pubmed.ncbi.nlm.nih.gov/42737424/) | Geroprotective Effects of Drugs Modulating Metabolic Pathway... |
+| 2026 Sep 14 | NMN Mitigates LPS-Induced Liver Injury by Inhibiting Ferroptosis via Suppression of the cGAS-STING-ACSL4 Axis. | Pharmacological research | [42735732](https://pubmed.ncbi.nlm.nih.gov/42735732/) | NMN Mitigates LPS-Induced Liver Injury by Inhibiting Ferropt... |
 | 2026 Sep 11 | Mitochondrial homeostasis in musculoskeletal diseases: From pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: From ... |
 | 2026 Sep | Mitochondrial Proteostasis Links Diabetes and Sarcopenia: Cross-Scale Convergence from Experimental Models to Human Multi-Omics. | Diabetes & metabolism journal | [42722377](https://pubmed.ncbi.nlm.nih.gov/42722377/) | Mitochondrial Proteostasis Links Diabetes and Sarcopenia: Cr... |
 | 2026 Sep 10 | Bazi Bushen attenuates musculoskeletal degeneration in Ercc1(+/-) mice. | Experimental gerontology | [42722215](https://pubmed.ncbi.nlm.nih.gov/42722215/) | Bazi Bushen attenuates musculoskeletal degeneration in Ercc1... |
-| 2026 Sep 10 | Mitochondrial homeodynamics in ageing: mechanisms, resilience, and interventions. | Biogerontology | [42720714](https://pubmed.ncbi.nlm.nih.gov/42720714/) | Mitochondrial homeodynamics in ageing: mechanisms, resilienc... |
-| 2026 | Mitochondrial NMNAT3 reduces amyloid aggregates in Drosophila and alters the amyloid processing in the 3xTgAD mouse. | Mitochondrial communications | [42719345](https://pubmed.ncbi.nlm.nih.gov/42719345/) | Mitochondrial NMNAT3 reduces amyloid aggregates in Drosophil... |
 
 ### 尿石素 A 与线粒体自噬
 
