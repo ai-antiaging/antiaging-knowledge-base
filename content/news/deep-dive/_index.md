@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[Beyond redlining: Gentrification, displacement, disadvantages, and exclusivity predict urban environmental and health inequities.](./2026-09-15-weekly/)** — 2026年09月15日
+  - *Proceedings of the National Academy of Sciences of the United States of America* · PMID: 42735314
+
 - **[Pyruvylation expands the redox repertoire of lysine acylation.](./2026-09-08-weekly/)** — 2026年09月08日
   - *Trends in biochemical sciences* · PMID: 42706000
 
