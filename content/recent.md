@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-14 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-15 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 14 | Spatially Patterned Podocyte State Transitions Coordinate Aging of the Glomerulus. | Journal of the American Society of Nephrology : JASN | [42735037](https://pubmed.ncbi.nlm.nih.gov/42735037/) | Spatially Patterned Podocyte State Transitions Coordinate Ag... |
+| 2026 Sep | USP18 Serves as a Key Mediator of cGAS-STING for Cardiac Aging in Diabetes. | Cell biochemistry and function | [42734990](https://pubmed.ncbi.nlm.nih.gov/42734990/) | USP18 Serves as a Key Mediator of cGAS-STING for Cardiac Agi... |
 | 2026 Sep 14 | Clearance of p16-positive cardiac cells improves age-related cardiac remodeling in mice. | Experimental physiology | [42734482](https://pubmed.ncbi.nlm.nih.gov/42734482/) | Clearance of p16-positive cardiac cells improves age-related... |
 | 2027 Jan 1 | Molecular hydrogen: a potential guardian against environmental radiation damage. | Medical gas research | [42734460](https://pubmed.ncbi.nlm.nih.gov/42734460/) | Molecular hydrogen: a potential guardian against environment... |
 | 2027 Jan 1 | Gas signaling molecule: a new research focus in the treatment of erectile dysfunction. | Medical gas research | [42734459](https://pubmed.ncbi.nlm.nih.gov/42734459/) | Gas signaling molecule: a new research focus in the treatmen... |
-| 2026 Sep 14 | 5-Fluorouracil-based chemotherapy disrupts autophagy flux and protein synthesis in cultured myotubes: a role for mTORC1 signaling. | American journal of physiology. Cell physiology | [42734427](https://pubmed.ncbi.nlm.nih.gov/42734427/) | 5-Fluorouracil-based chemotherapy disrupts autophagy flux an... |
-| 2026 Sep | Determination of Expression and Relationships of Nedd4-Related E3 Ubiquitin Ligase-2 (NEDL2) and Ubiquitin Proteasome System Proteins in Developing Rat Pancreatic Tissue. | Anatomia, histologia, embryologia | [42734320](https://pubmed.ncbi.nlm.nih.gov/42734320/) | Determination of Expression and Relationships of Nedd4-Relat... |
 
 ### NAD+ 与线粒体
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Aug 30 | Polyamine metabolic enzyme SAT1 remodels the neuronal transcriptome and rescues α-synuclein toxicity in Drosophila. | Amino acids | [42734829](https://pubmed.ncbi.nlm.nih.gov/42734829/) | Polyamine metabolic enzyme SAT1 remodels the neuronal transc... |
 | 2026 Sep 7 | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTSALDOSTERONE-INDUCED CARDIOVASCULAR DAMAGE. | Clinical science (London, England : 1979) | [42704046](https://pubmed.ncbi.nlm.nih.gov/42704046/) | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTSALDO... |
 | 2026 | Polyamine Metabolism in Brain Health and Disease. | Neuropharmacology and therapy | [42631064](https://pubmed.ncbi.nlm.nih.gov/42631064/) | Polyamine Metabolism in Brain Health and Disease. |
-| 2026 Aug 30 | Non-cell autonomous control of presynaptic remodeling by the hypothalamic autophagy-NPY axis. | Autophagy | [42609005](https://pubmed.ncbi.nlm.nih.gov/42609005/) | Non-cell autonomous control of presynaptic remodeling by the... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-14 | 自动生成*
+*最后更新：2026-09-15 | 自动生成*
