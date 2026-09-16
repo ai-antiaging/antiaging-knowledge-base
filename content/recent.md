@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-15 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-16 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 15 | Multidimensional Regulatory Network of Cellular Senescence: From Mechanisms to Theranostics. | ACS biomaterials science & engineering | [42742054](https://pubmed.ncbi.nlm.nih.gov/42742054/) | Multidimensional Regulatory Network of Cellular Senescence: ... |
-| 2026 Sep 15 | LSD1-mediated demethylation of the DNA damage response factor ATM promotes senescence and organ aging. | The Journal of clinical investigation | [42741942](https://pubmed.ncbi.nlm.nih.gov/42741942/) | LSD1-mediated demethylation of the DNA damage response facto... |
-| 2026 Oct | Spatial partitioning of cell and extracellular matrix in multiplexed fluorescence imaging of defined bone compartments in whole-femur cross-sections. | JBMR plus | [42741507](https://pubmed.ncbi.nlm.nih.gov/42741507/) | Spatial partitioning of cell and extracellular matrix in mul... |
-| 2026 Sep | A Biomimetic 3D Human Skeletal Muscle Microtissue for Modeling Biological and Functional Hallmarks of Aging. | Small science | [42741479](https://pubmed.ncbi.nlm.nih.gov/42741479/) | A Biomimetic 3D Human Skeletal Muscle Microtissue for Modeli... |
-| 2026 Nov-Dec | Premature immunosenescence in AYA gastrointestinal cancer: The metabolic-inflammatory-hormonal axis as an integrative framework: A systematic review. | Medicine international | [42741245](https://pubmed.ncbi.nlm.nih.gov/42741245/) | Premature immunosenescence in AYA gastrointestinal cancer: T... |
+| 2026 Sep 16 | The longevity gene APOE2 enhances pericyte function and reduces lipid droplets. | Brain : a journal of neurology | [42744302](https://pubmed.ncbi.nlm.nih.gov/42744302/) | The longevity gene APOE2 enhances pericyte function and redu... |
+| 2026 Sep 15 | Structural and Mechanical Insights into the Extracellular Matrix of the Aging Human Lacrimal Gland for Tissue Engineering Applications. | Acta biomaterialia | [42744072](https://pubmed.ncbi.nlm.nih.gov/42744072/) | Structural and Mechanical Insights into the Extracellular Ma... |
+| 2026 Sep 15 | Assessing SARS-CoV-2 immune markers in vaccinated asymptomatic adults after household exposure in Canada (AB-PROTECT): a prospective cohort study. | The Lancet. Microbe | [42743944](https://pubmed.ncbi.nlm.nih.gov/42743944/) | Assessing SARS-CoV-2 immune markers in vaccinated asymptomat... |
+| 2026 Sep 15 | Rapamycin targetome mining identifies RBBP7 as a druggable epigenetic vulnerability in hepatocellular carcinoma. | Cell chemical biology | [42743924](https://pubmed.ncbi.nlm.nih.gov/42743924/) | Rapamycin targetome mining identifies RBBP7 as a druggable e... |
+| 2026 Sep 15 | Radiation-induced atrial fibrillation is driven by cellular senescence via the GATA4 - NF-κB pathway and rescued by D/Q senolytic therapy. | International immunopharmacology | [42743874](https://pubmed.ncbi.nlm.nih.gov/42743874/) | Radiation-induced atrial fibrillation is driven by cellular ... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-15 | 自动生成*
+*最后更新：2026-09-16 | 自动生成*
