@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 16 | The longevity gene APOE2 enhances pericyte function and reduces lipid droplets. | Brain : a journal of neurology | [42744302](https://pubmed.ncbi.nlm.nih.gov/42744302/) | The longevity gene APOE2 enhances pericyte function and redu... |
-| 2026 Sep 15 | Structural and Mechanical Insights into the Extracellular Matrix of the Aging Human Lacrimal Gland for Tissue Engineering Applications. | Acta biomaterialia | [42744072](https://pubmed.ncbi.nlm.nih.gov/42744072/) | Structural and Mechanical Insights into the Extracellular Ma... |
-| 2026 Sep 15 | Assessing SARS-CoV-2 immune markers in vaccinated asymptomatic adults after household exposure in Canada (AB-PROTECT): a prospective cohort study. | The Lancet. Microbe | [42743944](https://pubmed.ncbi.nlm.nih.gov/42743944/) | Assessing SARS-CoV-2 immune markers in vaccinated asymptomat... |
-| 2026 Sep 15 | Rapamycin targetome mining identifies RBBP7 as a druggable epigenetic vulnerability in hepatocellular carcinoma. | Cell chemical biology | [42743924](https://pubmed.ncbi.nlm.nih.gov/42743924/) | Rapamycin targetome mining identifies RBBP7 as a druggable e... |
-| 2026 Sep 15 | Radiation-induced atrial fibrillation is driven by cellular senescence via the GATA4 - NF-κB pathway and rescued by D/Q senolytic therapy. | International immunopharmacology | [42743874](https://pubmed.ncbi.nlm.nih.gov/42743874/) | Radiation-induced atrial fibrillation is driven by cellular ... |
+| 2026 Sep 16 | Tagln1-Cre driven Ercc1 deficiency reveals sex specific effects on adipose tissue in mice. | Endocrinology | [42747421](https://pubmed.ncbi.nlm.nih.gov/42747421/) | Tagln1-Cre driven Ercc1 deficiency reveals sex specific effe... |
+| 2026 Sep 16 | Immunosenescence and immune-organ axis dysfunction: Potential of algal bioactives and nutritional interventions for healthy ageing. | International reviews of immunology | [42747250](https://pubmed.ncbi.nlm.nih.gov/42747250/) | Immunosenescence and immune-organ axis dysfunction: Potentia... |
+| 2026 Sep | Melasma: When Dermal Photoageing Precedes Melanocyte Ageing. | Experimental dermatology | [42746716](https://pubmed.ncbi.nlm.nih.gov/42746716/) | Melasma: When Dermal Photoageing Precedes Melanocyte Ageing. |
+| 2026 Oct-Dec | Prestin as a context-dependent biomarker of outer hair cell stress: Integrating preclinical and clinical evidence. | Tzu chi medical journal | [42746640](https://pubmed.ncbi.nlm.nih.gov/42746640/) | Prestin as a context-dependent biomarker of outer hair cell ... |
+| 2026 | From stress to cognitive impairment: an integrative model of oxidative and hemorheological mechanisms. | Dementia & neuropsychologia | [42746571](https://pubmed.ncbi.nlm.nih.gov/42746571/) | From stress to cognitive impairment: an integrative model of... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | Microbiota-mitochondria axis in neurodegenerative disorders and retinal dysfunction: mechanisms and emerging therapeutic opportunities. | Frontiers in pharmacology | [42746219](https://pubmed.ncbi.nlm.nih.gov/42746219/) | Microbiota-mitochondria axis in neurodegenerative disorders ... |
+| 2026 Sep 16 | Association between whole-blood NAD+ concentration and frailty in community-dwelling older adults: the Itabashi Longitudinal Study on Aging. | GeroScience | [42744962](https://pubmed.ncbi.nlm.nih.gov/42744962/) | Association between whole-blood NAD+ concentration and frail... |
 | 2026 Aug 22 | Geroprotective Effects of Drugs Modulating Metabolic Pathways: Perspectives of Pharmacology in Anti-Aging Therapy. | International journal of molecular sciences | [42737424](https://pubmed.ncbi.nlm.nih.gov/42737424/) | Geroprotective Effects of Drugs Modulating Metabolic Pathway... |
 | 2026 Sep 14 | NMN Mitigates LPS-Induced Liver Injury by Inhibiting Ferroptosis via Suppression of the cGAS-STING-ACSL4 Axis. | Pharmacological research | [42735732](https://pubmed.ncbi.nlm.nih.gov/42735732/) | NMN Mitigates LPS-Induced Liver Injury by Inhibiting Ferropt... |
 | 2026 Sep 11 | Mitochondrial homeostasis in musculoskeletal diseases: From pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: From ... |
-| 2026 Sep | Mitochondrial Proteostasis Links Diabetes and Sarcopenia: Cross-Scale Convergence from Experimental Models to Human Multi-Omics. | Diabetes & metabolism journal | [42722377](https://pubmed.ncbi.nlm.nih.gov/42722377/) | Mitochondrial Proteostasis Links Diabetes and Sarcopenia: Cr... |
-| 2026 Sep 10 | Bazi Bushen attenuates musculoskeletal degeneration in Ercc1(+/-) mice. | Experimental gerontology | [42722215](https://pubmed.ncbi.nlm.nih.gov/42722215/) | Bazi Bushen attenuates musculoskeletal degeneration in Ercc1... |
 
 ### 尿石素 A 与线粒体自噬
 
