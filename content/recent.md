@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep | Development of a potential vaccine against dengue and chikungunya virus co-infection using immunoinformatics and structural evaluation. | Journal, genetic engineering & biotechnology | [42749444](https://pubmed.ncbi.nlm.nih.gov/42749444/) | Development of a potential vaccine against dengue and chikun... |
-| 2026 Sep 16 | β-Amyloid and Glutathione Dysregulation Cooperatively Drive Lipid Peroxidation and Ferroptosis in Neuron-Like Cells. | Free radical biology & medicine | [42749199](https://pubmed.ncbi.nlm.nih.gov/42749199/) | β-Amyloid and Glutathione Dysregulation Cooperatively Drive ... |
-| 2026 Sep 16 | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shape Molecular Pathophysiology and Therapeutic Responsiveness. | Progress in neurobiology | [42749043](https://pubmed.ncbi.nlm.nih.gov/42749043/) | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shap... |
-| 2026 Sep 16 | Cross-organ crosstalk in brain-aging-related sarcopenia: caudate iron accumulation impairs muscle health via blood-brain barrier dysfunction. | Brain research bulletin | [42748982](https://pubmed.ncbi.nlm.nih.gov/42748982/) | Cross-organ crosstalk in brain-aging-related sarcopenia: cau... |
-| 2026 Sep 16 | The Double-Edged Sentinel: cGAS-STING as a Context-Dependent Regulator of Microglial Senescence and Neuronal Genotoxic Stress in Neurodegeneration. | Brain research bulletin | [42748981](https://pubmed.ncbi.nlm.nih.gov/42748981/) | The Double-Edged Sentinel: cGAS-STING as a Context-Dependent... |
+| 2026 Dec 31 | Gut microbiota dysbiosis shapes brain T-cell immunity in accelerated aging. | Gut microbes | [42750596](https://pubmed.ncbi.nlm.nih.gov/42750596/) | Gut microbiota dysbiosis shapes brain T-cell immunity in acc... |
+| 2026 Sep 30 | Disulfiram Attenuates Adenine-Induced Renal Fibrosis by Modulating Inflammatory and Immunometabolic Responses. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42750476](https://pubmed.ncbi.nlm.nih.gov/42750476/) | Disulfiram Attenuates Adenine-Induced Renal Fibrosis by Modu... |
+| 2026 Sep 16 | Alamandine/MrgD pathway modulates gut-bone marrow axis in ageing. | British journal of pharmacology | [42750336](https://pubmed.ncbi.nlm.nih.gov/42750336/) | Alamandine/MrgD pathway modulates gut-bone marrow axis in ag... |
+| 2026 Sep 16 | Granzyme B PET Imaging Reveals Lgmn(+) Macrophage-Mediated Immune Evasion and Guides Immunotherapy in EGFR-TKI-Resistant NSCLC. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42750201](https://pubmed.ncbi.nlm.nih.gov/42750201/) | Granzyme B PET Imaging Reveals Lgmn(+) Macrophage-Mediated I... |
+| 2026 Sep | Hippocampal snRNA-seq in Collaborative Cross reveals molecular signatures of cognitive resilience independent of chronological aging. | Alzheimer's & dementia : the journal of the Alzheimer's Association | [42750154](https://pubmed.ncbi.nlm.nih.gov/42750154/) | Hippocampal snRNA-seq in Collaborative Cross reveals molecul... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 17 | USP22 alleviates oxidative stress-induced BMSCs senescence by stabilizing SPI1 protein. | Molecular genetics and genomics : MGG | [42749843](https://pubmed.ncbi.nlm.nih.gov/42749843/) | USP22 alleviates oxidative stress-induced BMSCs senescence b... |
 | 2026 Sep 16 | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shape Molecular Pathophysiology and Therapeutic Responsiveness. | Progress in neurobiology | [42749043](https://pubmed.ncbi.nlm.nih.gov/42749043/) | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shap... |
 | 2026 Sep 16 | Non-clinical safety evaluation of coenzyme I (NAD⁺): A GLP-compliant systematic study. | Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie | [42748828](https://pubmed.ncbi.nlm.nih.gov/42748828/) | Non-clinical safety evaluation of coenzyme I (NAD⁺): A GLP-c... |
 | 2026 Sep 18 | Endothelial C/EBPβ/AEP pathway drives vascular deterioration and systemic aging. | Science advances | [42748238](https://pubmed.ncbi.nlm.nih.gov/42748238/) | Endothelial C/EBPβ/AEP pathway drives vascular deterioration... |
 | 2026 Sep 16 | Zileuton protects pancreatic stellate cells from oxidative stress and ferroptosis by modulating the Nrf2 pathway and mitochondrial activity. | Journal of physiology and biochemistry | [42747743](https://pubmed.ncbi.nlm.nih.gov/42747743/) | Zileuton protects pancreatic stellate cells from oxidative s... |
-| 2026 | Microbiota-mitochondria axis in neurodegenerative disorders and retinal dysfunction: mechanisms and emerging therapeutic opportunities. | Frontiers in pharmacology | [42746219](https://pubmed.ncbi.nlm.nih.gov/42746219/) | Microbiota-mitochondria axis in neurodegenerative disorders ... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -46,7 +46,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
 | 2026 Aug 30 | Polyamine metabolic enzyme SAT1 remodels the neuronal transcriptome and rescues α-synuclein toxicity in Drosophila. | Amino acids | [42734829](https://pubmed.ncbi.nlm.nih.gov/42734829/) | Polyamine metabolic enzyme SAT1 remodels the neuronal transc... |
-| 2026 Sep 7 | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTSALDOSTERONE-INDUCED CARDIOVASCULAR DAMAGE. | Clinical science (London, England : 1979) | [42704046](https://pubmed.ncbi.nlm.nih.gov/42704046/) | GENETIC AND PHARMACOLOGIC ACTIVATION OF BECLIN1 PREVENTSALDO... |
+| 2026 Oct 14 | Genetic and pharmacologic activation of BECLIN1 prevents aldosterone-induced cardiovascular damage. | Clinical science (London, England : 1979) | [42704046](https://pubmed.ncbi.nlm.nih.gov/42704046/) | Genetic and pharmacologic activation of BECLIN1 prevents ald... |
 | 2026 | Polyamine Metabolism in Brain Health and Disease. | Neuropharmacology and therapy | [42631064](https://pubmed.ncbi.nlm.nih.gov/42631064/) | Polyamine Metabolism in Brain Health and Disease. |
 
 ---
