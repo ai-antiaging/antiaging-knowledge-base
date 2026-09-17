@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-16 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-17 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 16 | Tagln1-Cre driven Ercc1 deficiency reveals sex specific effects on adipose tissue in mice. | Endocrinology | [42747421](https://pubmed.ncbi.nlm.nih.gov/42747421/) | Tagln1-Cre driven Ercc1 deficiency reveals sex specific effe... |
-| 2026 Sep 16 | Immunosenescence and immune-organ axis dysfunction: Potential of algal bioactives and nutritional interventions for healthy ageing. | International reviews of immunology | [42747250](https://pubmed.ncbi.nlm.nih.gov/42747250/) | Immunosenescence and immune-organ axis dysfunction: Potentia... |
-| 2026 Sep | Melasma: When Dermal Photoageing Precedes Melanocyte Ageing. | Experimental dermatology | [42746716](https://pubmed.ncbi.nlm.nih.gov/42746716/) | Melasma: When Dermal Photoageing Precedes Melanocyte Ageing. |
-| 2026 Oct-Dec | Prestin as a context-dependent biomarker of outer hair cell stress: Integrating preclinical and clinical evidence. | Tzu chi medical journal | [42746640](https://pubmed.ncbi.nlm.nih.gov/42746640/) | Prestin as a context-dependent biomarker of outer hair cell ... |
-| 2026 | From stress to cognitive impairment: an integrative model of oxidative and hemorheological mechanisms. | Dementia & neuropsychologia | [42746571](https://pubmed.ncbi.nlm.nih.gov/42746571/) | From stress to cognitive impairment: an integrative model of... |
+| 2026 Sep | Development of a potential vaccine against dengue and chikungunya virus co-infection using immunoinformatics and structural evaluation. | Journal, genetic engineering & biotechnology | [42749444](https://pubmed.ncbi.nlm.nih.gov/42749444/) | Development of a potential vaccine against dengue and chikun... |
+| 2026 Sep 16 | β-Amyloid and Glutathione Dysregulation Cooperatively Drive Lipid Peroxidation and Ferroptosis in Neuron-Like Cells. | Free radical biology & medicine | [42749199](https://pubmed.ncbi.nlm.nih.gov/42749199/) | β-Amyloid and Glutathione Dysregulation Cooperatively Drive ... |
+| 2026 Sep 16 | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shape Molecular Pathophysiology and Therapeutic Responsiveness. | Progress in neurobiology | [42749043](https://pubmed.ncbi.nlm.nih.gov/42749043/) | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shap... |
+| 2026 Sep 16 | Cross-organ crosstalk in brain-aging-related sarcopenia: caudate iron accumulation impairs muscle health via blood-brain barrier dysfunction. | Brain research bulletin | [42748982](https://pubmed.ncbi.nlm.nih.gov/42748982/) | Cross-organ crosstalk in brain-aging-related sarcopenia: cau... |
+| 2026 Sep 16 | The Double-Edged Sentinel: cGAS-STING as a Context-Dependent Regulator of Microglial Senescence and Neuronal Genotoxic Stress in Neurodegeneration. | Brain research bulletin | [42748981](https://pubmed.ncbi.nlm.nih.gov/42748981/) | The Double-Edged Sentinel: cGAS-STING as a Context-Dependent... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 16 | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shape Molecular Pathophysiology and Therapeutic Responsiveness. | Progress in neurobiology | [42749043](https://pubmed.ncbi.nlm.nih.gov/42749043/) | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shap... |
+| 2026 Sep 16 | Non-clinical safety evaluation of coenzyme I (NAD⁺): A GLP-compliant systematic study. | Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie | [42748828](https://pubmed.ncbi.nlm.nih.gov/42748828/) | Non-clinical safety evaluation of coenzyme I (NAD⁺): A GLP-c... |
+| 2026 Sep 18 | Endothelial C/EBPβ/AEP pathway drives vascular deterioration and systemic aging. | Science advances | [42748238](https://pubmed.ncbi.nlm.nih.gov/42748238/) | Endothelial C/EBPβ/AEP pathway drives vascular deterioration... |
+| 2026 Sep 16 | Zileuton protects pancreatic stellate cells from oxidative stress and ferroptosis by modulating the Nrf2 pathway and mitochondrial activity. | Journal of physiology and biochemistry | [42747743](https://pubmed.ncbi.nlm.nih.gov/42747743/) | Zileuton protects pancreatic stellate cells from oxidative s... |
 | 2026 | Microbiota-mitochondria axis in neurodegenerative disorders and retinal dysfunction: mechanisms and emerging therapeutic opportunities. | Frontiers in pharmacology | [42746219](https://pubmed.ncbi.nlm.nih.gov/42746219/) | Microbiota-mitochondria axis in neurodegenerative disorders ... |
-| 2026 Sep 16 | Association between whole-blood NAD+ concentration and frailty in community-dwelling older adults: the Itabashi Longitudinal Study on Aging. | GeroScience | [42744962](https://pubmed.ncbi.nlm.nih.gov/42744962/) | Association between whole-blood NAD+ concentration and frail... |
-| 2026 Aug 22 | Geroprotective Effects of Drugs Modulating Metabolic Pathways: Perspectives of Pharmacology in Anti-Aging Therapy. | International journal of molecular sciences | [42737424](https://pubmed.ncbi.nlm.nih.gov/42737424/) | Geroprotective Effects of Drugs Modulating Metabolic Pathway... |
-| 2026 Sep 14 | NMN Mitigates LPS-Induced Liver Injury by Inhibiting Ferroptosis via Suppression of the cGAS-STING-ACSL4 Axis. | Pharmacological research | [42735732](https://pubmed.ncbi.nlm.nih.gov/42735732/) | NMN Mitigates LPS-Induced Liver Injury by Inhibiting Ferropt... |
-| 2026 Sep 11 | Mitochondrial homeostasis in musculoskeletal diseases: From pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: From ... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-16 | 自动生成*
+*最后更新：2026-09-17 | 自动生成*
