@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-17 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-18 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Dec 31 | Gut microbiota dysbiosis shapes brain T-cell immunity in accelerated aging. | Gut microbes | [42750596](https://pubmed.ncbi.nlm.nih.gov/42750596/) | Gut microbiota dysbiosis shapes brain T-cell immunity in acc... |
-| 2026 Sep 30 | Disulfiram Attenuates Adenine-Induced Renal Fibrosis by Modulating Inflammatory and Immunometabolic Responses. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42750476](https://pubmed.ncbi.nlm.nih.gov/42750476/) | Disulfiram Attenuates Adenine-Induced Renal Fibrosis by Modu... |
-| 2026 Sep 16 | Alamandine/MrgD pathway modulates gut-bone marrow axis in ageing. | British journal of pharmacology | [42750336](https://pubmed.ncbi.nlm.nih.gov/42750336/) | Alamandine/MrgD pathway modulates gut-bone marrow axis in ag... |
-| 2026 Sep 16 | Granzyme B PET Imaging Reveals Lgmn(+) Macrophage-Mediated Immune Evasion and Guides Immunotherapy in EGFR-TKI-Resistant NSCLC. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42750201](https://pubmed.ncbi.nlm.nih.gov/42750201/) | Granzyme B PET Imaging Reveals Lgmn(+) Macrophage-Mediated I... |
-| 2026 Sep | Hippocampal snRNA-seq in Collaborative Cross reveals molecular signatures of cognitive resilience independent of chronological aging. | Alzheimer's & dementia : the journal of the Alzheimer's Association | [42750154](https://pubmed.ncbi.nlm.nih.gov/42750154/) | Hippocampal snRNA-seq in Collaborative Cross reveals molecul... |
+| 2026 Dec | Drug-induced metabolic remodeling promotes antimicrobial activity in macrophages and extends longevity in vivo. | Life science alliance | [42754384](https://pubmed.ncbi.nlm.nih.gov/42754384/) | Drug-induced metabolic remodeling promotes antimicrobial act... |
+| 2026 | Mediator at the Helm: Coordinating transcription and biomolecular condensates in hematopoiesis. | Current topics in developmental biology | [42754322](https://pubmed.ncbi.nlm.nih.gov/42754322/) | Mediator at the Helm: Coordinating transcription and biomole... |
+| 2026 | Cell fate decision and lineage specification mechanisms in hematopoiesis. | Current topics in developmental biology | [42754315](https://pubmed.ncbi.nlm.nih.gov/42754315/) | Cell fate decision and lineage specification mechanisms in h... |
+| 2026 Sep 16 | Targeting phospholipase Pla2g15 reduces long-chain BMP phospholipids abundance and senescence in kidney cells. | Aging | [42754265](https://pubmed.ncbi.nlm.nih.gov/42754265/) | Targeting phospholipase Pla2g15 reduces long-chain BMP phosp... |
+| 2026 Sep 17 | Fault Lines in the Genome: Somatic DNA Mutations in Aging and Neurodegeneration. | Annual review of pathology | [42754244](https://pubmed.ncbi.nlm.nih.gov/42754244/) | Fault Lines in the Genome: Somatic DNA Mutations in Aging an... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 16 | Targeting phospholipase Pla2g15 reduces long-chain BMP phospholipids abundance and senescence in kidney cells. | Aging | [42754265](https://pubmed.ncbi.nlm.nih.gov/42754265/) | Targeting phospholipase Pla2g15 reduces long-chain BMP phosp... |
+| 2026 Sep 10 | Resistance to atrial fibrillation domestication and mitochondrial dysfunction in sheep: a potential key role of the TCA cycle and mitochondrial redox state. | Redox biology | [42753315](https://pubmed.ncbi.nlm.nih.gov/42753315/) | Resistance to atrial fibrillation domestication and mitochon... |
+| 2026 Sep | Arginine Kinase 1 supports energy homeostasis in Drosophila flight muscle development. | PLoS genetics | [42752582](https://pubmed.ncbi.nlm.nih.gov/42752582/) | Arginine Kinase 1 supports energy homeostasis in Drosophila ... |
 | 2026 Sep 17 | USP22 alleviates oxidative stress-induced BMSCs senescence by stabilizing SPI1 protein. | Molecular genetics and genomics : MGG | [42749843](https://pubmed.ncbi.nlm.nih.gov/42749843/) | USP22 alleviates oxidative stress-induced BMSCs senescence b... |
 | 2026 Sep 16 | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shape Molecular Pathophysiology and Therapeutic Responsiveness. | Progress in neurobiology | [42749043](https://pubmed.ncbi.nlm.nih.gov/42749043/) | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shap... |
-| 2026 Sep 16 | Non-clinical safety evaluation of coenzyme I (NAD⁺): A GLP-compliant systematic study. | Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie | [42748828](https://pubmed.ncbi.nlm.nih.gov/42748828/) | Non-clinical safety evaluation of coenzyme I (NAD⁺): A GLP-c... |
-| 2026 Sep 18 | Endothelial C/EBPβ/AEP pathway drives vascular deterioration and systemic aging. | Science advances | [42748238](https://pubmed.ncbi.nlm.nih.gov/42748238/) | Endothelial C/EBPβ/AEP pathway drives vascular deterioration... |
-| 2026 Sep 16 | Zileuton protects pancreatic stellate cells from oxidative stress and ferroptosis by modulating the Nrf2 pathway and mitochondrial activity. | Journal of physiology and biochemistry | [42747743](https://pubmed.ncbi.nlm.nih.gov/42747743/) | Zileuton protects pancreatic stellate cells from oxidative s... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 17 | Brown Adipocyte Acss1 Restoration Ameliorates Redox-metabolic Dysfunction and Systemic Metabolic Decline during Aging. | Free radical biology & medicine | [42754181](https://pubmed.ncbi.nlm.nih.gov/42754181/) | Brown Adipocyte Acss1 Restoration Ameliorates Redox-metaboli... |
 | 2026 Aug 30 | Polyamine metabolic enzyme SAT1 remodels the neuronal transcriptome and rescues α-synuclein toxicity in Drosophila. | Amino acids | [42734829](https://pubmed.ncbi.nlm.nih.gov/42734829/) | Polyamine metabolic enzyme SAT1 remodels the neuronal transc... |
 | 2026 Oct 14 | Genetic and pharmacologic activation of BECLIN1 prevents aldosterone-induced cardiovascular damage. | Clinical science (London, England : 1979) | [42704046](https://pubmed.ncbi.nlm.nih.gov/42704046/) | Genetic and pharmacologic activation of BECLIN1 prevents ald... |
-| 2026 | Polyamine Metabolism in Brain Health and Disease. | Neuropharmacology and therapy | [42631064](https://pubmed.ncbi.nlm.nih.gov/42631064/) | Polyamine Metabolism in Brain Health and Disease. |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-17 | 自动生成*
+*最后更新：2026-09-18 | 自动生成*
