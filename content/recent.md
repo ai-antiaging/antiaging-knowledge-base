@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Dec | Drug-induced metabolic remodeling promotes antimicrobial activity in macrophages and extends longevity in vivo. | Life science alliance | [42754384](https://pubmed.ncbi.nlm.nih.gov/42754384/) | Drug-induced metabolic remodeling promotes antimicrobial act... |
-| 2026 | Mediator at the Helm: Coordinating transcription and biomolecular condensates in hematopoiesis. | Current topics in developmental biology | [42754322](https://pubmed.ncbi.nlm.nih.gov/42754322/) | Mediator at the Helm: Coordinating transcription and biomole... |
-| 2026 | Cell fate decision and lineage specification mechanisms in hematopoiesis. | Current topics in developmental biology | [42754315](https://pubmed.ncbi.nlm.nih.gov/42754315/) | Cell fate decision and lineage specification mechanisms in h... |
-| 2026 Sep 16 | Targeting phospholipase Pla2g15 reduces long-chain BMP phospholipids abundance and senescence in kidney cells. | Aging | [42754265](https://pubmed.ncbi.nlm.nih.gov/42754265/) | Targeting phospholipase Pla2g15 reduces long-chain BMP phosp... |
-| 2026 Sep 17 | Fault Lines in the Genome: Somatic DNA Mutations in Aging and Neurodegeneration. | Annual review of pathology | [42754244](https://pubmed.ncbi.nlm.nih.gov/42754244/) | Fault Lines in the Genome: Somatic DNA Mutations in Aging an... |
+| 2026 Sep 17 | EUS-Guided Cyanoacrylate Injection With Balloon-Compression Sclerotherapy Versus Band Ligation for Gastroesophageal Varices: A Randomized Trial. | Journal of gastroenterology and hepatology | [42755133](https://pubmed.ncbi.nlm.nih.gov/42755133/) | EUS-Guided Cyanoacrylate Injection With Balloon-Compression ... |
+| 2026 Sep 18 | Critical Function of SIK3 in Androgen-Producing Ovarian Theca Cells for Female Reproductive Competence. | Endocrinology | [42755103](https://pubmed.ncbi.nlm.nih.gov/42755103/) | Critical Function of SIK3 in Androgen-Producing Ovarian Thec... |
+| 2026 Sep 17 | Age-Related Transitions in Low Back Pain Pathology: A Life-Course Narrative Review. | Pain and therapy | [42754814](https://pubmed.ncbi.nlm.nih.gov/42754814/) | Age-Related Transitions in Low Back Pain Pathology: A Life-C... |
+| 2026 Sep 18 | METTL3 mitigates age-related hearing loss by inhibiting NF-κB-mediated inflammatory responses through the m(6)A modification of NFKBIA. | Journal of molecular medicine (Berlin, Germany) | [42754648](https://pubmed.ncbi.nlm.nih.gov/42754648/) | METTL3 mitigates age-related hearing loss by inhibiting NF-κ... |
+| 2026 Sep 17 | Effects of a three-month exercise programme on cognition, mood and neurogenesis: the NeuroFit randomised controlled trial. | npj aging | [42754613](https://pubmed.ncbi.nlm.nih.gov/42754613/) | Effects of a three-month exercise programme on cognition, mo... |
 
 ### NAD+ 与线粒体
 
@@ -43,11 +43,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Sep 17 | Brown Adipocyte Acss1 Restoration Ameliorates Redox-metabolic Dysfunction and Systemic Metabolic Decline during Aging. | Free radical biology & medicine | [42754181](https://pubmed.ncbi.nlm.nih.gov/42754181/) | Brown Adipocyte Acss1 Restoration Ameliorates Redox-metaboli... |
-| 2026 Aug 30 | Polyamine metabolic enzyme SAT1 remodels the neuronal transcriptome and rescues α-synuclein toxicity in Drosophila. | Amino acids | [42734829](https://pubmed.ncbi.nlm.nih.gov/42734829/) | Polyamine metabolic enzyme SAT1 remodels the neuronal transc... |
-| 2026 Oct 14 | Genetic and pharmacologic activation of BECLIN1 prevents aldosterone-induced cardiovascular damage. | Clinical science (London, England : 1979) | [42704046](https://pubmed.ncbi.nlm.nih.gov/42704046/) | Genetic and pharmacologic activation of BECLIN1 prevents ald... |
+*暂无最新文献*
+
 
 ---
 
