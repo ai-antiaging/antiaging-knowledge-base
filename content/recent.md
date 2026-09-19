@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-18 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-19 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 17 | EUS-Guided Cyanoacrylate Injection With Balloon-Compression Sclerotherapy Versus Band Ligation for Gastroesophageal Varices: A Randomized Trial. | Journal of gastroenterology and hepatology | [42755133](https://pubmed.ncbi.nlm.nih.gov/42755133/) | EUS-Guided Cyanoacrylate Injection With Balloon-Compression ... |
-| 2026 Sep 18 | Critical Function of SIK3 in Androgen-Producing Ovarian Theca Cells for Female Reproductive Competence. | Endocrinology | [42755103](https://pubmed.ncbi.nlm.nih.gov/42755103/) | Critical Function of SIK3 in Androgen-Producing Ovarian Thec... |
-| 2026 Sep 17 | Age-Related Transitions in Low Back Pain Pathology: A Life-Course Narrative Review. | Pain and therapy | [42754814](https://pubmed.ncbi.nlm.nih.gov/42754814/) | Age-Related Transitions in Low Back Pain Pathology: A Life-C... |
-| 2026 Sep 18 | METTL3 mitigates age-related hearing loss by inhibiting NF-κB-mediated inflammatory responses through the m(6)A modification of NFKBIA. | Journal of molecular medicine (Berlin, Germany) | [42754648](https://pubmed.ncbi.nlm.nih.gov/42754648/) | METTL3 mitigates age-related hearing loss by inhibiting NF-κ... |
-| 2026 Sep 17 | Effects of a three-month exercise programme on cognition, mood and neurogenesis: the NeuroFit randomised controlled trial. | npj aging | [42754613](https://pubmed.ncbi.nlm.nih.gov/42754613/) | Effects of a three-month exercise programme on cognition, mo... |
+| 2026 Sep 18 | Senescence-Associated Extracellular Vesicles in Skin Aging and Regeneration: From Pathophysiology to Therapeutic Opportunities. | Journal of drug targeting | [42760270](https://pubmed.ncbi.nlm.nih.gov/42760270/) | Senescence-Associated Extracellular Vesicles in Skin Aging a... |
+| 2026 Sep 18 | Frailty of older patients is not reflected in the melanoma tumor microenvironment and treatment response to immune checkpoint blockade therapy. | Journal for immunotherapy of cancer | [42759983](https://pubmed.ncbi.nlm.nih.gov/42759983/) | Frailty of older patients is not reflected in the melanoma t... |
+| 2026 Sep | Voltage-gated calcium channel activity of gonadotropin-releasing hormone (GnRH) neurons is altered by age and by prenatal androgen exposure in female mice. | Journal of neuroendocrinology | [42759952](https://pubmed.ncbi.nlm.nih.gov/42759952/) | Voltage-gated calcium channel activity of gonadotropin-relea... |
+| 2026 Sep 18 | Cellular senescence is an early feature and therapeutic target in amyotrophic lateral sclerosis TDP-43(Q331K) mice. | Neurobiology of disease | [42759848](https://pubmed.ncbi.nlm.nih.gov/42759848/) | Cellular senescence is an early feature and therapeutic targ... |
+| 2026 Sep 18 | Repair-associated epigenetic memory: A conceptual framework for persistent chromatin signatures following DNA double-Strand break repair. | Biochimica et biophysica acta. Gene regulatory mechanisms | [42759768](https://pubmed.ncbi.nlm.nih.gov/42759768/) | Repair-associated epigenetic memory: A conceptual framework ... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 18 | The effects of hyperbaric oxygen therapy and mitochondrial transplantation on cisplatin toxicity. | Experimental and molecular pathology | [42759323](https://pubmed.ncbi.nlm.nih.gov/42759323/) | The effects of hyperbaric oxygen therapy and mitochondrial t... |
+| 2026 Sep 18 | PDE5 inhibition restores mitochondrial function and improves neurobehavioral outcomes after repeated mild blast TBI. | Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics | [42759178](https://pubmed.ncbi.nlm.nih.gov/42759178/) | PDE5 inhibition restores mitochondrial function and improves... |
 | 2026 Sep 16 | Targeting phospholipase Pla2g15 reduces long-chain BMP phospholipids abundance and senescence in kidney cells. | Aging | [42754265](https://pubmed.ncbi.nlm.nih.gov/42754265/) | Targeting phospholipase Pla2g15 reduces long-chain BMP phosp... |
 | 2026 Sep 10 | Resistance to atrial fibrillation domestication and mitochondrial dysfunction in sheep: a potential key role of the TCA cycle and mitochondrial redox state. | Redox biology | [42753315](https://pubmed.ncbi.nlm.nih.gov/42753315/) | Resistance to atrial fibrillation domestication and mitochon... |
 | 2026 Sep | Arginine Kinase 1 supports energy homeostasis in Drosophila flight muscle development. | PLoS genetics | [42752582](https://pubmed.ncbi.nlm.nih.gov/42752582/) | Arginine Kinase 1 supports energy homeostasis in Drosophila ... |
-| 2026 Sep 17 | USP22 alleviates oxidative stress-induced BMSCs senescence by stabilizing SPI1 protein. | Molecular genetics and genomics : MGG | [42749843](https://pubmed.ncbi.nlm.nih.gov/42749843/) | USP22 alleviates oxidative stress-induced BMSCs senescence b... |
-| 2026 Sep 16 | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shape Molecular Pathophysiology and Therapeutic Responsiveness. | Progress in neurobiology | [42749043](https://pubmed.ncbi.nlm.nih.gov/42749043/) | The Dimorphic Brain in Ischemic Stroke: How Sex and Age Shap... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -43,8 +43,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Sep 17 | Brown Adipocyte Acss1 Restoration Ameliorates Redox-metabolic Dysfunction and Systemic Metabolic Decline during Aging. | Free radical biology & medicine | [42754181](https://pubmed.ncbi.nlm.nih.gov/42754181/) | Brown Adipocyte Acss1 Restoration Ameliorates Redox-metaboli... |
+| 2026 Aug 30 | Polyamine metabolic enzyme SAT1 remodels the neuronal transcriptome and rescues α-synuclein toxicity in Drosophila. | Amino acids | [42734829](https://pubmed.ncbi.nlm.nih.gov/42734829/) | Polyamine metabolic enzyme SAT1 remodels the neuronal transc... |
+| 2026 Oct 14 | Genetic and pharmacologic activation of BECLIN1 prevents aldosterone-induced cardiovascular damage. | Clinical science (London, England : 1979) | [42704046](https://pubmed.ncbi.nlm.nih.gov/42704046/) | Genetic and pharmacologic activation of BECLIN1 prevents ald... |
 
 ---
 
@@ -58,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-18 | 自动生成*
+*最后更新：2026-09-19 | 自动生成*
