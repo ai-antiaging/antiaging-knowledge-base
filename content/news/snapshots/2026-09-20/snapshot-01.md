@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-09-20 #1"
 date: 2026-09-20
-description: "Corrigendum to "Design of the FRESH-teen study: A randomized controlled trial ev..."
+description: "Corrigendum to 'Design of the FRESH-teen study: A randomized controlled trial ev..."
 draft: false
 type: "snapshot"
 ---
