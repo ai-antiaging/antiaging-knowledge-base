@@ -12,11 +12,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Olfactory Tuft Cells Are Critical to Basal Inflammation, Innate Immune Response to Viral Infection, and Modulation of Quiescent Stem Cell Activation, Proliferation and Differentiation.
+## 研究 1: Avian eggshell membrane proteins in bone remodeling and regeneration: molecular mechanisms and therapeutic prospects.
 
-**期刊**: Cell proliferation  
-**发表日期**: 2026 Sep 19  
-**第一作者**: Zhang SS 等 | **PMID**: [42760864](https://pubmed.ncbi.nlm.nih.gov/42760864/)  
+**期刊**: Journal of biomaterials science. Polymer edition  
+**发表日期**: 2026 Sep 20  
+**第一作者**: Aggarwal A 等 | **PMID**: [42763429](https://pubmed.ncbi.nlm.nih.gov/42763429/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -37,11 +37,36 @@ type: "daily-digest"
 
 ---
 
-## 研究 2: Alzheimer's disease biomarkers in relation to non-cognitive domains within the intrinsic capacity framework: a narrative review.
+## 研究 2: Prognostic Associations of Molecular MRD and Genomic Features in ZNF384-Rearranged B-ALL Undergoing Allo-HSCT.
 
-**期刊**: GeroScience  
+**期刊**: Transplantation and cellular therapy  
 **发表日期**: 2026 Sep 19  
-**第一作者**: Wei X 等 | **PMID**: [42760484](https://pubmed.ncbi.nlm.nih.gov/42760484/)  
+**第一作者**: Zhang XS 等 | **PMID**: [42763069](https://pubmed.ncbi.nlm.nih.gov/42763069/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+ZNF384重排B-ALL患者接受allo-HSCT后整体预后良好，移植前单纯分子MRD阳性（MFC阴性）并未显著影响生存结局，挑战了分子MRD阳性即预后不良的传统认知。
+
+### 🔬 关键发现
+
+60例患者3年OS、LFS、CIR、NRM分别为81.9%、78.7%、10.0%、11.3%。9例MFC-/Mol+患者均存活，3年OS达100%；分子MRD阳性与阴性组OS、LFS、CIR差异均无统计学意义（P>0.05）。
+
+### 🧪 方法简介
+
+研究采用RT-qPCR靶向检测ZNF384融合转录本，结合多参数流式细胞术（MFC）进行移植前MRD评估，实现了分子水平与细胞水平MRD的并行比较，揭示了二者不一致时的预后特征。
+
+### 🏥 临床相关性
+
+对于ZNF384-r B-ALL患者，移植前单纯分子MRD阳性不应作为排除allo-HSCT的依据；该发现支持在CR状态下推进移植，但结论为探索性，需更大规模多中心队列验证。
+
+---
+
+## 研究 3: Endogenous Androgens, Physical and Cognitive Function in Healthy Midlife Men: A Systematic Review.
+
+**期刊**: Mechanisms of ageing and development  
+**发表日期**: 2026 Sep 19  
+**第一作者**: Keren D 等 | **PMID**: [42763064](https://pubmed.ncbi.nlm.nih.gov/42763064/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -62,85 +87,60 @@ type: "daily-digest"
 
 ---
 
-## 研究 3: Hyperdiploid multiple myeloma: A heterogeneous entity requiring refined risk stratification-Insights from chromosome count and cytogenetic abnormalities.
+## 研究 4: XIST Is a Key Modulator Associated With the Adhesome Network.
 
-**期刊**: British journal of haematology  
-**发表日期**: 2026 Sep 19  
-**第一作者**: Zeng Z 等 | **PMID**: [42760862](https://pubmed.ncbi.nlm.nih.gov/42760862/)  
+**期刊**: FASEB bioAdvances  
+**发表日期**: 2026 Sep  
+**第一作者**: Chen D 等 | **PMID**: [42763567](https://pubmed.ncbi.nlm.nih.gov/42763567/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究揭示超二倍体多发性骨髓瘤（HRD-MM）并非单一预后群体，染色体众数>49是更优生存的独立预测指标，挑战了现有风险分层框架。
+该研究首次将XIST——经典的X染色体失活lncRNA——与黏着斑（adhesome）网络联系起来，揭示其在细胞黏附调控中的潜在新角色。这拓展了XIST超越剂量补偿的传统认知，为衰老相关的细胞微环境改变提供了新线索。
 
 ### 🔬 关键发现
 
-694例中国初诊MM患者中，众数>49者OS（p=0.0062）和PFS（p=0.00037）显著更优；3号染色体获得亦为有利因素；HRD可改善孤立1q21异常患者的OS。
+研究发现XIST与黏着斑网络组分存在显著关联，提示其可能通过调控细胞-基质黏附影响细胞行为。摘要未提供具体实验数据，但该关联本身已构成核心证据。
 
 ### 🧪 方法简介
 
-整合SNP-array与FISH双平台，对同一大样本队列进行染色体计数与细胞遗传学异常的系统关联分析，提升了HRD亚型划分的精度。
+摘要未明确描述方法学创新，推测研究可能整合了lncRNA功能筛选与黏着斑蛋白互作网络分析。具体技术细节需查阅全文确认。
 
 ### 🏥 临床相关性
 
-提示应将染色体众数纳入HRD-MM常规风险分层，避免将全部HRD患者视为同质群体，为个体化治疗决策提供依据。
+XIST-adhesome轴的发现提示，靶向lncRNA可能成为干预衰老相关黏附失调的新策略。未来或可探索XIST作为组织微环境老化标志物或治疗靶点的潜力，但需进一步功能验证。
 
 ---
 
-## 研究 4: Development of CRISPR_SCD001, an Autologous Hematopoietic Stem Cell Gene Therapy for Sickle Cell Disease after CRISPR-Cas9 Mediated Correction.
+## 研究 5: Strategies to prevent post-transplant relapse in acute myeloid leukemia and myelodysplastic syndromes.
 
-**期刊**: Molecular therapy : the journal of the American Society of Gene Therapy  
+**期刊**: International journal of hematology  
 **发表日期**: 2026 Sep 19  
-**第一作者**: DeWitt M 等 | **PMID**: [42760781](https://pubmed.ncbi.nlm.nih.gov/42760781/)  
+**第一作者**: Najima Y 等 | **PMID**: [42763386](https://pubmed.ncbi.nlm.nih.gov/42763386/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究开发了CRISPR_SCD001——一种自体造血干细胞基因疗法，通过CRISPR-Cas9介导的精准基因修复纠正镰状细胞病的致病突变。这是将基因编辑技术推向临床转化的重要一步，为单基因血液病提供了“一次性治愈”的可能路径。
+该综述系统梳理了异基因造血干细胞移植后急性髓系白血病和骨髓增生异常综合征的复发预防策略，提出整合基线风险、系列MRD监测、可靶向生物学特征与免疫干预的实用框架，强调移植后治疗窗口的独特价值。
 
 ### 🔬 关键发现
 
-研究成功利用单链寡脱氧核苷酸作为DNA供体模板，实现了对HBB镰状等位基因的同源定向修复；药物产品来源于普乐沙福动员的外周血CD34⁺细胞，具备可操作的临床级制备流程。
+预防性阿扎胞苷随机试验未改善无复发生存或总生存；FLT3抑制剂前景最强，QuANTUM-First支持quizartinib全程使用，MORPHO试验显示吉瑞替尼对移植前后可检测FLT3-ITD MRD患者获益最明确；去甲基化药物、口服HMA及含维奈克拉方案尚待证实。
 
 ### 🧪 方法简介
 
-核心创新在于采用ssODN而非病毒载体作为修复模板，结合CRISPR-Cas9实现高精度基因校正，降低了插入突变风险，并建立了从动员、采集到编辑的自体细胞治疗完整工艺。
+综述提出以MRD检测和供者嵌合率下降触发抢先治疗，区分MRD阴性高危患者的预防性维持与MRD阳性患者的抢先干预，并倡导根据移植后耐受性调整HMA剂量及探索新型联合策略。
 
 ### 🏥 临床相关性
 
-该策略为镰状细胞病提供了不依赖异体供者的治愈性方案，其“体外编辑+自体回输”范式可拓展至其他单基因疾病，也为衰老相关基因组不稳定干预提供了技术参考。
-
----
-
-## 研究 5: Targeting white matter astrocytes with a Gfap-disruptive Cas9 nuclease benefits a murine model of Alexander disease.
-
-**期刊**: Molecular therapy : the journal of the American Society of Gene Therapy  
-**发表日期**: 2026 Sep 19  
-**第一作者**: Hillen AEJ 等 | **PMID**: [42760780](https://pubmed.ncbi.nlm.nih.gov/42760780/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该研究首次通过AAV递送CRISPR/Cas9，在白质星形胶质细胞中永久性敲除致病基因*Gfap*，显著改善亚历山大病小鼠模型。这为靶向星形胶质细胞的基因编辑疗法提供了概念验证。
-
-### 🔬 关键发现
-
-单次新生儿脑脊液注射AAV-DJ8载体，在星形胶质细胞特异性启动子驱动下，实现*Gfap*编辑率高达32%，有效下调GFAP蛋白，并改善AxD小鼠的病理表型。
-
-### 🧪 方法简介
-
-优化了“全包式”AAV-DJ8载体，携带金黄色葡萄球菌Cas9与sgRNA，通过脑脊液单次给药，实现白质星形胶质细胞的高效在靶编辑，避免持续表达外源核酸酶。
-
-### 🏥 临床相关性
-
-证明CRISPR可精准靶向中枢神经系统致病基因，为亚历山大病等致命性脑白质营养不良提供一次性治疗策略，并启示衰老相关星形胶质细胞功能紊乱的干预思路。
+强调移植后应根据基线风险、动态MRD和可靶向突变实施分层管理，FLT3-ITD患者围移植期MRD监测可指导吉瑞替尼干预；该框架为降低移植后复发提供了可操作的临床路径，但新方案仍需前瞻性验证。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-09-20 02:29:20  
+**生成时间**: 2026-09-20 16:17:54  
 **摘要生成**: DeepSeek AI
 
 ---
