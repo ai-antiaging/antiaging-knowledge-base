@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2027 Jan | PINK1 deficiency exacerbates age-related bone loss in association with enhanced inflammatory adipocyte differentiation. | Genes & diseases | [42763537](https://pubmed.ncbi.nlm.nih.gov/42763537/) | PINK1 deficiency exacerbates age-related bone loss in associ... |
 | 2026 Sep 19 | TRPV1 channels in skin homeostasis and disease: From sensory transduction to therapeutic targeting. | International immunopharmacology | [42763246](https://pubmed.ncbi.nlm.nih.gov/42763246/) | TRPV1 channels in skin homeostasis and disease: From sensory... |
 | 2026 Sep 19 | A New Omics View of Retinal Aging: Cell-Type Vulnerability, Spatial Niches, and Disease Susceptibility. | Experimental eye research | [42763047](https://pubmed.ncbi.nlm.nih.gov/42763047/) | A New Omics View of Retinal Aging: Cell-Type Vulnerability, ... |
 | 2026 Sep 19 | Schisandra chinensis Modulates Cellular Senescence through Integrated Regulation of Redox, Mitochondrial, and Inflammatory Homeostasis. | The Journal of nutrition | [42762896](https://pubmed.ncbi.nlm.nih.gov/42762896/) | Schisandra chinensis Modulates Cellular Senescence through I... |
 | 2026 Sep 19 | Zuogui Pill alleviates chemotherapy-induced ovarian aging and oogonial stem cell injury by modulating cGAS-STING-mediated inflammatory signaling. | Journal of ethnopharmacology | [42762876](https://pubmed.ncbi.nlm.nih.gov/42762876/) | Zuogui Pill alleviates chemotherapy-induced ovarian aging an... |
-| 2026 Sep 14 | Cognitive effects of ketamine and esketamine treatment for major depressive and bipolar disorder: a systematic review. | Psychiatry research | [42762641](https://pubmed.ncbi.nlm.nih.gov/42762641/) | Cognitive effects of ketamine and esketamine treatment for m... |
 
 ### NAD+ 与线粒体
 
