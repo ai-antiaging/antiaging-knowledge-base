@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 20 | CSenescence-associated-secretory phenotype proteins and inflammatory pathways are involved in psychosis: A transdiagnostic study using the Human Connectome Project for early psychosis (HCP-EP) data. | Brain, behavior, and immunity | [42764136](https://pubmed.ncbi.nlm.nih.gov/42764136/) | CSenescence-associated-secretory phenotype proteins and infl... |
-| 2026 Sep 20 | Aging-associated loss of CPEB4 impairs mitochondrial adaptation and promotes stress-induced senescence in alveolar type II cells. | Mechanisms of ageing and development | [42764119](https://pubmed.ncbi.nlm.nih.gov/42764119/) | Aging-associated loss of CPEB4 impairs mitochondrial adaptat... |
-| 2026 Sep 20 | NAD(+)-sirtuin-mitochondrial quality control in lens epithelial cells: a candidate modulatory network in crystalline lens aging. | Experimental eye research | [42764115](https://pubmed.ncbi.nlm.nih.gov/42764115/) | NAD(+)-sirtuin-mitochondrial quality control in lens epithel... |
-| 2026 Sep 20 | A Matter of Balance: Heme Oxygenase-1 at the Crossroads of Healthy and Pathological Aging. | Archives of biochemistry and biophysics | [42764089](https://pubmed.ncbi.nlm.nih.gov/42764089/) | A Matter of Balance: Heme Oxygenase-1 at the Crossroads of H... |
-| 2026 Sep | SERPINE1 (PAI-1) Regulation in Mechanotransduction-Associated Cellular Senescence. | Journal of cellular biochemistry | [42763897](https://pubmed.ncbi.nlm.nih.gov/42763897/) | SERPINE1 (PAI-1) Regulation in Mechanotransduction-Associate... |
+| 2026 Sep 19 | mTOR signaling in aging: from causality to geroprotective interventions and hallmark-level outcomes. | Aging | [42765942](https://pubmed.ncbi.nlm.nih.gov/42765942/) | mTOR signaling in aging: from causality to geroprotective in... |
+| 2026 Sep 21 | Metastatic niche shaped by host factors influences disseminated cancer cell fate. | FEBS letters | [42765517](https://pubmed.ncbi.nlm.nih.gov/42765517/) | Metastatic niche shaped by host factors influences dissemina... |
+| 2026 Sep | Erratum: Author correction to "A neutrophil-biomimic platform for eradicating metastatic breast cancer stem-like cells by redox microenvironment modulation and hypoxia-triggered differentiation therapy" [Acta Pharm Sin B 13 (2023) 298-314]. | Acta pharmaceutica Sinica. B | [42765000](https://pubmed.ncbi.nlm.nih.gov/42765000/) | Erratum: Author correction to "A neutrophil-biomimic platfor... |
+| 2026 Sep | Self-assembled supramolecular nanoparticles of α-mangostin for targeted STING activation and enhanced tumor immunotherapy. | Acta pharmaceutica Sinica. B | [42764994](https://pubmed.ncbi.nlm.nih.gov/42764994/) | Self-assembled supramolecular nanoparticles of α-mangostin f... |
+| 2026 Sep | Engineered flavonoid disrupts mitochondrial AIF/CHCHD4 complex for targeted cancer therapy. | Acta pharmaceutica Sinica. B | [42764949](https://pubmed.ncbi.nlm.nih.gov/42764949/) | Engineered flavonoid disrupts mitochondrial AIF/CHCHD4 compl... |
 
 ### NAD+ 与线粒体
 
@@ -33,13 +33,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 尿石素 A 与线粒体自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Oct | Mitochondrial homeostasis in musculoskeletal diseases: From pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: From ... |
+| 2026 Sep 8 | Urolithin A Enhances the Development of Porcine Parthenogenetic Embryos by Promoting Mitochondrial Function and Quantity Through the SIRT1/PGC-1α Signaling Pathway. | Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada | [42713995](https://pubmed.ncbi.nlm.nih.gov/42713995/) | Urolithin A Enhances the Development of Porcine Parthenogene... |
+| 2026 Sep 7 | Strengthening muscle for healthy ageing: innovative treatments for sarcopenia. | Nature reviews. Drug discovery | [42706321](https://pubmed.ncbi.nlm.nih.gov/42706321/) | Strengthening muscle for healthy ageing: innovative treatmen... |
+| 2026 Aug | Urolithins: microbial biosynthesis, metabolic pathways and health benefits for functional food and cosmeceutical applications. | Food science and biotechnology | [42661872](https://pubmed.ncbi.nlm.nih.gov/42661872/) | Urolithins: microbial biosynthesis, metabolic pathways and h... |
+| 2026 Sep | Neonatal Reversible Aortic Constriction Mice Model Unlocks Distinctive Footprints of Young Heart Recovery. | Journal of the American Heart Association | [42657742](https://pubmed.ncbi.nlm.nih.gov/42657742/) | Neonatal Reversible Aortic Constriction Mice Model Unlocks D... |
 
 ### 亚精胺与自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Sep 18 | Brown adipocyte Acss1 restoration ameliorates redox-metabolic dysfunction and systemic metabolic decline during aging. | Free radical biology & medicine | [42754181](https://pubmed.ncbi.nlm.nih.gov/42754181/) | Brown adipocyte Acss1 restoration ameliorates redox-metaboli... |
+| 2026 Aug 30 | Polyamine metabolic enzyme SAT1 remodels the neuronal transcriptome and rescues α-synuclein toxicity in Drosophila. | Amino acids | [42734829](https://pubmed.ncbi.nlm.nih.gov/42734829/) | Polyamine metabolic enzyme SAT1 remodels the neuronal transc... |
+| 2026 Oct 14 | Genetic and pharmacologic activation of BECLIN1 prevents aldosterone-induced cardiovascular damage. | Clinical science (London, England : 1979) | [42704046](https://pubmed.ncbi.nlm.nih.gov/42704046/) | Genetic and pharmacologic activation of BECLIN1 prevents ald... |
 
 ---
 
