@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-21 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-22 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 21 | Skeletal Muscle Stem Cells: Aging and Rejuvenation. | Cold Spring Harbor perspectives in biology | [42767774](https://pubmed.ncbi.nlm.nih.gov/42767774/) | Skeletal Muscle Stem Cells: Aging and Rejuvenation. |
+| 2026 | Running out the clock: Circadian rhythm dysfunction in cognitive disease. | International review of neurobiology | [42767717](https://pubmed.ncbi.nlm.nih.gov/42767717/) | Running out the clock: Circadian rhythm dysfunction in cogni... |
+| 2026 Sep 21 | Orchestrating Stress Granule Dynamics by SUMOylation: A New Frontier in Treating Stress-Induced Age-Related Diseases. | Pharmacological research | [42767538](https://pubmed.ncbi.nlm.nih.gov/42767538/) | Orchestrating Stress Granule Dynamics by SUMOylation: A New ... |
+| 2026 Sep 30 | Retbindin Dynamically Redistributes to Preserve Retinal Flavin-Dependent Homeostasis in Response to Riboflavin Availability and Circadian Demand. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42766322](https://pubmed.ncbi.nlm.nih.gov/42766322/) | Retbindin Dynamically Redistributes to Preserve Retinal Flav... |
 | 2026 Sep 19 | mTOR signaling in aging: from causality to geroprotective interventions and hallmark-level outcomes. | Aging | [42765942](https://pubmed.ncbi.nlm.nih.gov/42765942/) | mTOR signaling in aging: from causality to geroprotective in... |
-| 2026 Sep 21 | Metastatic niche shaped by host factors influences disseminated cancer cell fate. | FEBS letters | [42765517](https://pubmed.ncbi.nlm.nih.gov/42765517/) | Metastatic niche shaped by host factors influences dissemina... |
-| 2026 Sep | Erratum: Author correction to "A neutrophil-biomimic platform for eradicating metastatic breast cancer stem-like cells by redox microenvironment modulation and hypoxia-triggered differentiation therapy" [Acta Pharm Sin B 13 (2023) 298-314]. | Acta pharmaceutica Sinica. B | [42765000](https://pubmed.ncbi.nlm.nih.gov/42765000/) | Erratum: Author correction to "A neutrophil-biomimic platfor... |
-| 2026 Sep | Self-assembled supramolecular nanoparticles of α-mangostin for targeted STING activation and enhanced tumor immunotherapy. | Acta pharmaceutica Sinica. B | [42764994](https://pubmed.ncbi.nlm.nih.gov/42764994/) | Self-assembled supramolecular nanoparticles of α-mangostin f... |
-| 2026 Sep | Engineered flavonoid disrupts mitochondrial AIF/CHCHD4 complex for targeted cancer therapy. | Acta pharmaceutica Sinica. B | [42764949](https://pubmed.ncbi.nlm.nih.gov/42764949/) | Engineered flavonoid disrupts mitochondrial AIF/CHCHD4 compl... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 21 | Mitochondrial dysfunction drives metabolic reprogramming in Gitelman syndrome: insights from proteomics and isogenic modeling. | Human genetics | [42766034](https://pubmed.ncbi.nlm.nih.gov/42766034/) | Mitochondrial dysfunction drives metabolic reprogramming in ... |
 | 2026 Sep 20 | NAD(+)-sirtuin-mitochondrial quality control in lens epithelial cells: a candidate modulatory network in crystalline lens aging. | Experimental eye research | [42764115](https://pubmed.ncbi.nlm.nih.gov/42764115/) | NAD(+)-sirtuin-mitochondrial quality control in lens epithel... |
 | 2026 Sep 20 | Preliminary findings on the enhancement of skeletal muscle structure and function in aged male mice by P7C3 activation of nicotinamide phosphoribosyl transferase (NAMPT). | Experimental gerontology | [42764081](https://pubmed.ncbi.nlm.nih.gov/42764081/) | Preliminary findings on the enhancement of skeletal muscle s... |
 | 2026 Sep 18 | The effects of hyperbaric oxygen therapy and mitochondrial transplantation on cisplatin toxicity. | Experimental and molecular pathology | [42759323](https://pubmed.ncbi.nlm.nih.gov/42759323/) | The effects of hyperbaric oxygen therapy and mitochondrial t... |
 | 2026 Sep 18 | PDE5 inhibition restores mitochondrial function and improves neurobehavioral outcomes after repeated mild blast TBI. | Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics | [42759178](https://pubmed.ncbi.nlm.nih.gov/42759178/) | PDE5 inhibition restores mitochondrial function and improves... |
-| 2026 Sep 16 | Targeting phospholipase Pla2g15 reduces long-chain BMP phospholipids abundance and senescence in kidney cells. | Aging | [42754265](https://pubmed.ncbi.nlm.nih.gov/42754265/) | Targeting phospholipase Pla2g15 reduces long-chain BMP phosp... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-21 | 自动生成*
+*最后更新：2026-09-22 | 自动生成*
