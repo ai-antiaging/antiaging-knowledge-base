@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 21 | Skeletal Muscle Stem Cells: Aging and Rejuvenation. | Cold Spring Harbor perspectives in biology | [42767774](https://pubmed.ncbi.nlm.nih.gov/42767774/) | Skeletal Muscle Stem Cells: Aging and Rejuvenation. |
-| 2026 | Running out the clock: Circadian rhythm dysfunction in cognitive disease. | International review of neurobiology | [42767717](https://pubmed.ncbi.nlm.nih.gov/42767717/) | Running out the clock: Circadian rhythm dysfunction in cogni... |
-| 2026 Sep 21 | Orchestrating Stress Granule Dynamics by SUMOylation: A New Frontier in Treating Stress-Induced Age-Related Diseases. | Pharmacological research | [42767538](https://pubmed.ncbi.nlm.nih.gov/42767538/) | Orchestrating Stress Granule Dynamics by SUMOylation: A New ... |
-| 2026 Sep 30 | Retbindin Dynamically Redistributes to Preserve Retinal Flavin-Dependent Homeostasis in Response to Riboflavin Availability and Circadian Demand. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42766322](https://pubmed.ncbi.nlm.nih.gov/42766322/) | Retbindin Dynamically Redistributes to Preserve Retinal Flav... |
-| 2026 Sep 19 | mTOR signaling in aging: from causality to geroprotective interventions and hallmark-level outcomes. | Aging | [42765942](https://pubmed.ncbi.nlm.nih.gov/42765942/) | mTOR signaling in aging: from causality to geroprotective in... |
+| 2026 | Cellular Biological Basis and Novel Breakthroughs in the Pathogenesis of Myopia - A Narrative Review. | International journal of general medicine | [42769031](https://pubmed.ncbi.nlm.nih.gov/42769031/) | Cellular Biological Basis and Novel Breakthroughs in the Pat... |
+| 2026 Sep 21 | A two-step model of age-associated autoreactivity: B cell-intrinsic aging meets inflammaging. | GeroScience | [42768164](https://pubmed.ncbi.nlm.nih.gov/42768164/) | A two-step model of age-associated autoreactivity: B cell-in... |
+| 2026 Sep 21 | The chemical fingerprint of cellular senescence. | Nature aging | [42768112](https://pubmed.ncbi.nlm.nih.gov/42768112/) | The chemical fingerprint of cellular senescence. |
+| 2026 Sep 21 | RamanOmics decodes the spatial vibrational-molecular architecture of senescence in aging and repair. | Nature aging | [42768111](https://pubmed.ncbi.nlm.nih.gov/42768111/) | RamanOmics decodes the spatial vibrational-molecular archite... |
+| 2026 Aug 21 | Fatty acid oxidation fuels mitochondrial respiration to drive epidermal stem cell fate and differentiation. | Nature communications | [42768052](https://pubmed.ncbi.nlm.nih.gov/42768052/) | Fatty acid oxidation fuels mitochondrial respiration to driv... |
 
 ### NAD+ 与线粒体
 
