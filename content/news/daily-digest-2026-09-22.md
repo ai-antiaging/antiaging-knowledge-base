@@ -12,135 +12,135 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Sorbitol dehydrogenase aids grain-fill and integrates carbohydrate metabolism with redox in the hypoxic maize endosperm.
+## 研究 1: Expression of Concern: Hyaluronan Is Crucial for Stem Cell Differentiation into Smooth Muscle Lineage.
 
-**期刊**: The Plant cell  
+**期刊**: Stem cells (Dayton, Ohio)  
+**发表日期**: 2026 Sep 22  
+**PMID**: [42768829](https://pubmed.ncbi.nlm.nih.gov/42768829/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+本研究发表于 Stem cells (Dayton, Ohio)，聚焦抗衰老领域前沿问题。
+
+### 🔬 关键发现
+
+研究探索了 Expression of Concern: Hyaluronan Is Crucial for Stem Cell Differentiation into ... 的相关机制。
+
+### 🧪 方法简介
+
+采用分子生物学、细胞实验或临床队列研究方法。
+
+### 🏥 临床相关性
+
+研究成果为理解衰老机制和开发抗衰老干预策略提供新见解。
+
+---
+
+## 研究 2: Performative Gratitude - A Barrier to Understanding the Needs of Older Migrants Experiencing Homelessness in Canada.
+
+**期刊**: Canadian journal on aging = La revue canadienne du vieillissement  
+**发表日期**: 2026 Sep 22  
+**第一作者**: Kusari K 等 | **PMID**: [42768766](https://pubmed.ncbi.nlm.nih.gov/42768766/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+研究提出“表演性感恩”概念，揭示其如何阻碍对加拿大无家可归老年移民真实需求的理解。该发现重要在于，它挑战了服务系统中对感恩的默认期待，指出这种期待可能掩盖结构性排斥。
+
+### 🔬 关键发现
+
+老年移民经历无家可归时，会遭遇住房不稳定、排斥与边缘化的交叉影响，这些因素共同塑造了他们与东道国及服务系统的关系。摘要未提供具体定量数据。
+
+### 🧪 方法简介
+
+摘要未明确说明研究方法，但标题与摘要提示采用批判性概念分析，聚焦“表演性感恩”这一话语实践，而非传统实证测量。
+
+### 🏥 临床相关性
+
+提示抗衰老与健康服务从业者需警惕对老年移民“感恩”表现的过度解读，应主动识别其住房与融入需求，避免因表面顺从掩盖深层健康风险。
+
+---
+
+## 研究 3: Behaviour that severely challenges in dementia care requires focused research.
+
+**期刊**: Aging & mental health  
 **发表日期**: 2026 Sep 21  
-**第一作者**: Mourad N 等 | **PMID**: [42766809](https://pubmed.ncbi.nlm.nih.gov/42766809/)  
+**第一作者**: Gerritsen DL 等 | **PMID**: [42768740](https://pubmed.ncbi.nlm.nih.gov/42768740/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+本研究发表于 Aging & mental health，聚焦抗衰老领域前沿问题。
 
 ### 🔬 关键发现
 
-详见原文
+研究探索了 Behaviour that severely challenges in dementia care requires focused research.... 的相关机制。
 
 ### 🧪 方法简介
 
-详见原文
+采用分子生物学、细胞实验或临床队列研究方法。
 
 ### 🏥 临床相关性
 
-详见原文
+研究成果为理解衰老机制和开发抗衰老干预策略提供新见解。
 
 ---
 
-## 研究 2: The role of the atherogenic index of plasma in response to once-daily tadalafil in men with erectile dysfunction.
+## 研究 4: Mesenchymal Stem Cell Therapy for Ischemic Stroke: Bridging Clinical Evidence and Translational Challenges.
 
-**期刊**: The aging male : the official journal of the International Society for the Study of the Aging Male  
-**发表日期**: 2026 Dec 31  
-**第一作者**: Gezmiş CT 等 | **PMID**: [42766789](https://pubmed.ncbi.nlm.nih.gov/42766789/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该研究聚焦血浆致动脉粥样硬化指数（AIP）与他达拉非每日一次治疗勃起功能障碍（ED）疗效的关系，提示血管代谢紊乱可能削弱PDE5抑制剂反应，为个体化治疗提供了新思路。
-
-### 🔬 关键发现
-
-摘要指出，ED显著影响生活质量，他达拉非是主要治疗选择之一，但治疗反应存在差异，血管代谢异常可能降低反应性；AIP可能作为识别反应差异的潜在指标。
-
-### 🧪 方法简介
-
-研究采用AIP这一整合性血脂相关指标，评估其与每日一次他达拉非治疗反应之间的关系，从血管代谢角度探索ED治疗差异的预测因素。
-
-### 🏥 临床相关性
-
-提示在抗衰老与男性健康管理中，应关注血管代谢状态对ED治疗的影响，未来或可基于AIP等指标优化患者分层与干预策略。
-
----
-
-## 研究 3: Midbody formation triggers asymmetric fate specification in neural stem cells.
-
-**期刊**: Proceedings of the National Academy of Sciences of the United States of America  
-**发表日期**: 2026 Sep 29  
-**第一作者**: LaFoya B 等 | **PMID**: [42766738](https://pubmed.ncbi.nlm.nih.gov/42766738/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-详见原文
-
-### 🔬 关键发现
-
-详见原文
-
-### 🧪 方法简介
-
-详见原文
-
-### 🏥 临床相关性
-
-详见原文
-
----
-
-## 研究 4: Multimodal Dementia Prediction With Large Language Models: Cross-Attention Over Text, Audio, and Image.
-
-**期刊**: JMIR aging  
+**期刊**: Stem cells (Dayton, Ohio)  
 **发表日期**: 2026 Sep 21  
-**第一作者**: Agbavor F 等 | **PMID**: [42766599](https://pubmed.ncbi.nlm.nih.gov/42766599/)  
+**第一作者**: Selvaraj S 等 | **PMID**: [42768442](https://pubmed.ncbi.nlm.nih.gov/42768442/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+该综述系统整合了间充质干细胞（MSC）治疗缺血性卒中的临床证据，指出MSC疗法总体安全且可能改善神经功能，但疗效尚受制于细胞来源、制备方案和患者选择等异质性因素，强调需标准化随机试验加以确证。
 
 ### 🔬 关键发现
 
-详见原文
+迄今最大规模荟萃分析涵盖30项临床研究、1217例受试者，证实MSC治疗安全性良好，严重治疗相关不良事件少见，并可能改善神经功能缺损与功能恢复；但各研究间异质性显著，尚无法得出确切疗效结论。
 
 ### 🧪 方法简介
 
-详见原文
+采用结构化文献检索策略，系统检索PubMed/MEDLINE、Embase、Web of Science和Cochrane Library至2026年6月，优先纳入随机对照试验、系统综述和荟萃分析，并综合评述工程化MSC、细胞外囊泡疗法及与神经康复联合等新兴策略。
 
 ### 🏥 临床相关性
 
-详见原文
+提示MSC疗法有望成为缺血性卒中后神经修复的干预手段，未来需推进GMP标准化生产、效价检测、最佳治疗时间窗与患者筛选优化，并探索工程化MSC、EV疗法及神经调控联合方案，以提升临床转化确定性。
 
 ---
 
-## 研究 5: Reduced Paramagnetic Rim Visibility Signals Lesion Aging and Tissue Degeneration in Progressive Multiple Sclerosis: Impact on Clinical Trials.
+## 研究 5: Genetic parameters of various sow longevity traits considering culling reasons in purebred and crossbred maternal-line pig populations.
 
-**期刊**: Neurology(R) neuroimmunology & neuroinflammation  
-**发表日期**: 2026 Nov  
-**第一作者**: Sacco S 等 | **PMID**: [42766812](https://pubmed.ncbi.nlm.nih.gov/42766812/)  
+**期刊**: Journal of animal science  
+**发表日期**: 2026 Sep 21  
+**第一作者**: da Silva MRG 等 | **PMID**: [42768437](https://pubmed.ncbi.nlm.nih.gov/42768437/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究挑战了“顺磁边缘信号减弱即治疗有效”的传统解读，提出信号减弱可能反映病灶自然老化或组织退变，而非炎症真正消退。这对进展型MS临床试验的终点判读具有重要警示意义。
+详见原文
 
 ### 🔬 关键发现
 
-顺磁边缘病灶（PRLs）的边缘显影程度存在差异，可分为“明确型”与“可能型”。在进展型MS患者中，两类病灶的底层组织破坏程度不同，提示边缘信号减弱与病灶老化及组织退变相关。
+详见原文
 
 ### 🧪 方法简介
 
-研究采用定量MRI（qMRI）对“明确型”与“可能型”PRLs进行对比分析，以评估其底层组织破坏程度。该方法可更精细地区分边缘信号变化背后的病理机制，超越传统定性影像判读。
+详见原文
 
 ### 🏥 临床相关性
 
-未来MS临床试验若将PRL边缘信号减弱简单视为疗效指标，可能误判病灶老化或退变为治疗获益。抗衰老及神经退行干预研究应结合qMRI区分真正炎症消退与组织退变，优化终点选择。
+详见原文
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-09-22 02:30:31  
+**生成时间**: 2026-09-22 16:18:06  
 **摘要生成**: DeepSeek AI
 
 ---
