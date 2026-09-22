@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[High-altitude hypoxia and blood-brain barrier injury: cellular mechanisms and clinical targets.](./2026-09-22-weekly/)** — 2026年09月22日
+  - *Neuroscience* · PMID: 42767545
+
 - **[Beyond redlining: Gentrification, displacement, disadvantages, and exclusivity predict urban environmental and health inequities.](./2026-09-15-weekly/)** — 2026年09月15日
   - *Proceedings of the National Academy of Sciences of the United States of America* · PMID: 42735314
 
