@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-09-23 #3"
 date: 2026-09-23
-description: "Comment on "Adipose stem-cell-derived microvesicles ameliorate long-term bladder..."
+description: "Comment on 'Adipose stem-cell-derived microvesicles ameliorate long-term bladder..."
 draft: false
 type: "snapshot"
 ---
