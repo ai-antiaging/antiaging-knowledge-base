@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 23 | The osteogenic regulator THOC5-dependent post-transcriptional control maintains vascular smooth muscle cell homeostasis against chronic kidney disease related vascular calcification. | Kidney international | [42778145](https://pubmed.ncbi.nlm.nih.gov/42778145/) | The osteogenic regulator THOC5-dependent post-transcriptiona... |
-| 2026 Sep 23 | Parishin B, a phenolic constituent of Gastrodia elata Blume, extends lifespan and improves stress resistance in Caenorhabditis elegans. | Journal of ethnopharmacology | [42777983](https://pubmed.ncbi.nlm.nih.gov/42777983/) | Parishin B, a phenolic constituent of Gastrodia elata Blume,... |
-| 2026 Sep 22 | Ameliorating effects and mechanisms of tuna peptides on UVB-induced photoaging and melanogenesis targeting oxidative stress, apoptosis, and tyrosinase inactivation. | Journal of photochemistry and photobiology. B, Biology | [42777471](https://pubmed.ncbi.nlm.nih.gov/42777471/) | Ameliorating effects and mechanisms of tuna peptides on UVB-... |
-| 2026 Sep 11 | miR-182-5p regulates proliferation and senescence in chicken Leydig cells via the Wnt/β-catenin pathway by targeting FOXN3. | Poultry science | [42777356](https://pubmed.ncbi.nlm.nih.gov/42777356/) | miR-182-5p regulates proliferation and senescence in chicken... |
-| 2026 Sep 18 | The role of the immune system in hypertension. | Journal of hypertension | [42777113](https://pubmed.ncbi.nlm.nih.gov/42777113/) | The role of the immune system in hypertension. |
+| 2026 Sep 24 | Synergy of Low- and High-Polarity Cations for Stabilizing 2D Perovskites. | Advanced materials (Deerfield Beach, Fla.) | [42779357](https://pubmed.ncbi.nlm.nih.gov/42779357/) | Synergy of Low- and High-Polarity Cations for Stabilizing 2D... |
+| 2026 Sep 23 | Specialised palliative care and end-of-life characteristics in patients with haematological malignancies receiving bispecific antibodies. | British journal of haematology | [42779154](https://pubmed.ncbi.nlm.nih.gov/42779154/) | Specialised palliative care and end-of-life characteristics ... |
+| 2026 Sep | Distinct single-nucleus RNA-seq changes among non-neuronal cells in ADNC, LATE-NC, and mixed pathologies. | Alzheimer's & dementia : the journal of the Alzheimer's Association | [42779047](https://pubmed.ncbi.nlm.nih.gov/42779047/) | Distinct single-nucleus RNA-seq changes among non-neuronal c... |
+| 2026 Oct | The Role of EVs in the Aging Hematopoietic System. | Aging cell | [42779005](https://pubmed.ncbi.nlm.nih.gov/42779005/) | The Role of EVs in the Aging Hematopoietic System. |
+| 2026 Sep 9 | Integrative plasma proteomic network analysis identifies physical activity-associated protein modules potentially mediating type 2 diabetes risk. | Cardiovascular diabetology | [42778924](https://pubmed.ncbi.nlm.nih.gov/42778924/) | Integrative plasma proteomic network analysis identifies phy... |
 
 ### NAD+ 与线粒体
 
