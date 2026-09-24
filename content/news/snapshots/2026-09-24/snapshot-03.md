@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-09-24 #3"
 date: 2026-09-24
-description: "Retraction notice to "Fisetin as a caloric restriction mimetic protects rat brai..."
+description: "Retraction notice to 'Fisetin as a caloric restriction mimetic protects rat brai..."
 draft: false
 type: "snapshot"
 ---
