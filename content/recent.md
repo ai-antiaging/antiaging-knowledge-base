@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-23 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-24 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 30 | ADP Inhibits Macrophage Senescence via the AMPK/KLF10 Pathway in Systemic Lupus Erythematosus. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42776065](https://pubmed.ncbi.nlm.nih.gov/42776065/) | ADP Inhibits Macrophage Senescence via the AMPK/KLF10 Pathwa... |
-| 2026 Sep 23 | Mitophagy-Related Gene Dysregulation: Links With Telomere Attrition and Impaired Lung Function in Sulfur Mustard-Exposed Veterans. | Journal of applied toxicology : JAT | [42775893](https://pubmed.ncbi.nlm.nih.gov/42775893/) | Mitophagy-Related Gene Dysregulation: Links With Telomere At... |
-| 2026 Sep 23 | Engineered Extracellular Vesicle Revitalizing Macrophage Energy Metabolism for Aged Wound Repair. | Advanced materials (Deerfield Beach, Fla.) | [42775811](https://pubmed.ncbi.nlm.nih.gov/42775811/) | Engineered Extracellular Vesicle Revitalizing Macrophage Ene... |
-| 2026 Oct | Associations Between Gut Microbiota and Immune Profiles in Community-Dwelling Older Adults and the Regulatory Role of Polygonatum odoratum. | Aging cell | [42775700](https://pubmed.ncbi.nlm.nih.gov/42775700/) | Associations Between Gut Microbiota and Immune Profiles in C... |
-| 2026 Oct | Transplantation of Elderly Human Gut Microbiota Into Pigs Reprograms Intestinal Barrier Function, Plasma Metabolome, and Gut Mucosal Transcriptomic Landscape. | Aging cell | [42775698](https://pubmed.ncbi.nlm.nih.gov/42775698/) | Transplantation of Elderly Human Gut Microbiota Into Pigs Re... |
+| 2026 Sep 23 | The osteogenic regulator THOC5-dependent post-transcriptional control maintains vascular smooth muscle cell homeostasis against chronic kidney disease related vascular calcification. | Kidney international | [42778145](https://pubmed.ncbi.nlm.nih.gov/42778145/) | The osteogenic regulator THOC5-dependent post-transcriptiona... |
+| 2026 Sep 23 | Parishin B, a phenolic constituent of Gastrodia elata Blume, extends lifespan and improves stress resistance in Caenorhabditis elegans. | Journal of ethnopharmacology | [42777983](https://pubmed.ncbi.nlm.nih.gov/42777983/) | Parishin B, a phenolic constituent of Gastrodia elata Blume,... |
+| 2026 Sep 22 | Ameliorating effects and mechanisms of tuna peptides on UVB-induced photoaging and melanogenesis targeting oxidative stress, apoptosis, and tyrosinase inactivation. | Journal of photochemistry and photobiology. B, Biology | [42777471](https://pubmed.ncbi.nlm.nih.gov/42777471/) | Ameliorating effects and mechanisms of tuna peptides on UVB-... |
+| 2026 Sep 11 | miR-182-5p regulates proliferation and senescence in chicken Leydig cells via the Wnt/β-catenin pathway by targeting FOXN3. | Poultry science | [42777356](https://pubmed.ncbi.nlm.nih.gov/42777356/) | miR-182-5p regulates proliferation and senescence in chicken... |
+| 2026 Sep 18 | The role of the immune system in hypertension. | Journal of hypertension | [42777113](https://pubmed.ncbi.nlm.nih.gov/42777113/) | The role of the immune system in hypertension. |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 22 | Ameliorating effects and mechanisms of tuna peptides on UVB-induced photoaging and melanogenesis targeting oxidative stress, apoptosis, and tyrosinase inactivation. | Journal of photochemistry and photobiology. B, Biology | [42777471](https://pubmed.ncbi.nlm.nih.gov/42777471/) | Ameliorating effects and mechanisms of tuna peptides on UVB-... |
+| 2026 Sep 16 | Aging as Loss of Biological Self-Correction: A Geroscience Framework for Longevity, Inflammaging, and Restored Resilience. | Geriatrics (Basel, Switzerland) | [42776723](https://pubmed.ncbi.nlm.nih.gov/42776723/) | Aging as Loss of Biological Self-Correction: A Geroscience F... |
 | 2026 Jan 1 | Usefulness of the instrumented timed up and go test for walking assessment in older adults. | Acta of bioengineering and biomechanics | [42775876](https://pubmed.ncbi.nlm.nih.gov/42775876/) | Usefulness of the instrumented timed up and go test for walk... |
 | 2026 Sep 22 | Bioadaptive spatiotemporal nanomedicine promotes metabolic recovery after myocardial infarction through NAD(+) and UCP2 regulation. | Nature cardiovascular research | [42773285](https://pubmed.ncbi.nlm.nih.gov/42773285/) | Bioadaptive spatiotemporal nanomedicine promotes metabolic r... |
 | 2026 Sep 22 | NAD(+) augmentation in brain aging: hype, hope, or emerging reality? | Trends in endocrinology and metabolism: TEM | [42773035](https://pubmed.ncbi.nlm.nih.gov/42773035/) | NAD(+) augmentation in brain aging: hype, hope, or emerging ... |
-| 2026 | Myosteatosis in type 1 diabetes: immunometabolic mechanisms, biomarkers, and therapeutic targets. | Frontiers in endocrinology | [42769337](https://pubmed.ncbi.nlm.nih.gov/42769337/) | Myosteatosis in type 1 diabetes: immunometabolic mechanisms,... |
-| 2026 Sep 21 | Mitochondrial dysfunction drives metabolic reprogramming in Gitelman syndrome: insights from proteomics and isogenic modeling. | Human genetics | [42766034](https://pubmed.ncbi.nlm.nih.gov/42766034/) | Mitochondrial dysfunction drives metabolic reprogramming in ... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-23 | 自动生成*
+*最后更新：2026-09-24 | 自动生成*
