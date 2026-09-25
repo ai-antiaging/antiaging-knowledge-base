@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 24 | Autophagy in sarcopenic obesity: muscle-adipose crosstalk, metabolic regulation, and exercise-based interventions. | Metabolism: clinical and experimental | [42785625](https://pubmed.ncbi.nlm.nih.gov/42785625/) | Autophagy in sarcopenic obesity: muscle-adipose crosstalk, m... |
-| 2026 Sep 24 | SOX2 and NTF3 expression are associated with taste-bud alterations in aging klotho-deficient mice. | Mechanisms of ageing and development | [42785525](https://pubmed.ncbi.nlm.nih.gov/42785525/) | SOX2 and NTF3 expression are associated with taste-bud alter... |
-| 2026 Sep 24 | Teclistamab in relapsed, multi-refractory acquired hemophilia A after failure of anti-CD19 CAR-T cell therapy. | Journal of thrombosis and haemostasis : JTH | [42785443](https://pubmed.ncbi.nlm.nih.gov/42785443/) | Teclistamab in relapsed, multi-refractory acquired hemophili... |
-| 2026 Sep 24 | Spiny mouse fibroblasts exhibit a baseline preference for glycolysis and are resilient to oxidative stress across lifespan. | The Journal of biological chemistry | [42785437](https://pubmed.ncbi.nlm.nih.gov/42785437/) | Spiny mouse fibroblasts exhibit a baseline preference for gl... |
-| 2026 Sep 24 | Nanotherapy against senescence. | Science (New York, N.Y.) | [42784700](https://pubmed.ncbi.nlm.nih.gov/42784700/) | Nanotherapy against senescence. |
+| 2026 Sep 25 | Type 2 Angiotensin II receptor (AT2R) deficiency exacerbates cardiac senescence and fibrosis in aging mice. | Clinical science (London, England : 1979) | [42788951](https://pubmed.ncbi.nlm.nih.gov/42788951/) | Type 2 Angiotensin II receptor (AT2R) deficiency exacerbates... |
+| 2026 Sep 25 | E‑Cigarette Aerosols Trigger Mitochondrial Dysfunction-Associated Ferroptosis in Human Primary ATII Cells. | American journal of respiratory cell and molecular biology | [42788653](https://pubmed.ncbi.nlm.nih.gov/42788653/) | E‑Cigarette Aerosols Trigger Mitochondrial Dysfunction-Assoc... |
+| 2026 Sep | Reproductive Drivers of Temporal Telomere Dynamics in Female Tree Swallows. | Molecular ecology | [42788391](https://pubmed.ncbi.nlm.nih.gov/42788391/) | Reproductive Drivers of Temporal Telomere Dynamics in Female... |
+| 2026 Sep 23 | Associations of light smoking with serum carcinoembryonic antigen and relative leukocyte telomere length in men with asthma. | Monaldi archives for chest disease = Archivio Monaldi per le malattie del torace | [42788204](https://pubmed.ncbi.nlm.nih.gov/42788204/) | Associations of light smoking with serum carcinoembryonic an... |
+| 2026 | Bioadhesive hydrogels as immunomodulatory interfaces for chronic wound healing: from microenvironmental regulation mechanism to engineering strategies. | Burns & trauma | [42787885](https://pubmed.ncbi.nlm.nih.gov/42787885/) | Bioadhesive hydrogels as immunomodulatory interfaces for chr... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | Narrative review of intravenous NAD(+) and NAD(+) precursors in wellness and translational medicine. | Frontiers in aging | [42787547](https://pubmed.ncbi.nlm.nih.gov/42787547/) | Narrative review of intravenous NAD(+) and NAD(+) precursors... |
 | 2026 Sep 29 | Mitochondrial NADP(H)-dependent de novo dTMP biosynthesis counteracts the cytotoxicity of PARP inhibitors. | Proceedings of the National Academy of Sciences of the United States of America | [42784515](https://pubmed.ncbi.nlm.nih.gov/42784515/) | Mitochondrial NADP(H)-dependent de novo dTMP biosynthesis co... |
 | 2026 Sep 21 | Physio-Morphological Assessment and Multi-Omics Analysis of Flammulina filiformis Mycelial Ageing. | Journal of fungi (Basel, Switzerland) | [42784003](https://pubmed.ncbi.nlm.nih.gov/42784003/) | Physio-Morphological Assessment and Multi-Omics Analysis of ... |
 | 2026 Sep 3 | Diaphragmatic Mitochondrial Myopathy in a Patient-Derived Mouse Model of Barth Syndrome. | Journal of developmental biology | [42783548](https://pubmed.ncbi.nlm.nih.gov/42783548/) | Diaphragmatic Mitochondrial Myopathy in a Patient-Derived Mo... |
 | 2026 Sep 17 | Mitochondrial Modulation as a Therapeutic Entry Point in Neurodegeneration. | Cells | [42782782](https://pubmed.ncbi.nlm.nih.gov/42782782/) | Mitochondrial Modulation as a Therapeutic Entry Point in Neu... |
-| 2026 Sep 24 | Sirtuin signalling as therapeutic targets of immunosenescence. | Expert opinion on therapeutic targets | [42781918](https://pubmed.ncbi.nlm.nih.gov/42781918/) | Sirtuin signalling as therapeutic targets of immunosenescenc... |
 
 ### 尿石素 A 与线粒体自噬
 
