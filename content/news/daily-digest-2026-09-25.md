@@ -12,135 +12,135 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: ROS/HIF-1 signalling in alveolar macrophages: implications for lung fibrosis.
+## 研究 1: Type 2 Angiotensin II receptor (AT2R) deficiency exacerbates cardiac senescence and fibrosis in aging mice.
 
-**期刊**: American journal of physiology. Lung cellular and molecular physiology  
-**发表日期**: 2026 Sep 24  
-**第一作者**: E J 等 | **PMID**: [42779491](https://pubmed.ncbi.nlm.nih.gov/42779491/)  
+**期刊**: Clinical science (London, England : 1979)  
+**发表日期**: 2026 Sep 25  
+**第一作者**: Zacarias-Rodrigues LM 等 | **PMID**: [42788951](https://pubmed.ncbi.nlm.nih.gov/42788951/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该综述提出，IPF患者肺泡巨噬细胞在富氧的肺泡空间中仍稳定表达HIF-1α，提示存在“假性缺氧”状态。其核心在于ROS可作为非经典环境信号，驱动巨噬细胞促纤维化重编程。
+首次揭示AT2R缺失会加速心脏衰老并加重纤维化，将AT2R定位为衰老过程中心脏保护的关键介质，为年龄相关心脏病机制提供了新视角。
 
 ### 🔬 关键发现
 
-ROS可通过调控脯氨酰羟化酶的红氧敏感性及铁依赖性HIF-1α降解通路，稳定HIF-1α并诱导假性缺氧。这一机制将环境氧化应激与肺泡巨噬细胞的转录响应和促纤维化表型联系起来。
+老年AT2-KO小鼠出现收缩/舒张功能障碍和纤维化加重，p53、p21提前升高，SASP、NF-kB/NLRP3通路激活，IL-1β/IL-18增加；AT2R缺失还导致DNA损伤，中位寿命缩短5个月（26 vs 31个月）。
 
 ### 🧪 方法简介
 
-文章整合细胞系、循环及组织驻留巨噬细胞、实验性纤维化模型等多层次证据，系统综述ROS-HIF-1α交互调控机制。以“红氧敏感性与铁依赖降解”为切入点，提出可靶向的调控节点。
+采用AT2R基因敲除与野生型小鼠，分年轻（4-5月龄）和老年（18-21月龄）组，系统评估心脏功能、衰老标志物、炎症通路及寿命，构建了基因-衰老-心功能关联分析框架。
 
 ### 🏥 临床相关性
 
-ROS-HIF-1α轴为理解环境暴露如何加速IPF进展提供了新框架，提示靶向该轴或可限制巨噬细胞促纤维化程序。对衰老相关肺纤维化的干预策略开发具有潜在转化价值。
+提示AT2R通路可能成为延缓心脏衰老和纤维化的干预靶点，未来或可通过激活AT2R减轻年龄相关心脏病变，并延长健康寿命。
 
 ---
 
-## 研究 2: Associations of Brain Structure and Neuropsychological Function With Artificial Intelligence Estimates of Biological Vascular Age.
+## 研究 2: Nonpharmacological interventions for cognitive decline and dementia-related outcomes in older Asian adults: a systematic review.
 
-**期刊**: Arteriosclerosis, thrombosis, and vascular biology  
-**发表日期**: 2026 Sep 24  
-**第一作者**: Cooper LL 等 | **PMID**: [42779540](https://pubmed.ncbi.nlm.nih.gov/42779540/)  
+**期刊**: Aging & mental health  
+**发表日期**: 2026 Sep 25  
+**第一作者**: Yang J 等 | **PMID**: [42788840](https://pubmed.ncbi.nlm.nih.gov/42788840/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-研究首次将人工智能估算的生物学血管年龄（AIVA）与脑结构及神经心理功能联系起来，揭示加速血管老化可能通过小血管病变影响大脑健康。这为血管老化作为脑功能衰退驱动因素提供了新证据。
+这是首个聚焦亚洲老年人群认知衰退非药物干预的系统综述，揭示了该领域研究证据的分布特征，并指出亚裔美国人群体在干预研究中严重缺乏代表性，为后续精准干预研究指明了方向。
 
 ### 🔬 关键发现
 
-AIVA所反映的加速血管老化与脑小血管病相关，而后者可能进一步损害脑结构和神经心理功能。摘要未提供具体效应量或样本数据。
+综述识别并评估了针对亚洲老年人群认知衰退及痴呆相关结局的非药物干预措施，但摘要未提供具体效应量或统计数据。研究同时确认亚裔美国人群在干预研究中代表性显著不足。
 
 ### 🧪 方法简介
 
-采用人工智能模型估算生物学血管年龄（AIVA），突破了传统 chronological age 的局限，实现了对血管老化程度的个体化量化评估。
+采用系统综述方法，系统检索并严格评估了针对亚洲老年人群的非药物干预研究，并特别关注了研究结果对亚裔美国人照护的转化意义。
 
 ### 🏥 临床相关性
 
-提示AIVA可作为识别脑小血管病及认知衰退高风险个体的潜在筛查工具，为靶向血管老化的抗衰老干预提供新方向。
+提示临床从业者在为亚洲老年患者制定认知干预方案时，需考虑现有证据主要来自亚洲本土人群，对亚裔美国人群的外推需谨慎，并呼吁加强该群体的干预研究。
 
 ---
 
-## 研究 3: SMPD1 Inhibition Attenuates Abdominal Aortic Aneurysm via Ceramide-Mediated NLRP3 Inflammatory Pathway.
+## 研究 3: Characterization of Carcinogenesis Resistance in Anatolian Blind Mole-rat Mesenchymal Stem Cells and Assessment of Transcriptomic Signatures.
 
-**期刊**: Arteriosclerosis, thrombosis, and vascular biology  
-**发表日期**: 2026 Sep 24  
-**第一作者**: Yang Z 等 | **PMID**: [42779539](https://pubmed.ncbi.nlm.nih.gov/42779539/)  
+**期刊**: Stem cells (Dayton, Ohio)  
+**发表日期**: 2026 Sep 25  
+**第一作者**: Unver N 等 | **PMID**: [42788688](https://pubmed.ncbi.nlm.nih.gov/42788688/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次通过遗传学证据锁定SMPD1为腹主动脉瘤（AAA）的因果性治疗靶点，并证明抑制该酶可通过减少神经酰胺生成来阻断NLRP3炎症通路，从而缓解AAA进展。
+盲鼹鼠间充质干细胞（MSCs）在致癌剂MNU处理下仍维持稳定增殖与分化能力，而人鼠MSCs则显著凋亡。该天然抗癌机制为肿瘤抗性与抗衰老研究提供了独特进化模型。
 
 ### 🔬 关键发现
 
-抑制SMPD1可显著减轻AAA病变，其机制依赖于神经酰胺介导的NLRP3炎症小体活化；该通路在AAA发病中起关键驱动作用。
+BMR MSCs经MNU处理后保留p53-LAMTOR3轴并抑制促瘤SMAD信号；BMR成纤维细胞则抑制PI3K/Akt并调节线粒体氧化磷酸化。跨物种分析结合TCGA数据锁定LAMTOR3为p53依赖的肿瘤保护关键节点。
 
 ### 🧪 方法简介
 
-研究整合了人类遗传学因果推断（如孟德尔随机化）与实验验证，从AAA相关蛋白中筛选并功能确证SMPD1，实现了从遗传关联到治疗靶点的转化。
+研究分离并表征了盲鼹鼠骨髓来源MSCs与成纤维细胞，结合跨物种（人、鼠、大鼠）转录组比较及TCGA数据集整合分析，系统评估MNU暴露后的表达差异与信号通路变化。
 
 ### 🏥 临床相关性
 
-SMPD1及其下游神经酰胺-NLRP3轴为AAA提供了首个具有遗传因果支持的药物靶点，提示抑制该通路可能成为延缓血管衰老及相关炎症性疾病的新策略。
+p53-LAMTOR3轴及SMAD信号抑制机制为增强癌症抗性提供了潜在生物标志物与治疗靶点，提示通过调控该通路可能延缓肿瘤发生并助力抗衰老干预策略开发。
 
 ---
 
-## 研究 4: Membrane-Coated DNA Nanoflowers Attenuate Cognitive Decline in Apolipoprotein E4 Mice.
+## 研究 4: E‑Cigarette Aerosols Trigger Mitochondrial Dysfunction-Associated Ferroptosis in Human Primary ATII Cells.
 
-**期刊**: ACS applied materials & interfaces  
-**发表日期**: 2026 Sep 24  
-**第一作者**: Hang Z 等 | **PMID**: [42779515](https://pubmed.ncbi.nlm.nih.gov/42779515/)  
+**期刊**: American journal of respiratory cell and molecular biology  
+**发表日期**: 2026 Sep 25  
+**第一作者**: El Khalki L 等 | **PMID**: [42788653](https://pubmed.ncbi.nlm.nih.gov/42788653/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-研究团队开发了一种经神经干细胞膜包被的DNA纳米花递送系统，可精准靶向神经元线粒体，在APOE4小鼠中显著缓解认知衰退。该策略首次将膜仿生靶向、ROS响应释放与线粒体修复整合于单一纳米平台，为神经退行性疾病干预提供了新范式。
+该研究首次揭示电子烟气溶胶可致人原代II型肺泡上皮细胞发生线粒体功能障碍相关铁死亡，将电子烟肺损伤机制从“炎症/氧化应激”推进到“铁死亡”这一程序性细胞死亡新维度，为理解电子烟对肺泡上皮的毒性提供了全新视角。
 
 ### 🔬 关键发现
 
-体外实验显示DFRM高效靶向神经元线粒体并实现ROS响应释药，通过抗炎/抗氧化及促进线粒体生物发生改善神经元损伤。模型小鼠经鼻给药后认知与记忆显著提升，线粒体损伤、血脑屏障渗漏及Aβ斑块沉积等关键病理特征均被减轻。
+电子烟气溶胶（含尼古丁及调味化合物）可破坏线粒体稳态，进而触发人原代ATII细胞铁死亡，最终导致肺泡上皮损伤和肺功能障碍。这表明线粒体功能障碍是铁死亡的上游事件，且ATII细胞是电子烟毒性的直接靶点。
 
 ### 🧪 方法简介
 
-采用滚环扩增技术构建DNA纳米花，表面偶联二茂铁基团实现线粒体特异性ROS响应释放，编码线粒体靶向适配体，并包被神经干细胞膜赋予脑内归巢与神经元靶向能力，同时负载白藜芦醇发挥治疗作用。
+研究采用人原代II型肺泡上皮细胞（ATII）作为模型，较传统细胞系更贴近生理状态，并结合线粒体功能与铁死亡指标检测，系统建立了“电子烟气溶胶—线粒体损伤—铁死亡—肺泡上皮损伤”的因果链条。
 
 ### 🏥 临床相关性
 
-该研究为APOE4相关认知衰退提供了一种多屏障协同突破的精准干预策略，提示仿生纳米递送系统在神经退行性疾病预防与治疗中具有转化潜力，未来或可拓展至其他衰老相关线粒体功能障碍疾病。
+提示铁死亡抑制剂或线粒体保护剂可能成为干预电子烟相关肺损伤的潜在策略；同时为抗衰老领域提供新思路——靶向铁死亡或可延缓肺泡上皮衰老及肺功能退行性改变。
 
 ---
 
-## 研究 5: Integrated coagulation, platelet, and UACR profiling in type 2 diabetes microvascular complications: a western India study.
+## 研究 5: Cellular and molecular mechanisms determining allogeneic CAR T cell rejection and expansion.
 
-**期刊**: Biomarkers in medicine  
-**发表日期**: 2026 Sep 24  
-**第一作者**: Goswami PR 等 | **PMID**: [42779490](https://pubmed.ncbi.nlm.nih.gov/42779490/)  
+**期刊**: Cancer discovery  
+**发表日期**: 2026 Sep 25  
+**第一作者**: Jallouk AP 等 | **PMID**: [42788887](https://pubmed.ncbi.nlm.nih.gov/42788887/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+同一批次异体CAR-T产品在不同患者中扩增与疗效差异显著，揭示受体来源的预存异体反应性CD8+ T细胞是排斥主因，而效应样特征驱动扩增。这为理解异体细胞治疗失败机制提供了关键框架。
 
 ### 🔬 关键发现
 
-详见原文
+11例大B细胞淋巴瘤患者中，非扩增者体内预存受体源性异体反应CD8+ T细胞频率高，快速介导CAR-T排斥；扩增者则依赖效应样而非干/中枢记忆程序实现克隆扩增。两个独立队列验证了该模式。
 
 ### 🧪 方法简介
 
-详见原文
+整合纵向TCRβ测序、单细胞分子图谱和混合淋巴细胞反应试验，系统追踪异体CAR-T输注后的克隆动态与受体免疫互作，实现细胞外在与内在机制的解耦分析。
 
 ### 🏥 临床相关性
 
-详见原文
+提示可通过供体筛选、清除预存异体反应T细胞或改造CAR-T效应程序来优化异体产品持久性。对衰老相关免疫干预而言，需关注受体免疫状态对异体细胞疗效的决定性影响。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-09-25 02:36:18  
+**生成时间**: 2026-09-25 16:18:00  
 **摘要生成**: DeepSeek AI
 
 ---
