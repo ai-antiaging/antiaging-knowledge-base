@@ -15,39 +15,26 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 25 | Study on blueberries, protein and exercise for improving frailty and cardiovascular disease (STRONG): protocol for a parallel-group randomised controlled superiority trial in older Nova Scotians. | BMJ open | [42790922](https://pubmed.ncbi.nlm.nih.gov/42790922/) | Study on blueberries, protein and exercise for improving fra... |
-| 2026 Sep 25 | Berberine induces pleiotropic beneficial effects via hormesis. | Pharmacological research | [42790830](https://pubmed.ncbi.nlm.nih.gov/42790830/) | Berberine induces pleiotropic beneficial effects via hormesi... |
-| 2026 Sep 25 | A synthetic Benzothiazole-Thiourea Derivative with Multi-Target Potential Activity for Alzheimer's Disease: Antioxidant Properties and Mechanistic Insights. | Neuropharmacology | [42790732](https://pubmed.ncbi.nlm.nih.gov/42790732/) | A synthetic Benzothiazole-Thiourea Derivative with Multi-Tar... |
-| 2026 Sep 25 | Intra-Islet Duct Formation and Gastric-Type Metaplasia in CRY1 C414A Transgenic Mice: Association with Endocrine Cell Plasticity and α-Cell Localization. | Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association | [42790537](https://pubmed.ncbi.nlm.nih.gov/42790537/) | Intra-Islet Duct Formation and Gastric-Type Metaplasia in CR... |
-| 2026 Sep 25 | A hypothalamic neuronal population coordinates metabolic adaptations to cold. | Neuron | [42790426](https://pubmed.ncbi.nlm.nih.gov/42790426/) | A hypothalamic neuronal population coordinates metabolic ada... |
+| 2026 | Mitochondrial Ca(2+) homeostasis in ovarian function and oocyte competence: from molecular transporters to early embryonic development. | Frontiers in cell and developmental biology | [42798439](https://pubmed.ncbi.nlm.nih.gov/42798439/) | Mitochondrial Ca(2+) homeostasis in ovarian function and ooc... |
+| 2026 Aug 17 | Spatiotemporal Dynamics of Protein Recruitment During Cell Wound Repair. | bioRxiv : the preprint server for biology | [42798390](https://pubmed.ncbi.nlm.nih.gov/42798390/) | Spatiotemporal Dynamics of Protein Recruitment During Cell W... |
+| 2026 Sep 8 | Late Clinical Presentation Outweighs Viral Characteristics in Determining Immune Depletion at HIV Diagnosis: A Five-Year Retrospective Study. | Viruses | [42797818](https://pubmed.ncbi.nlm.nih.gov/42797818/) | Late Clinical Presentation Outweighs Viral Characteristics i... |
+| 2026 Aug 22 | The Oxidative Stress and Inflammatory Metabolic Pathways of Some Environmental Toxicants Inflicting Human Disorders. | Toxics | [42797656](https://pubmed.ncbi.nlm.nih.gov/42797656/) | The Oxidative Stress and Inflammatory Metabolic Pathways of ... |
+| 2026 Sep 9 | Insights into Microbiota-Vaccine Crosstalk in Humans: Mechanisms, Modulators, and Translational Horizons. | Vaccines | [42797611](https://pubmed.ncbi.nlm.nih.gov/42797611/) | Insights into Microbiota-Vaccine Crosstalk in Humans: Mechan... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 | Narrative review of intravenous NAD(+) and NAD(+) precursors in wellness and translational medicine. | Frontiers in aging | [42787547](https://pubmed.ncbi.nlm.nih.gov/42787547/) | Narrative review of intravenous NAD(+) and NAD(+) precursors... |
-| 2026 Sep 29 | Mitochondrial NADP(H)-dependent de novo dTMP biosynthesis counteracts the cytotoxicity of PARP inhibitors. | Proceedings of the National Academy of Sciences of the United States of America | [42784515](https://pubmed.ncbi.nlm.nih.gov/42784515/) | Mitochondrial NADP(H)-dependent de novo dTMP biosynthesis co... |
-| 2026 Sep 21 | Physio-Morphological Assessment and Multi-Omics Analysis of Flammulina filiformis Mycelial Ageing. | Journal of fungi (Basel, Switzerland) | [42784003](https://pubmed.ncbi.nlm.nih.gov/42784003/) | Physio-Morphological Assessment and Multi-Omics Analysis of ... |
-| 2026 Sep 3 | Diaphragmatic Mitochondrial Myopathy in a Patient-Derived Mouse Model of Barth Syndrome. | Journal of developmental biology | [42783548](https://pubmed.ncbi.nlm.nih.gov/42783548/) | Diaphragmatic Mitochondrial Myopathy in a Patient-Derived Mo... |
-| 2026 Sep 17 | Mitochondrial Modulation as a Therapeutic Entry Point in Neurodegeneration. | Cells | [42782782](https://pubmed.ncbi.nlm.nih.gov/42782782/) | Mitochondrial Modulation as a Therapeutic Entry Point in Neu... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Oct | Mitochondrial homeostasis in musculoskeletal diseases: From pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: From ... |
-| 2026 Sep 8 | Urolithin A Enhances the Development of Porcine Parthenogenetic Embryos by Promoting Mitochondrial Function and Quantity Through the SIRT1/PGC-1α Signaling Pathway. | Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada | [42713995](https://pubmed.ncbi.nlm.nih.gov/42713995/) | Urolithin A Enhances the Development of Porcine Parthenogene... |
-| 2026 Sep 7 | Strengthening muscle for healthy ageing: innovative treatments for sarcopenia. | Nature reviews. Drug discovery | [42706321](https://pubmed.ncbi.nlm.nih.gov/42706321/) | Strengthening muscle for healthy ageing: innovative treatmen... |
-| 2026 Aug | Urolithins: microbial biosynthesis, metabolic pathways and health benefits for functional food and cosmeceutical applications. | Food science and biotechnology | [42661872](https://pubmed.ncbi.nlm.nih.gov/42661872/) | Urolithins: microbial biosynthesis, metabolic pathways and h... |
-| 2026 Sep | Neonatal Reversible Aortic Constriction Mice Model Unlocks Distinctive Footprints of Young Heart Recovery. | Journal of the American Heart Association | [42657742](https://pubmed.ncbi.nlm.nih.gov/42657742/) | Neonatal Reversible Aortic Constriction Mice Model Unlocks D... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Sep 22 | Dysregulated polyamine metabolism in neurological disorders: molecular mechanisms and therapeutic opportunities. | Molecular biology reports | [42771220](https://pubmed.ncbi.nlm.nih.gov/42771220/) | Dysregulated polyamine metabolism in neurological disorders:... |
-| 2026 Sep 18 | Brown adipocyte Acss1 restoration ameliorates redox-metabolic dysfunction and systemic metabolic decline during aging. | Free radical biology & medicine | [42754181](https://pubmed.ncbi.nlm.nih.gov/42754181/) | Brown adipocyte Acss1 restoration ameliorates redox-metaboli... |
-| 2026 Aug 30 | Polyamine metabolic enzyme SAT1 remodels the neuronal transcriptome and rescues α-synuclein toxicity in Drosophila. | Amino acids | [42734829](https://pubmed.ncbi.nlm.nih.gov/42734829/) | Polyamine metabolic enzyme SAT1 remodels the neuronal transc... |
+*暂无最新文献*
+
 
 ---
 
