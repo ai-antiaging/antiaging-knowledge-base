@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-25 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-26 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 25 | Type 2 Angiotensin II receptor (AT2R) deficiency exacerbates cardiac senescence and fibrosis in aging mice. | Clinical science (London, England : 1979) | [42788951](https://pubmed.ncbi.nlm.nih.gov/42788951/) | Type 2 Angiotensin II receptor (AT2R) deficiency exacerbates... |
-| 2026 Sep 25 | E‑Cigarette Aerosols Trigger Mitochondrial Dysfunction-Associated Ferroptosis in Human Primary ATII Cells. | American journal of respiratory cell and molecular biology | [42788653](https://pubmed.ncbi.nlm.nih.gov/42788653/) | E‑Cigarette Aerosols Trigger Mitochondrial Dysfunction-Assoc... |
-| 2026 Sep | Reproductive Drivers of Temporal Telomere Dynamics in Female Tree Swallows. | Molecular ecology | [42788391](https://pubmed.ncbi.nlm.nih.gov/42788391/) | Reproductive Drivers of Temporal Telomere Dynamics in Female... |
-| 2026 Sep 23 | Associations of light smoking with serum carcinoembryonic antigen and relative leukocyte telomere length in men with asthma. | Monaldi archives for chest disease = Archivio Monaldi per le malattie del torace | [42788204](https://pubmed.ncbi.nlm.nih.gov/42788204/) | Associations of light smoking with serum carcinoembryonic an... |
-| 2026 | Bioadhesive hydrogels as immunomodulatory interfaces for chronic wound healing: from microenvironmental regulation mechanism to engineering strategies. | Burns & trauma | [42787885](https://pubmed.ncbi.nlm.nih.gov/42787885/) | Bioadhesive hydrogels as immunomodulatory interfaces for chr... |
+| 2026 Sep 25 | Study on blueberries, protein and exercise for improving frailty and cardiovascular disease (STRONG): protocol for a parallel-group randomised controlled superiority trial in older Nova Scotians. | BMJ open | [42790922](https://pubmed.ncbi.nlm.nih.gov/42790922/) | Study on blueberries, protein and exercise for improving fra... |
+| 2026 Sep 25 | Berberine induces pleiotropic beneficial effects via hormesis. | Pharmacological research | [42790830](https://pubmed.ncbi.nlm.nih.gov/42790830/) | Berberine induces pleiotropic beneficial effects via hormesi... |
+| 2026 Sep 25 | A synthetic Benzothiazole-Thiourea Derivative with Multi-Target Potential Activity for Alzheimer's Disease: Antioxidant Properties and Mechanistic Insights. | Neuropharmacology | [42790732](https://pubmed.ncbi.nlm.nih.gov/42790732/) | A synthetic Benzothiazole-Thiourea Derivative with Multi-Tar... |
+| 2026 Sep 25 | Intra-Islet Duct Formation and Gastric-Type Metaplasia in CRY1 C414A Transgenic Mice: Association with Endocrine Cell Plasticity and α-Cell Localization. | Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association | [42790537](https://pubmed.ncbi.nlm.nih.gov/42790537/) | Intra-Islet Duct Formation and Gastric-Type Metaplasia in CR... |
+| 2026 Sep 25 | A hypothalamic neuronal population coordinates metabolic adaptations to cold. | Neuron | [42790426](https://pubmed.ncbi.nlm.nih.gov/42790426/) | A hypothalamic neuronal population coordinates metabolic ada... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-25 | 自动生成*
+*最后更新：2026-09-26 | 自动生成*
