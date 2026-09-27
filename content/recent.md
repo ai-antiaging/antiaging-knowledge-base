@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-26 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-27 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -13,13 +13,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### Senolytics（衰老细胞清除）
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 | Mitochondrial Ca(2+) homeostasis in ovarian function and oocyte competence: from molecular transporters to early embryonic development. | Frontiers in cell and developmental biology | [42798439](https://pubmed.ncbi.nlm.nih.gov/42798439/) | Mitochondrial Ca(2+) homeostasis in ovarian function and ooc... |
-| 2026 Aug 17 | Spatiotemporal Dynamics of Protein Recruitment During Cell Wound Repair. | bioRxiv : the preprint server for biology | [42798390](https://pubmed.ncbi.nlm.nih.gov/42798390/) | Spatiotemporal Dynamics of Protein Recruitment During Cell W... |
-| 2026 Sep 8 | Late Clinical Presentation Outweighs Viral Characteristics in Determining Immune Depletion at HIV Diagnosis: A Five-Year Retrospective Study. | Viruses | [42797818](https://pubmed.ncbi.nlm.nih.gov/42797818/) | Late Clinical Presentation Outweighs Viral Characteristics i... |
-| 2026 Aug 22 | The Oxidative Stress and Inflammatory Metabolic Pathways of Some Environmental Toxicants Inflicting Human Disorders. | Toxics | [42797656](https://pubmed.ncbi.nlm.nih.gov/42797656/) | The Oxidative Stress and Inflammatory Metabolic Pathways of ... |
-| 2026 Sep 9 | Insights into Microbiota-Vaccine Crosstalk in Humans: Mechanisms, Modulators, and Translational Horizons. | Vaccines | [42797611](https://pubmed.ncbi.nlm.nih.gov/42797611/) | Insights into Microbiota-Vaccine Crosstalk in Humans: Mechan... |
+*暂无最新文献*
+
 
 ### NAD+ 与线粒体
 
@@ -48,4 +43,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-26 | 自动生成*
+*最后更新：2026-09-27 | 自动生成*
