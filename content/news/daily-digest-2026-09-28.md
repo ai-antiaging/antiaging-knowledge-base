@@ -12,135 +12,135 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Chemical Screening Identifies Danofloxacin as a Self-Renewal Agonist of Embryonic Stem Cells through Alleviation of HDAC1-Mediated Deacetylation of Tert and Prdm10.
+## 研究 1: Adverse Childhood Experiences and Longitudinal Changes in Intrinsic Capacity in Older Chinese Adults: The Role of Social Support.
 
-**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
-**发表日期**: 2026 Sep 27  
-**第一作者**: Zhang Y 等 | **PMID**: [42801716](https://pubmed.ncbi.nlm.nih.gov/42801716/)  
+**期刊**: International journal of aging & human development  
+**发表日期**: 2026 Sep 28  
+**第一作者**: Tang Y 等 | **PMID**: [42803784](https://pubmed.ncbi.nlm.nih.gov/42803784/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-通过化合物库筛选发现，达氟沙星（Danofloxacin）能促进小鼠胚胎干细胞自我更新并提升嵌合体小鼠生成效率，为体外建立其他物种ESC提供了新的小分子工具。
+首次揭示童年不良经历（ACEs）与中国老年人内在能力（IC）纵向轨迹的关系，并发现居住安排而非社会支持是关键调节因素。这提示ACEs对衰老的影响具有领域特异性和情境依赖性。
 
 ### 🔬 关键发现
 
-达氟沙星抑制HDAC1表达与活性，升高H3K9ac和H3K27ac水平，上调Tert与Prdm10表达；过表达Tert或Prdm10可模拟其效应，而敲低任一基因则阻断该过程。
+ACEs与基线IC较低相关，但与IC随时间变化无关。心理能力下降与总ACEs（-0.024）及威胁性ACEs（-0.030）相关；不与子女同住者中，威胁性ACEs与基线IC关联更强，剥夺性ACEs与感官衰退（-0.054）相关。社会支持无中介作用。
 
 ### 🧪 方法简介
 
-研究采用化合物库化学筛选策略，结合功能获得/缺失实验（过表达与敲低）及表观遗传学分析，系统解析了HDAC1-H3K9ac/H3K27ac-Tert/Prdm10轴的作用机制。
+基于中国健康与养老追踪调查3,897名60岁以上老年人数据，采用两波次（Wave 1和3）纵向设计评估IC，结合生命事件调查量化ACEs，并运用中介分析检验社会支持的作用路径。
 
 ### 🏥 临床相关性
 
-该发现揭示了HDAC1介导的去乙酰化在干细胞干性调控中的关键作用，为开发靶向表观遗传酶的抗衰老干预策略及优化干细胞体外培养体系提供了理论依据。
+抗衰老干预应关注ACEs史老年人的心理与感官能力下降，尤其是不与子女同住者。社会支持虽未中介此关联，但居住安排提示需针对性强化社区或家庭外支持体系，以延缓特定领域功能衰退。
 
 ---
 
-## 研究 2: Glutaminolysis Blockade-Empowered Bimodal Nanodepot for Spatially Complementary Sono-Thermal Ablation via PANoptosis and STING Activation Against Large Tumors.
+## 研究 2: MN•CS•IO System: Cross-Species Study for HBB Function in High-Altitude Hypoxia Adaptation.
 
 **期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
-**发表日期**: 2026 Sep 27  
-**第一作者**: Liu YM 等 | **PMID**: [42801704](https://pubmed.ncbi.nlm.nih.gov/42801704/)  
+**发表日期**: 2026 Sep 28  
+**第一作者**: Hui W 等 | **PMID**: [42803593](https://pubmed.ncbi.nlm.nih.gov/42803593/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究开发了可注射双模态纳米储库TCPD，通过阻断谷氨酰胺分解联合声-热消融，实现对大型肝细胞癌的完全覆盖治疗，并触发PANoptosis与STING免疫激活。
+研究首次通过跨物种功能实验，揭示HBB基因在高海拔低氧适应中的关键作用，为长期悬而未决的高原适应遗传机制提供了直接证据。
 
 ### 🔬 关键发现
 
-TCPD在微波与超声联合照射下破坏肿瘤抗氧化防御与生物能量通路，诱导线粒体/内质网功能障碍、基因毒性及NAD⁺耗竭等多重亚细胞应激，从而代谢增敏大肿瘤并实现空间互补消融。
+利用MN•CS•IO平台将高/低海拔物种的HBB修饰型Lin⁻细胞移植后，观察到HBB对低氧适应的功能性影响，证实其跨物种调控作用。
 
 ### 🧪 方法简介
 
-利用铯掺杂普鲁士蓝作为微波热转换器，催化交联多巴胺修饰透明质酸，构建可共递送谷氨酰胺酶1抑制剂Telaglenastat与声敏剂Chlorin e6的可注射纳米储库。
+开发了整合网状纳米棒细胞分选、壳聚糖纳米颗粒递送与骨内注射的MN•CS•IO系统，实现跨物种HBB修饰细胞的高效体内功能验证。
 
 ### 🏥 临床相关性
 
-为大型实体瘤提供代谢干预增敏消融并激活免疫的多模式策略，提示靶向谷氨酰胺分解可能成为改善抗衰老相关肿瘤治疗与免疫微环境的新切入点。
+该平台为造血干细胞基因功能研究提供新工具，并提示HBB可能是低氧相关疾病及衰老进程中氧代谢干预的潜在靶点。
 
 ---
 
-## 研究 3: Persistent Zn(2+) Influx-Mediated Deacetylation of ANXA2 Regulates the "Zn(2+)-Autophagic Flux" and Alleviates Intervertebral Disc Degeneration.
+## 研究 3: Targeting LDHA Palmitoylation Sensitizes GBM to Chemoradiotherapy via Suppressing Palmitic Acid Induced Glycolytic Reprogramming.
 
 **期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
-**发表日期**: 2026 Sep 27  
-**第一作者**: Jin Y 等 | **PMID**: [42801693](https://pubmed.ncbi.nlm.nih.gov/42801693/)  
+**发表日期**: 2026 Sep 28  
+**第一作者**: Gao Z 等 | **PMID**: [42803511](https://pubmed.ncbi.nlm.nih.gov/42803511/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次揭示锌离子持续内流通过ANXA2 K302去乙酰化调控“锌-自噬流”轴，将离子失衡与线粒体自噬缺陷直接关联，为椎间盘退变提供了新的分子靶点。
+详见原文
 
 ### 🔬 关键发现
 
-ZIP14（SLC39A14）是关键调控因子；ANXA2 K302乙酰化增强其与mTOR结合，抑制线粒体自噬；去乙酰化则恢复自噬流并缓解退变。体内实验证实ZIP14维持胞内锌稳态所必需。
+详见原文
 
 ### 🧪 方法简介
 
-整合单细胞RNA测序、mRNA测序与液相色谱-质谱联用筛选靶点，结合定点突变与分子动力学模拟解析ANXA2-K302乙酰化对ANXA2-mTOR复合物构象与功能的影响。
+详见原文
 
 ### 🏥 临床相关性
 
-靶向ZIP14-ANXA2 K302-mTOR轴有望通过恢复自噬流延缓椎间盘退变，为年龄相关退行性疾病的抗衰老干预提供新策略。
+详见原文
 
 ---
 
-## 研究 4: High-Density Type I Collagen Promotes IFN-γ(+) CD8(+) T Cell Exhaustion via SAT1-ASS1-Mediated Glutamine Accumulation and Ferroptosis in Triple-Negative Breast Cancer.
+## 研究 4: Suspended will: The ethical journey of paediatric stem cell donors.
 
-**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
-**发表日期**: 2026 Sep 27  
-**第一作者**: Wang J 等 | **PMID**: [42801687](https://pubmed.ncbi.nlm.nih.gov/42801687/)  
+**期刊**: Nursing ethics  
+**发表日期**: 2026 Sep 28  
+**第一作者**: Zhu X 等 | **PMID**: [42803793](https://pubmed.ncbi.nlm.nih.gov/42803793/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次揭示高密度I型胶原通过SAT1/ASS1轴驱动TNBC细胞谷氨酰胺累积与铁死亡，进而诱导IFN-γ(+) CD8(+) T细胞耗竭，将ECM力学特征与肿瘤免疫逃逸直接关联。
+研究揭示，儿科造血干细胞供者在捐献全程中自主性、胜任感与归属感持续受挤压，其伦理需求常被受者生存优先所遮蔽。这挑战了仅靠程序性知情同意保障儿童权益的传统伦理框架。
 
 ### 🔬 关键发现
 
-高密度I型胶原促进TNBC细胞铁死亡，并增强其对谷氨酰胺的摄取，导致微环境谷氨酰胺剥夺，最终引发IFN-γ(+) CD8(+) T细胞耗竭；胶原密度与力学特性可预测患者病理分级与恶性进展。
+对9名7–17岁供者的访谈生成三个阶段性主题：知情同意与配型期参与受限、动员采集期关系性痛苦与支持并存、采集后早期恢复期意义重建；两个贯穿性主题为家庭动态紊乱与解释不足。
 
 ### 🧪 方法简介
 
-整合转录组学与代谢组学筛选关键通路，结合体外共培养与体内实验验证，系统解析胶原密度→代谢重编程→免疫耗竭的因果链条。
+采用解释性现象学分析（IPA），以自我决定理论为 sensitising 透镜，在采集期或恢复早期进行半结构化访谈，并采用目的性抽样与同步数据收集分析，最后追加两例以捕捉经验变异。
 
 ### 🏥 临床相关性
 
-提示靶向胶原密度或SAT1/ASS1-谷氨酰胺轴可能逆转CD8(+) T细胞耗竭，为TNBC免疫治疗增敏提供新策略，并为ECM力学干预在抗衰老与肿瘤防控中的转化研究提供依据。
+护理伦理应从程序性保护转向承认儿童为关系性伦理主体，通过支持沟通、承认痛苦、促进儿童叙事来维护其尊严与参与。对细胞治疗及抗衰老领域涉及未成年供者的实践具有直接伦理指导价值。
 
 ---
 
-## 研究 5: PTBP1-Mediated Alternative Splicing of DNAJB6 Promotes Everolimus Resistance in Clear Cell Renal Cell Carcinoma via EIF4B/PKIB/AKT/mTOR Positive Feedback Loop.
+## 研究 5: Age-dependent associations between physical activity and cognitive function in adults aged 70-100: A cross-sectional and longitudinal study.
 
-**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
-**发表日期**: 2026 Sep 27  
-**第一作者**: Pan XW 等 | **PMID**: [42801686](https://pubmed.ncbi.nlm.nih.gov/42801686/)  
+**期刊**: Journal of Alzheimer's disease : JAD  
+**发表日期**: 2026 Sep 28  
+**第一作者**: Lande IS 等 | **PMID**: [42803718](https://pubmed.ncbi.nlm.nih.gov/42803718/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次揭示PTBP1通过调控DNAJB6可变剪接驱动ccRCC对依维莫司的耐药，提出剪接异常是耐药激活的关键机制，为克服mTOR抑制剂耐药提供了新靶点。
+研究首次将体力活动与认知功能的关联追踪至100岁，发现即便在高龄阶段，保持活跃仍与更好的认知老化相关，挑战了“预防效果随年龄消退”的假设。
 
 ### 🔬 关键发现
 
-PTBP1介导的DNAJB6剪接异常激活EIF4B/PKIB/AKT/mTOR正反馈环路，持续增强AKT/mTOR信号，从而促进依维莫司耐药表型。
+70岁时活跃者占53.5%，85岁达77.0%，但90岁骤降至16.0%。纵向分析显示，基线久坐者在78-85岁和85-90岁认知受损风险显著升高，OR分别为2.61和2.90。
 
 ### 🧪 方法简介
 
-研究结合可变剪接分析与信号通路验证，系统解析了PTBP1-DNAJB6剪接轴及其下游正反馈环路在耐药中的作用。
+依托耶路撒冷纵向研究（1990-2023），对1920-1921年出生队列在70、78、85、90、95、100岁进行重复评估，结合原始队列随访与同出生队列补充招募，实现罕见高龄段前瞻性追踪。
 
 ### 🏥 临床相关性
 
-靶向PTBP1或其介导的DNAJB6剪接有望逆转ccRCC对依维莫司的耐药，为mTOR抑制剂联合治疗策略提供理论依据，并提示剪接调控可作为抗衰老相关干预的潜在方向。
+结果表明体力活动促进认知健康的策略应贯穿整个生命周期，即使90岁以上仍具相关性，为高龄人群抗衰老干预提供了直接证据，支持将运动推广纳入老年认知障碍预防实践。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-09-28 02:41:04  
+**生成时间**: 2026-09-28 16:17:52  
 **摘要生成**: DeepSeek AI
 
 ---
