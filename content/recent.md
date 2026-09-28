@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Dec 31 | The extracellular matrix protein SNED1 affects self-renewal, proliferation and adipogenic differentiation of human adipose stem/progenitor cells. | Adipocyte | [42802578](https://pubmed.ncbi.nlm.nih.gov/42802578/) | The extracellular matrix protein SNED1 affects self-renewal,... |
+| 2026 Oct | Autophagy Flux Is Remodeled Sex- and Cell Type-Specifically During Human Aging, and Is Linked to Reduced Physical Function in Older Adults. | Aging cell | [42802483](https://pubmed.ncbi.nlm.nih.gov/42802483/) | Autophagy Flux Is Remodeled Sex- and Cell Type-Specifically ... |
+| 2026 Oct | Deep Learning Predicts Hematopoietic Stem Cell Aging From 3D Chromatin Images. | Aging cell | [42802377](https://pubmed.ncbi.nlm.nih.gov/42802377/) | Deep Learning Predicts Hematopoietic Stem Cell Aging From 3D... |
+| 2026 Sep 27 | PP4 deficiency drives airway epithelial senescence via the PERK-eIF2α-ATF4-p21 axis in severe asthma. | Inflammation research : official journal of the European Histamine Research Society ... [et al.] | [42802286](https://pubmed.ncbi.nlm.nih.gov/42802286/) | PP4 deficiency drives airway epithelial senescence via the P... |
 | 2026 Sep 27 | Bisphenol F induces intestinal epithelial injury through hsa_circ_0003655-mediated dual-axis disruption of cytoplasmic and organellar calcium homeostasis. | Ecotoxicology and environmental safety | [42801897](https://pubmed.ncbi.nlm.nih.gov/42801897/) | Bisphenol F induces intestinal epithelial injury through hsa... |
-| 2026 Sep 27 | A Hepatocyte-to-Stellate Cell Axis Couples Alternate-Day Fasting to Liver Fibrosis Resolution via ATG7 S-Nitrosylation. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42801580](https://pubmed.ncbi.nlm.nih.gov/42801580/) | A Hepatocyte-to-Stellate Cell Axis Couples Alternate-Day Fas... |
-| 2026 Sep 27 | Targeted cell deposition for lung re-endothelialization. | Biomechanics and modeling in mechanobiology | [42801342](https://pubmed.ncbi.nlm.nih.gov/42801342/) | Targeted cell deposition for lung re-endothelialization. |
-| 2026 Sep 27 | Effects of exercise followed by a low-carbohydrate diet on peak fat oxidation and mitochondrial coupling control and efficiency in healthy trained men. | The Journal of physiology | [42801284](https://pubmed.ncbi.nlm.nih.gov/42801284/) | Effects of exercise followed by a low-carbohydrate diet on p... |
-| 2026 | Nanoparticle-Based Tools to Study Hallmarks of Aging at the Molecular Level. | International journal of nanomedicine | [42801224](https://pubmed.ncbi.nlm.nih.gov/42801224/) | Nanoparticle-Based Tools to Study Hallmarks of Aging at the ... |
 
 ### NAD+ 与线粒体
 
