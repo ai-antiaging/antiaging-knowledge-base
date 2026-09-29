@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 28 | Immune responses following myocardial infarction in aged mice. | Journal of molecular and cellular cardiology | [42805582](https://pubmed.ncbi.nlm.nih.gov/42805582/) | Immune responses following myocardial infarction in aged mic... |
-| 2026 Sep 28 | Berberine as a multi-hallmark modulator of aging: From AMPK and mitophagy to inflammaging and the SASP. | Fitoterapia | [42805510](https://pubmed.ncbi.nlm.nih.gov/42805510/) | Berberine as a multi-hallmark modulator of aging: From AMPK ... |
-| 2026 Sep 28 | Single-channel characteristics and regulation of endogenously expressed cation channels in human cardiac microvascular endothelial cells and human aortic endothelial cells. | Biochimica et biophysica acta. General subjects | [42805465](https://pubmed.ncbi.nlm.nih.gov/42805465/) | Single-channel characteristics and regulation of endogenousl... |
-| 2026 Sep 28 | Peripheral CXCR3 blockade mitigates T cell infiltration and neurodegeneration in a mouse model of tauopathy. | Neuron | [42805185](https://pubmed.ncbi.nlm.nih.gov/42805185/) | Peripheral CXCR3 blockade mitigates T cell infiltration and ... |
-| 2026 Sep 28 | The wu wei of brain metastases: When the gift of a pause is also a vulnerability. | Cancer cell | [42805171](https://pubmed.ncbi.nlm.nih.gov/42805171/) | The wu wei of brain metastases: When the gift of a pause is ... |
+| 2026 Oct | Traditional Chinese Medicine Formulas in Delaying Aging: From Theoretical Foundations to Molecular Mechanisms and Translational Perspectives. | Journal of cellular and molecular medicine | [42806743](https://pubmed.ncbi.nlm.nih.gov/42806743/) | Traditional Chinese Medicine Formulas in Delaying Aging: Fro... |
+| 2026 Oct | α-Synuclein Promotes Atherosclerosis by Impairing Macrophage Autophagic Flux. | Aging cell | [42806619](https://pubmed.ncbi.nlm.nih.gov/42806619/) | α-Synuclein Promotes Atherosclerosis by Impairing Macrophage... |
+| 2026 Oct | uPAR-Targeting T Cell Engager Exerts Senolytic Effects in Mice and Non-Human Primates With Serum Aminotransferase Activity as a Safety Monitor. | Aging cell | [42806572](https://pubmed.ncbi.nlm.nih.gov/42806572/) | uPAR-Targeting T Cell Engager Exerts Senolytic Effects in Mi... |
+| 2026 Aug 28 | Integrated multiomics reveals a clinically relevant CXCL8-centric protein network in pediatric postinfectious bronchiolitis obliterans. | Respiratory research | [42806348](https://pubmed.ncbi.nlm.nih.gov/42806348/) | Integrated multiomics reveals a clinically relevant CXCL8-ce... |
+| 2026 Sep 28 | Therapeutic potential of MitoQ, a mitochondria-targeted antioxidant, in age-related physiological dysfunction. | GeroScience | [42806210](https://pubmed.ncbi.nlm.nih.gov/42806210/) | Therapeutic potential of MitoQ, a mitochondria-targeted anti... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Aug 27 | CD38-activated macrophages drive age-related placental senescence by depleting NAD(+) in decidual stromal cells. | Nature communications | [42806003](https://pubmed.ncbi.nlm.nih.gov/42806003/) | CD38-activated macrophages drive age-related placental senes... |
 | 2026 Sep 28 | Knockout of mitochondrial dicarboxylate carriers AtDIC1 and AtDIC3 affects germination, biomass accumulation, and carbon partitioning in Arabidopsis thaliana. | Plant cell reports | [42803826](https://pubmed.ncbi.nlm.nih.gov/42803826/) | Knockout of mitochondrial dicarboxylate carriers AtDIC1 and ... |
 | 2026 Sep 26 | Systemic energy and neuroinflammatory disturbances in a lactacystin-induced rat model of Parkinson's disease. | Experimental neurology | [42800602](https://pubmed.ncbi.nlm.nih.gov/42800602/) | Systemic energy and neuroinflammatory disturbances in a lact... |
 | 2026 Sep 19 | Endocrine and Molecular Mechanisms of Oocyte Aging: From Gonadotropin Signaling to Metabolic and Microenvironmental Dysfunction. | Current issues in molecular biology | [42793315](https://pubmed.ncbi.nlm.nih.gov/42793315/) | Endocrine and Molecular Mechanisms of Oocyte Aging: From Gon... |
 | 2026 Sep 16 | The Epigenetic Aging-Cancer Continuum: Biomarkers, Metabolism, and Therapy. | Genes | [42793024](https://pubmed.ncbi.nlm.nih.gov/42793024/) | The Epigenetic Aging-Cancer Continuum: Biomarkers, Metabolis... |
-| 2026 Sep 8 | SIRT1 in Senescence: Mitochondria and Immune Crosstalk. | Biology | [42792518](https://pubmed.ncbi.nlm.nih.gov/42792518/) | SIRT1 in Senescence: Mitochondria and Immune Crosstalk. |
 
 ### 尿石素 A 与线粒体自噬
 
