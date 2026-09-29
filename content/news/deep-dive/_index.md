@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[mRNA-Engineered Stem Cells Produce Nerve Growth Factor and Induce Neurite Outgrowth in Recipient Cells.](./2026-09-29-weekly/)** — 2026年09月29日
+  - *Experimental cell research* · PMID: 42805560
+
 - **[High-altitude hypoxia and blood-brain barrier injury: cellular mechanisms and clinical targets.](./2026-09-22-weekly/)** — 2026年09月22日
   - *Neuroscience* · PMID: 42767545
 
