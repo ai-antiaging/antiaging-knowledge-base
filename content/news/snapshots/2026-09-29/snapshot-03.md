@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-09-29 #3"
 date: 2026-09-29
-description: "Corrigendum to "Helicobacter pylori-secreted outer membrane vesicles induce bone..."
+description: 'Corrigendum to "Helicobacter pylori-secreted outer membrane vesicles induce bone...'
 draft: false
 type: "snapshot"
 ---
