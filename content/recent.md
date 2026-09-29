@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-28 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-29 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Dec 31 | The extracellular matrix protein SNED1 affects self-renewal, proliferation and adipogenic differentiation of human adipose stem/progenitor cells. | Adipocyte | [42802578](https://pubmed.ncbi.nlm.nih.gov/42802578/) | The extracellular matrix protein SNED1 affects self-renewal,... |
-| 2026 Oct | Autophagy Flux Is Remodeled Sex- and Cell Type-Specifically During Human Aging, and Is Linked to Reduced Physical Function in Older Adults. | Aging cell | [42802483](https://pubmed.ncbi.nlm.nih.gov/42802483/) | Autophagy Flux Is Remodeled Sex- and Cell Type-Specifically ... |
-| 2026 Oct | Deep Learning Predicts Hematopoietic Stem Cell Aging From 3D Chromatin Images. | Aging cell | [42802377](https://pubmed.ncbi.nlm.nih.gov/42802377/) | Deep Learning Predicts Hematopoietic Stem Cell Aging From 3D... |
-| 2026 Sep 27 | PP4 deficiency drives airway epithelial senescence via the PERK-eIF2α-ATF4-p21 axis in severe asthma. | Inflammation research : official journal of the European Histamine Research Society ... [et al.] | [42802286](https://pubmed.ncbi.nlm.nih.gov/42802286/) | PP4 deficiency drives airway epithelial senescence via the P... |
-| 2026 Sep 27 | Bisphenol F induces intestinal epithelial injury through hsa_circ_0003655-mediated dual-axis disruption of cytoplasmic and organellar calcium homeostasis. | Ecotoxicology and environmental safety | [42801897](https://pubmed.ncbi.nlm.nih.gov/42801897/) | Bisphenol F induces intestinal epithelial injury through hsa... |
+| 2026 Sep 28 | Immune responses following myocardial infarction in aged mice. | Journal of molecular and cellular cardiology | [42805582](https://pubmed.ncbi.nlm.nih.gov/42805582/) | Immune responses following myocardial infarction in aged mic... |
+| 2026 Sep 28 | Berberine as a multi-hallmark modulator of aging: From AMPK and mitophagy to inflammaging and the SASP. | Fitoterapia | [42805510](https://pubmed.ncbi.nlm.nih.gov/42805510/) | Berberine as a multi-hallmark modulator of aging: From AMPK ... |
+| 2026 Sep 28 | Single-channel characteristics and regulation of endogenously expressed cation channels in human cardiac microvascular endothelial cells and human aortic endothelial cells. | Biochimica et biophysica acta. General subjects | [42805465](https://pubmed.ncbi.nlm.nih.gov/42805465/) | Single-channel characteristics and regulation of endogenousl... |
+| 2026 Sep 28 | Peripheral CXCR3 blockade mitigates T cell infiltration and neurodegeneration in a mouse model of tauopathy. | Neuron | [42805185](https://pubmed.ncbi.nlm.nih.gov/42805185/) | Peripheral CXCR3 blockade mitigates T cell infiltration and ... |
+| 2026 Sep 28 | The wu wei of brain metastases: When the gift of a pause is also a vulnerability. | Cancer cell | [42805171](https://pubmed.ncbi.nlm.nih.gov/42805171/) | The wu wei of brain metastases: When the gift of a pause is ... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 28 | Knockout of mitochondrial dicarboxylate carriers AtDIC1 and AtDIC3 affects germination, biomass accumulation, and carbon partitioning in Arabidopsis thaliana. | Plant cell reports | [42803826](https://pubmed.ncbi.nlm.nih.gov/42803826/) | Knockout of mitochondrial dicarboxylate carriers AtDIC1 and ... |
 | 2026 Sep 26 | Systemic energy and neuroinflammatory disturbances in a lactacystin-induced rat model of Parkinson's disease. | Experimental neurology | [42800602](https://pubmed.ncbi.nlm.nih.gov/42800602/) | Systemic energy and neuroinflammatory disturbances in a lact... |
 | 2026 Sep 19 | Endocrine and Molecular Mechanisms of Oocyte Aging: From Gonadotropin Signaling to Metabolic and Microenvironmental Dysfunction. | Current issues in molecular biology | [42793315](https://pubmed.ncbi.nlm.nih.gov/42793315/) | Endocrine and Molecular Mechanisms of Oocyte Aging: From Gon... |
 | 2026 Sep 16 | The Epigenetic Aging-Cancer Continuum: Biomarkers, Metabolism, and Therapy. | Genes | [42793024](https://pubmed.ncbi.nlm.nih.gov/42793024/) | The Epigenetic Aging-Cancer Continuum: Biomarkers, Metabolis... |
 | 2026 Sep 8 | SIRT1 in Senescence: Mitochondria and Immune Crosstalk. | Biology | [42792518](https://pubmed.ncbi.nlm.nih.gov/42792518/) | SIRT1 in Senescence: Mitochondria and Immune Crosstalk. |
-| 2026 Aug 28 | Paeonol and Its Metabolites Alleviate LPS/D-GalN-Induced Acute Liver Injury in Mice: Potential Involvement of NDUFS7 and Macrophage Mitochondrial Function. | Antioxidants (Basel, Switzerland) | [42792118](https://pubmed.ncbi.nlm.nih.gov/42792118/) | Paeonol and Its Metabolites Alleviate LPS/D-GalN-Induced Acu... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-28 | 自动生成*
+*最后更新：2026-09-29 | 自动生成*
