@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-09-29 #2"
 date: 2026-09-29
-description: "Corrigendum to "CircBIRC6 facilitates the malignant progression via miR-488/GRIN..."
+description: 'Corrigendum to "CircBIRC6 facilitates the malignant progression via miR-488/GRIN...'
 draft: false
 type: "snapshot"
 ---
