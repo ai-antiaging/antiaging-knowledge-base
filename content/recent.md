@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 29 | MT-Exo-derived miR-4651 and miR-6126 coordinately regulate the SRSF1-progerin and SP1-PrPᶜ axes to attenuate vascular aging in HGPS. | Pharmacological research | [42810629](https://pubmed.ncbi.nlm.nih.gov/42810629/) | MT-Exo-derived miR-4651 and miR-6126 coordinately regulate t... |
-| 2026 Sep 29 | Telomeres in Aging: Links to Clonal Hematopoiesis, Cardiovascular Disease, and Cancer. | The American journal of medicine | [42810491](https://pubmed.ncbi.nlm.nih.gov/42810491/) | Telomeres in Aging: Links to Clonal Hematopoiesis, Cardiovas... |
-| 2026 Sep 29 | Constitutively active presynaptic release factor Unc13A prevents homeostatic sleep rebound in Drosophila. | Current biology : CB | [42810352](https://pubmed.ncbi.nlm.nih.gov/42810352/) | Constitutively active presynaptic release factor Unc13A prev... |
-| 2026 Sep 22 | Targeting isoD7 Neoepitope in Aβ for Alzheimer's Disease Immunotherapy. | Aging and disease | [42809432](https://pubmed.ncbi.nlm.nih.gov/42809432/) | Targeting isoD7 Neoepitope in Aβ for Alzheimer's Disease Imm... |
-| 2026 Sep 23 | Lipid Networks in Osteoarthritis: Context-Dependent Drivers, Hallmarks of Aging, and Clinical Translation. | Aging and disease | [42809428](https://pubmed.ncbi.nlm.nih.gov/42809428/) | Lipid Networks in Osteoarthritis: Context-Dependent Drivers,... |
+| 2026 Oct | The Underexplored Mechanobiology of Lamin A Biogenesis and Homeostasis. | Biology of the cell | [42814033](https://pubmed.ncbi.nlm.nih.gov/42814033/) | The Underexplored Mechanobiology of Lamin A Biogenesis and H... |
+| 2026 Sep 30 | Human intestinal organoid models: Advancing Inflammatory Bowel Disease Research. | Protein & cell | [42813984](https://pubmed.ncbi.nlm.nih.gov/42813984/) | Human intestinal organoid models: Advancing Inflammatory Bow... |
+| 2026 Sep 30 | Clinical Translation of Mesenchymal Stem Cells to Medicinal Signaling Cells: Origins, Clinical Applications, and the Future of Regenerative Medicine-2026 Arnold I. Caplan Award for Distinguished Research in Orthobiologics. | The Journal of the American Academy of Orthopaedic Surgeons | [42813811](https://pubmed.ncbi.nlm.nih.gov/42813811/) | Clinical Translation of Mesenchymal Stem Cells to Medicinal ... |
+| 2026 Sep 30 | Epidemiology of Tardiomyces blankii (formerly Candida blankii) and related species: results of the International "Epiblankii" Study. | Journal of clinical microbiology | [42813794](https://pubmed.ncbi.nlm.nih.gov/42813794/) | Epidemiology of Tardiomyces blankii (formerly Candida blanki... |
+| 2026 Dec | 4-Methylumbelliferone Restores Age-Related Changes in Perineuronal Nets, Memory, and Neuroinflammation. | Glia | [42813517](https://pubmed.ncbi.nlm.nih.gov/42813517/) | 4-Methylumbelliferone Restores Age-Related Changes in Perine... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 17 | Mechanism of the NAMPT-SIRT2-Lactate Axis in Senescence of Human Nucleus Pulposus Cells. | Frontiers in bioscience (Landmark edition) | [42811977](https://pubmed.ncbi.nlm.nih.gov/42811977/) | Mechanism of the NAMPT-SIRT2-Lactate Axis in Senescence of H... |
+| 2026 Sep 20 | The Protective Effect of Venetoclax on the Calcium-Induced Mitochondrial Pore and ROS Production as a New Possible Factor Contributing to Drug Resistance. | Frontiers in bioscience (Landmark edition) | [42811963](https://pubmed.ncbi.nlm.nih.gov/42811963/) | The Protective Effect of Venetoclax on the Calcium-Induced M... |
+| 2026 Aug 17 | Label-free optical biomarker for prostate cancer diagnosis. | Molecular medicine (Cambridge, Mass.) | [42811292](https://pubmed.ncbi.nlm.nih.gov/42811292/) | Label-free optical biomarker for prostate cancer diagnosis. |
 | 2026 | Mitochondrial Dysfunction in Type 2 Diabetes and Metabolic Syndrome: Mechanisms, Biomarkers, and Emerging Therapies. | Diabetes, metabolic syndrome and obesity : targets and therapy | [42807121](https://pubmed.ncbi.nlm.nih.gov/42807121/) | Mitochondrial Dysfunction in Type 2 Diabetes and Metabolic S... |
 | 2026 Aug 27 | CD38-activated macrophages drive age-related placental senescence by depleting NAD(+) in decidual stromal cells. | Nature communications | [42806003](https://pubmed.ncbi.nlm.nih.gov/42806003/) | CD38-activated macrophages drive age-related placental senes... |
-| 2026 Sep 28 | Knockout of mitochondrial dicarboxylate carriers AtDIC1 and AtDIC3 affects germination, biomass accumulation, and carbon partitioning in Arabidopsis thaliana. | Plant cell reports | [42803826](https://pubmed.ncbi.nlm.nih.gov/42803826/) | Knockout of mitochondrial dicarboxylate carriers AtDIC1 and ... |
-| 2026 Sep 26 | Systemic energy and neuroinflammatory disturbances in a lactacystin-induced rat model of Parkinson's disease. | Experimental neurology | [42800602](https://pubmed.ncbi.nlm.nih.gov/42800602/) | Systemic energy and neuroinflammatory disturbances in a lact... |
-| 2026 Sep 19 | Endocrine and Molecular Mechanisms of Oocyte Aging: From Gonadotropin Signaling to Metabolic and Microenvironmental Dysfunction. | Current issues in molecular biology | [42793315](https://pubmed.ncbi.nlm.nih.gov/42793315/) | Endocrine and Molecular Mechanisms of Oocyte Aging: From Gon... |
 
 ### 尿石素 A 与线粒体自噬
 
