@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-29 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-09-30 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct | Traditional Chinese Medicine Formulas in Delaying Aging: From Theoretical Foundations to Molecular Mechanisms and Translational Perspectives. | Journal of cellular and molecular medicine | [42806743](https://pubmed.ncbi.nlm.nih.gov/42806743/) | Traditional Chinese Medicine Formulas in Delaying Aging: Fro... |
-| 2026 Oct | α-Synuclein Promotes Atherosclerosis by Impairing Macrophage Autophagic Flux. | Aging cell | [42806619](https://pubmed.ncbi.nlm.nih.gov/42806619/) | α-Synuclein Promotes Atherosclerosis by Impairing Macrophage... |
-| 2026 Oct | uPAR-Targeting T Cell Engager Exerts Senolytic Effects in Mice and Non-Human Primates With Serum Aminotransferase Activity as a Safety Monitor. | Aging cell | [42806572](https://pubmed.ncbi.nlm.nih.gov/42806572/) | uPAR-Targeting T Cell Engager Exerts Senolytic Effects in Mi... |
-| 2026 Aug 28 | Integrated multiomics reveals a clinically relevant CXCL8-centric protein network in pediatric postinfectious bronchiolitis obliterans. | Respiratory research | [42806348](https://pubmed.ncbi.nlm.nih.gov/42806348/) | Integrated multiomics reveals a clinically relevant CXCL8-ce... |
-| 2026 Sep 28 | Therapeutic potential of MitoQ, a mitochondria-targeted antioxidant, in age-related physiological dysfunction. | GeroScience | [42806210](https://pubmed.ncbi.nlm.nih.gov/42806210/) | Therapeutic potential of MitoQ, a mitochondria-targeted anti... |
+| 2026 Sep 29 | MT-Exo-derived miR-4651 and miR-6126 coordinately regulate the SRSF1-progerin and SP1-PrPᶜ axes to attenuate vascular aging in HGPS. | Pharmacological research | [42810629](https://pubmed.ncbi.nlm.nih.gov/42810629/) | MT-Exo-derived miR-4651 and miR-6126 coordinately regulate t... |
+| 2026 Sep 29 | Telomeres in Aging: Links to Clonal Hematopoiesis, Cardiovascular Disease, and Cancer. | The American journal of medicine | [42810491](https://pubmed.ncbi.nlm.nih.gov/42810491/) | Telomeres in Aging: Links to Clonal Hematopoiesis, Cardiovas... |
+| 2026 Sep 29 | Constitutively active presynaptic release factor Unc13A prevents homeostatic sleep rebound in Drosophila. | Current biology : CB | [42810352](https://pubmed.ncbi.nlm.nih.gov/42810352/) | Constitutively active presynaptic release factor Unc13A prev... |
+| 2026 Sep 22 | Targeting isoD7 Neoepitope in Aβ for Alzheimer's Disease Immunotherapy. | Aging and disease | [42809432](https://pubmed.ncbi.nlm.nih.gov/42809432/) | Targeting isoD7 Neoepitope in Aβ for Alzheimer's Disease Imm... |
+| 2026 Sep 23 | Lipid Networks in Osteoarthritis: Context-Dependent Drivers, Hallmarks of Aging, and Clinical Translation. | Aging and disease | [42809428](https://pubmed.ncbi.nlm.nih.gov/42809428/) | Lipid Networks in Osteoarthritis: Context-Dependent Drivers,... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | Mitochondrial Dysfunction in Type 2 Diabetes and Metabolic Syndrome: Mechanisms, Biomarkers, and Emerging Therapies. | Diabetes, metabolic syndrome and obesity : targets and therapy | [42807121](https://pubmed.ncbi.nlm.nih.gov/42807121/) | Mitochondrial Dysfunction in Type 2 Diabetes and Metabolic S... |
 | 2026 Aug 27 | CD38-activated macrophages drive age-related placental senescence by depleting NAD(+) in decidual stromal cells. | Nature communications | [42806003](https://pubmed.ncbi.nlm.nih.gov/42806003/) | CD38-activated macrophages drive age-related placental senes... |
 | 2026 Sep 28 | Knockout of mitochondrial dicarboxylate carriers AtDIC1 and AtDIC3 affects germination, biomass accumulation, and carbon partitioning in Arabidopsis thaliana. | Plant cell reports | [42803826](https://pubmed.ncbi.nlm.nih.gov/42803826/) | Knockout of mitochondrial dicarboxylate carriers AtDIC1 and ... |
 | 2026 Sep 26 | Systemic energy and neuroinflammatory disturbances in a lactacystin-induced rat model of Parkinson's disease. | Experimental neurology | [42800602](https://pubmed.ncbi.nlm.nih.gov/42800602/) | Systemic energy and neuroinflammatory disturbances in a lact... |
 | 2026 Sep 19 | Endocrine and Molecular Mechanisms of Oocyte Aging: From Gonadotropin Signaling to Metabolic and Microenvironmental Dysfunction. | Current issues in molecular biology | [42793315](https://pubmed.ncbi.nlm.nih.gov/42793315/) | Endocrine and Molecular Mechanisms of Oocyte Aging: From Gon... |
-| 2026 Sep 16 | The Epigenetic Aging-Cancer Continuum: Biomarkers, Metabolism, and Therapy. | Genes | [42793024](https://pubmed.ncbi.nlm.nih.gov/42793024/) | The Epigenetic Aging-Cancer Continuum: Biomarkers, Metabolis... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-29 | 自动生成*
+*最后更新：2026-09-30 | 自动生成*
