@@ -12,135 +12,135 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Social Determinants and Oral Health Among Indigenous and Non-Indigenous Older Adults in La Araucanía, Chile: Cross-Sectional Study.
+## 研究 1: Human intestinal organoid models: Advancing Inflammatory Bowel Disease Research.
 
-**期刊**: JMIR aging  
-**发表日期**: 2026 Sep 29  
-**第一作者**: Muñoz-Sepúlveda F 等 | **PMID**: [42809840](https://pubmed.ncbi.nlm.nih.gov/42809840/)  
+**期刊**: Protein & cell  
+**发表日期**: 2026 Sep 30  
+**第一作者**: Wang H 等 | **PMID**: [42813984](https://pubmed.ncbi.nlm.nih.gov/42813984/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-研究聚焦智利La Araucanía地区原住民与非原住民老年人的口腔健康差异，揭示社会决定因素对口腔健康的深层影响。该发现重要在于将口腔健康不平等置于社会结构性因素框架下，而非仅归因于个体行为。
+该综述系统阐述了患者来源肠道类器官在IBD研究中的核心价值，指出该类模型可弥补传统体外模型难以模拟人类疾病发生发展的关键缺陷，为机制解析和靶点发现提供了更贴近人体的研究平台。
 
 ### 🔬 关键发现
 
-摘要指出口腔健康的社会差异持续存在，且原住民群体受到不成比例的严重影响。这表明原住民老年人在口腔健康方面面临系统性劣势，社会因素而非生物因素可能是差异的主要驱动。
+文章总结了肠道上皮稳态维持策略及类器官构建方案，概述了肠道类器官模型在IBD研究中的主要应用及潜在治疗方向，并指出该技术当前在模拟疾病复杂性和临床转化方面仍存在局限。
 
 ### 🧪 方法简介
 
-研究采用横断面设计，在智利La Araucanía地区同步比较原住民与非原住民老年人群，通过社会决定因素视角分析口腔健康差异。该方法创新在于将族群身份与社会因素结合，而非孤立分析单一变量。
+聚焦于患者来源肠道类器官系统的建立与培养策略，强调其在重现人类肠道疾病进展方面的优势，为IBD研究提供了新的体外建模方法学框架。
 
 ### 🏥 临床相关性
 
-提示抗衰老干预需关注口腔健康的社会决定因素，尤其对原住民等弱势群体应设计文化适配的干预策略。临床实践中，口腔健康评估应纳入社会背景考量，以更全面反映老年人健康风险。
+该模型有望辅助临床医生为难治性IBD患者选择个性化治疗策略，推动精准医学发展；同时为抗衰老领域研究肠道上皮稳态与慢性炎症干预提供参考思路。
 
 ---
 
-## 研究 2: Microbial-Derived Exerkines as a Model of Drug Discovery.
+## 研究 2: Loss of a spouse and risk of cognitive decline: insights from six prospective cohort studies.
 
-**期刊**: American journal of physiology. Cell physiology  
-**发表日期**: 2026 Sep 29  
-**第一作者**: Burke BI 等 | **PMID**: [42809711](https://pubmed.ncbi.nlm.nih.gov/42809711/)  
+**期刊**: Epidemiology and psychiatric sciences  
+**发表日期**: 2026 Sep 30  
+**第一作者**: Guo C 等 | **PMID**: [42813925](https://pubmed.ncbi.nlm.nih.gov/42813925/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+基于六项前瞻性队列研究，系统评估丧偶与认知衰退风险的关联，并首次聚焦性别、年龄差异及可干预因素，为理解社会心理应激与脑老化关系提供了高等级证据。
 
 ### 🔬 关键发现
 
-详见原文
+丧偶后认知衰退风险显著升高，且该关联因性别和年龄而异；研究同时识别出若干可改变因素，提示风险并非不可逆。
 
 ### 🧪 方法简介
 
-详见原文
+整合六项前瞻性队列进行汇总分析，克服单队列样本局限，并采用分层分析探讨性别与年龄的效应修饰作用，增强结论外推性。
 
 ### 🏥 临床相关性
 
-详见原文
+提示应将丧偶视为认知衰退的高危窗口期，针对高危亚群（如特定性别或年龄）及早开展社会支持与生活方式干预，为抗衰老实践提供新靶点。
 
 ---
 
-## 研究 3: HLA-I loss in germ cell tumors of the testis: potential implications for immune evasion, preservation of the stem cell phenotype, and reprogramming.
+## 研究 3: Life-threatening hepatic complications in children with ADA-SCID.
 
-**期刊**: Pathobiology : journal of immunopathology, molecular and cellular biology  
-**发表日期**: 2026 Sep 29  
-**第一作者**: Grillini M 等 | **PMID**: [42809511](https://pubmed.ncbi.nlm.nih.gov/42809511/)  
+**期刊**: Journal of human immunity  
+**发表日期**: 2026 Nov 2  
+**第一作者**: Aggarwal R 等 | **PMID**: [42814027](https://pubmed.ncbi.nlm.nih.gov/42814027/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+首次报道ADA-SCID患儿并发肝母细胞瘤与婴儿肝血管瘤病两种危及生命的肝脏并发症，提示该病肝脏受累谱比既往认知更广，需在确诊及治疗全程高度警惕。
 
 ### 🔬 关键发现
 
-详见原文
+两例ADA-SCID患儿分别出现肝母细胞瘤和婴儿肝血管瘤病，病情危重；经多学科协作管理后，仍成功实施基因治疗与造血干细胞移植等根治性矫正治疗。
 
 ### 🧪 方法简介
 
-详见原文
+研究强调多学科联合管理策略，并针对严重肝脏表现调整根治性治疗方案，使基因治疗和造血干细胞移植在复杂肝并发症背景下仍可安全实施。
 
 ### 🏥 临床相关性
 
-详见原文
+提示对ADA-SCID患者应早期筛查和监测肝脏病变，并为合并严重肝并发症的免疫缺陷患者接受根治性治疗提供了可借鉴的管理路径。
 
 ---
 
-## 研究 4: Integrating Morphology and Gene Expression of Neural Cells in Unpaired Single-Cell Data Using GeoAdvAE.
+## 研究 4: Beyond polio: advanced human in vitro models for studying non-polio enterovirus pathogenesis.
 
-**期刊**: Journal of computational biology : a journal of computational molecular cell biology  
-**发表日期**: 2026 Sep 29  
-**第一作者**: Du JT 等 | **PMID**: [42809409](https://pubmed.ncbi.nlm.nih.gov/42809409/)  
+**期刊**: Journal of virology  
+**发表日期**: 2026 Sep 30  
+**第一作者**: Pereirinha da Silva AK 等 | **PMID**: [42813951](https://pubmed.ncbi.nlm.nih.gov/42813951/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-研究提出 GeoAdvAE，首次在无配对单细胞数据中整合细胞形态与基因表达，并在阿尔茨海默病模型中恢复出对齐两种模态的一维轴，为连接“形态—功能”提供了新路径。
+该综述系统阐述了非脊髓灰质炎肠道病毒（NPEV）对儿童及免疫缺陷人群的重大公共卫生威胁，并指出先进人类体外模型可更真实地再现病毒致病过程，推动该领域从传统研究向生理相关模型转型。
 
 ### 🔬 关键发现
 
-在 patch-seq 神经元基准中，GeoAdvAE 的跨模态细胞类型匹配准确率优于最优传输、潜空间对齐和对抗基线；应用于 5xFAD 小鼠的 98 个 CAJAL 量化小胶质细胞形态与 31,948 个转录组，揭示 ramified 小胶质细胞富集 DNA 修复、amoeboid 富集细胞杀伤相关转录变化。
+NPEV可引发从轻度自限性感染到严重呼吸道、神经系统和心脏并发症的广泛疾病谱，疾病负担主要集中在儿童和免疫功能低下人群，凸显了对其致病机制深入研究的迫切性。
 
 ### 🧪 方法简介
 
-GeoAdvAE 是几何感知对抗自编码器，将模态特异的变分自编码器与 Gromov-Wasserstein 正则化项和对抗判别器结合，在共享潜空间中同时保持重建保真度与跨模态几何结构。
+综述聚焦人类干细胞衍生培养、类器官、气液界面系统和组装体等前沿技术，这些模型能够重现人体组织架构、细胞复杂性和宿主反应，弥补了传统模型的生理相关性不足。
 
 ### 🏥 临床相关性
 
-该框架可帮助从大量未配对形态与转录组数据中推断细胞状态转变，为解析衰老和神经退行性疾病中小胶质细胞等细胞的功能变化及候选标志物提供计算工具，但尚需实验验证。
+这些先进体外模型有助于更精准地解析NPEV组织嗜性和宿主互作机制，为疫苗、抗病毒药物及免疫干预策略的开发提供更可靠的临床前评估平台，对感染相关组织损伤和免疫衰老研究具有启示意义。
 
 ---
 
-## 研究 5: A Conceptual Framework for Understanding the Effects of Stress on Epigenetic Aging.
+## 研究 5: Improving the differentiation capability of porcine induced pluripotent stem cells by using the additional reprogramming factor TBX3.
 
-**期刊**: Annual review of psychology  
-**发表日期**: 2026 Sep 29  
-**第一作者**: Harvanek ZM 等 | **PMID**: [42809826](https://pubmed.ncbi.nlm.nih.gov/42809826/)  
+**期刊**: The FEBS journal  
+**发表日期**: 2026 Sep 30  
+**第一作者**: Liao YJ 等 | **PMID**: [42813928](https://pubmed.ncbi.nlm.nih.gov/42813928/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+在标准重编程因子基础上加入TBX3，可显著提升猪诱导多能干细胞的分化潜能，并实现外源基因沉默后的多能性维持。这为获得不依赖转基因的高质量piPSCs提供了新策略。
 
 ### 🔬 关键发现
 
-详见原文
+TBX3-piPSC同时表达SSEA-1和SSEA-4，能快速沉默外源因子，形成包含三个胚层分化组织的畸胎瘤；而标准piPSCs仅表达SSEA-1，畸胎瘤分化差。TBX3-piPSC还可高效定向分化为平滑肌细胞、内皮细胞、肝样细胞和跳动的心肌细胞。
 
 ### 🧪 方法简介
 
-详见原文
+研究采用附加型质粒递送TBX3，结合WNT通路抑制建立无转基因piPSC系，并开发了针对多种细胞类型的优化定向分化方案。
 
 ### 🏥 临床相关性
 
-详见原文
+该策略提升了猪多能干细胞的质量和分化能力，为再生医学和农业生物技术提供了更可靠的细胞来源，也为大动物模型中的抗衰老与组织修复研究奠定基础。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-09-30 03:05:47  
+**生成时间**: 2026-09-30 16:17:50  
 **摘要生成**: DeepSeek AI
 
 ---
