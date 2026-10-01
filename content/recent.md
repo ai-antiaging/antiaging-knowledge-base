@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-09-30 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-01 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct | The Underexplored Mechanobiology of Lamin A Biogenesis and Homeostasis. | Biology of the cell | [42814033](https://pubmed.ncbi.nlm.nih.gov/42814033/) | The Underexplored Mechanobiology of Lamin A Biogenesis and H... |
-| 2026 Sep 30 | Human intestinal organoid models: Advancing Inflammatory Bowel Disease Research. | Protein & cell | [42813984](https://pubmed.ncbi.nlm.nih.gov/42813984/) | Human intestinal organoid models: Advancing Inflammatory Bow... |
-| 2026 Sep 30 | Clinical Translation of Mesenchymal Stem Cells to Medicinal Signaling Cells: Origins, Clinical Applications, and the Future of Regenerative Medicine-2026 Arnold I. Caplan Award for Distinguished Research in Orthobiologics. | The Journal of the American Academy of Orthopaedic Surgeons | [42813811](https://pubmed.ncbi.nlm.nih.gov/42813811/) | Clinical Translation of Mesenchymal Stem Cells to Medicinal ... |
-| 2026 Sep 30 | Epidemiology of Tardiomyces blankii (formerly Candida blankii) and related species: results of the International "Epiblankii" Study. | Journal of clinical microbiology | [42813794](https://pubmed.ncbi.nlm.nih.gov/42813794/) | Epidemiology of Tardiomyces blankii (formerly Candida blanki... |
-| 2026 Dec | 4-Methylumbelliferone Restores Age-Related Changes in Perineuronal Nets, Memory, and Neuroinflammation. | Glia | [42813517](https://pubmed.ncbi.nlm.nih.gov/42813517/) | 4-Methylumbelliferone Restores Age-Related Changes in Perine... |
+| 2026 Sep 30 | Wound Healing, Senescence, and Senotherapeutics. | Advances in wound care | [42816315](https://pubmed.ncbi.nlm.nih.gov/42816315/) | Wound Healing, Senescence, and Senotherapeutics. |
+| 2026 Sep 30 | Beyond T cells: B cells in immune checkpoint blockade. | Trends in immunology | [42816192](https://pubmed.ncbi.nlm.nih.gov/42816192/) | Beyond T cells: B cells in immune checkpoint blockade. |
+| 2026 Oct | Targeting senescence-associated fibrotic signatures identifies syringin as an effective modulator of the ATR/CHK1-p53 axis in idiopathic pulmonary fibrosis. | Chinese journal of natural medicines | [42816034](https://pubmed.ncbi.nlm.nih.gov/42816034/) | Targeting senescence-associated fibrotic signatures identifi... |
+| 2026 Sep 30 | Identification of Endonuclease G binding protein using a method which specifically isolates binding partners within subcellular compartments. | Molecular & cellular proteomics : MCP | [42815854](https://pubmed.ncbi.nlm.nih.gov/42815854/) | Identification of Endonuclease G binding protein using a met... |
+| 2026 Sep 30 | Cranial bone marrow-derived monocytes promote neuroinflammation in chronic traumatic brain injury. | Science translational medicine | [42814802](https://pubmed.ncbi.nlm.nih.gov/42814802/) | Cranial bone marrow-derived monocytes promote neuroinflammat... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct 2 | Remodeling of mitochondrial dynamics by metabolic pathways couples to oncogenic growth in GNAS (Gα(s)) mutant pancreas cancer. | Science advances | [42814831](https://pubmed.ncbi.nlm.nih.gov/42814831/) | Remodeling of mitochondrial dynamics by metabolic pathways c... |
+| 2026 Sep 30 | Therapeutic Timing at Mitochondrial Redox-Autophagy-Mitophagy Checkpoints in Age-Related Hearing Loss. | Molecular neurobiology | [42814283](https://pubmed.ncbi.nlm.nih.gov/42814283/) | Therapeutic Timing at Mitochondrial Redox-Autophagy-Mitophag... |
 | 2026 Sep 17 | Mechanism of the NAMPT-SIRT2-Lactate Axis in Senescence of Human Nucleus Pulposus Cells. | Frontiers in bioscience (Landmark edition) | [42811977](https://pubmed.ncbi.nlm.nih.gov/42811977/) | Mechanism of the NAMPT-SIRT2-Lactate Axis in Senescence of H... |
 | 2026 Sep 20 | The Protective Effect of Venetoclax on the Calcium-Induced Mitochondrial Pore and ROS Production as a New Possible Factor Contributing to Drug Resistance. | Frontiers in bioscience (Landmark edition) | [42811963](https://pubmed.ncbi.nlm.nih.gov/42811963/) | The Protective Effect of Venetoclax on the Calcium-Induced M... |
 | 2026 Aug 17 | Label-free optical biomarker for prostate cancer diagnosis. | Molecular medicine (Cambridge, Mass.) | [42811292](https://pubmed.ncbi.nlm.nih.gov/42811292/) | Label-free optical biomarker for prostate cancer diagnosis. |
-| 2026 | Mitochondrial Dysfunction in Type 2 Diabetes and Metabolic Syndrome: Mechanisms, Biomarkers, and Emerging Therapies. | Diabetes, metabolic syndrome and obesity : targets and therapy | [42807121](https://pubmed.ncbi.nlm.nih.gov/42807121/) | Mitochondrial Dysfunction in Type 2 Diabetes and Metabolic S... |
-| 2026 Aug 27 | CD38-activated macrophages drive age-related placental senescence by depleting NAD(+) in decidual stromal cells. | Nature communications | [42806003](https://pubmed.ncbi.nlm.nih.gov/42806003/) | CD38-activated macrophages drive age-related placental senes... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-09-30 | 自动生成*
+*最后更新：2026-10-01 | 自动生成*
