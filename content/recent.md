@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 1 | Future directions of osteoanabolic therapies in osteoporosis: Integrating current anabolic agents and emerging senescence-targeted strategies. | Best practice & research. Clinical rheumatology | [42823204](https://pubmed.ncbi.nlm.nih.gov/42823204/) | Future directions of osteoanabolic therapies in osteoporosis... |
-| 2026 Oct 1 | Association between peripheral platelet markers and motoric cognitive risk syndrome: a cross-sectional analysis of data from the WCHAT study. | BMJ open | [42823113](https://pubmed.ncbi.nlm.nih.gov/42823113/) | Association between peripheral platelet markers and motoric ... |
-| 2026 Oct 1 | Early features of cellular ageing impair differentiation capacity in human lymph node fibroblasts prior to rheumatoid arthritis onset. | RMD open | [42823099](https://pubmed.ncbi.nlm.nih.gov/42823099/) | Early features of cellular ageing impair differentiation cap... |
-| 2026 Oct 1 | Extracellular Vesicles: Multi-source Regulatory Mechanisms in Hippocampal Homeostasis. | Neuroscience and biobehavioral reviews | [42822801](https://pubmed.ncbi.nlm.nih.gov/42822801/) | Extracellular Vesicles: Multi-source Regulatory Mechanisms i... |
-| 2026 Oct 1 | Ferroptosis-Driven Inflammaging in Age-Associated Degenerative Disorders: Molecular Mechanisms and Therapeutic Potential of Natural Products. | Ageing research reviews | [42822786](https://pubmed.ncbi.nlm.nih.gov/42822786/) | Ferroptosis-Driven Inflammaging in Age-Associated Degenerati... |
+| 2026 Oct | Multimodal Ageing Biomarkers and Plasma Proteomic Signatures Associated With All-Cause Mortality. | Aging cell | [42823846](https://pubmed.ncbi.nlm.nih.gov/42823846/) | Multimodal Ageing Biomarkers and Plasma Proteomic Signatures... |
+| 2026 Oct | β-Catenin-Deficient Intervertebral Disc Cells Reduce Chemotactic Transcription and Myeloid Cell Recruitment to Injured Discs of Mice. | Aging cell | [42823843](https://pubmed.ncbi.nlm.nih.gov/42823843/) | β-Catenin-Deficient Intervertebral Disc Cells Reduce Chemota... |
+| 2026 Oct | Prodh2-Mediated Mitochondrial Stress Drives TNF-α-Induced Myoblast Dysfunction and Sarcopenia in COPD. | Aging cell | [42823831](https://pubmed.ncbi.nlm.nih.gov/42823831/) | Prodh2-Mediated Mitochondrial Stress Drives TNF-α-Induced My... |
+| 2026 Oct | Aging Disrupts Tissue Homeostasis and Constrains Blastema-Mediated Regeneration in the Cladonema Medusa. | Aging cell | [42823784](https://pubmed.ncbi.nlm.nih.gov/42823784/) | Aging Disrupts Tissue Homeostasis and Constrains Blastema-Me... |
+| 2026 Oct 2 | Blood cell composition reveals distinct biological interpretation of DNA methylation age and age acceleration. | Genome medicine | [42823742](https://pubmed.ncbi.nlm.nih.gov/42823742/) | Blood cell composition reveals distinct biological interpret... |
 
 ### NAD+ 与线粒体
 
