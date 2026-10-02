@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-01 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-02 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 13 | Lifelong Invertebrate Chordate Central Nervous System Regeneration is Driven by a Migrating Pool of Conserved Neural Stem Cells program. | bioRxiv : the preprint server for biology | [42818761](https://pubmed.ncbi.nlm.nih.gov/42818761/) | Lifelong Invertebrate Chordate Central Nervous System Regene... |
-| 2026 Sep 10 | A SUN1-ApoD feedback loop promotes cellular aging via microtubule-nuclear mechanotransduction. | bioRxiv : the preprint server for biology | [42818747](https://pubmed.ncbi.nlm.nih.gov/42818747/) | A SUN1-ApoD feedback loop promotes cellular aging via microt... |
-| 2026 Sep 10 | Neuronal and vascular genome-maintenance states organize opposing multicellular architectures in the aging brain. | bioRxiv : the preprint server for biology | [42818677](https://pubmed.ncbi.nlm.nih.gov/42818677/) | Neuronal and vascular genome-maintenance states organize opp... |
-| 2026 Sep 10 | Transcriptomic Characterization of Terminal Complement Complex-bound Cells in Human Choroid Using Single-Cell RNA Sequencing. | bioRxiv : the preprint server for biology | [42818647](https://pubmed.ncbi.nlm.nih.gov/42818647/) | Transcriptomic Characterization of Terminal Complement Compl... |
-| 2026 Sep 26 | A feed-forward UHRF1 read-write mechanism supports H3 multi- mono-ubiquitination and DNA methylation maintenance at CpG-sparse regions. | bioRxiv : the preprint server for biology | [42818397](https://pubmed.ncbi.nlm.nih.gov/42818397/) | A feed-forward UHRF1 read-write mechanism supports H3 multi-... |
+| 2026 Oct 1 | Future directions of osteoanabolic therapies in osteoporosis: Integrating current anabolic agents and emerging senescence-targeted strategies. | Best practice & research. Clinical rheumatology | [42823204](https://pubmed.ncbi.nlm.nih.gov/42823204/) | Future directions of osteoanabolic therapies in osteoporosis... |
+| 2026 Oct 1 | Association between peripheral platelet markers and motoric cognitive risk syndrome: a cross-sectional analysis of data from the WCHAT study. | BMJ open | [42823113](https://pubmed.ncbi.nlm.nih.gov/42823113/) | Association between peripheral platelet markers and motoric ... |
+| 2026 Oct 1 | Early features of cellular ageing impair differentiation capacity in human lymph node fibroblasts prior to rheumatoid arthritis onset. | RMD open | [42823099](https://pubmed.ncbi.nlm.nih.gov/42823099/) | Early features of cellular ageing impair differentiation cap... |
+| 2026 Oct 1 | Extracellular Vesicles: Multi-source Regulatory Mechanisms in Hippocampal Homeostasis. | Neuroscience and biobehavioral reviews | [42822801](https://pubmed.ncbi.nlm.nih.gov/42822801/) | Extracellular Vesicles: Multi-source Regulatory Mechanisms i... |
+| 2026 Oct 1 | Ferroptosis-Driven Inflammaging in Age-Associated Degenerative Disorders: Molecular Mechanisms and Therapeutic Potential of Natural Products. | Ageing research reviews | [42822786](https://pubmed.ncbi.nlm.nih.gov/42822786/) | Ferroptosis-Driven Inflammaging in Age-Associated Degenerati... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct 1 | Hypoxia? NNoT a PROblem! | Molecular cell | [42822414](https://pubmed.ncbi.nlm.nih.gov/42822414/) | Hypoxia? NNoT a PROblem! |
+| 2026 Oct 1 | The therapeutic potential of melatonin: Focus on the SIRT1 signaling pathway. | Molecular biology reports | [42821192](https://pubmed.ncbi.nlm.nih.gov/42821192/) | The therapeutic potential of melatonin: Focus on the SIRT1 s... |
 | 2026 Oct 1 | A self-assembled Dendrobium polysaccharide hydrogel with anti-aging activity via the FOXO signaling pathway. | Natural products and bioprospecting | [42816692](https://pubmed.ncbi.nlm.nih.gov/42816692/) | A self-assembled Dendrobium polysaccharide hydrogel with ant... |
 | 2026 Oct 2 | Remodeling of mitochondrial dynamics by metabolic pathways couples to oncogenic growth in GNAS (Gα(s)) mutant pancreas cancer. | Science advances | [42814831](https://pubmed.ncbi.nlm.nih.gov/42814831/) | Remodeling of mitochondrial dynamics by metabolic pathways c... |
 | 2026 Sep 30 | Therapeutic Timing at Mitochondrial Redox-Autophagy-Mitophagy Checkpoints in Age-Related Hearing Loss. | Molecular neurobiology | [42814283](https://pubmed.ncbi.nlm.nih.gov/42814283/) | Therapeutic Timing at Mitochondrial Redox-Autophagy-Mitophag... |
-| 2026 Sep 17 | Mechanism of the NAMPT-SIRT2-Lactate Axis in Senescence of Human Nucleus Pulposus Cells. | Frontiers in bioscience (Landmark edition) | [42811977](https://pubmed.ncbi.nlm.nih.gov/42811977/) | Mechanism of the NAMPT-SIRT2-Lactate Axis in Senescence of H... |
-| 2026 Sep 20 | The Protective Effect of Venetoclax on the Calcium-Induced Mitochondrial Pore and ROS Production as a New Possible Factor Contributing to Drug Resistance. | Frontiers in bioscience (Landmark edition) | [42811963](https://pubmed.ncbi.nlm.nih.gov/42811963/) | The Protective Effect of Venetoclax on the Calcium-Induced M... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-01 | 自动生成*
+*最后更新：2026-10-02 | 自动生成*
