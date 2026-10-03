@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct | Mosaic Accumulation of Somatic Genetic Variation and Estimates of Age in the Long-Lived Reef-Building Coral Acropora palmata. | Molecular ecology | [42827368](https://pubmed.ncbi.nlm.nih.gov/42827368/) | Mosaic Accumulation of Somatic Genetic Variation and Estimat... |
+| 2026 Oct | Elamipretide Rejuvenates Oocyte Quality and Restores Female Fertility During Reproductive Aging. | Aging cell | [42827331](https://pubmed.ncbi.nlm.nih.gov/42827331/) | Elamipretide Rejuvenates Oocyte Quality and Restores Female ... |
+| 2026 Oct 2 | Leptin-sensitive hypothalamic Lepr+/Glp1r+ neurons limit hyperphagia and weight gain in diet-induced obesity. | The EMBO journal | [42827204](https://pubmed.ncbi.nlm.nih.gov/42827204/) | Leptin-sensitive hypothalamic Lepr+/Glp1r+ neurons limit hyp... |
+| 2026 Oct 2 | Cellular senescence: six decades of discovery and reinvention. | The EMBO journal | [42827203](https://pubmed.ncbi.nlm.nih.gov/42827203/) | Cellular senescence: six decades of discovery and reinventio... |
 | 2026 Oct 2 | Lipid metabolic regulation and targeting strategies in the brain metastasis tumor microenvironment. | Biochimica et biophysica acta. Reviews on cancer | [42826911](https://pubmed.ncbi.nlm.nih.gov/42826911/) | Lipid metabolic regulation and targeting strategies in the b... |
-| 2026 Oct 2 | lncRNA H19 downregulation mediates oxidative stress-induced osteogenic dysfunction. | Bone | [42826894](https://pubmed.ncbi.nlm.nih.gov/42826894/) | lncRNA H19 downregulation mediates oxidative stress-induced ... |
-| 2026 Oct 2 | Factors determining the time-course of the response of the hypothalamus-pituitary-adrenal axis to stress: Much more than negative glucocorticoid feedback. | Frontiers in neuroendocrinology | [42826796](https://pubmed.ncbi.nlm.nih.gov/42826796/) | Factors determining the time-course of the response of the h... |
-| 2026 Sep 16 | Jianwei Shoutai Pills enhances maternal-fetal immune tolerance via regulatory T cell modulation to ameliorate uterine aging-associated early pregnancy loss. | Phytomedicine : international journal of phytotherapy and phytopharmacology | [42826559](https://pubmed.ncbi.nlm.nih.gov/42826559/) | Jianwei Shoutai Pills enhances maternal-fetal immune toleran... |
-| 2026 Aug 27 | Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-mediated fatty acid metabolism. | Phytomedicine : international journal of phytotherapy and phytopharmacology | [42826557](https://pubmed.ncbi.nlm.nih.gov/42826557/) | Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nano... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct | REST in the Central Nervous System: Context-Dependent Regulation of Neuronal Homeostasis and Disease. | International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience | [42827376](https://pubmed.ncbi.nlm.nih.gov/42827376/) | REST in the Central Nervous System: Context-Dependent Regula... |
 | 2026 Oct 2 | Proteomic and bioinformatic profiling of the aging mouse heart-diaphragm system. | European journal of translational myology | [42825473](https://pubmed.ncbi.nlm.nih.gov/42825473/) | Proteomic and bioinformatic profiling of the aging mouse hea... |
 | 2026 Oct 1 | Hypoxia? NNoT a PROblem! | Molecular cell | [42822414](https://pubmed.ncbi.nlm.nih.gov/42822414/) | Hypoxia? NNoT a PROblem! |
 | 2026 Oct 1 | The therapeutic potential of melatonin: Focus on the SIRT1 signaling pathway. | Molecular biology reports | [42821192](https://pubmed.ncbi.nlm.nih.gov/42821192/) | The therapeutic potential of melatonin: Focus on the SIRT1 s... |
 | 2026 Oct 1 | A self-assembled Dendrobium polysaccharide hydrogel with anti-aging activity via the FOXO signaling pathway. | Natural products and bioprospecting | [42816692](https://pubmed.ncbi.nlm.nih.gov/42816692/) | A self-assembled Dendrobium polysaccharide hydrogel with ant... |
-| 2026 Oct 2 | Remodeling of mitochondrial dynamics by metabolic pathways couples to oncogenic growth in GNAS (Gα(s)) mutant pancreas cancer. | Science advances | [42814831](https://pubmed.ncbi.nlm.nih.gov/42814831/) | Remodeling of mitochondrial dynamics by metabolic pathways c... |
 
 ### 尿石素 A 与线粒体自噬
 
