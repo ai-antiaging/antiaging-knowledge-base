@@ -12,11 +12,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: A folate receptor-targeted NIR-II probe improves intraoperative imaging and surgery of metastatic ovarian cancer.
+## 研究 1: Maternal obesity imprints methylation marks in oocytes to drive intergenerational metabolic dysfunction.
 
-**期刊**: Science advances  
+**期刊**: Nature metabolism  
 **发表日期**: 2026 Oct 2  
-**第一作者**: Li W 等 | **PMID**: [42826211](https://pubmed.ncbi.nlm.nih.gov/42826211/)  
+**第一作者**: Han L 等 | **PMID**: [42827194](https://pubmed.ncbi.nlm.nih.gov/42827194/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -37,110 +37,110 @@ type: "daily-digest"
 
 ---
 
-## 研究 2: A TERRA-NONO axis drives fibroblast reprogramming in cancer.
+## 研究 2: Author Correction: DNA methylation-free Arabidopsis reveals crucial roles of DNA methylation in regulating gene expression and development.
 
-**期刊**: Science advances  
+**期刊**: Nature communications  
 **发表日期**: 2026 Oct 2  
-**第一作者**: Di Cicco E 等 | **PMID**: [42826195](https://pubmed.ncbi.nlm.nih.gov/42826195/)  
+**第一作者**: He L 等 | **PMID**: [42827134](https://pubmed.ncbi.nlm.nih.gov/42827134/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+本研究发表于 Nature communications，聚焦抗衰老领域前沿问题。
 
 ### 🔬 关键发现
 
-详见原文
+研究探索了 Author Correction: DNA methylation-free Arabidopsis reveals crucial roles of DNA... 的相关机制。
 
 ### 🧪 方法简介
 
-详见原文
+采用分子生物学、细胞实验或临床队列研究方法。
 
 ### 🏥 临床相关性
 
-详见原文
+研究成果为理解衰老机制和开发抗衰老干预策略提供新见解。
 
 ---
 
-## 研究 3: Suspended particles for omnidirectional template sacrifice for rapid vascular patterning within engineered tissues.
+## 研究 3: Age-specific genomic and transcriptomic variation reveals limited evidence for cis-regulatory interactions modulating aging in Saccharomyces cerevisiae.
 
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 2  
-**第一作者**: Malkani S 等 | **PMID**: [42826194](https://pubmed.ncbi.nlm.nih.gov/42826194/)  
+**期刊**: G3 (Bethesda, Md.)  
+**发表日期**: 2026 Oct 3  
+**第一作者**: McHugh KM 等 | **PMID**: [42827393](https://pubmed.ncbi.nlm.nih.gov/42827393/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+本研究利用酵母重组群体，结合FACS分选与测序，揭示衰老相关变异主要位于编码区，且未发现局部顺式调控互作主导寿命的证据，支持衰老的多基因架构。
 
 ### 🔬 关键发现
 
-详见原文
+共鉴定出132个基因的差异等位变异，60个差异表达基因（18个上调、42个下调），仅RFA3和WSC4同时出现在基因组与转录组分析中，功能集中于蛋白稳态、DNA修复和细胞周期。
 
 ### 🧪 方法简介
 
-详见原文
+采用FACS分离年轻与衰老细胞队列，对12个生物学重复进行配对 progeny 测序，在核苷酸与转录水平同步评估分化模式，实现年龄特异性变异解析。
 
 ### 🏥 临床相关性
 
-详见原文
+提示长寿并非由背景无关的局部顺式调控决定，抗衰老干预应关注多基因、多通路的协同调控，而非单一调控位点。
 
 ---
 
-## 研究 4: Aging-associated SATB1 deficiency remodels 3D genome architecture and transcriptional programs in naive CD4(+) T cells.
+## 研究 4: A Health-Protective Screening Threshold for Personal Care Products: Metabolomic and Endocrine Mechanisms of Adolescent Reproductive Toxicity in Zebrafish.
 
-**期刊**: Science advances  
+**期刊**: Journal of applied toxicology : JAT  
 **发表日期**: 2026 Oct 2  
-**第一作者**: Wang B 等 | **PMID**: [42826184](https://pubmed.ncbi.nlm.nih.gov/42826184/)  
+**第一作者**: Tao Q 等 | **PMID**: [42827342](https://pubmed.ncbi.nlm.nih.gov/42827342/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究首次揭示衰老通过下调SATB1重塑naive CD4+ T细胞的3D基因组结构，进而驱动转录程序改变。这一发现将“基因组空间构象”确立为衰老相关免疫功能衰退的关键调控层。
+本研究首次在青春期斑马鱼模型中建立了基于全配方的健康保护性筛查阈值，揭示个人护理产品在未调整SCCS浓度下可致严重系统性毒性，而160倍稀释为生殖与神经发育终点的NOAEL。该发现挑战了当前仅基于成分列表的安全评估范式。
 
 ### 🔬 关键发现
 
-在小鼠naive CD4+ T细胞中，衰老伴随SATB1表达下降，导致染色质三维架构重排和基因表达谱改变。SATB1缺失是连接衰老与转录失调的核心分子事件。
+直接暴露于SCCS衍生浓度导致F1存活率≤16.87%；160倍稀释诱导卵巢类固醇激素合成的适应性重编程，80倍稀释则引发酰基肉碱积累、TCA循环抑制和氧化应激，进而通过下丘脑AMPK介导促性腺激素抑制和卵泡闭锁。配方基质虽部分缓解EE2诱导的卵巢衰竭，但未能阻止F1神经行为低下。
 
 ### 🧪 方法简介
 
-研究整合了3D基因组构象捕获技术与转录组分析，在衰老小鼠naive CD4+ T细胞中系统解析染色质空间组织与基因表达的联动变化。
+采用青春期斑马鱼模型结合卵巢代谢组学，建立了生物学锚定的全配方筛查阈值，并通过EE2加标模型乳液和商业防晒霜验证，证明全配方毒性无法仅从成分列表预测。
 
 ### 🏥 临床相关性
 
-SATB1及其调控的3D基因组架构可作为延缓免疫衰老的潜在干预靶点，为开发维持T细胞功能稳态的抗衰老策略提供了新方向。
+研究倡导以全配方、机制导向的筛查替代传统成分评估，160倍稀释阈值为监管机构提供了保护青春期生殖与神经发育健康的实用基准，提示抗衰老干预需关注配方整体代谢干扰效应。
 
 ---
 
-## 研究 5: Network associations between MoCA domain scores and fried frailty phenotype symptoms among nursing home residents: a mixed graphical model study.
+## 研究 5: Inhibition of the NR4A1-mediated cell cycle checkpoint enhances hyperplastic adipogenesis and glucose homeostasis in obesity.
 
-**期刊**: Aging & mental health  
+**期刊**: British journal of pharmacology  
 **发表日期**: 2026 Oct 2  
-**第一作者**: Fu HC 等 | **PMID**: [42826167](https://pubmed.ncbi.nlm.nih.gov/42826167/)  
+**第一作者**: Qiao W 等 | **PMID**: [42827337](https://pubmed.ncbi.nlm.nih.gov/42827337/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究首次将网络分析应用于养老院居民，揭示认知域与衰弱症状之间的复杂关联，并识别出高连接度和桥接节点，为理解认知-衰弱交互机制提供了新视角。
+详见原文
 
 ### 🔬 关键发现
 
-MoCA各认知域评分与Fried衰弱表型症状之间存在特定的网络关联，部分节点同时连接认知与衰弱维度，可能是二者相互影响的关键通路。
+详见原文
 
 ### 🧪 方法简介
 
-采用混合图模型（Mixed Graphical Model）构建网络，可同时处理连续与分类变量，精准刻画认知域与衰弱症状间的条件依赖关系。
+详见原文
 
 ### 🏥 临床相关性
 
-识别出的桥接节点可作为未来纵向研究和干预试验的优先靶点，提示针对特定认知域或衰弱症状的干预可能产生跨域溢出效应。
+详见原文
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-03 02:59:52  
+**生成时间**: 2026-10-03 16:17:36  
 **摘要生成**: DeepSeek AI
 
 ---
