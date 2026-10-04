@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-10-04 #3"
 date: 2026-10-04
-description: "Corrigendum to "SOX2 and NTF3 expression are associated with taste-bud alteratio..."
+description: 'Corrigendum to "SOX2 and NTF3 expression are associated with taste-bud alteratio..."'
 draft: false
 type: "snapshot"
 ---
