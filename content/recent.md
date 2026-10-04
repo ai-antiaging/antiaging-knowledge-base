@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct | Protracted Fate Acquisition and Epigenetic De-Aging During Induced Neural Stem Cell Conversion of Human Blood Cells. | Aging cell | [42829448](https://pubmed.ncbi.nlm.nih.gov/42829448/) | Protracted Fate Acquisition and Epigenetic De-Aging During I... |
+| 2026 Oct 3 | The therapeutic potential of transposable element activity modulation. | EMBO molecular medicine | [42829380](https://pubmed.ncbi.nlm.nih.gov/42829380/) | The therapeutic potential of transposable element activity m... |
 | 2026 Oct 3 | Mechanistic reprogramming of the mtDNA-cGAS-STING axis in cellular senescence: from mitochondrial homeostatic disruption to inflammatory and immune outcomes. | Biogerontology | [42828712](https://pubmed.ncbi.nlm.nih.gov/42828712/) | Mechanistic reprogramming of the mtDNA-cGAS-STING axis in ce... |
 | 2026 Oct 3 | Presynaptic compensation sustains neuromuscular transmission in the mouse diaphragm at a late stage of aging. | Biogerontology | [42828708](https://pubmed.ncbi.nlm.nih.gov/42828708/) | Presynaptic compensation sustains neuromuscular transmission... |
 | 2026 Oct 3 | Stem cells and derived growth factors in Alzheimer's disease: mechanistic insights and translational perspectives. | Inflammopharmacology | [42828660](https://pubmed.ncbi.nlm.nih.gov/42828660/) | Stem cells and derived growth factors in Alzheimer's disease... |
-| 2026 Oct 3 | The Therapeutic Potential of MicroRNAs Delivered By Mesenchymal Stem Cells in Parkinson's Disease, Alzheimer's Disease, and Stroke: A Systematic Review of Preclinical Studies. | Molecular neurobiology | [42828605](https://pubmed.ncbi.nlm.nih.gov/42828605/) | The Therapeutic Potential of MicroRNAs Delivered By Mesenchy... |
-| 2026 Sep 17 | Degradation dynamics of lead-halide perovskites under combined heat and light. | Energy & environmental science | [42828338](https://pubmed.ncbi.nlm.nih.gov/42828338/) | Degradation dynamics of lead-halide perovskites under combin... |
 
 ### NAD+ 与线粒体
 
