@@ -12,11 +12,86 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Orthogonal Light- and Enzyme-Triggered and-Gate Prodrugs for Senolytic Therapy.
+## 研究 1: Detailed Analysis of Intraretinal Layers and Their Correlation to Brain Structures in Normal Healthy Aging.
 
-**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
-**发表日期**: 2026 Oct 4  
-**第一作者**: Chang M 等 | **PMID**: [42829921](https://pubmed.ncbi.nlm.nih.gov/42829921/)  
+**期刊**: Translational vision science & technology  
+**发表日期**: 2026 Oct 5  
+**第一作者**: Cipolla JA 等 | **PMID**: [42831734](https://pubmed.ncbi.nlm.nih.gov/42831734/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究首次系统分析了健康衰老过程中视网膜内层各层体积与视觉皮层厚度的关联，揭示了视网膜与大脑结构在正常衰老中的协同变化规律。这为将视网膜成像作为脑健康无创窗口提供了重要依据。
+
+### 🔬 关键发现
+
+研究发现视网膜内层体积与视觉皮层厚度之间存在显著相关性，且这些关联受年龄影响而发生变化。不同视网膜内层与大脑结构的关联模式随衰老呈现差异性改变。
+
+### 🧪 方法简介
+
+研究采用精细的视网膜内层分层定量分析技术，结合大脑视觉皮层厚度测量，实现了视网膜亚层水平与脑结构的逐层对应分析。该方法为跨器官衰老研究提供了高分辨率的无创评估范式。
+
+### 🏥 临床相关性
+
+该发现提示视网膜内层体积变化可作为监测脑结构衰老的潜在生物标志物，为抗衰老干预的早期疗效评估提供了可及、低成本的影像学窗口，有望推动眼科与神经科学的交叉临床转化。
+
+---
+
+## 研究 2: Perceived role of age-friendly environments in improving social relationships: a qualitative exploration of older adults' perspectives in China.
+
+**期刊**: Aging & mental health  
+**发表日期**: 2026 Oct 5  
+**第一作者**: Li J 等 | **PMID**: [42831633](https://pubmed.ncbi.nlm.nih.gov/42831633/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究从中国老年人自身视角出发，揭示“老年友好环境”不仅是物理空间改造，更通过促进活动与服务参与来改善社交关系。这为理解环境干预如何延缓社交衰退提供了机制线索。
+
+### 🔬 关键发现
+
+老年人感知的老年友好环境涵盖设施、服务与社会氛围等维度；参与其中的活动和服务能增强其社会联系。具体数据未在摘要中呈现，但定性结果一致指向“参与”是环境与社交关系之间的关键中介。
+
+### 🧪 方法简介
+
+采用质性研究设计，直接探索中国老年人对老年友好环境的主观感知，弥补了以往以量化评估为主、缺乏当事人视角的不足。
+
+### 🏥 临床相关性
+
+提示抗衰老干预不应局限于生物医学手段，营造支持参与的环境同样可维护社交健康。从业者可据此设计促进社交参与的环境与服务方案。
+
+---
+
+## 研究 3: Melanoma Recurrence Prediction Using a Tissue-Free Epigenomic Molecular Residual Disease Assay: a Multicenter Prospective Observational Study (COSMOS-MEL01).
+
+**期刊**: Cancer research communications  
+**发表日期**: 2026 Oct 5  
+**第一作者**: Nakamura Y 等 | **PMID**: [42831872](https://pubmed.ncbi.nlm.nih.gov/42831872/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究验证了一种无需肿瘤组织的表观基因组MRD检测方法，可在黑色素瘤术后早期识别高复发风险患者。MRD阳性与复发和死亡风险显著升高相关，提示其可作为指导围手术期治疗决策的生物标志物。
+
+### 🔬 关键发现
+
+中位随访34.6个月，27例复发。术后监测对远处复发的敏感性为81%，特异性达100%，MRD检出较影像学复发中位提前70.5天。术后第28天MRD阳性独立预测复发（HR 11.70）和死亡（HR 31.14），监测期MRD阳性与复发风险升高显著相关（HR 26.55）。
+
+### 🧪 方法简介
+
+采用无需肿瘤组织的游离DNA表观基因组MRD检测，通过生物信息学分析超过20,000个表观基因组区域的甲基化信号，实现无创、快速的分子残留病灶评估，适用于多种黑色素瘤亚型。
+
+### 🏥 临床相关性
+
+该检测可在影像学复发前数月识别高危患者，为黑色素瘤术后精准分层治疗和个体化监测提供非侵入性工具。其“组织无需”特性提升了临床可及性，未来或可拓展至其他衰老相关肿瘤的MRD监测与干预评估。
+
+---
+
+## 研究 4: Emerging therapies and translational tools for drug development in systemic amyloidosis: insights from the International Society of Amyloidosis Scientific Workshop.
+
+**期刊**: Amyloid : the international journal of experimental and clinical investigation : the official journal of the International Society of Amyloidosis  
+**发表日期**: 2026 Oct 5  
+**第一作者**: Morgan GJ 等 | **PMID**: [42831864](https://pubmed.ncbi.nlm.nih.gov/42831864/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -37,110 +112,35 @@ type: "daily-digest"
 
 ---
 
-## 研究 2: Conjugated Polymer-Microbe Interactions Trigger Regulatory Reprogramming for Enhanced Bioelectrocatalysis.
+## 研究 5: Promoting psychological well-being in older adults through volunteering: A randomized controlled trial study in Hong Kong.
 
-**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
-**发表日期**: 2026 Oct 4  
-**第一作者**: Ohayon D 等 | **PMID**: [42829919](https://pubmed.ncbi.nlm.nih.gov/42829919/)  
+**期刊**: Psychological services  
+**发表日期**: 2026 Oct 5  
+**第一作者**: Man NK 等 | **PMID**: [42831837](https://pubmed.ncbi.nlm.nih.gov/42831837/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次揭示共轭聚合物PBFDO与电活性微生物界面并非被动导电，而是主动触发细胞调控重编程，显著增强内向胞外电子传递，为生物电催化界面设计提供了新范式。
+详见原文
 
 ### 🔬 关键发现
 
-PBFDO修饰电极使电流密度提升超两个数量级，琥珀酸产量最高增加12倍；转录组显示Mtr-CymA电子传递通道、能量代谢及生物膜形成相关基因富集，代谢组提示胞内氧化还原状态改变与延胡索酸呼吸增强。
+详见原文
 
 ### 🧪 方法简介
 
-将Shewanella oneidensis MR-1与PBFDO共轭聚合物耦合，整合电化学、转录组学、代谢组学和蛋白质分析，系统解析材料界面诱导的生理重塑，而非仅评估导电性。
+详见原文
 
 ### 🏥 临床相关性
 
-该发现提示可通过功能材料主动调控微生物代谢与氧化还原平衡，为开发靶向线粒体功能衰退、代谢紊乱等衰老相关干预策略提供潜在思路，但尚需在人体或哺乳动物模型中验证。
-
----
-
-## 研究 3: Metabolic Signatures for Liver Cancer Diagnosis and Mechanistic Insights: A Large-Scale, Multicenter Study.
-
-**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
-**发表日期**: 2026 Oct 4  
-**第一作者**: Xu Y 等 | **PMID**: [42829912](https://pubmed.ncbi.nlm.nih.gov/42829912/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-本研究通过大规模多中心队列，开发并验证了一种血清代谢标志物组合，联合甲胎蛋白可显著提升肝癌早期诊断效能，为肝癌早筛提供了新策略。
-
-### 🔬 关键发现
-
-九种代谢物联合AFP模型在发现队列和外部验证队列中AUC分别达0.92和0.93；早期肝癌灵敏度分别为0.85和0.78；对肝细胞癌效果尤佳（AUC 0.94/0.93）。孟德尔随机化提示烟酰胺水平与肝癌风险存在潜在因果关联，功能实验显示烟酰胺通过NAD途径促进肝癌细胞增殖、迁移和侵袭。
-
-### 🧪 方法简介
-
-采用高通量纳米颗粒增强激光解吸/电离质谱技术，对来自13个临床中心的2,149名参与者进行血清代谢物 profiling，实现了大样本、多中心的外部验证。
-
-### 🏥 临床相关性
-
-该代谢标志物组合有望补充现有AFP筛查的不足，提升早期肝癌检出率；烟酰胺与肝癌风险的因果线索提示，在抗衰老干预中需审慎评估烟酰胺补充剂的潜在肝脏安全性。
-
----
-
-## 研究 4: Pulmonary Alveolar Proteinosis After Allogeneic Stem Cell Transplant in a Patient Undergoing Multiagent Chronic Graft-Versus-Host-Disease Treatment Including Axatilimab.
-
-**期刊**: American journal of hematology  
-**发表日期**: 2026 Oct 4  
-**第一作者**: Nichols C 等 | **PMID**: [42829932](https://pubmed.ncbi.nlm.nih.gov/42829932/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-本研究发表于 American journal of hematology，聚焦抗衰老领域前沿问题。
-
-### 🔬 关键发现
-
-研究探索了 Pulmonary Alveolar Proteinosis After Allogeneic Stem Cell Transplant in a Patien... 的相关机制。
-
-### 🧪 方法简介
-
-采用分子生物学、细胞实验或临床队列研究方法。
-
-### 🏥 临床相关性
-
-研究成果为理解衰老机制和开发抗衰老干预策略提供新见解。
-
----
-
-## 研究 5: N-acetylcysteine mouthwash for prevention of oral mucositis in hematopoietic cell transplant recipients: a double-blind randomized controlled trial.
-
-**期刊**: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer  
-**发表日期**: 2026 Oct 4  
-**第一作者**: Tahmasebi M 等 | **PMID**: [42829889](https://pubmed.ncbi.nlm.nih.gov/42829889/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该研究首次通过双盲随机对照试验，评估预防性N-乙酰半胱氨酸（NAC）漱口水能否降低造血细胞移植（HCT）患者口腔黏膜炎（OM）的发生率与严重程度。OM是HCT预处理方案常见且临床意义重大的毒性反应，因此该干预若有效，将具有明确的临床价值。
-
-### 🔬 关键发现
-
-摘要未提供具体实验结果或数据，仅说明该试验旨在评估预防性NAC漱口水是否降低HCT受者OM的发生率和严重程度。因此，目前无法从摘要中得出NAC漱口水有效或无效的结论。
-
-### 🧪 方法简介
-
-研究采用双盲随机对照试验设计，并以漱口水形式给予NAC作为预防性干预，针对HCT预处理相关OM进行评估。摘要未提及更多新技术或新方法细节。
-
-### 🏥 临床相关性
-
-该研究提示，局部使用NAC可能成为预防HCT患者OM的候选干预策略，但需等待完整结果确认。对临床实践而言，在结果公布前不宜常规推荐；对相关领域而言，它强调了用高质量随机试验验证支持性护理干预的重要性。
+详见原文
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-05 03:07:49  
+**生成时间**: 2026-10-05 16:17:38  
 **摘要生成**: DeepSeek AI
 
 ---
