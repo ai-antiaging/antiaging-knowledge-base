@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-04 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-05 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,39 +15,26 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep | Astrocyte Structure-Function Relationship in Senescence and Neurodegeneration. | Biochemistry. Biokhimiia | [42830099](https://pubmed.ncbi.nlm.nih.gov/42830099/) | Astrocyte Structure-Function Relationship in Senescence and ... |
+| 2026 Oct | BMSCs-Derived Exosomal XPO7 Attenuates Osteoarthritis Progression by Targeting KDM2B to Ameliorate Chondrocyte Senescence. | Journal of cellular biochemistry | [42829902](https://pubmed.ncbi.nlm.nih.gov/42829902/) | BMSCs-Derived Exosomal XPO7 Attenuates Osteoarthritis Progre... |
 | 2026 Oct | Protracted Fate Acquisition and Epigenetic De-Aging During Induced Neural Stem Cell Conversion of Human Blood Cells. | Aging cell | [42829448](https://pubmed.ncbi.nlm.nih.gov/42829448/) | Protracted Fate Acquisition and Epigenetic De-Aging During I... |
 | 2026 Oct 3 | The therapeutic potential of transposable element activity modulation. | EMBO molecular medicine | [42829380](https://pubmed.ncbi.nlm.nih.gov/42829380/) | The therapeutic potential of transposable element activity m... |
 | 2026 Oct 3 | Mechanistic reprogramming of the mtDNA-cGAS-STING axis in cellular senescence: from mitochondrial homeostatic disruption to inflammatory and immune outcomes. | Biogerontology | [42828712](https://pubmed.ncbi.nlm.nih.gov/42828712/) | Mechanistic reprogramming of the mtDNA-cGAS-STING axis in ce... |
-| 2026 Oct 3 | Presynaptic compensation sustains neuromuscular transmission in the mouse diaphragm at a late stage of aging. | Biogerontology | [42828708](https://pubmed.ncbi.nlm.nih.gov/42828708/) | Presynaptic compensation sustains neuromuscular transmission... |
-| 2026 Oct 3 | Stem cells and derived growth factors in Alzheimer's disease: mechanistic insights and translational perspectives. | Inflammopharmacology | [42828660](https://pubmed.ncbi.nlm.nih.gov/42828660/) | Stem cells and derived growth factors in Alzheimer's disease... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 | Immunometabolic reprogramming in osteoporosis-osteoarthritis comorbidity: from inflammaging to osteochondral unit degeneration. | Frontiers in immunology | [42828176](https://pubmed.ncbi.nlm.nih.gov/42828176/) | Immunometabolic reprogramming in osteoporosis-osteoarthritis... |
-| 2026 Oct | REST in the Central Nervous System: Context-Dependent Regulation of Neuronal Homeostasis and Disease. | International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience | [42827376](https://pubmed.ncbi.nlm.nih.gov/42827376/) | REST in the Central Nervous System: Context-Dependent Regula... |
-| 2026 Oct 2 | Proteomic and bioinformatic profiling of the aging mouse heart-diaphragm system. | European journal of translational myology | [42825473](https://pubmed.ncbi.nlm.nih.gov/42825473/) | Proteomic and bioinformatic profiling of the aging mouse hea... |
-| 2026 Oct 1 | Hypoxia? NNoT a PROblem! | Molecular cell | [42822414](https://pubmed.ncbi.nlm.nih.gov/42822414/) | Hypoxia? NNoT a PROblem! |
-| 2026 Oct 1 | The therapeutic potential of melatonin: Focus on the SIRT1 signaling pathway. | Molecular biology reports | [42821192](https://pubmed.ncbi.nlm.nih.gov/42821192/) | The therapeutic potential of melatonin: Focus on the SIRT1 s... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Sep 27 | Rab1A Promotes Hepatic Steatosis by Suppressing Mitophagy via the Raf-1/ERK1/2/PINK1 Signaling Axis. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42801566](https://pubmed.ncbi.nlm.nih.gov/42801566/) | Rab1A Promotes Hepatic Steatosis by Suppressing Mitophagy vi... |
-| 2026 Oct | Mitochondrial homeostasis in musculoskeletal diseases: From pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: From ... |
-| 2026 Sep 8 | Urolithin A Enhances the Development of Porcine Parthenogenetic Embryos by Promoting Mitochondrial Function and Quantity Through the SIRT1/PGC-1α Signaling Pathway. | Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada | [42713995](https://pubmed.ncbi.nlm.nih.gov/42713995/) | Urolithin A Enhances the Development of Porcine Parthenogene... |
-| 2026 Sep 7 | Strengthening muscle for healthy ageing: innovative treatments for sarcopenia. | Nature reviews. Drug discovery | [42706321](https://pubmed.ncbi.nlm.nih.gov/42706321/) | Strengthening muscle for healthy ageing: innovative treatmen... |
-| 2026 Aug | Urolithins: microbial biosynthesis, metabolic pathways and health benefits for functional food and cosmeceutical applications. | Food science and biotechnology | [42661872](https://pubmed.ncbi.nlm.nih.gov/42661872/) | Urolithins: microbial biosynthesis, metabolic pathways and h... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Sep 27 | SAT1-Induced Spermidine Depletion Potentiates Food Allergy. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42801599](https://pubmed.ncbi.nlm.nih.gov/42801599/) | SAT1-Induced Spermidine Depletion Potentiates Food Allergy. |
-| 2026 Sep 26 | Polyamines across neurodegenerative proteinopathies. | Neurobiology of disease | [42800647](https://pubmed.ncbi.nlm.nih.gov/42800647/) | Polyamines across neurodegenerative proteinopathies. |
-| 2026 Sep 22 | Dysregulated polyamine metabolism in neurological disorders: molecular mechanisms and therapeutic opportunities. | Molecular biology reports | [42771220](https://pubmed.ncbi.nlm.nih.gov/42771220/) | Dysregulated polyamine metabolism in neurological disorders:... |
+*暂无最新文献*
+
 
 ---
 
@@ -61,4 +48,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-04 | 自动生成*
+*最后更新：2026-10-05 | 自动生成*
