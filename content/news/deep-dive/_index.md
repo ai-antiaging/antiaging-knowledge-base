@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[Adipose-derived stem cell exosomes alleviate oxidative damage and reduce intraocular pressure in primary open-angle glaucoma via the ROS-mediated PI3K/AKT pathway.](./2026-10-06-weekly/)** — 2026年10月06日
+  - *Experimental cell research* · PMID: 42833468
+
 - **[mRNA-Engineered Stem Cells Produce Nerve Growth Factor and Induce Neurite Outgrowth in Recipient Cells.](./2026-09-29-weekly/)** — 2026年09月29日
   - *Experimental cell research* · PMID: 42805560
 
