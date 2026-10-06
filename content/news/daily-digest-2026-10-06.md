@@ -12,11 +12,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Intramembrane proteolysis: principles of substrate recognition and membrane protein fate.
+## 研究 1: Dissecting PHOX2B-Dependent Mechanisms in CCHS Across Experimental Models.
 
-**期刊**: Trends in biochemical sciences  
-**发表日期**: 2026 Oct 5  
-**第一作者**: Avci D 等 | **PMID**: [42833984](https://pubmed.ncbi.nlm.nih.gov/42833984/)  
+**期刊**: American journal of respiratory cell and molecular biology  
+**发表日期**: 2026 Oct 6  
+**第一作者**: Falik D 等 | **PMID**: [42836665](https://pubmed.ncbi.nlm.nih.gov/42836665/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -37,110 +37,110 @@ type: "daily-digest"
 
 ---
 
-## 研究 2: Vascular-specific FAM43B inhibits the Wnt pathway by regulating β-catenin ubiquitination and alleviates the progression of atherosclerosis.
+## 研究 2: Planetary Health Diet Adherence and Frailty in Older Adults: Evidence from the Seniors-ENRICA Cohorts.
 
-**期刊**: Life sciences  
-**发表日期**: 2026 Oct 5  
-**第一作者**: Wang Y 等 | **PMID**: [42833574](https://pubmed.ncbi.nlm.nih.gov/42833574/)  
+**期刊**: The journals of gerontology. Series A, Biological sciences and medical sciences  
+**发表日期**: 2026 Oct 6  
+**第一作者**: Diez-Echave P 等 | **PMID**: [42836649](https://pubmed.ncbi.nlm.nih.gov/42836649/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次揭示FAM43B是血管内皮和平滑肌细胞中富集的关键基因，通过抑制Wnt/β-catenin通路维持血管稳态，为动脉粥样硬化治疗提供了全新靶点。
+首次基于Seniors-ENRICA队列，探讨行星健康饮食（PHD）依从性与老年人衰弱进展的纵向关联。PHD作为兼顾环境可持续与健康的膳食模式，若可延缓衰弱，将为抗衰老营养干预提供新策略。
 
 ### 🔬 关键发现
 
-FAM43B在血管内皮和平滑肌细胞中高表达；其通过调控β-catenin的泛素化降解来抑制Wnt通路，从而减缓动脉粥样硬化斑块进展。
+研究采用重复衰弱评估，分析行星健康饮食指数（PHDI）与衰弱随时间变化的关系。摘要提示PHD与较低死亡率和慢性病风险相关，但具体效应量及显著性需参见全文数据。
 
 ### 🧪 方法简介
 
-结合转录组学数据筛选血管富集基因，并利用功能实验验证FAM43B对β-catenin泛素化及Wnt通路的调控机制。
+利用Seniors-ENRICA队列的重复衰弱评估数据，实现纵向追踪而非单次横断面分析。通过PHDI量化饮食依从性，捕捉饮食与衰弱动态变化的时序关联。
 
 ### 🏥 临床相关性
 
-FAM43B有望成为抗动脉粥样硬化及血管衰老干预的新靶点，为开发延缓血管老化的靶向疗法提供理论依据。
+提示推广PHD可能同时促进老年健康与生态可持续，为抗衰老膳食指南提供依据。未来可探索将PHDI纳入老年衰弱风险评估，指导个性化营养干预。
 
 ---
 
-## 研究 3: Implementation of guideline-directed cardioprotective therapy in patients living with type 2 diabetes in outpatient cardiology ambulatory setting: the Italian CardioMET registry.
+## 研究 3: Microaggressions toward widowed older women in daily life: a qualitative descriptive study.
 
-**期刊**: European journal of internal medicine  
-**发表日期**: 2026 Oct 5  
-**第一作者**: Gargiulo P 等 | **PMID**: [42833986](https://pubmed.ncbi.nlm.nih.gov/42833986/)  
+**期刊**: Journal of women & aging  
+**发表日期**: 2026 Oct 6  
+**第一作者**: Yıldırım G 等 | **PMID**: [42836470](https://pubmed.ncbi.nlm.nih.gov/42836470/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究聚焦2型糖尿病患者的指南导向心血管保护治疗在意大利门诊心脏科的实际落地情况，揭示了“指南推荐”与“临床实践”之间可能存在的差距，对优化慢病管理具有直接参考价值。
+首次揭示土耳其丧偶老年女性在日常生活中遭受的隐性微歧视，发现丧偶后社会监视显著加剧，年龄歧视、性别规范与“缺失男性角色”三重压力交织，通过“得体”话语规训其行为与自主权。
 
 ### 🔬 关键发现
 
-研究基于意大利CardioMET注册队列，评估了具有明确心血管获益的降糖治疗在门诊心脏科T2DM患者中的实施情况，提示相当比例患者可能未充分接受指南推荐的心血管保护性降糖方案。
+17名65岁以上丧偶女性访谈显示，反复遭遇二等公民对待、保护性干预、道德 conformity 强加、隐形化、去性化及哀悼正常化等微歧视；她们以沉默退缩或设界抵抗两种方式回应。
 
 ### 🧪 方法简介
 
-研究采用多中心注册登记（registry）设计，在真实世界门诊心脏科场景中系统采集T2DM患者治疗数据，较随机对照试验更能反映日常临床实践中的治疗实施现状。
+采用定性描述设计与半结构化个体访谈，运用归纳主题分析，并以 Sue 等（2007）微歧视框架作为后续解释透镜，实现数据驱动与理论验证的结合。
 
 ### 🏥 临床相关性
 
-结果提示需加强心脏科与内分泌科协作及指南落地策略；对衰老相关慢病管理而言，推动循证心血管保护治疗在真实世界中的实施，可能比单纯开发新药更能改善高危人群预后。
+提示健康与社会服务需引入性别敏感与自主支持视角，识别并减少家庭、社区及临床互动中的微歧视，以维护丧偶老年女性晚年心理空间与主体性，对抗衰老过程中的社会性损耗。
 
 ---
 
-## 研究 4: New insights into the pathogenesis of osteoporosis and the translational approach to personalized therapy.
+## 研究 4: Marginalization of Maltreatment of Family Caregivers of Older People in Sub-Saharan Africa: An Epistemic Injustice?
 
-**期刊**: Best practice & research. Clinical rheumatology  
-**发表日期**: 2026 Oct 5  
-**第一作者**: Li B 等 | **PMID**: [42833929](https://pubmed.ncbi.nlm.nih.gov/42833929/)  
+**期刊**: Journal of gerontological social work  
+**发表日期**: 2026 Oct 6  
+**第一作者**: Morgan AK 等 | **PMID**: [42836848](https://pubmed.ncbi.nlm.nih.gov/42836848/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该综述提出骨质疏松应被视为由多种病理机制驱动的异质性综合征，而非单一疾病，并首次系统区分了绝经后、衰老、神经性厌食及GLP-1受体激动剂相关体重减轻等亚型的骨转换与骨折模式差异。这一分型框架为精准治疗提供了理论基础。
+该研究首次将“认知不公”理论引入撒哈拉以南非洲的老年照护研究，揭示家庭照护者遭受的虐待如何被社会结构系统性消音。这一视角转换对于重新定义照护者作为家庭暴力脆弱群体的身份至关重要。
 
 ### 🔬 关键发现
 
-骨髓脂肪组织（BMAT）被确认为绝经后及衰老相关骨丢失中骨髓微环境的关键调控因子；不同来源的体重减轻（厌食、GLP-1激动剂、热量限制、间歇性禁食）通过机械负荷减少、激素改变、IGF-1抵抗、脂肪因子失调及间充质干细胞谱系偏移等机制损害骨骼。PTH呈双向效应：持续暴露促吸收，间歇刺激促形成。
+社会身份理论显示，集体主义价值观压制了个体福祉的表达，使虐待经历难以被言说；女性主义理论则揭示性别角色显著加剧了女性照护者的脆弱性。三者交叉作用共同导致了照护者虐待问题的边缘化。
 
 ### 🧪 方法简介
 
-综述整合了BMAT作为骨髓微环境调控因子的机制研究，并系统比较了不同病因体重减轻对骨骼的差异化影响，同时纳入运动通过机械负荷、肌因子、自噬、非编码RNA及表观遗传调控骨骼的多元机制，提出亚型导向的治疗策略框架。
+采用纯理论分析路径，整合认知不公、社会身份与女性主义三大理论框架，构建了交叉性分析视角，而非依赖实证数据收集。这为后续定性研究提供了概念基础。
 
 ### 🏥 临床相关性
 
-支持根据骨质疏松亚型选择PTH类似物、硬骨素抗体及个体化运动处方，提示未来抗衰老干预需区分体重减轻病因对骨骼的差异影响，避免一刀切治疗，推动骨质疏松管理向精准医学转型。
+社会工作实践应将家庭照护者明确识别为家庭暴力的脆弱人群，验证其虐待经历并建立支持系统。对老年照护干预而言，需关注照护者心理健康与性别权力结构，而非仅聚焦被照护者。
 
 ---
 
-## 研究 5: Not all hydras are immortal: asexual Hydra oligactis undergoes senescence.
+## 研究 5: MAGEA6 Promoted Gastric Cancer Progression by Activating Mitophagy.
 
-**期刊**: Journal of evolutionary biology  
-**发表日期**: 2026 Oct 5  
-**第一作者**: Dujon AM 等 | **PMID**: [42833632](https://pubmed.ncbi.nlm.nih.gov/42833632/)  
+**期刊**: Molecular carcinogenesis  
+**发表日期**: 2026 Oct 6  
+**第一作者**: Shen F 等 | **PMID**: [42836846](https://pubmed.ncbi.nlm.nih.gov/42836846/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+本研究首次揭示MAGEA6通过激活线粒体自噬促进胃癌进展，核心机制是MAGEA6上调S100A9进而激活PINK1/PRKN通路，为胃癌的促癌机制提供了新的分子解释。
 
 ### 🔬 关键发现
 
-详见原文
+MAGEA6在胃癌组织和细胞系中高表达；过表达MAGEA6增强胃癌细胞迁移和增殖能力，同时促进线粒体自噬并防止线粒体崩溃；机制上MAGEA6通过上调S100A9蛋白表达激活PINK1/PRKN通路。
 
 ### 🧪 方法简介
 
-详见原文
+研究综合运用TCGA数据库分析、Transwell迁移实验、EDU标记和CCK-8增殖检测，并结合mito-Keima染色、透射电镜和JC-1 assay多维度评估线粒体自噬与线粒体活性。
 
 ### 🏥 临床相关性
 
-详见原文
+MAGEA6/S100A9/PINK1/PRKN线粒体自噬通路是促进胃癌进展的潜在机制，有望成为胃癌治疗的新靶点；线粒体自噬调控与衰老密切相关，该通路也可能为抗衰老干预研究提供参考方向。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-06 03:57:03  
+**生成时间**: 2026-10-06 16:17:39  
 **摘要生成**: DeepSeek AI
 
 ---
