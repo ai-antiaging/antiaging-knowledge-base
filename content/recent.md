@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-05 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-06 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 5 | Detailed Analysis of Intraretinal Layers and Their Correlation to Brain Structures in Normal Healthy Aging. | Translational vision science & technology | [42831734](https://pubmed.ncbi.nlm.nih.gov/42831734/) | Detailed Analysis of Intraretinal Layers and Their Correlati... |
-| 2026 Oct 5 | In vitro generation of regulatory T cells: A challenging tool for studying immune aging in humans. | FEBS open bio | [42831457](https://pubmed.ncbi.nlm.nih.gov/42831457/) | In vitro generation of regulatory T cells: A challenging too... |
-| 2026 Dec 8 | Human T cell engineering via serial delivery of mRNA encapsulated within lipid nanoparticles. | Molecular therapy. Nucleic acids | [42831101](https://pubmed.ncbi.nlm.nih.gov/42831101/) | Human T cell engineering via serial delivery of mRNA encapsu... |
-| 2026 Oct 5 | Senescence-independent SASP drives tumor-macrophage inflammatory cascade and therapeutic resistance in HNSCC. | Functional & integrative genomics | [42830352](https://pubmed.ncbi.nlm.nih.gov/42830352/) | Senescence-independent SASP drives tumor-macrophage inflamma... |
-| 2026 Sep | Astrocyte Structure-Function Relationship in Senescence and Neurodegeneration. | Biochemistry. Biokhimiia | [42830099](https://pubmed.ncbi.nlm.nih.gov/42830099/) | Astrocyte Structure-Function Relationship in Senescence and ... |
+| 2026 Oct 5 | Intramembrane proteolysis: principles of substrate recognition and membrane protein fate. | Trends in biochemical sciences | [42833984](https://pubmed.ncbi.nlm.nih.gov/42833984/) | Intramembrane proteolysis: principles of substrate recogniti... |
+| 2026 Oct 5 | Vascular-specific FAM43B inhibits the Wnt pathway by regulating β-catenin ubiquitination and alleviates the progression of atherosclerosis. | Life sciences | [42833574](https://pubmed.ncbi.nlm.nih.gov/42833574/) | Vascular-specific FAM43B inhibits the Wnt pathway by regulat... |
+| 2026 Oct 5 | Mathematical modeling and intelligent methods in systems biology and medicine applied to complex diseases: An overview. | Bio Systems | [42833389](https://pubmed.ncbi.nlm.nih.gov/42833389/) | Mathematical modeling and intelligent methods in systems bio... |
+| 2026 Oct 5 | When channelrhodopsin goes off-target: biophysical signatures of ectopic expression in neurons. | Neuroscience | [42833350](https://pubmed.ncbi.nlm.nih.gov/42833350/) | When channelrhodopsin goes off-target: biophysical signature... |
+| 2026 Oct 5 | Caloric restriction mimetics rewire the AMPK-mTOR-ULK1 signaling nexus to restore autophagic proteostasis in the aging brain. | Molecular and cellular neurosciences | [42833312](https://pubmed.ncbi.nlm.nih.gov/42833312/) | Caloric restriction mimetics rewire the AMPK-mTOR-ULK1 signa... |
 
 ### NAD+ 与线粒体
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct 5 | Caloric restriction mimetics rewire the AMPK-mTOR-ULK1 signaling nexus to restore autophagic proteostasis in the aging brain. | Molecular and cellular neurosciences | [42833312](https://pubmed.ncbi.nlm.nih.gov/42833312/) | Caloric restriction mimetics rewire the AMPK-mTOR-ULK1 signa... |
 | 2026 Sep 27 | SAT1-Induced Spermidine Depletion Potentiates Food Allergy. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42801599](https://pubmed.ncbi.nlm.nih.gov/42801599/) | SAT1-Induced Spermidine Depletion Potentiates Food Allergy. |
 | 2026 Sep 26 | Polyamines across neurodegenerative proteinopathies. | Neurobiology of disease | [42800647](https://pubmed.ncbi.nlm.nih.gov/42800647/) | Polyamines across neurodegenerative proteinopathies. |
-| 2026 Sep 22 | Dysregulated polyamine metabolism in neurological disorders: molecular mechanisms and therapeutic opportunities. | Molecular biology reports | [42771220](https://pubmed.ncbi.nlm.nih.gov/42771220/) | Dysregulated polyamine metabolism in neurological disorders:... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-05 | 自动生成*
+*最后更新：2026-10-06 | 自动生成*
