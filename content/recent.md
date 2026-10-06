@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 5 | Intramembrane proteolysis: principles of substrate recognition and membrane protein fate. | Trends in biochemical sciences | [42833984](https://pubmed.ncbi.nlm.nih.gov/42833984/) | Intramembrane proteolysis: principles of substrate recogniti... |
-| 2026 Oct 5 | Vascular-specific FAM43B inhibits the Wnt pathway by regulating β-catenin ubiquitination and alleviates the progression of atherosclerosis. | Life sciences | [42833574](https://pubmed.ncbi.nlm.nih.gov/42833574/) | Vascular-specific FAM43B inhibits the Wnt pathway by regulat... |
-| 2026 Oct 5 | Mathematical modeling and intelligent methods in systems biology and medicine applied to complex diseases: An overview. | Bio Systems | [42833389](https://pubmed.ncbi.nlm.nih.gov/42833389/) | Mathematical modeling and intelligent methods in systems bio... |
-| 2026 Oct 5 | When channelrhodopsin goes off-target: biophysical signatures of ectopic expression in neurons. | Neuroscience | [42833350](https://pubmed.ncbi.nlm.nih.gov/42833350/) | When channelrhodopsin goes off-target: biophysical signature... |
-| 2026 Oct 5 | Caloric restriction mimetics rewire the AMPK-mTOR-ULK1 signaling nexus to restore autophagic proteostasis in the aging brain. | Molecular and cellular neurosciences | [42833312](https://pubmed.ncbi.nlm.nih.gov/42833312/) | Caloric restriction mimetics rewire the AMPK-mTOR-ULK1 signa... |
+| 2026 Oct 15 | Actin-Related Causes of Aneuploidy in Human Eggs. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42836570](https://pubmed.ncbi.nlm.nih.gov/42836570/) | Actin-Related Causes of Aneuploidy in Human Eggs. |
+| 2026 Oct | Novel Flavonoid Senotherapeutics Identified by Phenotypic Drug Discovery Reduce Senescence and Improve Multiple Markers of Healthspan. | Aging cell | [42836501](https://pubmed.ncbi.nlm.nih.gov/42836501/) | Novel Flavonoid Senotherapeutics Identified by Phenotypic Dr... |
+| 2026 Oct | Aging Affects Pancreatic α-Cell Function and Promotes Hyperglucagonemia: Implications in Age-Associated Diabetes. | Aging cell | [42836454](https://pubmed.ncbi.nlm.nih.gov/42836454/) | Aging Affects Pancreatic α-Cell Function and Promotes Hyperg... |
+| 2026 Aug 25 | The SickleFit Tele-Exercise Program for older adults with sickle cell disease: feasibility, acceptability, safety study. | Blood red cells & iron | [42836085](https://pubmed.ncbi.nlm.nih.gov/42836085/) | The SickleFit Tele-Exercise Program for older adults with si... |
+| 2026 | AI-guided ethnopharmacology for cardiovascular drug discovery: from biomedical data to experimental validation. | Frontiers in pharmacology | [42836037](https://pubmed.ncbi.nlm.nih.gov/42836037/) | AI-guided ethnopharmacology for cardiovascular drug discover... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct 15 | SIRT1 Regulates Late Stage of Autophagy and Mitophagy via Autophagosome-Lysosome Fusion in Cardiomyocytes. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42836703](https://pubmed.ncbi.nlm.nih.gov/42836703/) | SIRT1 Regulates Late Stage of Autophagy and Mitophagy via Au... |
 | 2026 | Immunometabolic reprogramming in osteoporosis-osteoarthritis comorbidity: from inflammaging to osteochondral unit degeneration. | Frontiers in immunology | [42828176](https://pubmed.ncbi.nlm.nih.gov/42828176/) | Immunometabolic reprogramming in osteoporosis-osteoarthritis... |
 | 2026 Oct | REST in the Central Nervous System: Context-Dependent Regulation of Neuronal Homeostasis and Disease. | International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience | [42827376](https://pubmed.ncbi.nlm.nih.gov/42827376/) | REST in the Central Nervous System: Context-Dependent Regula... |
 | 2026 Oct 2 | Proteomic and bioinformatic profiling of the aging mouse heart-diaphragm system. | European journal of translational myology | [42825473](https://pubmed.ncbi.nlm.nih.gov/42825473/) | Proteomic and bioinformatic profiling of the aging mouse hea... |
 | 2026 Oct 1 | Hypoxia? NNoT a PROblem! | Molecular cell | [42822414](https://pubmed.ncbi.nlm.nih.gov/42822414/) | Hypoxia? NNoT a PROblem! |
-| 2026 Oct 1 | The therapeutic potential of melatonin: Focus on the SIRT1 signaling pathway. | Molecular biology reports | [42821192](https://pubmed.ncbi.nlm.nih.gov/42821192/) | The therapeutic potential of melatonin: Focus on the SIRT1 s... |
 
 ### 尿石素 A 与线粒体自噬
 
