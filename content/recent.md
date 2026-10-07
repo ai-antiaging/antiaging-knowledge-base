@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-06 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-07 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 15 | Actin-Related Causes of Aneuploidy in Human Eggs. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42836570](https://pubmed.ncbi.nlm.nih.gov/42836570/) | Actin-Related Causes of Aneuploidy in Human Eggs. |
-| 2026 Oct | Novel Flavonoid Senotherapeutics Identified by Phenotypic Drug Discovery Reduce Senescence and Improve Multiple Markers of Healthspan. | Aging cell | [42836501](https://pubmed.ncbi.nlm.nih.gov/42836501/) | Novel Flavonoid Senotherapeutics Identified by Phenotypic Dr... |
-| 2026 Oct | Aging Affects Pancreatic α-Cell Function and Promotes Hyperglucagonemia: Implications in Age-Associated Diabetes. | Aging cell | [42836454](https://pubmed.ncbi.nlm.nih.gov/42836454/) | Aging Affects Pancreatic α-Cell Function and Promotes Hyperg... |
-| 2026 Aug 25 | The SickleFit Tele-Exercise Program for older adults with sickle cell disease: feasibility, acceptability, safety study. | Blood red cells & iron | [42836085](https://pubmed.ncbi.nlm.nih.gov/42836085/) | The SickleFit Tele-Exercise Program for older adults with si... |
-| 2026 | AI-guided ethnopharmacology for cardiovascular drug discovery: from biomedical data to experimental validation. | Frontiers in pharmacology | [42836037](https://pubmed.ncbi.nlm.nih.gov/42836037/) | AI-guided ethnopharmacology for cardiovascular drug discover... |
+| 2026 Oct 6 | Adult-administered chronic nicotine remodels nigral dopaminergic and pedunculopontine cholinergic physiology. | Neuropharmacology | [42838415](https://pubmed.ncbi.nlm.nih.gov/42838415/) | Adult-administered chronic nicotine remodels nigral dopamine... |
+| 2026 Oct 6 | Vascular Aging-Driven Tumor-Like Transformation of Vascular Smooth Muscle Cells in Atherosclerotic Cardiovascular Disease: Mechanisms and Therapeutic Targets. | Ageing research reviews | [42838290](https://pubmed.ncbi.nlm.nih.gov/42838290/) | Vascular Aging-Driven Tumor-Like Transformation of Vascular ... |
+| 2026 Oct 6 | Multimodal Technology-Driven aging Research: Decoding the Mitochondria‒Pyroptosis axis in muscle atrophy and cognitive decline. | Methods (San Diego, Calif.) | [42838270](https://pubmed.ncbi.nlm.nih.gov/42838270/) | Multimodal Technology-Driven aging Research: Decoding the Mi... |
+| 2026 Oct 6 | Resveratrol protects primary hepatocytes against senescence induced by endogenous toxic metabolites. | Mechanisms of ageing and development | [42838150](https://pubmed.ncbi.nlm.nih.gov/42838150/) | Resveratrol protects primary hepatocytes against senescence ... |
+| 2026 Oct 6 | Glutamine metabolism keeps pathogenic hepatic CD4(+) T cells in check. | Cell metabolism | [42838032](https://pubmed.ncbi.nlm.nih.gov/42838032/) | Glutamine metabolism keeps pathogenic hepatic CD4(+) T cells... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-06 | 自动生成*
+*最后更新：2026-10-07 | 自动生成*
