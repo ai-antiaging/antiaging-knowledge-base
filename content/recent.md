@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 6 | Adult-administered chronic nicotine remodels nigral dopaminergic and pedunculopontine cholinergic physiology. | Neuropharmacology | [42838415](https://pubmed.ncbi.nlm.nih.gov/42838415/) | Adult-administered chronic nicotine remodels nigral dopamine... |
-| 2026 Oct 6 | Vascular Aging-Driven Tumor-Like Transformation of Vascular Smooth Muscle Cells in Atherosclerotic Cardiovascular Disease: Mechanisms and Therapeutic Targets. | Ageing research reviews | [42838290](https://pubmed.ncbi.nlm.nih.gov/42838290/) | Vascular Aging-Driven Tumor-Like Transformation of Vascular ... |
-| 2026 Oct 6 | Multimodal Technology-Driven aging Research: Decoding the Mitochondria‒Pyroptosis axis in muscle atrophy and cognitive decline. | Methods (San Diego, Calif.) | [42838270](https://pubmed.ncbi.nlm.nih.gov/42838270/) | Multimodal Technology-Driven aging Research: Decoding the Mi... |
-| 2026 Oct 6 | Resveratrol protects primary hepatocytes against senescence induced by endogenous toxic metabolites. | Mechanisms of ageing and development | [42838150](https://pubmed.ncbi.nlm.nih.gov/42838150/) | Resveratrol protects primary hepatocytes against senescence ... |
-| 2026 Oct 6 | Glutamine metabolism keeps pathogenic hepatic CD4(+) T cells in check. | Cell metabolism | [42838032](https://pubmed.ncbi.nlm.nih.gov/42838032/) | Glutamine metabolism keeps pathogenic hepatic CD4(+) T cells... |
+| 2026 Oct-Dec | Amyloid, p-tau, neurofilament light, and α-synuclein cerebrospinal fluid biomarkers across Alzheimer's disease, dementia with Lewy bodies, and Parkinson's disease. | Alzheimer's & dementia (Amsterdam, Netherlands) | [42841041](https://pubmed.ncbi.nlm.nih.gov/42841041/) | Amyloid, p-tau, neurofilament light, and α-synuclein cerebro... |
+| 2026 Dec | Lipid matrix composition-tuned nanoparticles for enhanced topical retinol delivery and anti-photoaging efficacy. | International journal of pharmaceutics: X | [42840803](https://pubmed.ncbi.nlm.nih.gov/42840803/) | Lipid matrix composition-tuned nanoparticles for enhanced to... |
+| 2026 | Osteoimmune senescence in aging bone: from inflammaging dogma to cell-type-specific therapeutic windows. | Frontiers in immunology | [42840613](https://pubmed.ncbi.nlm.nih.gov/42840613/) | Osteoimmune senescence in aging bone: from inflammaging dogm... |
+| 2026 | Cystatin F as a neuroimmune effector in CNS inflammation and neurodegeneration. | Frontiers in cell and developmental biology | [42840580](https://pubmed.ncbi.nlm.nih.gov/42840580/) | Cystatin F as a neuroimmune effector in CNS inflammation and... |
+| 2026 | Neuro-immune-bone axis in post-traumatic bone regeneration: temporal regulation, dysregulation mechanisms, and therapeutic implications. | Frontiers in immunology | [42840579](https://pubmed.ncbi.nlm.nih.gov/42840579/) | Neuro-immune-bone axis in post-traumatic bone regeneration: ... |
 
 ### NAD+ 与线粒体
 
