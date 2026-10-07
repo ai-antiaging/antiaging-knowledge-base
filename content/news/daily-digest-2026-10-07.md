@@ -12,86 +12,36 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Associations of Midlife Gait Speed and Muscle Performance With Falls in Later Life: Secondary Analysis of the MIDUS Cohort.
+## 研究 1: SEC Mediates m(6)A Deposition and Transcription Pause Release to Drive Cell Identity Transition.
 
-**期刊**: JMIR aging  
+**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
 **发表日期**: 2026 Oct 6  
-**第一作者**: Hayek R 等 | **PMID**: [42837653](https://pubmed.ncbi.nlm.nih.gov/42837653/)  
+**第一作者**: Zhang Z 等 | **PMID**: [42839642](https://pubmed.ncbi.nlm.nih.gov/42839642/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究基于MIDUS队列，首次系统探讨中年步速与肌肉表现同晚年跌倒风险的关联。核心发现是跌倒风险可能早在中年就已埋下伏笔，提示应将跌倒预防窗口前移至中年期。
+详见原文
 
 ### 🔬 关键发现
 
-中年步速较慢和肌肉表现较差与晚年跌倒风险升高显著相关。这表明确步速和肌肉功能可作为识别早期功能脆弱性的敏感指标，为后续不良健康结局提供预警。
+详见原文
 
 ### 🧪 方法简介
 
-研究采用MIDUS队列的二次分析设计，将中年期客观物理性能测量与晚年跌倒结局纵向关联。通过步速与肌肉表现等可量化指标，实现了对远期跌倒风险的前瞻性评估。
+详见原文
 
 ### 🏥 临床相关性
 
-提示抗衰老干预不应局限于老年期，中年期即应关注步速和肌肉功能。临床可将步速测试纳入中年常规体检，对功能脆弱者尽早开展运动干预以降低晚年跌倒风险。
+详见原文
 
 ---
 
-## 研究 2: Proposing the Synergistic Recovery Theory for Older Adults Undergoing Total Knee Replacement.
+## 研究 2: A Hypothalamic Oxytocinergic-Sympathetic Axis Couples Anxiety Dysregulation With Impaired Tendon-Bone Repair.
 
-**期刊**: ANS. Advances in nursing science  
+**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
 **发表日期**: 2026 Oct 6  
-**第一作者**: Lama S 等 | **PMID**: [42837609](https://pubmed.ncbi.nlm.nih.gov/42837609/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该研究提出“协同康复理论（SRT）”，针对老年全膝关节置换术围手术期护理碎片化、被动反应的问题，构建了一个情境特异性护理理论框架。其重要性在于为老年围手术期照护提供了系统化的理论组织工具。
-
-### 🔬 关键发现
-
-SRT包含三大领域——患者属性、四大支柱（准备、保护、激活、过渡）和结局。理论主张个体化护理干预可协同作用，支持患者在整个全膝关节置换连续过程中的康复，但相关命题尚需前瞻性实证检验。
-
-### 🧪 方法简介
-
-采用Im氏整合方法开发情境特异性护理理论，将患者特征与“准备-保护-激活-过渡”四阶段干预框架及结局指标进行结构化整合，突破了传统围手术期护理缺乏理论指导的局限。
-
-### 🏥 临床相关性
-
-为老年全膝关节置换围手术期护理提供了理论驱动的组织框架，有望推动从碎片化、被动反应式照护向个体化、协同化全程管理转变，但临床有效性仍需前瞻性研究验证。
-
----
-
-## 研究 3: Phenotypic screening identifies kenpaullone as a prolymphangiogenic compound to improve heart repair following myocardial infarction.
-
-**期刊**: Proceedings of the National Academy of Sciences of the United States of America  
-**发表日期**: 2026 Oct 13  
-**第一作者**: Ravaud C 等 | **PMID**: [42837465](https://pubmed.ncbi.nlm.nih.gov/42837465/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-本研究通过表型筛选发现kenpaullone能促进心脏淋巴管新生，从而改善心肌梗死后的心脏修复。该发现为MI后心衰防治提供了不依赖VEGF-C蛋白给药的新策略。
-
-### 🔬 关键发现
-
-kenpaullone通过激活ERK通路促进淋巴内皮细胞出芽，其靶点为MAP4K4；在小鼠MI模型中，kenpaullone增强心脏淋巴管新生并改善心功能。
-
-### 🧪 方法简介
-
-研究建立了基于人淋巴内皮细胞球体的出芽实验，结合自动化成像和定量分析，对表观遗传调控因子、激酶抑制剂及干细胞调节剂文库进行表型筛选。
-
-### 🏥 临床相关性
-
-kenpaullone作为小分子药物，克服了VEGFC-C156S半衰期短的缺陷，为心肌梗死后淋巴管靶向治疗及延缓心衰进展提供了候选化合物，但仍需进一步临床前验证。
-
----
-
-## 研究 4: Titin extension explains residual force enhancement in skeletal muscle.
-
-**期刊**: Proceedings of the National Academy of Sciences of the United States of America  
-**发表日期**: 2026 Oct 13  
-**第一作者**: Tiessen C 等 | **PMID**: [42837457](https://pubmed.ncbi.nlm.nih.gov/42837457/)  
+**第一作者**: Wan L 等 | **PMID**: [42839625](https://pubmed.ncbi.nlm.nih.gov/42839625/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -112,11 +62,11 @@ kenpaullone作为小分子药物，克服了VEGFC-C156S半衰期短的缺陷，�
 
 ---
 
-## 研究 5: Late-onset preeclampsia is characterized by accelerated placental aging.
+## 研究 3: Amyloid, p-tau, neurofilament light, and α-synuclein cerebrospinal fluid biomarkers across Alzheimer's disease, dementia with Lewy bodies, and Parkinson's disease.
 
-**期刊**: Proceedings of the National Academy of Sciences of the United States of America  
-**发表日期**: 2026 Oct 13  
-**第一作者**: Arthurs AL 等 | **PMID**: [42837445](https://pubmed.ncbi.nlm.nih.gov/42837445/)  
+**期刊**: Alzheimer's & dementia (Amsterdam, Netherlands)  
+**发表日期**: 2026 Oct-Dec  
+**第一作者**: Rizzo M 等 | **PMID**: [42841041](https://pubmed.ncbi.nlm.nih.gov/42841041/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -134,13 +84,63 @@ kenpaullone作为小分子药物，克服了VEGFC-C156S半衰期短的缺陷，�
 ### 🏥 临床相关性
 
 详见原文
+
+---
+
+## 研究 4: MEK inhibition achieves robust and durable responses in Erdheim-Chester disease.
+
+**期刊**: HemaSphere  
+**发表日期**: 2026 Oct  
+**第一作者**: Pegoraro F 等 | **PMID**: [42840804](https://pubmed.ncbi.nlm.nih.gov/42840804/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+这是迄今最大规模的MEK抑制剂治疗Erdheim-Chester病（ECD）真实世界研究，证实其单药治疗可获得高缓解率和持久获益，填补了该罕见病靶向治疗证据的空白。
+
+### 🔬 关键发现
+
+170例患者中客观缓解率达70%，疾病稳定22%，中位至最佳缓解时间14个月；2年无事件生存率65%、总生存率80%；但62%出现不良事件，23%为严重不良事件，停药主因是毒性。
+
+### 🧪 方法简介
+
+研究跨八国多中心收集真实世界数据，系统评估了MEK抑制剂单药治疗的缓解动态、治疗维持率及安全性，并首次在ECD中识别出与缓解概率相关的临床预测因素（如血脂异常和神经退行性变降低缓解率）。
+
+### 🏥 临床相关性
+
+该研究为ECD靶向治疗提供了高级别真实世界证据，支持MEK抑制剂作为有效选择，同时提示需权衡毒性负担并关注特定器官受累对疗效的影响，为个体化治疗决策提供依据。
+
+---
+
+## 研究 5: Pretransplant Small-airway Dysfunction is Associated with Posttransplant Complications in Adult HSCT Recipients.
+
+**期刊**: Thoracic research and practice  
+**发表日期**: 2026 Oct 7  
+**第一作者**: Çınar C 等 | **PMID**: [42840756](https://pubmed.ncbi.nlm.nih.gov/42840756/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究发现，成人HSCT受者移植前小气道功能障碍（以FEF25-75降低为标志）与移植后并发症相关。这提示常规肺功能参数可能遗漏了可预测移植风险的重要信息。
+
+### 🔬 关键发现
+
+移植前FEF25-75（用力呼出25%-75%肺活量之间的呼气流速）异常与HSCT后并发症存在关联，说明小气道功能受损可能是移植后不良结局的预警信号。
+
+### 🧪 方法简介
+
+研究聚焦于FEF25-75这一反映小气道功能的肺功能指标，而非传统常规参数，从而捕捉到常规检查难以发现的细微气道异常。
+
+### 🏥 临床相关性
+
+提示在HSCT前评估中应重视小气道功能检测，有助于更精准地识别高风险患者并优化移植前管理；对衰老相关肺功能退化人群的干预策略也具有参考价值。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-07 03:24:40  
+**生成时间**: 2026-10-07 16:17:51  
 **摘要生成**: DeepSeek AI
 
 ---
