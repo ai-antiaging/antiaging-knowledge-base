@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-10-07 #2"
 date: 2026-10-07
-description: "Corrigendum to "Autophagy protects against Cd-induced cell damage in primary chi..."
+description: 'Corrigendum to "Autophagy protects against Cd-induced cell damage in primary chi..."'
 draft: false
 type: "snapshot"
 ---

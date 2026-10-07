@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-10-07 #3"
 date: 2026-10-07
-description: "Corrigendum to "Total glucosides of paeony modulates leucine metabolism by inhib..."
+description: 'Corrigendum to "Total glucosides of paeony modulates leucine metabolism by inhib..."'
 draft: false
 type: "snapshot"
 ---
