@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 | Spondin 1 Enriched in p16(Ink4a) Reporter-Labeled Fibroblasts Promotes Melanoma Cell Proliferation in Vitro and Is Associated with Poor Prognosis. | Biological & pharmaceutical bulletin | [42844175](https://pubmed.ncbi.nlm.nih.gov/42844175/) | Spondin 1 Enriched in p16(Ink4a) Reporter-Labeled Fibroblast... |
-| 2026 | Influence of Hepatocellular Senescence on Serum Amyloid A Expression and Response to Proinflammatory Cytokines under Steatotic Conditions. | Biological & pharmaceutical bulletin | [42844174](https://pubmed.ncbi.nlm.nih.gov/42844174/) | Influence of Hepatocellular Senescence on Serum Amyloid A Ex... |
-| 2026 Dec | Dysferlin promotes inflammatory macrophage responses and modulates Ca(2+)-dependent STAT1 signaling. | Life science alliance | [42843976](https://pubmed.ncbi.nlm.nih.gov/42843976/) | Dysferlin promotes inflammatory macrophage responses and mod... |
-| 2026 Oct 8 | Constructing Molecular Bridging at the SnO2/Perovskite Interface for Efficient and Stable Perovskite Solar Cells. | ACS applied materials & interfaces | [42843821](https://pubmed.ncbi.nlm.nih.gov/42843821/) | Constructing Molecular Bridging at the SnO2/Perovskite Inter... |
-| 2026 Oct 7 | Paeonol alleviates oxidative stress and brain injury in hypoxic-ischemic encephalopathy by activating the PI3K/Akt/Nrf2 signaling pathway. | European journal of pharmacology | [42843703](https://pubmed.ncbi.nlm.nih.gov/42843703/) | Paeonol alleviates oxidative stress and brain injury in hypo... |
+| 2026 | Editorial: Neuroendocrine aging: inflammation, oxidative stress, and cognitive impairment. | Frontiers in endocrinology | [42845877](https://pubmed.ncbi.nlm.nih.gov/42845877/) | Editorial: Neuroendocrine aging: inflammation, oxidative str... |
+| 2026 Aug 10 | Reprogramming lipid metabolism in virus-infected neuronal cells. | Research square | [42845721](https://pubmed.ncbi.nlm.nih.gov/42845721/) | Reprogramming lipid metabolism in virus-infected neuronal ce... |
+| 2026 Aug 11 | A Time-Resolved Single-Cell Atlas Reveals Infection-Status, Age-, and Sex-Dependent Immune Responses Drive Viral Disease Severity. | bioRxiv : the preprint server for biology | [42845515](https://pubmed.ncbi.nlm.nih.gov/42845515/) | A Time-Resolved Single-Cell Atlas Reveals Infection-Status, ... |
+| 2026 Aug 10 | Cellular senescence is associated with age-related loss of liver zonation and hepatocyte function. | bioRxiv : the preprint server for biology | [42845483](https://pubmed.ncbi.nlm.nih.gov/42845483/) | Cellular senescence is associated with age-related loss of l... |
+| 2026 Aug 15 | Aging-associated regulatory B-like cells establish a lung-selective immunosuppressive niche to promote pulmonary metastasis. | bioRxiv : the preprint server for biology | [42845481](https://pubmed.ncbi.nlm.nih.gov/42845481/) | Aging-associated regulatory B-like cells establish a lung-se... |
 
 ### NAD+ 与线粒体
 
