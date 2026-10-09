@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep-Oct | Marine-Derived Collagen Peptides as Emerging Biofactors: Molecular Characteristics, Biological Mechanisms, and Potential Roles in Healthy Aging. | BioFactors (Oxford, England) | [42850207](https://pubmed.ncbi.nlm.nih.gov/42850207/) | Marine-Derived Collagen Peptides as Emerging Biofactors: Mol... |
-| 2026 Oct 8 | Synergistic reversal of mesenchymal stem cell senescence by engineered exosomal delivery of a dual miR-195/miR-188 sponge. | Experimental gerontology | [42849861](https://pubmed.ncbi.nlm.nih.gov/42849861/) | Synergistic reversal of mesenchymal stem cell senescence by ... |
-| 2026 Oct 8 | Phosphodiesterase 4 inhibitors extend lifespan of C. elegans and attenuate cellular senescence of mouse embryonic fibroblasts. | Free radical biology & medicine | [42849803](https://pubmed.ncbi.nlm.nih.gov/42849803/) | Phosphodiesterase 4 inhibitors extend lifespan of C. elegans... |
-| 2026 Oct 8 | Exemestane induces a reduction in hematopoietic stem cells and immunotoxicity in zebrafish larvae by downregulating Wnt signaling pathway. | Chemico-biological interactions | [42849775](https://pubmed.ncbi.nlm.nih.gov/42849775/) | Exemestane induces a reduction in hematopoietic stem cells a... |
-| 2026 Oct 8 | Organoids for modeling cellular senescence and age-related pathology: From experimental reconstruction to mechanistic and translational applications. | Ageing research reviews | [42849758](https://pubmed.ncbi.nlm.nih.gov/42849758/) | Organoids for modeling cellular senescence and age-related p... |
+| 2026 Oct 9 | Metabolite remodeling of age-stratified immature citrus peel (Qingpi) by pectinase hydrolysis: antioxidant activity and protection against ethanol-induced HepG2 cell injury. | Food & function | [42852704](https://pubmed.ncbi.nlm.nih.gov/42852704/) | Metabolite remodeling of age-stratified immature citrus peel... |
+| 2026 Oct 9 | Autophagy Regulates Foxo1 Protein Abundance to Control Hepatic Glucose Production in Glucagon Signalling. | Diabetes, obesity & metabolism | [42852497](https://pubmed.ncbi.nlm.nih.gov/42852497/) | Autophagy Regulates Foxo1 Protein Abundance to Control Hepat... |
+| 2026 | Thalamic quantitative susceptibility mapping and susceptibility source separation: a critical narrative review of evidence and interpretation. | Frontiers in neurology | [42851935](https://pubmed.ncbi.nlm.nih.gov/42851935/) | Thalamic quantitative susceptibility mapping and susceptibil... |
+| 2025 Dec | Clinically Meaningful or Just Measurable? What Physiologic Outcomes Tell Us About Aging Interventions. | Current geriatrics reports | [42851933](https://pubmed.ncbi.nlm.nih.gov/42851933/) | Clinically Meaningful or Just Measurable? What Physiologic O... |
+| 2026 | MAPK3 as a ferroptosis driver in excitatory neurons in Alzheimer's disease: from genetic causal inference to in vivo functional validation. | Frontiers in aging neuroscience | [42851601](https://pubmed.ncbi.nlm.nih.gov/42851601/) | MAPK3 as a ferroptosis driver in excitatory neurons in Alzhe... |
 
 ### NAD+ 与线粒体
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep | Polyamines, cardiorespiratory fitness, body composition, and mitochondrial function in older patients with coronary artery disease. | European heart journal open | [42852089](https://pubmed.ncbi.nlm.nih.gov/42852089/) | Polyamines, cardiorespiratory fitness, body composition, and... |
 | 2026 Oct 5 | Caloric restriction mimetics rewire the AMPK-mTOR-ULK1 signaling nexus to restore autophagic proteostasis in the aging brain. | Molecular and cellular neurosciences | [42833312](https://pubmed.ncbi.nlm.nih.gov/42833312/) | Caloric restriction mimetics rewire the AMPK-mTOR-ULK1 signa... |
 | 2026 Sep 27 | SAT1-Induced Spermidine Depletion Potentiates Food Allergy. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42801599](https://pubmed.ncbi.nlm.nih.gov/42801599/) | SAT1-Induced Spermidine Depletion Potentiates Food Allergy. |
-| 2026 Sep 26 | Polyamines across neurodegenerative proteinopathies. | Neurobiology of disease | [42800647](https://pubmed.ncbi.nlm.nih.gov/42800647/) | Polyamines across neurodegenerative proteinopathies. |
 
 ---
 
