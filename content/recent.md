@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 9 | Protein large language model-assisted one-to-one gene homology mapping in cross-species single-cell transcriptome integration. | Genome research | [42855280](https://pubmed.ncbi.nlm.nih.gov/42855280/) | Protein large language model-assisted one-to-one gene homolo... |
-| 2026 Oct 9 | Polydatin alleviates vascular calcification via the TP53/PI3K/AKT axis. | European journal of pharmacology | [42854816](https://pubmed.ncbi.nlm.nih.gov/42854816/) | Polydatin alleviates vascular calcification via the TP53/PI3... |
-| 2026 Oct 9 | Tau phosphorylation from neuronal adaptation to Alzheimer's disease. | Neuron | [42854699](https://pubmed.ncbi.nlm.nih.gov/42854699/) | Tau phosphorylation from neuronal adaptation to Alzheimer's ... |
-| 2026 Oct 9 | Single-cell analyses of global cohorts outline determinants of immune aging and link the ratio of GZMK(+) to GZMB(+) Tem cells to health trajectories. | Immunity | [42854692](https://pubmed.ncbi.nlm.nih.gov/42854692/) | Single-cell analyses of global cohorts outline determinants ... |
-| 2026 Oct 8 | In silico discovery and cellular validation of PBM-342: a novel PPAR-β/δ modulator for skeletal muscle differentiation. | Biochemical and biophysical research communications | [42854662](https://pubmed.ncbi.nlm.nih.gov/42854662/) | In silico discovery and cellular validation of PBM-342: a no... |
+| 2026 Oct 10 | Antioxidant Therapy, N-acetyl-L-cysteine, Effects on Pancreatic Beta Cells: Therapeutic Promise or Potential Harm? | Endocrinology | [42856074](https://pubmed.ncbi.nlm.nih.gov/42856074/) | Antioxidant Therapy, N-acetyl-L-cysteine, Effects on Pancrea... |
+| 2026 Oct 9 | Comprehensive Pan-Cancer Analysis Identifies LINC00942 as a Multifunctional lncRNA Involved in Tumor Progression, Immune Regulation, and Chemoresistance. | Asia-Pacific journal of clinical oncology | [42855881](https://pubmed.ncbi.nlm.nih.gov/42855881/) | Comprehensive Pan-Cancer Analysis Identifies LINC00942 as a ... |
+| 2026 Oct | ZNF865 (BLST) a Novel Regulator of DNA Damage and Cell Senescence in Back Pain. | Aging cell | [42855835](https://pubmed.ncbi.nlm.nih.gov/42855835/) | ZNF865 (BLST) a Novel Regulator of DNA Damage and Cell Senes... |
+| 2026 Oct 9 | Pannexin 1 expression in circulating progenitor marker-positive cells is associated with senescence and cardiovascular risk. | Biomarker research | [42855730](https://pubmed.ncbi.nlm.nih.gov/42855730/) | Pannexin 1 expression in circulating progenitor marker-posit... |
+| 2026 Oct 9 | Effects of Telomere Related Senescence-Genes in Cervical Cancer. | Reproductive sciences (Thousand Oaks, Calif.) | [42855652](https://pubmed.ncbi.nlm.nih.gov/42855652/) | Effects of Telomere Related Senescence-Genes in Cervical Can... |
 
 ### NAD+ 与线粒体
 
@@ -33,13 +33,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 尿石素 A 与线粒体自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Oct 1 | Urolithin A and Endothelial and Cerebrovascular Function in Middle-Aged Adults With Obesity: A Randomized Clinical Trial. | JAMA network open | [42853569](https://pubmed.ncbi.nlm.nih.gov/42853569/) | Urolithin A and Endothelial and Cerebrovascular Function in ... |
+| 2026 Oct 7 | Ellagitannin Metabolite Urolithin D Ameliorates Cognitive Function and Behavioral Performance in Aging Mice Partially via AMPK/PGC-1α/SIRT3-Dependent Regulation of Mitophagy-Related Molecular Machinery. | Molecular neurobiology | [42842065](https://pubmed.ncbi.nlm.nih.gov/42842065/) | Ellagitannin Metabolite Urolithin D Ameliorates Cognitive Fu... |
+| 2026 Oct 7 | Microbiota-derived urolithins and cortical thickness in cognitively healthy older adults: a longitudinal MRI analysis of the WAHA trial. | Food & function | [42841852](https://pubmed.ncbi.nlm.nih.gov/42841852/) | Microbiota-derived urolithins and cortical thickness in cogn... |
+| 2026 Sep 27 | Rab1A Promotes Hepatic Steatosis by Suppressing Mitophagy via the Raf-1/ERK1/2/PINK1 Signaling Axis. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42801566](https://pubmed.ncbi.nlm.nih.gov/42801566/) | Rab1A Promotes Hepatic Steatosis by Suppressing Mitophagy vi... |
+| 2026 Oct | Mitochondrial homeostasis in musculoskeletal diseases: From pathogenic mechanisms to precision therapies. | Pharmacological research | [42727834](https://pubmed.ncbi.nlm.nih.gov/42727834/) | Mitochondrial homeostasis in musculoskeletal diseases: From ... |
 
 ### 亚精胺与自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Sep | Polyamines, cardiorespiratory fitness, body composition, and mitochondrial function in older patients with coronary artery disease. | European heart journal open | [42852089](https://pubmed.ncbi.nlm.nih.gov/42852089/) | Polyamines, cardiorespiratory fitness, body composition, and... |
+| 2026 Oct 5 | Caloric restriction mimetics rewire the AMPK-mTOR-ULK1 signaling nexus to restore autophagic proteostasis in the aging brain. | Molecular and cellular neurosciences | [42833312](https://pubmed.ncbi.nlm.nih.gov/42833312/) | Caloric restriction mimetics rewire the AMPK-mTOR-ULK1 signa... |
+| 2026 Sep 27 | SAT1-Induced Spermidine Depletion Potentiates Food Allergy. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42801599](https://pubmed.ncbi.nlm.nih.gov/42801599/) | SAT1-Induced Spermidine Depletion Potentiates Food Allergy. |
 
 ---
 
