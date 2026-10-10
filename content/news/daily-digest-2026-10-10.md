@@ -12,61 +12,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: A neuronal GPCR modifies neuropeptide signaling to suppress proteostasis in distal tissues.
+## 研究 1: Efficient Generation of Single- and Multigene CRISPR-Cas9 Knockout in Human Cells.
 
-**期刊**: Science advances  
+**期刊**: DNA and cell biology  
 **发表日期**: 2026 Oct 9  
-**第一作者**: Hirbawi J 等 | **PMID**: [42853952](https://pubmed.ncbi.nlm.nih.gov/42853952/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-首次揭示神经元GPCR通过修饰神经肽信号，远程抑制远端组织的蛋白稳态网络。这确立了神经-外周组织通讯在衰老相关蛋白聚集中的调控作用。
-
-### 🔬 关键发现
-
-降低某神经元GPCR表达会改变神经肽信号，进而削弱远端组织的蛋白稳态能力，导致聚集蛋白累积。该调控跨组织发生，不局限于神经元自身。
-
-### 🧪 方法简介
-
-结合遗传操作与跨组织信号分析，在整体动物水平追踪神经元GPCR对远端组织蛋白稳态的功能影响，突破了以往细胞自主性研究的局限。
-
-### 🏥 临床相关性
-
-提示靶向神经元GPCR或神经肽信号，可能成为恢复外周组织蛋白稳态、延缓神经退行性变的新策略。为抗衰老干预提供了跨组织调控的新靶点。
-
----
-
-## 研究 2: HPSC-derived mesenchymal stromal cells ameliorate murine autistic-like phenotypes through activating oxytocinergic neurons.
-
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 9  
-**第一作者**: Huang Y 等 | **PMID**: [42853941](https://pubmed.ncbi.nlm.nih.gov/42853941/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该研究首次证明iPSC来源的间充质基质细胞（MSCs）可改善孤独症模型小鼠的焦虑、重复理毛和社交障碍，并揭示其机制依赖于激活催产素能神经元，为MSCs治疗ASD提供了明确的神经环路靶点。
-
-### 🔬 关键发现
-
-iPSC衍生MSCs显著缓解小鼠的焦虑样行为、过度理毛及社交缺陷；该治疗效应与催产素能神经元激活相关，提示MSCs通过调控内源性催产素系统发挥治疗作用。
-
-### 🧪 方法简介
-
-研究采用iPSC诱导分化获得MSCs，并在孤独症小鼠模型中结合行为学评估与催产素能神经元活性分析，建立了“细胞治疗—行为改善—特定神经环路激活”的因果验证路径。
-
-### 🏥 临床相关性
-
-该发现支持iPSC-MSCs作为ASD潜在细胞疗法的转化价值，并提示催产素能神经元可作为疗效标志或联合靶点；对衰老相关社交与情绪退化的干预研究亦有借鉴意义。
-
----
-
-## 研究 3: Senescent tumor cell membrane-based "time engine" nanosystem amplifies endoplasmic reticulum targeting for metastasis blockade.
-
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 9  
-**第一作者**: Tao J 等 | **PMID**: [42853939](https://pubmed.ncbi.nlm.nih.gov/42853939/)  
+**第一作者**: Manzoor Y 等 | **PMID**: [42855940](https://pubmed.ncbi.nlm.nih.gov/42855940/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -87,60 +37,110 @@ iPSC衍生MSCs显著缓解小鼠的焦虑样行为、过度理毛及社交缺陷
 
 ---
 
-## 研究 4: Targeting SUV39H2 exon skipping reverses resistance to CDK4/6 inhibitors via transcriptional activation of p21.
+## 研究 2: Early-life microbial contact with adult hens modulates cecal microbiota and mitigates host responses to lipopolysaccharide-induced stress in broilers.
 
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 9  
-**第一作者**: Yu S 等 | **PMID**: [42853938](https://pubmed.ncbi.nlm.nih.gov/42853938/)  
+**期刊**: Journal of animal science and biotechnology  
+**发表日期**: 2026 Oct 10  
+**第一作者**: Zhao H 等 | **PMID**: [42855716](https://pubmed.ncbi.nlm.nih.gov/42855716/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次揭示SUV39H2外显子跳跃通过转录激活p21逆转CDK4/6抑制剂耐药，将可变剪接调控与细胞周期阻滞通路直接关联，为克服乳腺癌耐药提供了全新靶点。
+本研究首次证实，生命早期接触成年母鸡微生物可重塑肉鸡盲肠菌群，并显著缓解脂多糖（LPS）诱导的免疫应激。这提示早期微生物暴露对肠道生态演替和宿主应激韧性具有关键调控作用。
 
 ### 🔬 关键发现
 
-SUV39H2外显子2的包含/跳跃状态决定了CDK4/6i的敏感性；靶向该外显子跳跃可重新激活p21转录，从而恢复肿瘤细胞对CDK4/6抑制剂的响应。
+早期接触成年母鸡微生物的肉鸡，其盲肠菌群结构和代谢物谱得到优化；在LPS刺激下，该组宿主免疫应激反应明显减轻。实验采用2×2析因设计，第10天移除母鸡，第18和20天注射LPS。
 
 ### 🧪 方法简介
 
-研究采用剪接调控策略（靶向外显子跳跃）结合转录组分析，系统解析了SUV39H2剪接异构体在耐药中的功能差异，为剪接靶向治疗提供了方法学范式。
+研究构建了“早期成年母鸡微生物接触”模型，结合LPS诱导的免疫应激范式，系统评估了微生物暴露对肠道菌群与宿主应答的交互影响，为肠道生态演替研究提供了可操作实验框架。
 
 ### 🏥 临床相关性
 
-该发现提示剪接调控因子可作为CDK4/6i耐药的预测标志物和干预靶点；同时，p21转录激活策略对衰老相关细胞周期停滞干预具有潜在借鉴价值。
+该发现支持“早期微生物干预”作为提升宿主抗应激能力的策略，对理解衰老相关肠道菌群失调及免疫衰退具有启示，未来或可探索生命早期菌群暴露用于改善老年免疫韧性。
 
 ---
 
-## 研究 5: Enhancer binding kinetics explain transcription factor hub formation.
+## 研究 3: Mouse Bone Mesenchymal Stem Cells Attenuate Apoptosis by Regulating the Bcl2/Caspase3 Signaling Pathway in Premature Ovarian Failure.
 
-**期刊**: Science advances  
+**期刊**: Reproductive sciences (Thousand Oaks, Calif.)  
 **发表日期**: 2026 Oct 9  
-**第一作者**: Fallacaro S 等 | **PMID**: [42853937](https://pubmed.ncbi.nlm.nih.gov/42853937/)  
+**第一作者**: Jiang B 等 | **PMID**: [42855653](https://pubmed.ncbi.nlm.nih.gov/42855653/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究揭示增强子序列通过调控转录因子（TF）结合动力学，决定TF hubs的形成与特性，为理解基因转录调控的时空组织提供了新机制。
+该研究揭示小鼠骨髓间充质干细胞（mBMSCs）通过调控Bcl2/Caspase3信号通路抑制卵巢颗粒细胞凋亡，从而有效改善环磷酰胺诱导的早发性卵巢功能不全（POF）。这一发现为POF的细胞治疗提供了明确的分子靶点。
 
 ### 🔬 关键发现
 
-TF hubs与活跃转录基因在活细胞中呈现动态时空关联，增强子结合动力学是TF hub形成的关键决定因素。
+mBMSCs治疗4周后，POF小鼠卵泡数量和雌二醇（E2）水平显著升高，FSH和LH浓度显著降低；卵巢组织中Bax和Caspase-3蛋白表达显著下降，而Bcl-2表达上调，表明凋亡被抑制。
 
 ### 🧪 方法简介
 
-开发了基于活细胞成像的框架，可实时量化TF hubs与活跃转录基因之间的时空关系。
+研究整合了GEO数据库（GSE128240）的转录组分析（GO/KEGG富集）与CTX诱导的小鼠POF模型，并通过Western blotting和免疫组化验证Bcl-2、Bax、Caspase-3蛋白变化，实现了从生物信息学预测到体内实验验证的闭环。
 
 ### 🏥 临床相关性
 
-为靶向转录调控的干预策略提供理论依据，未来或可通过调控TF hub特性影响衰老相关基因表达，但尚需进一步验证。
+该发现提示靶向Bcl2/Caspase3通路或输注mBMSCs可能成为延缓卵巢衰老及治疗POF的新策略，为开发基于干细胞的抗衰老干预手段提供了临床前证据。
+
+---
+
+## 研究 4: Antioxidant Therapy, N-acetyl-L-cysteine, Effects on Pancreatic Beta Cells: Therapeutic Promise or Potential Harm?
+
+**期刊**: Endocrinology  
+**发表日期**: 2026 Oct 10  
+**第一作者**: Schuurman M 等 | **PMID**: [42856074](https://pubmed.ncbi.nlm.nih.gov/42856074/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+详见原文
+
+### 🔬 关键发现
+
+详见原文
+
+### 🧪 方法简介
+
+详见原文
+
+### 🏥 临床相关性
+
+详见原文
+
+---
+
+## 研究 5: From oncogenesis to approval: the lentiviral gene therapy revolution in Wiskott-Aldrich syndrome.
+
+**期刊**: Regenerative medicine  
+**发表日期**: 2026 Oct 10  
+**第一作者**: Karimizadeh Z 等 | **PMID**: [42856044](https://pubmed.ncbi.nlm.nih.gov/42856044/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该综述系统梳理了慢病毒基因治疗在Wiskott-Aldrich综合征（WAS）中从致癌风险到最终获批的完整转化历程，标志着基因治疗在原发性免疫缺陷病领域迈入成熟阶段。
+
+### 🔬 关键发现
+
+早期γ-逆转录病毒载体试验证实基因治疗可重建WASp功能，但因插入突变引发致癌风险；慢病毒载体通过优化设计显著降低了该风险，最终推动疗法获批。
+
+### 🧪 方法简介
+
+采用慢病毒载体替代γ-逆转录病毒载体进行自体造血干细胞基因修饰，在保持转导效率的同时，大幅提升插入位点的安全性。
+
+### 🏥 临床相关性
+
+该路径为其他单基因免疫缺陷及衰老相关免疫功能衰退的基因干预提供了可复制的“安全-有效”转化范式，推动个体化再生医学发展。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-10 03:27:39  
+**生成时间**: 2026-10-10 16:17:45  
 **摘要生成**: DeepSeek AI
 
 ---
