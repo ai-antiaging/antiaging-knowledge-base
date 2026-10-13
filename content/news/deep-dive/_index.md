@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[Phenotyping Heart Failure With Preserved Ejection Fraction in Japan　- Position Paper on Current Evidence and Future Directions.](./2026-10-13-weekly/)** — 2026年10月13日
+  - *Circulation journal : official journal of the Japanese Circulation Society* · PMID: 42864065
+
 - **[Adipose-derived stem cell exosomes alleviate oxidative damage and reduce intraocular pressure in primary open-angle glaucoma via the ROS-mediated PI3K/AKT pathway.](./2026-10-06-weekly/)** — 2026年10月06日
   - *Experimental cell research* · PMID: 42833468
 
