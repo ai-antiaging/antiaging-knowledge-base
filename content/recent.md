@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-12 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-13 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,26 +15,39 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 9 | The polycentric aging framework: epigenetic regulation as a dominant lifespan-limiting center in human aging. | Aging | [42862118](https://pubmed.ncbi.nlm.nih.gov/42862118/) | The polycentric aging framework: epigenetic regulation as a ... |
-| 2026 Oct 12 | Nuclear blebs are composed of variable chromatin states and display increased transcription initiation relative to elongation. | Biology open | [42862039](https://pubmed.ncbi.nlm.nih.gov/42862039/) | Nuclear blebs are composed of variable chromatin states and ... |
-| 2026 Oct | Effect of Dermal Fibroblast-Conditioned Media on Human Dermal Fibroblasts Treated With Electromagnetic Transduction Therapy. | Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI) | [42861896](https://pubmed.ncbi.nlm.nih.gov/42861896/) | Effect of Dermal Fibroblast-Conditioned Media on Human Derma... |
-| 2026 Oct 12 | Integrative genomic and functional analysis identifies BCL10 as a novel driver of trophoblast senescence in preeclampsia. | Journal of hypertension | [42861844](https://pubmed.ncbi.nlm.nih.gov/42861844/) | Integrative genomic and functional analysis identifies BCL10... |
-| 2026 Oct 12 | Paracrine Bone-Derived Senescent Secretome is Associated with Spatially Patterned ECM Remodeling and Altered Biomechanics in Human Brain Organoids. | Stem cells (Dayton, Ohio) | [42861725](https://pubmed.ncbi.nlm.nih.gov/42861725/) | Paracrine Bone-Derived Senescent Secretome is Associated wit... |
+| 2026 Oct 12 | Boosting the nuclear Wnt/β-catenin feedback loop for the specific elimination of colorectal cancer. | Gut | [42863976](https://pubmed.ncbi.nlm.nih.gov/42863976/) | Boosting the nuclear Wnt/β-catenin feedback loop for the spe... |
+| 2026 Oct 12 | Conduction System Versus Right Ventricular Pacing in Patients Undergoing TAVR: A Multicenter Propensity-Matched Study. | JACC. Cardiovascular interventions | [42863877](https://pubmed.ncbi.nlm.nih.gov/42863877/) | Conduction System Versus Right Ventricular Pacing in Patient... |
+| 2026 Oct 12 | Tumor-Associated Immunosenescence: Mechanisms, Biomarkers, and Age-Adaptive Immunotherapy. | Critical reviews in oncology/hematology | [42863771](https://pubmed.ncbi.nlm.nih.gov/42863771/) | Tumor-Associated Immunosenescence: Mechanisms, Biomarkers, a... |
+| 2026 Oct 12 | Humanin attenuates neuronal cellular senescence and preserves neurotransmitter release in differentiated PC12 cells. | Neuroscience | [42863694](https://pubmed.ncbi.nlm.nih.gov/42863694/) | Humanin attenuates neuronal cellular senescence and preserve... |
+| 2026 Oct 12 | Cellular Senescence in Heart Failure with Preserved Ejection Fraction: Mechanisms and Therapeutic Opportunities. | Ageing research reviews | [42863579](https://pubmed.ncbi.nlm.nih.gov/42863579/) | Cellular Senescence in Heart Failure with Preserved Ejection... |
 
 ### NAD+ 与线粒体
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Oct 11 | Reversal of Chronic Stress-Induced Inflammaging by Bazi Bushen Formula Through AMPK-Sirtuins Axis Activation and Myeloid Reset. | Exploration (Beijing, China) | [42861278](https://pubmed.ncbi.nlm.nih.gov/42861278/) | Reversal of Chronic Stress-Induced Inflammaging by Bazi Bush... |
+| 2026 Oct | SIRT3-Dependent Actions of Berberine: From Molecular Therapies to Toxicity. | Journal of biochemical and molecular toxicology | [42859914](https://pubmed.ncbi.nlm.nih.gov/42859914/) | SIRT3-Dependent Actions of Berberine: From Molecular Therapi... |
+| 2026 Oct 10 | THE AGING PURINOME: A PURINERGIC FRAMEWORK LINKING THE HALLMARKS OF AGING TO INFLAMMAGING. | Ageing research reviews | [42858859](https://pubmed.ncbi.nlm.nih.gov/42858859/) | THE AGING PURINOME: A PURINERGIC FRAMEWORK LINKING THE HALLM... |
+| 2026 Oct 2 | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evidentiary Limits, and Translational Requirements. | Aging and disease | [42858331](https://pubmed.ncbi.nlm.nih.gov/42858331/) | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evide... |
+| 2026 Oct 9 | Hepatocyte Serine Palmitoyltransferase 3 is essential for mitochondrial ceramide homeostasis and electron transport chain function. | The Journal of biological chemistry | [42854910](https://pubmed.ncbi.nlm.nih.gov/42854910/) | Hepatocyte Serine Palmitoyltransferase 3 is essential for mi... |
 
 ### 尿石素 A 与线粒体自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2027 Mar | An ultrasound-responsive hydrogel with piezoelectric-enhanced bioelectric-vesicular coupling alleviates mitochondrial dysfunction and inflammation for osteoarthritis therapy. | Bioactive materials | [42861280](https://pubmed.ncbi.nlm.nih.gov/42861280/) | An ultrasound-responsive hydrogel with piezoelectric-enhance... |
+| 2026 Sep 28 | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Flux, Measurement Gaps, and Human Translation. | Aging and disease | [42858326](https://pubmed.ncbi.nlm.nih.gov/42858326/) | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Fl... |
+| 2026 Oct 1 | Urolithin A and Endothelial and Cerebrovascular Function in Middle-Aged Adults With Obesity: A Randomized Clinical Trial. | JAMA network open | [42853569](https://pubmed.ncbi.nlm.nih.gov/42853569/) | Urolithin A and Endothelial and Cerebrovascular Function in ... |
+| 2026 Oct 7 | Ellagitannin Metabolite Urolithin D Ameliorates Cognitive Function and Behavioral Performance in Aging Mice Partially via AMPK/PGC-1α/SIRT3-Dependent Regulation of Mitophagy-Related Molecular Machinery. | Molecular neurobiology | [42842065](https://pubmed.ncbi.nlm.nih.gov/42842065/) | Ellagitannin Metabolite Urolithin D Ameliorates Cognitive Fu... |
+| 2026 Oct 7 | Microbiota-derived urolithins and cortical thickness in cognitively healthy older adults: a longitudinal MRI analysis of the WAHA trial. | Food & function | [42841852](https://pubmed.ncbi.nlm.nih.gov/42841852/) | Microbiota-derived urolithins and cortical thickness in cogn... |
 
 ### 亚精胺与自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Oct 10 | Correction: Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42859229](https://pubmed.ncbi.nlm.nih.gov/42859229/) | Correction: Longitudinal association of dietary spermidine w... |
+| 2026 Oct 2 | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evidentiary Limits, and Translational Requirements. | Aging and disease | [42858331](https://pubmed.ncbi.nlm.nih.gov/42858331/) | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evide... |
+| 2026 Oct 9 | Effects of Spermidine Supplementation on Vascular Brain Health in Older Individuals with Subjective Cognitive Decline - An Exploratory MRI Analysis. | Aging and disease | [42858321](https://pubmed.ncbi.nlm.nih.gov/42858321/) | Effects of Spermidine Supplementation on Vascular Brain Heal... |
 
 ---
 
@@ -48,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-12 | 自动生成*
+*最后更新：2026-10-13 | 自动生成*
