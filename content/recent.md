@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 12 | Boosting the nuclear Wnt/β-catenin feedback loop for the specific elimination of colorectal cancer. | Gut | [42863976](https://pubmed.ncbi.nlm.nih.gov/42863976/) | Boosting the nuclear Wnt/β-catenin feedback loop for the spe... |
-| 2026 Oct 12 | Conduction System Versus Right Ventricular Pacing in Patients Undergoing TAVR: A Multicenter Propensity-Matched Study. | JACC. Cardiovascular interventions | [42863877](https://pubmed.ncbi.nlm.nih.gov/42863877/) | Conduction System Versus Right Ventricular Pacing in Patient... |
-| 2026 Oct 12 | Tumor-Associated Immunosenescence: Mechanisms, Biomarkers, and Age-Adaptive Immunotherapy. | Critical reviews in oncology/hematology | [42863771](https://pubmed.ncbi.nlm.nih.gov/42863771/) | Tumor-Associated Immunosenescence: Mechanisms, Biomarkers, a... |
-| 2026 Oct 12 | Humanin attenuates neuronal cellular senescence and preserves neurotransmitter release in differentiated PC12 cells. | Neuroscience | [42863694](https://pubmed.ncbi.nlm.nih.gov/42863694/) | Humanin attenuates neuronal cellular senescence and preserve... |
-| 2026 Oct 12 | Cellular Senescence in Heart Failure with Preserved Ejection Fraction: Mechanisms and Therapeutic Opportunities. | Ageing research reviews | [42863579](https://pubmed.ncbi.nlm.nih.gov/42863579/) | Cellular Senescence in Heart Failure with Preserved Ejection... |
+| 2026 | Senomorphic miR-3155b suppresses the senescence-associated secretory phenotype in therapy-induced senescence. | Frontiers in cell and developmental biology | [42865812](https://pubmed.ncbi.nlm.nih.gov/42865812/) | Senomorphic miR-3155b suppresses the senescence-associated s... |
+| 2026 | Unraveling changes in mitochondrial processes influenced by ancestry in APOEε4 carriers with Alzheimer disease. | Frontiers in aging neuroscience | [42865737](https://pubmed.ncbi.nlm.nih.gov/42865737/) | Unraveling changes in mitochondrial processes influenced by ... |
+| 2026 | Roles of exosomal miRNAs from different sources in knee osteoarthritis: exercise-regulated skeletal muscle-derived exosomal miRNAs as a prospective therapeutic avenue. | Frontiers in medicine | [42865716](https://pubmed.ncbi.nlm.nih.gov/42865716/) | Roles of exosomal miRNAs from different sources in knee oste... |
+| 2026 Oct | Plant-Derived Senolytic Ingredient, Camellia sinensis Root Extract, Ameliorates Skin Aging-Associated Phenotypes. | Experimental dermatology | [42865293](https://pubmed.ncbi.nlm.nih.gov/42865293/) | Plant-Derived Senolytic Ingredient, Camellia sinensis Root E... |
+| 2026 Oct 5 | Aging-driven Mechanisms Underlying Parkinson's Disease Pathogenesis: Molecular, Cellular, and Systemic Perspectives. | CNS & neurological disorders drug targets | [42864799](https://pubmed.ncbi.nlm.nih.gov/42864799/) | Aging-driven Mechanisms Underlying Parkinson's Disease Patho... |
 
 ### NAD+ 与线粒体
 
@@ -33,13 +33,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2027 Mar | An ultrasound-responsive hydrogel with piezoelectric-enhanced bioelectric-vesicular coupling alleviates mitochondrial dysfunction and inflammation for osteoarthritis therapy. | Bioactive materials | [42861280](https://pubmed.ncbi.nlm.nih.gov/42861280/) | An ultrasound-responsive hydrogel with piezoelectric-enhance... |
-| 2026 Sep 28 | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Flux, Measurement Gaps, and Human Translation. | Aging and disease | [42858326](https://pubmed.ncbi.nlm.nih.gov/42858326/) | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Fl... |
-| 2026 Oct 1 | Urolithin A and Endothelial and Cerebrovascular Function in Middle-Aged Adults With Obesity: A Randomized Clinical Trial. | JAMA network open | [42853569](https://pubmed.ncbi.nlm.nih.gov/42853569/) | Urolithin A and Endothelial and Cerebrovascular Function in ... |
-| 2026 Oct 7 | Ellagitannin Metabolite Urolithin D Ameliorates Cognitive Function and Behavioral Performance in Aging Mice Partially via AMPK/PGC-1α/SIRT3-Dependent Regulation of Mitophagy-Related Molecular Machinery. | Molecular neurobiology | [42842065](https://pubmed.ncbi.nlm.nih.gov/42842065/) | Ellagitannin Metabolite Urolithin D Ameliorates Cognitive Fu... |
-| 2026 Oct 7 | Microbiota-derived urolithins and cortical thickness in cognitively healthy older adults: a longitudinal MRI analysis of the WAHA trial. | Food & function | [42841852](https://pubmed.ncbi.nlm.nih.gov/42841852/) | Microbiota-derived urolithins and cortical thickness in cogn... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
