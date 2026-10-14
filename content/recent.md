@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-13 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-14 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 | Senomorphic miR-3155b suppresses the senescence-associated secretory phenotype in therapy-induced senescence. | Frontiers in cell and developmental biology | [42865812](https://pubmed.ncbi.nlm.nih.gov/42865812/) | Senomorphic miR-3155b suppresses the senescence-associated s... |
-| 2026 | Unraveling changes in mitochondrial processes influenced by ancestry in APOEε4 carriers with Alzheimer disease. | Frontiers in aging neuroscience | [42865737](https://pubmed.ncbi.nlm.nih.gov/42865737/) | Unraveling changes in mitochondrial processes influenced by ... |
-| 2026 | Roles of exosomal miRNAs from different sources in knee osteoarthritis: exercise-regulated skeletal muscle-derived exosomal miRNAs as a prospective therapeutic avenue. | Frontiers in medicine | [42865716](https://pubmed.ncbi.nlm.nih.gov/42865716/) | Roles of exosomal miRNAs from different sources in knee oste... |
-| 2026 Oct | Plant-Derived Senolytic Ingredient, Camellia sinensis Root Extract, Ameliorates Skin Aging-Associated Phenotypes. | Experimental dermatology | [42865293](https://pubmed.ncbi.nlm.nih.gov/42865293/) | Plant-Derived Senolytic Ingredient, Camellia sinensis Root E... |
-| 2026 Oct 5 | Aging-driven Mechanisms Underlying Parkinson's Disease Pathogenesis: Molecular, Cellular, and Systemic Perspectives. | CNS & neurological disorders drug targets | [42864799](https://pubmed.ncbi.nlm.nih.gov/42864799/) | Aging-driven Mechanisms Underlying Parkinson's Disease Patho... |
+| 2026 Sep | [Effects and mechanisms of Supplemented Shenqi Dihuang Decoction Formula improving renal aging and tubulointerstitial fibrosis in diabetic kidney disease by inhibiting ferroptosis]. | Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica | [42869820](https://pubmed.ncbi.nlm.nih.gov/42869820/) | [Effects and mechanisms of Supplemented Shenqi Dihuang Decoc... |
+| 2026 Oct 13 | The divergent 3D genome landscapes of aging and neurodegenerative mouse models. | Genome research | [42869662](https://pubmed.ncbi.nlm.nih.gov/42869662/) | The divergent 3D genome landscapes of aging and neurodegener... |
+| 2026 Oct 13 | Mitochondrial Psychobiology. | Neuroscience and biobehavioral reviews | [42869317](https://pubmed.ncbi.nlm.nih.gov/42869317/) | Mitochondrial Psychobiology. |
+| 2026 Oct 13 | A protease-resistant D-amino acid αA-crystallin mini-chaperone with enhanced chaperone and antioxidant activities protects against amyloid-β proteotoxicity. | Free radical biology & medicine | [42869308](https://pubmed.ncbi.nlm.nih.gov/42869308/) | A protease-resistant D-amino acid αA-crystallin mini-chapero... |
+| 2026 Oct 13 | MenSC-EV-derived HSPA5 activates the AKT/mTOR axis to suppress ferroptosis in Type 1 diabetes mellitus-associated ovarian dysfunction. | Free radical biology & medicine | [42869305](https://pubmed.ncbi.nlm.nih.gov/42869305/) | MenSC-EV-derived HSPA5 activates the AKT/mTOR axis to suppre... |
 
 ### NAD+ 与线粒体
 
@@ -38,11 +38,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Oct 10 | Correction: Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42859229](https://pubmed.ncbi.nlm.nih.gov/42859229/) | Correction: Longitudinal association of dietary spermidine w... |
-| 2026 Oct 2 | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evidentiary Limits, and Translational Requirements. | Aging and disease | [42858331](https://pubmed.ncbi.nlm.nih.gov/42858331/) | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evide... |
-| 2026 Oct 9 | Effects of Spermidine Supplementation on Vascular Brain Health in Older Individuals with Subjective Cognitive Decline - An Exploratory MRI Analysis. | Aging and disease | [42858321](https://pubmed.ncbi.nlm.nih.gov/42858321/) | Effects of Spermidine Supplementation on Vascular Brain Heal... |
+*暂无最新文献*
+
 
 ---
 
@@ -56,4 +53,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-13 | 自动生成*
+*最后更新：2026-10-14 | 自动生成*
