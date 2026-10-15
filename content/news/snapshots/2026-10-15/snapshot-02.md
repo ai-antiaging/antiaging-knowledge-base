@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-10-15 #2"
 date: 2026-10-15
-description: "Corrigendum to "Propofol-mediated inhibition of ovarian function by mitophagy ov..."
+description: 'Corrigendum to "Propofol-mediated inhibition of ovarian function by mitophagy ov..."'
 draft: false
 type: "snapshot"
 ---
