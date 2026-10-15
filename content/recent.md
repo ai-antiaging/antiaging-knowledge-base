@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 14 | Heart-brain co-ageing: phenotypic heterogeneity, molecular mechanisms and translational interventions. | Ageing research reviews | [42874807](https://pubmed.ncbi.nlm.nih.gov/42874807/) | Heart-brain co-ageing: phenotypic heterogeneity, molecular m... |
-| 2026 Oct 14 | Biomanufacturing Vascular Matrix-Mimetic Hydrogels from Quantified Arterial Micromechanics and Microstructure. | Acta biomaterialia | [42874756](https://pubmed.ncbi.nlm.nih.gov/42874756/) | Biomanufacturing Vascular Matrix-Mimetic Hydrogels from Quan... |
-| 2026 Oct 14 | Mitochondria strike two hits to drive the SASP. | Developmental cell | [42874574](https://pubmed.ncbi.nlm.nih.gov/42874574/) | Mitochondria strike two hits to drive the SASP. |
-| 2026 Oct 14 | CNPY3 variants associated with a recessive developmental and epileptic encephalopathy affect inflammasome and TLR function. | EBioMedicine | [42874293](https://pubmed.ncbi.nlm.nih.gov/42874293/) | CNPY3 variants associated with a recessive developmental and... |
-| 2026 Oct 14 | Hippo-YAP/TAZ signalling at the crossroads of brain ageing and neurological disorders: mechanisms, crosstalk, and therapeutic prospects. | Biogerontology | [42873329](https://pubmed.ncbi.nlm.nih.gov/42873329/) | Hippo-YAP/TAZ signalling at the crossroads of brain ageing a... |
+| 2026 Oct | Ergothioneine Mediated Neuroprotective Effects in the Nervous System. | Molecular nutrition & food research | [42876395](https://pubmed.ncbi.nlm.nih.gov/42876395/) | Ergothioneine Mediated Neuroprotective Effects in the Nervou... |
+| 2026 Oct | Skeletal Muscle-Derived Extracellular Vesicles in Interorgan Communication During Aging. | Aging cell | [42876337](https://pubmed.ncbi.nlm.nih.gov/42876337/) | Skeletal Muscle-Derived Extracellular Vesicles in Interorgan... |
+| 2026 Oct 15 | Bone Marrow Macrophage STING Signaling is a Direct Nexus Linking Marrow Adipose Expansion to NAD(+) Depletion and Osteogenic Decline in Skeletal Aging. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42876239](https://pubmed.ncbi.nlm.nih.gov/42876239/) | Bone Marrow Macrophage STING Signaling is a Direct Nexus Lin... |
+| 2026 Oct 14 | Bridging the Translational Gap in Sex-Specific Alzheimer's Disease Using Human iPSC-Based Neural Cell Models. | Stem cells (Dayton, Ohio) | [42876052](https://pubmed.ncbi.nlm.nih.gov/42876052/) | Bridging the Translational Gap in Sex-Specific Alzheimer's D... |
+| 2026 Oct | Multi-omics integration and machine learning identify an ACKR1(+) endothelial cell-based lactate-immune signature associated with carotid plaque vulnerability and progression. | Clinical and translational medicine | [42875951](https://pubmed.ncbi.nlm.nih.gov/42875951/) | Multi-omics integration and machine learning identify an ACK... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct 15 | Bone Marrow Macrophage STING Signaling is a Direct Nexus Linking Marrow Adipose Expansion to NAD(+) Depletion and Osteogenic Decline in Skeletal Aging. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42876239](https://pubmed.ncbi.nlm.nih.gov/42876239/) | Bone Marrow Macrophage STING Signaling is a Direct Nexus Lin... |
+| 2026 Oct 14 | Mitochondrial Quality Control in Degenerative Musculoskeletal Diseases: Signaling Networks and Therapeutic Landscapes. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42875857](https://pubmed.ncbi.nlm.nih.gov/42875857/) | Mitochondrial Quality Control in Degenerative Musculoskeleta... |
+| 2026 Oct 14 | Genetic modulation of NAD(P)H homeostasis reveals distinct redox-coupled metabolic vulnerabilities. | Nature metabolism | [42875582](https://pubmed.ncbi.nlm.nih.gov/42875582/) | Genetic modulation of NAD(P)H homeostasis reveals distinct r... |
 | 2026 Oct 14 | An NAD(+)-responsive adipose signal coordinates inter-organ defense against muscle atrophy. | Cell metabolism | [42874585](https://pubmed.ncbi.nlm.nih.gov/42874585/) | An NAD(+)-responsive adipose signal coordinates inter-organ ... |
 | 2026 Oct 14 | NAD+ Attenuates Neuroinflammation in Ischemic Stroke by Suppressing the cGAS- STING Pathway via Mitochondrial Homeostasis Restoration. | Molecular neurobiology | [42870203](https://pubmed.ncbi.nlm.nih.gov/42870203/) | NAD+ Attenuates Neuroinflammation in Ischemic Stroke by Supp... |
-| 2026 Oct 11 | Reversal of Chronic Stress-Induced Inflammaging by Bazi Bushen Formula Through AMPK-Sirtuins Axis Activation and Myeloid Reset. | Exploration (Beijing, China) | [42861278](https://pubmed.ncbi.nlm.nih.gov/42861278/) | Reversal of Chronic Stress-Induced Inflammaging by Bazi Bush... |
-| 2026 Oct | SIRT3-Dependent Actions of Berberine: From Molecular Therapies to Toxicity. | Journal of biochemical and molecular toxicology | [42859914](https://pubmed.ncbi.nlm.nih.gov/42859914/) | SIRT3-Dependent Actions of Berberine: From Molecular Therapi... |
-| 2026 Oct 10 | THE AGING PURINOME: A PURINERGIC FRAMEWORK LINKING THE HALLMARKS OF AGING TO INFLAMMAGING. | Ageing research reviews | [42858859](https://pubmed.ncbi.nlm.nih.gov/42858859/) | THE AGING PURINOME: A PURINERGIC FRAMEWORK LINKING THE HALLM... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -43,11 +43,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Oct 10 | Correction: Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42859229](https://pubmed.ncbi.nlm.nih.gov/42859229/) | Correction: Longitudinal association of dietary spermidine w... |
-| 2026 Oct 2 | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evidentiary Limits, and Translational Requirements. | Aging and disease | [42858331](https://pubmed.ncbi.nlm.nih.gov/42858331/) | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evide... |
-| 2026 Oct 9 | Effects of Spermidine Supplementation on Vascular Brain Health in Older Individuals with Subjective Cognitive Decline - An Exploratory MRI Analysis. | Aging and disease | [42858321](https://pubmed.ncbi.nlm.nih.gov/42858321/) | Effects of Spermidine Supplementation on Vascular Brain Heal... |
+*暂无最新文献*
+
 
 ---
 
