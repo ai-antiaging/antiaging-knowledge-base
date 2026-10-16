@@ -12,11 +12,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Sleep Deprivation Selectively Alters Cellular Stress Responses During Exercise in the Heat in Young and Older Males.
+## 研究 1: Medium-Frequency Electrotherapy-Driven Remodeling of Tumor Biology and Overcoming Treatment Resistance: Molecular Mechanisms and Clinical Integration.
 
-**期刊**: Medicine and science in sports and exercise  
-**发表日期**: 2026 Oct 15  
-**第一作者**: McCormick JJ 等 | **PMID**: [42878174](https://pubmed.ncbi.nlm.nih.gov/42878174/)  
+**期刊**: Journal of molecular cell biology  
+**发表日期**: 2026 Oct 16  
+**第一作者**: Wu X 等 | **PMID**: [42886062](https://pubmed.ncbi.nlm.nih.gov/42886062/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -37,110 +37,110 @@ type: "daily-digest"
 
 ---
 
-## 研究 2: Conversion-Controlled Poly(Ionic Liquid)/Aluminum Nitride Thermal Interface Materials with Internal Plasticization for Reliable Chip-Level Thermal Management.
+## 研究 2: The association between viral infections and aplastic anemia: a comprehensive scoping review.
 
-**期刊**: Small (Weinheim an der Bergstrasse, Germany)  
-**发表日期**: 2026 Oct 15  
-**第一作者**: Zou L 等 | **PMID**: [42878229](https://pubmed.ncbi.nlm.nih.gov/42878229/)  
+**期刊**: Critical reviews in clinical laboratory sciences  
+**发表日期**: 2026 Oct 16  
+**第一作者**: Ghahvechi H 等 | **PMID**: [42886030](https://pubmed.ncbi.nlm.nih.gov/42886030/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究开发了一种转化程度可控的聚离子液体/氮化铝热界面材料，通过内部增塑机制同时实现高效导热与界面贴合。其核心突破在于解决了传统硅基热界面材料在长期热暴露下的漏油和泵出问题。
+该综述首次系统梳理了病毒感染与再生障碍性贫血（AA）的关联，确认多种病毒是AA的重要获得性病因。这一发现强调了对AA患者进行病毒学筛查和监测的必要性。
 
 ### 🔬 关键发现
 
-55 vol% AlN复合材料的断裂伸长率达291%，对Cu和Si的粘附强度分别为5.4 MPa和3.7 MPa，体相热导率为2.0 W·m⁻¹·K⁻¹。残余单体和低聚物提供了内部增塑、界面润湿和应力松弛能力。
+纳入48项研究，确定细小病毒B19、EB病毒、巨细胞病毒、HIV、肝炎病毒、HTLV-1及SARS-CoV-2为关键病原体。机制涉及直接骨髓抑制、免疫介导破坏及免疫抑制期间的病毒再激活。
 
 ### 🧪 方法简介
 
-通过部分聚合聚离子液体基质，构建链缠结框架并保留残余单体/低聚物实现内部增塑，同时利用密集堆积的球形AlN颗粒建立导热通路。优化了聚合时间和填料负载。
+采用PRISMA指南下的范围综述方法，系统检索PubMed、Google Scholar、Web of Science和ScienceDirect四个数据库。聚焦病毒类型、诊断方法和治疗策略的数据提取，覆盖2024年4-5月前的文献。
 
 ### 🏥 临床相关性
 
-该材料为高功率芯片提供了更可靠的散热方案，其抗漏油、抗泵出和应力松弛特性对需要长期稳定热管理的植入式医疗器件或可穿戴健康监测设备具有潜在应用价值，但尚未涉及抗衰老干预。
+抗病毒治疗和造血干细胞移植是主要治疗手段，病毒学监测对预防再激活至关重要。未来需纵向研究明确因果关系，优化个体化抗病毒方案以改善AA患者预后。
 
 ---
 
-## 研究 3: An Infusion Scheduling Decision Support Tool to Manage Resource Utilization.
+## 研究 3: Crossing the Digital Divide: Understanding Older Adults' Technology Acceptance of Generative Artificial Intelligence: A Qualitative Study.
 
-**期刊**: Quality management in health care  
-**发表日期**: 2026 Oct 15  
-**第一作者**: Huang YL 等 | **PMID**: [42878189](https://pubmed.ncbi.nlm.nih.gov/42878189/)  
+**期刊**: International journal of aging & human development  
+**发表日期**: 2026 Oct 16  
+**第一作者**: Li M 等 | **PMID**: [42885754](https://pubmed.ncbi.nlm.nih.gov/42885754/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-研究开发了一套数据与算法驱动的输注排程决策支持工具，旨在解决门诊输注中心因治疗类型复杂、护理需求差异大而导致的资源管理难题。其核心价值在于将排程从经验判断转向可操作的算法推荐。
+详见原文
 
 ### 🔬 关键发现
 
-摘要未报告具体实验数据或量化结果。研究明确指出，尽管既往已有提升排程效率的尝试，但实践指导意义和可行性仍然不足，本工具正是为弥补这一转化缺口而设计。
+详见原文
 
 ### 🧪 方法简介
 
-采用数据驱动与算法驱动相结合的方式，生成面向预约排程决策的推荐方案。该工具强调实践可行性和落地指导，而非仅停留在理论建模层面。
+详见原文
 
 ### 🏥 临床相关性
 
-随着老龄化与慢性病负担加剧，输注治疗需求持续增长，该工具有望优化门诊输注中心的患者流转与资源利用。对健康领域从业者而言，它提供了一种可嵌入日常运营的决策辅助思路，间接支持需要长期输注治疗的老年及慢病人群的持续照护。
+详见原文
 
 ---
 
-## 研究 4: Escherichia coli hns and methylglyoxal link gut microbial metabolism to host neuronal gene regulation in Parkinson's disease.
+## 研究 4: Macrophages as programmable integrators of disease tolerance across lifespan.
 
-**期刊**: Gut microbes  
-**发表日期**: 2026 Dec 31  
-**第一作者**: Shin MG 等 | **PMID**: [42878179](https://pubmed.ncbi.nlm.nih.gov/42878179/)  
+**期刊**: The Journal of experimental medicine  
+**发表日期**: 2026 Nov 2  
+**第一作者**: Bulavin DV 等 | **PMID**: [42886167](https://pubmed.ncbi.nlm.nih.gov/42886167/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次将大肠杆菌的 *hns* 基因与甲基乙二醛代谢联系起来，揭示肠道细菌基因通过代谢物调控宿主神经元基因表达，为帕金森病“肠-脑轴”机制提供了具体的分子证据。
+该研究提出巨噬细胞是疾病耐受的“可编程整合器”，其核心在于宿主维持组织功能的能力与清除病原体同等决定临床结局。这一视角将抗衰老与免疫耐受网络直接关联，拓展了感染与衰老研究的框架。
 
 ### 🔬 关键发现
 
-鉴定出大肠杆菌 *hns* 基因及代谢物甲基乙二醛是连接肠道微生物代谢与宿主黑质多巴胺能神经元基因调控的关键因子，提示其参与帕金森病中神经元丢失过程。
+巨噬细胞整合的多细胞耐受网络随年龄逐步重构，导致组织保护性反应与病理性反应之间的平衡发生偏移。mRNA疫苗和调控MDA5信号可在临床上短暂激活这些通路，实现可编程干预。
 
 ### 🧪 方法简介
 
-采用细菌基因与代谢物联合分析策略，在帕金森病模型中追踪从微生物基因到宿主神经元基因调控的完整通路， bridging 了微生物组与神经退行性变研究。
+研究采用概念整合与转化路径分析，提出以mRNA疫苗和MDA5信号调控作为短暂参与疾病耐受通路的可翻译手段，而非依赖单一分子或细胞靶点。
 
 ### 🏥 临床相关性
 
-为靶向肠道 *hns* 基因或甲基乙二醛代谢的抗衰老及帕金森病干预提供了新思路，未来或可通过调节菌群代谢延缓神经元退行性变。
+通过编程巨噬细胞耐受网络，有望在衰老过程中重建组织保护与病理反应的平衡，为抗衰老干预提供新策略。mRNA疫苗和MDA5调控可作为临床转化的切入点，但需进一步验证其安全性与时效性。
 
 ---
 
-## 研究 5: Comparative Proteomic Quantification Reveals Novel Longevity Regulators.
+## 研究 5: Association of Life's Essential 8 With Clonal Hematopoiesis and Coronary Artery Disease.
 
-**期刊**: Proteomics  
+**期刊**: JACC. CardioOncology  
 **发表日期**: 2026 Oct 15  
-**第一作者**: Ding L 等 | **PMID**: [42878115](https://pubmed.ncbi.nlm.nih.gov/42878115/)  
+**第一作者**: Liu Y 等 | **PMID**: [42886106](https://pubmed.ncbi.nlm.nih.gov/42886106/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+首次揭示AHA“生命八要素”（LE8）评分与克隆性造血（CH）及冠心病的关联，将经典心血管健康指标与新兴遗传风险因素相连接，为理解两者协同致病机制提供了新视角。
 
 ### 🔬 关键发现
 
-详见原文
+摘要未提供具体数据，但研究核心在于评估LE8评分与CH及冠心病的相关性，提示理想心血管健康状态可能与CH发生率或冠心病风险存在关联。
 
 ### 🧪 方法简介
 
-详见原文
+研究将LE8评分体系与CH基因突变检测相结合，在人群层面探索行为/代谢健康指标与体细胞突变之间的交互作用，属交叉领域方法整合。
 
 ### 🏥 临床相关性
 
-详见原文
+若LE8与CH关联得到证实，提示改善生活方式可能影响CH相关冠心病风险，为抗衰老干预提供可操作的健康管理靶点，但需进一步研究验证因果关系。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-16 02:20:57  
+**生成时间**: 2026-10-16 16:17:46  
 **摘要生成**: DeepSeek AI
 
 ---
