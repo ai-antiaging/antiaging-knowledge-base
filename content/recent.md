@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-15 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-16 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct | Ergothioneine Mediated Neuroprotective Effects in the Nervous System. | Molecular nutrition & food research | [42876395](https://pubmed.ncbi.nlm.nih.gov/42876395/) | Ergothioneine Mediated Neuroprotective Effects in the Nervou... |
-| 2026 Oct | Skeletal Muscle-Derived Extracellular Vesicles in Interorgan Communication During Aging. | Aging cell | [42876337](https://pubmed.ncbi.nlm.nih.gov/42876337/) | Skeletal Muscle-Derived Extracellular Vesicles in Interorgan... |
-| 2026 Oct 15 | Bone Marrow Macrophage STING Signaling is a Direct Nexus Linking Marrow Adipose Expansion to NAD(+) Depletion and Osteogenic Decline in Skeletal Aging. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42876239](https://pubmed.ncbi.nlm.nih.gov/42876239/) | Bone Marrow Macrophage STING Signaling is a Direct Nexus Lin... |
-| 2026 Oct 14 | Bridging the Translational Gap in Sex-Specific Alzheimer's Disease Using Human iPSC-Based Neural Cell Models. | Stem cells (Dayton, Ohio) | [42876052](https://pubmed.ncbi.nlm.nih.gov/42876052/) | Bridging the Translational Gap in Sex-Specific Alzheimer's D... |
-| 2026 Oct | Multi-omics integration and machine learning identify an ACKR1(+) endothelial cell-based lactate-immune signature associated with carotid plaque vulnerability and progression. | Clinical and translational medicine | [42875951](https://pubmed.ncbi.nlm.nih.gov/42875951/) | Multi-omics integration and machine learning identify an ACK... |
+| 2026 Oct 15 | Experiences of Older Adults Living With HIV. | Research and theory for nursing practice | [42880901](https://pubmed.ncbi.nlm.nih.gov/42880901/) | Experiences of Older Adults Living With HIV. |
+| 2026 Oct 15 | Mitofusin-2 (MFN2) is a critical regulator of metabolic homeostasis in neuronal cells: A metabolomic and proteomic study. | Mitochondrion | [42880618](https://pubmed.ncbi.nlm.nih.gov/42880618/) | Mitofusin-2 (MFN2) is a critical regulator of metabolic home... |
+| 2026 Oct 15 | Redox resilience in skeletal muscle aging: cellular adaptations and exercise-mediated homeostasis. | Free radical biology & medicine | [42880511](https://pubmed.ncbi.nlm.nih.gov/42880511/) | Redox resilience in skeletal muscle aging: cellular adaptati... |
+| 2026 Oct 15 | From Gut Microbiome to Aging Brain: Butyrate as a Neurogeroscience Effector. | Neuroscience and biobehavioral reviews | [42880461](https://pubmed.ncbi.nlm.nih.gov/42880461/) | From Gut Microbiome to Aging Brain: Butyrate as a Neurogeros... |
+| 2026 Oct 15 | ELF1 exacerbates intervertebral disc degeneration by promoting ACSL4-dependent ferro-aging of nucleus pulposus cells through the IFITM3-PTPRO axis. | Life sciences | [42880403](https://pubmed.ncbi.nlm.nih.gov/42880403/) | ELF1 exacerbates intervertebral disc degeneration by promoti... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct 12 | Weathering chemistry shapes the gut microbiome-metabolome-transcriptome response of adult zebrafish to aged polyethylene microplastics. | Journal of hazardous materials | [42879932](https://pubmed.ncbi.nlm.nih.gov/42879932/) | Weathering chemistry shapes the gut microbiome-metabolome-tr... |
+| 2026 Nov 11 | Metabolic gatekeepers shape immune cell function in rheumatoid arthritis. | Clinical science (London, England : 1979) | [42878140](https://pubmed.ncbi.nlm.nih.gov/42878140/) | Metabolic gatekeepers shape immune cell function in rheumato... |
+| 2026 | NAD(+) signaling in Parkinson's disease: molecular mechanisms and therapeutic perspectives. | Frontiers in neurology | [42877680](https://pubmed.ncbi.nlm.nih.gov/42877680/) | NAD(+) signaling in Parkinson's disease: molecular mechanism... |
 | 2026 Oct 15 | Bone Marrow Macrophage STING Signaling is a Direct Nexus Linking Marrow Adipose Expansion to NAD(+) Depletion and Osteogenic Decline in Skeletal Aging. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42876239](https://pubmed.ncbi.nlm.nih.gov/42876239/) | Bone Marrow Macrophage STING Signaling is a Direct Nexus Lin... |
 | 2026 Oct 14 | Mitochondrial Quality Control in Degenerative Musculoskeletal Diseases: Signaling Networks and Therapeutic Landscapes. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42875857](https://pubmed.ncbi.nlm.nih.gov/42875857/) | Mitochondrial Quality Control in Degenerative Musculoskeleta... |
-| 2026 Oct 14 | Genetic modulation of NAD(P)H homeostasis reveals distinct redox-coupled metabolic vulnerabilities. | Nature metabolism | [42875582](https://pubmed.ncbi.nlm.nih.gov/42875582/) | Genetic modulation of NAD(P)H homeostasis reveals distinct r... |
-| 2026 Oct 14 | An NAD(+)-responsive adipose signal coordinates inter-organ defense against muscle atrophy. | Cell metabolism | [42874585](https://pubmed.ncbi.nlm.nih.gov/42874585/) | An NAD(+)-responsive adipose signal coordinates inter-organ ... |
-| 2026 Oct 14 | NAD+ Attenuates Neuroinflammation in Ischemic Stroke by Suppressing the cGAS- STING Pathway via Mitochondrial Homeostasis Restoration. | Molecular neurobiology | [42870203](https://pubmed.ncbi.nlm.nih.gov/42870203/) | NAD+ Attenuates Neuroinflammation in Ischemic Stroke by Supp... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -43,8 +43,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Oct 10 | Correction: Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42859229](https://pubmed.ncbi.nlm.nih.gov/42859229/) | Correction: Longitudinal association of dietary spermidine w... |
+| 2026 Oct 2 | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evidentiary Limits, and Translational Requirements. | Aging and disease | [42858331](https://pubmed.ncbi.nlm.nih.gov/42858331/) | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evide... |
+| 2026 Oct 9 | Effects of Spermidine Supplementation on Vascular Brain Health in Older Individuals with Subjective Cognitive Decline - An Exploratory MRI Analysis. | Aging and disease | [42858321](https://pubmed.ncbi.nlm.nih.gov/42858321/) | Effects of Spermidine Supplementation on Vascular Brain Heal... |
 
 ---
 
@@ -58,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-15 | 自动生成*
+*最后更新：2026-10-16 | 自动生成*
