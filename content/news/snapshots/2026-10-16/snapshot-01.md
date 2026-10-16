@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-10-16 #1"
 date: 2026-10-16
-description: "Corrigendum to "The case for model-informed vaccine development" [Vaccine 92 (20..."
+description: 'Corrigendum to "The case for model-informed vaccine development" [Vaccine 92 (20..."'
 draft: false
 type: "snapshot"
 ---
