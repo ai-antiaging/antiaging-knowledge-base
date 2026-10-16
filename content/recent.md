@@ -15,39 +15,26 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 15 | Experiences of Older Adults Living With HIV. | Research and theory for nursing practice | [42880901](https://pubmed.ncbi.nlm.nih.gov/42880901/) | Experiences of Older Adults Living With HIV. |
-| 2026 Oct 15 | Mitofusin-2 (MFN2) is a critical regulator of metabolic homeostasis in neuronal cells: A metabolomic and proteomic study. | Mitochondrion | [42880618](https://pubmed.ncbi.nlm.nih.gov/42880618/) | Mitofusin-2 (MFN2) is a critical regulator of metabolic home... |
-| 2026 Oct 15 | Redox resilience in skeletal muscle aging: cellular adaptations and exercise-mediated homeostasis. | Free radical biology & medicine | [42880511](https://pubmed.ncbi.nlm.nih.gov/42880511/) | Redox resilience in skeletal muscle aging: cellular adaptati... |
-| 2026 Oct 15 | From Gut Microbiome to Aging Brain: Butyrate as a Neurogeroscience Effector. | Neuroscience and biobehavioral reviews | [42880461](https://pubmed.ncbi.nlm.nih.gov/42880461/) | From Gut Microbiome to Aging Brain: Butyrate as a Neurogeros... |
-| 2026 Oct 15 | ELF1 exacerbates intervertebral disc degeneration by promoting ACSL4-dependent ferro-aging of nucleus pulposus cells through the IFITM3-PTPRO axis. | Life sciences | [42880403](https://pubmed.ncbi.nlm.nih.gov/42880403/) | ELF1 exacerbates intervertebral disc degeneration by promoti... |
+| 2026 Nov 2 | Macrophages as programmable integrators of disease tolerance across lifespan. | The Journal of experimental medicine | [42886167](https://pubmed.ncbi.nlm.nih.gov/42886167/) | Macrophages as programmable integrators of disease tolerance... |
+| 2026 Oct 14 | Ferroptosis-related hub genes and immune infiltration characteristics in Duchenne muscular dystrophy: a molecular framework with implications for aging-related muscle degeneration. | Aging | [42886052](https://pubmed.ncbi.nlm.nih.gov/42886052/) | Ferroptosis-related hub genes and immune infiltration charac... |
+| 2026 Oct 16 | Targeting Vascular Smooth Muscle Cell Senescence for Cardiovascular Pharmacology: Mechanisms and Therapeutic Perspectives. | Journal of cardiovascular pharmacology | [42885981](https://pubmed.ncbi.nlm.nih.gov/42885981/) | Targeting Vascular Smooth Muscle Cell Senescence for Cardiov... |
+| 2026 Oct 16 | iPSC neurodegenerative disease initiative isogenic CAG repeat iPSC line for Huntington's disease. | Journal of Huntington's disease | [42885744](https://pubmed.ncbi.nlm.nih.gov/42885744/) | iPSC neurodegenerative disease initiative isogenic CAG repea... |
+| 2026 Oct | Senescent Fibroblasts Impair B Cell Proliferation via Cell-Cell Contact. | Aging cell | [42885644](https://pubmed.ncbi.nlm.nih.gov/42885644/) | Senescent Fibroblasts Impair B Cell Proliferation via Cell-C... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Oct 12 | Weathering chemistry shapes the gut microbiome-metabolome-transcriptome response of adult zebrafish to aged polyethylene microplastics. | Journal of hazardous materials | [42879932](https://pubmed.ncbi.nlm.nih.gov/42879932/) | Weathering chemistry shapes the gut microbiome-metabolome-tr... |
-| 2026 Nov 11 | Metabolic gatekeepers shape immune cell function in rheumatoid arthritis. | Clinical science (London, England : 1979) | [42878140](https://pubmed.ncbi.nlm.nih.gov/42878140/) | Metabolic gatekeepers shape immune cell function in rheumato... |
-| 2026 | NAD(+) signaling in Parkinson's disease: molecular mechanisms and therapeutic perspectives. | Frontiers in neurology | [42877680](https://pubmed.ncbi.nlm.nih.gov/42877680/) | NAD(+) signaling in Parkinson's disease: molecular mechanism... |
-| 2026 Oct 15 | Bone Marrow Macrophage STING Signaling is a Direct Nexus Linking Marrow Adipose Expansion to NAD(+) Depletion and Osteogenic Decline in Skeletal Aging. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42876239](https://pubmed.ncbi.nlm.nih.gov/42876239/) | Bone Marrow Macrophage STING Signaling is a Direct Nexus Lin... |
-| 2026 Oct 14 | Mitochondrial Quality Control in Degenerative Musculoskeletal Diseases: Signaling Networks and Therapeutic Landscapes. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42875857](https://pubmed.ncbi.nlm.nih.gov/42875857/) | Mitochondrial Quality Control in Degenerative Musculoskeleta... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Oct 16 | Topical application of urolithin A activates mitophagy and enhances mitochondrial function to promote skin longevity. | iScience | [42866687](https://pubmed.ncbi.nlm.nih.gov/42866687/) | Topical application of urolithin A activates mitophagy and e... |
-| 2027 Mar | An ultrasound-responsive hydrogel with piezoelectric-enhanced bioelectric-vesicular coupling alleviates mitochondrial dysfunction and inflammation for osteoarthritis therapy. | Bioactive materials | [42861280](https://pubmed.ncbi.nlm.nih.gov/42861280/) | An ultrasound-responsive hydrogel with piezoelectric-enhance... |
-| 2026 Sep 28 | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Flux, Measurement Gaps, and Human Translation. | Aging and disease | [42858326](https://pubmed.ncbi.nlm.nih.gov/42858326/) | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Fl... |
-| 2026 Oct 1 | Urolithin A and Endothelial and Cerebrovascular Function in Middle-Aged Adults With Obesity: A Randomized Clinical Trial. | JAMA network open | [42853569](https://pubmed.ncbi.nlm.nih.gov/42853569/) | Urolithin A and Endothelial and Cerebrovascular Function in ... |
-| 2026 Oct 7 | Ellagitannin Metabolite Urolithin D Ameliorates Cognitive Function and Behavioral Performance in Aging Mice Partially via AMPK/PGC-1α/SIRT3-Dependent Regulation of Mitophagy-Related Molecular Machinery. | Molecular neurobiology | [42842065](https://pubmed.ncbi.nlm.nih.gov/42842065/) | Ellagitannin Metabolite Urolithin D Ameliorates Cognitive Fu... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Oct 10 | Correction: Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42859229](https://pubmed.ncbi.nlm.nih.gov/42859229/) | Correction: Longitudinal association of dietary spermidine w... |
-| 2026 Oct 2 | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evidentiary Limits, and Translational Requirements. | Aging and disease | [42858331](https://pubmed.ncbi.nlm.nih.gov/42858331/) | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evide... |
-| 2026 Oct 9 | Effects of Spermidine Supplementation on Vascular Brain Health in Older Individuals with Subjective Cognitive Decline - An Exploratory MRI Analysis. | Aging and disease | [42858321](https://pubmed.ncbi.nlm.nih.gov/42858321/) | Effects of Spermidine Supplementation on Vascular Brain Heal... |
+*暂无最新文献*
+
 
 ---
 
