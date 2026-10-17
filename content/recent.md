@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct | Chronic Limb-Threatening Ischemia Shows No Adaptability of Mitochondrial Function After Revascularisation. | Journal of cellular and molecular medicine | [42888834](https://pubmed.ncbi.nlm.nih.gov/42888834/) | Chronic Limb-Threatening Ischemia Shows No Adaptability of M... |
+| 2026 Oct 16 | Isavuconazole: Real-World Data and Clinical Considerations for Pediatric Patients. | Paediatric drugs | [42888378](https://pubmed.ncbi.nlm.nih.gov/42888378/) | Isavuconazole: Real-World Data and Clinical Considerations f... |
 | 2026 Oct 16 | Zuogui Wan preserves Leydig cell steroidogenesis via G6PD/NADPH/GSH-dependent ferroptosis inhibition in D-galactose-induced hypogonadism. | Journal of ethnopharmacology | [42887832](https://pubmed.ncbi.nlm.nih.gov/42887832/) | Zuogui Wan preserves Leydig cell steroidogenesis via G6PD/NA... |
 | 2026 Oct 16 | Aberrant amygdala subregion volumes in youth at high risk for bipolar disorder predict antidepressant-induced adverse events. | Journal of affective disorders | [42887787](https://pubmed.ncbi.nlm.nih.gov/42887787/) | Aberrant amygdala subregion volumes in youth at high risk fo... |
 | 2026 Oct 16 | The FOXO-Aging Axis: Epigenetic Insights and Chromatin Mechanisms. | Ageing research reviews | [42887702](https://pubmed.ncbi.nlm.nih.gov/42887702/) | The FOXO-Aging Axis: Epigenetic Insights and Chromatin Mecha... |
-| 2026 Oct 16 | The Triad of Vascular Ageing: Cellular Senescence, Inflammaging, and Epigenetic Remodelling in Atherosclerosis. | Mechanisms of ageing and development | [42887676](https://pubmed.ncbi.nlm.nih.gov/42887676/) | The Triad of Vascular Ageing: Cellular Senescence, Inflammag... |
-| 2026 Oct 16 | Akkermansia muciniphila attenuates macrophage efferocytosis to enhance anti-PD-1 efficacy in microsatellite-stable colorectal cancer. | Cell host & microbe | [42887494](https://pubmed.ncbi.nlm.nih.gov/42887494/) | Akkermansia muciniphila attenuates macrophage efferocytosis ... |
 
 ### NAD+ 与线粒体
 
