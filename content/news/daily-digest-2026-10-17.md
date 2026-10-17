@@ -12,86 +12,61 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: TONSL/TONSOKU binding to histone H3.1 is required for DNA repair.
+## 研究 1: The Serotonergic and Cholinergic Signaling Pathways Drive Gastric Precancerous Lesions and Its Potential Mechanism.
 
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 16  
-**第一作者**: Davarinejad H 等 | **PMID**: [42886812](https://pubmed.ncbi.nlm.nih.gov/42886812/)  
+**期刊**: Cancer science  
+**发表日期**: 2026 Oct 17  
+**第一作者**: Gao S 等 | **PMID**: [42888890](https://pubmed.ncbi.nlm.nih.gov/42888890/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究揭示植物中TSK蛋白通过优先结合组蛋白H3.1（而非H3.3）来调控异染色质DNA复制与基因组稳定性，并首次解析了其结构基础。这一发现为理解组蛋白变体特异性识别如何影响DNA修复提供了关键机制线索。
+该研究首次揭示了迷走胆碱能神经—胃5-HT能信号轴驱动胃癌前病变的新机制，将神经调控与胃黏膜癌变过程直接关联，为胃癌前病变的干预提供了神经—上皮网络层面的新靶点。
 
 ### 🔬 关键发现
 
-结构分析显示，TSK的TPR结构域中一个浅口袋介导了对H3.1的偏好性结合；该结合对DNA修复至关重要，说明H3.1-TSK相互作用是维持基因组稳定的必要条件。
+5-HT通过5-HTR1D/TRPV4通路诱发胃上皮细胞非选择性阳离子电流，阻断该通路可减轻肠化生和异型增生并降低AKT/mTOR活化；DMV胆碱能神经元过度激活促进胃乙酰胆碱和5-HT释放，化学遗传学抑制DMV胆碱能神经元可缓解GPL小鼠胃病理。
 
 ### 🧪 方法简介
 
-研究结合结构生物学手段（解析TSK与H3.1复合物结构）与功能实验，从原子层面阐明了组蛋白变体选择性识别的分子基础。
+研究整合了生物信息学分析、膜片钳记录、免疫荧光和化学遗传学技术，并结合MNU诱导的小鼠GPL模型进行体内验证，实现了从分子通路到神经环路的多层次因果验证。
 
 ### 🏥 临床相关性
 
-该机制提示靶向组蛋白变体特异性结合界面可能成为维护基因组稳定性的新策略，为抗衰老干预中减少DNA损伤累积提供了潜在分子靶点，但需进一步验证其在哺乳动物中的保守性。
+5-HTR1D/TRPV4通路和DMV胆碱能神经元可作为胃癌前病变的潜在干预靶点，提示调控神经—上皮信号轴可能延缓或阻断胃癌前病变进展，为胃癌一级预防提供新思路。
 
 ---
 
-## 研究 2: MFN2-associated astrocyte dysfunction contributes to neuronal hyperexcitability and depressive-like behaviors.
+## 研究 2: Targeted intestinal ROS scavenging alleviated rheumatoid arthritis by microbial metabolite kynurenic acid mediated Treg/Th17 balance through AhR pathway activation.
 
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 16  
-**第一作者**: Ma FX 等 | **PMID**: [42886804](https://pubmed.ncbi.nlm.nih.gov/42886804/)  
+**期刊**: Gut microbes  
+**发表日期**: 2026 Dec 31  
+**第一作者**: Ling Z 等 | **PMID**: [42888947](https://pubmed.ncbi.nlm.nih.gov/42888947/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究首次将线粒体融合蛋白MFN2与星形胶质细胞功能障碍直接关联，揭示了其在抑郁症发病中的关键作用。这一发现将线粒体动力学研究从神经元拓展至胶质细胞，为抑郁症的细胞类型特异性机制提供了新视角。
+该研究揭示肠道过量ROS通过扰乱菌群色氨酸代谢、抑制KYNA-AhR通路而加剧类风湿关节炎，口服BPNSs清除肠道ROS可恢复Treg/Th17平衡并缓解病情，建立了“肠道氧化应激—菌群代谢—免疫失衡”的机制链条。
 
 ### 🔬 关键发现
 
-对慢性社会挫败应激（CSDS）小鼠海马星形胶质细胞进行SMART-seq转录组分析，发现MFN2相关星形胶质细胞功能障碍，伴随谷氨酸清除受损和神经元-胶质细胞交互异常，最终导致神经元过度兴奋及抑郁样行为。
+CIA小鼠口服BPNSs后疾病严重度显著减轻；肠道菌群重塑、KYNA相对丰度升高；KYNA激活naïve CD4+ T细胞的AhR通路，促进Treg/Th17平衡向Treg倾斜，抑制炎症级联。
 
 ### 🧪 方法简介
 
-研究采用SMART-seq技术对CSDS小鼠海马星形胶质细胞进行单细胞转录组 profiling，实现了对星形胶质细胞异质性和分子变化的精细解析，突破了传统批量测序难以捕捉细胞类型特异性改变的局限。
+采用黑磷纳米片（BPNSs）作为口服肠道靶向ROS清除剂，结合菌群测序与代谢组学分析，并通过KYNA-AhR通路机制验证，实现“清除ROS—调控菌群代谢—免疫调节”的多层次干预。
 
 ### 🏥 临床相关性
 
-MFN2及相关星形胶质细胞线粒体通路可作为抑郁症的潜在生物标志物和干预靶点，提示未来抗衰老策略需关注胶质细胞线粒体健康，而非仅聚焦神经元，为开发靶向星形胶质细胞的神经保护干预提供理论依据。
+提示肠道靶向抗氧化联合微生物代谢物（如KYNA）或AhR激动策略，可能成为RA等免疫衰老相关疾病的干预新方向，为开发基于菌群代谢的免疫调节疗法提供依据。
 
 ---
 
-## 研究 3: PINK1-mediated mitophagy supports lung cancer initiation and limits the efficacy of KRAS-targeted therapy.
+## 研究 3: Gedatolisib after CDK4/6 inhibition in HR-Positive/HER2-negative advanced breast cancer: pharmacology, phase iii evidence, and therapeutic positioning.
 
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 16  
-**第一作者**: Gonçalves D 等 | **PMID**: [42886799](https://pubmed.ncbi.nlm.nih.gov/42886799/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该研究首次明确PINK1介导的线粒体自噬是肺癌发生的早期关键适应机制，而非仅维持已建立肿瘤的存活。这一发现将线粒体质量控制与肿瘤起始过程直接关联，为理解癌症早期事件提供了新视角。
-
-### 🔬 关键发现
-
-人肺腺癌中PINK1活性和线粒体自噬水平升高，且从肿瘤发生最早期即被激活；遗传抑制PINK1可损害致癌转化，但对已形成的肿瘤细胞影响甚微；PINK1缺失显著增强KRAS靶向治疗的疗效。
-
-### 🧪 方法简介
-
-研究采用mito-QC报告小鼠在体内直接监测肺肿瘤发展过程中的线粒体自噬动态，并结合遗传学手段特异性抑制PINK1，实现了对线粒体自噬在肿瘤起始与进展中时序性作用的精准追踪。
-
-### 🏥 临床相关性
-
-提示PINK1介导的线粒体自噬可作为肺癌早期干预的潜在靶点，并支持将线粒体自噬抑制与KRAS靶向治疗联合使用以克服耐药。对衰老相关干预而言，需审慎评估早期阶段抑制线粒体自噬的双重效应。
-
----
-
-## 研究 4: Muscle stem cells produce a protective Fibrillin-1 matrix to prevent precocious activation.
-
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 16  
-**第一作者**: Chrysostomou E 等 | **PMID**: [42886795](https://pubmed.ncbi.nlm.nih.gov/42886795/)  
+**期刊**: Expert opinion on pharmacotherapy  
+**发表日期**: 2026 Oct 17  
+**第一作者**: Ullah A 等 | **PMID**: [42888943](https://pubmed.ncbi.nlm.nih.gov/42888943/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -112,11 +87,11 @@ MFN2及相关星形胶质细胞线粒体通路可作为抑郁症的潜在生物�
 
 ---
 
-## 研究 5: SIK2 antagonizes postinfarction cardiac repair by driving macrophage proinflammatory and impairing efferocytosis.
+## 研究 4: Sublexical compensatory reorganization of Chinese character recognition in Alzheimer's disease.
 
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 16  
-**第一作者**: Rong WW 等 | **PMID**: [42886791](https://pubmed.ncbi.nlm.nih.gov/42886791/)  
+**期刊**: Journal of clinical and experimental neuropsychology  
+**发表日期**: 2026 Oct 17  
+**第一作者**: Liu B 等 | **PMID**: [42888935](https://pubmed.ncbi.nlm.nih.gov/42888935/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -134,13 +109,38 @@ MFN2及相关星形胶质细胞线粒体通路可作为抑郁症的潜在生物�
 ### 🏥 临床相关性
 
 详见原文
+
+---
+
+## 研究 5: Epstein-Barr Virus Association and Prognosis in Taiwanese Hodgkin Lymphoma: A Nationwide Multicenter Study With Comparison to United States Whites.
+
+**期刊**: International journal of cancer  
+**发表日期**: 2026 Oct 17  
+**第一作者**: Wang SH 等 | **PMID**: [42888915](https://pubmed.ncbi.nlm.nih.gov/42888915/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+台湾霍奇金淋巴瘤中EBV相关病例比例二十年間从39%降至27%，且EBV阳性患者十年生存率显著劣于阴性患者（56.3% vs. 85.7%）。这是首个基于台湾全国多中心数据系统评估EBV状态对HL预后影响并与美国白人数据对比的研究。
+
+### 🔬 关键发现
+
+EBV阳性呈双峰年龄分布（<10岁63%、>70岁80%，20-29岁仅11%）；阳性患者更年长（53.5 vs. 32.9岁）、男性为主、结节病变及混合细胞型更多见。不良预后因素包括高龄、B症状、非结节硬化型、EBV阳性、晚期及高IPS评分；多因素分析中高龄与高IPS保留独立预后意义。
+
+### 🧪 方法简介
+
+研究采用台湾全国多中心注册数据库进行大样本回顾性分析，系统评估EBV状态与临床病理特征及生存的关联，并与美国大型注册数据集进行跨人群比较，增强结果的代表性与外部可比性。
+
+### 🏥 临床相关性
+
+EBV状态可作为霍奇金淋巴瘤风险分层与预后评估的辅助指标，尤其对年轻女性结节硬化型发病率上升的背景具有提示意义。研究强调高龄与高IPS是独立不良预后因素，支持在临床管理中纳入EBV检测与年龄分层策略，为疾病预防与个体化管理提供依据。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-17 02:13:26  
+**生成时间**: 2026-10-17 16:17:39  
 **摘要生成**: DeepSeek AI
 
 ---
