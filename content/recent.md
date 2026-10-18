@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 31 | Endothelial Matrin-3 Limits Cellular Senescence and Lipid Dysregulation to Protect Against Murine Atherosclerosis. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42891558](https://pubmed.ncbi.nlm.nih.gov/42891558/) | Endothelial Matrin-3 Limits Cellular Senescence and Lipid Dy... |
-| 2026 | A Metabolic Cluster-Derived Risk Model for Prognostic Stratification, Immunometabolic Profiling, and Therapeutic Sensitivity Prediction in Prostate Cancer. | Cancer management and research | [42891338](https://pubmed.ncbi.nlm.nih.gov/42891338/) | A Metabolic Cluster-Derived Risk Model for Prognostic Strati... |
-| 2025 Apr | Association between Telomere Length and Idiopathic Pulmonary Fibrosis: A Case-Control Study. | Tanaffos | [42890563](https://pubmed.ncbi.nlm.nih.gov/42890563/) | Association between Telomere Length and Idiopathic Pulmonary... |
-| 2026 | Resveratrol as an immune checkpoint inhibitor to enhance the efficacy of breast cancer immunotherapy. | Iranian journal of basic medical sciences | [42890382](https://pubmed.ncbi.nlm.nih.gov/42890382/) | Resveratrol as an immune checkpoint inhibitor to enhance the... |
-| 2026 | Hydrogen gas and olfactory dysfunction in Alzheimer's disease: the Hydrogen-Olfactory-Limbic hypothesis. | Frontiers in aging neuroscience | [42890248](https://pubmed.ncbi.nlm.nih.gov/42890248/) | Hydrogen gas and olfactory dysfunction in Alzheimer's diseas... |
+| 2026 Oct 18 | Thioredoxin-2 Alleviates Osteoporosis by Restraining FOXO3a Nuclear Translocation. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42893445](https://pubmed.ncbi.nlm.nih.gov/42893445/) | Thioredoxin-2 Alleviates Osteoporosis by Restraining FOXO3a ... |
+| 2026 | Energy-Based Devices for GLP-1 Receptor Agonist-Associated Facial Aging: A Tissue-Specific Safety Framework. | Clinical, cosmetic and investigational dermatology | [42893183](https://pubmed.ncbi.nlm.nih.gov/42893183/) | Energy-Based Devices for GLP-1 Receptor Agonist-Associated F... |
+| 2026 Oct 18 | Detection of the RNA-Editing Enzyme ADARB1 in Primary Auditory Neurons and Anti-ADARB1 Immunofluorescence as a Means for Automated Counting. | The journal of histochemistry and cytochemistry : official journal of the Histochemistry Society | [42892742](https://pubmed.ncbi.nlm.nih.gov/42892742/) | Detection of the RNA-Editing Enzyme ADARB1 in Primary Audito... |
+| 2026 Oct 17 | Misplaced DNA sensing in intervertebral disc degeneration: mitochondrial stress, sterile inflammation, pyroptosis, and DNA clearance. | Inflammation research : official journal of the European Histamine Research Society ... [et al.] | [42892648](https://pubmed.ncbi.nlm.nih.gov/42892648/) | Misplaced DNA sensing in intervertebral disc degeneration: m... |
+| 2026 Oct 17 | IL-1β/IL-6 inflammatory crosstalk drives DNA methylation and histone remodeling associated with cytokine induced senescence in luminal breast cancer. | Inflammation research : official journal of the European Histamine Research Society ... [et al.] | [42892641](https://pubmed.ncbi.nlm.nih.gov/42892641/) | IL-1β/IL-6 inflammatory crosstalk drives DNA methylation and... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct 17 | Does NAD+ Have a Role in Aesthetic Plastic Surgery? An Evidence-Based Review. | Aesthetic surgery journal | [42891627](https://pubmed.ncbi.nlm.nih.gov/42891627/) | Does NAD+ Have a Role in Aesthetic Plastic Surgery? An Evide... |
 | 2026 Oct 16 | Mitochondria-targeted drug delivery systems for aging-related diseases: Mechanisms, strategies, and advances. | Journal of controlled release : official journal of the Controlled Release Society | [42887605](https://pubmed.ncbi.nlm.nih.gov/42887605/) | Mitochondria-targeted drug delivery systems for aging-relate... |
 | 2026 Sep 22 | Metabolic and Immunometabolic Neuroprotection in Glaucoma: Mitochondrial Dysfunction, Neuroinflammation, and Emerging Therapeutic Strategies. | Molecules (Basel, Switzerland) | [42883135](https://pubmed.ncbi.nlm.nih.gov/42883135/) | Metabolic and Immunometabolic Neuroprotection in Glaucoma: M... |
 | 2026 Sep 27 | Correlative and Live-Cell Imaging of S100B-Promoter-Associated Interstitial Cells from the Cardiac Sinoatrial Node and Valves. | Cells | [42882460](https://pubmed.ncbi.nlm.nih.gov/42882460/) | Correlative and Live-Cell Imaging of S100B-Promoter-Associat... |
 | 2026 Oct 12 | Weathering chemistry shapes the gut microbiome-metabolome-transcriptome response of adult zebrafish to aged polyethylene microplastics. | Journal of hazardous materials | [42879932](https://pubmed.ncbi.nlm.nih.gov/42879932/) | Weathering chemistry shapes the gut microbiome-metabolome-tr... |
-| 2026 Nov 11 | Metabolic gatekeepers shape immune cell function in rheumatoid arthritis. | Clinical science (London, England : 1979) | [42878140](https://pubmed.ncbi.nlm.nih.gov/42878140/) | Metabolic gatekeepers shape immune cell function in rheumato... |
 
 ### 尿石素 A 与线粒体自噬
 
