@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 18 | Exposure to cigarette smoke condensate has a differential effect on primary human melanocytes from light skin and dark skin. | Drug and chemical toxicology | [42893959](https://pubmed.ncbi.nlm.nih.gov/42893959/) | Exposure to cigarette smoke condensate has a differential ef... |
-| 2026 Oct 17 | [Progressive myoclonic epilepsy in two brothers: genetic testing in the younger brother and pathological examination in the elder brother]. | Rinsho shinkeigaku = Clinical neurology | [42893875](https://pubmed.ncbi.nlm.nih.gov/42893875/) | [Progressive myoclonic epilepsy in two brothers: genetic tes... |
-| 2026 Oct 18 | DNA Nanostructures for Overcoming Cancer Drug Resistance: Mechanisms, Therapeutic Strategies, and Translational Challenges. | Small (Weinheim an der Bergstrasse, Germany) | [42893568](https://pubmed.ncbi.nlm.nih.gov/42893568/) | DNA Nanostructures for Overcoming Cancer Drug Resistance: Me... |
-| 2026 Oct 18 | Thioredoxin-2 Alleviates Osteoporosis by Restraining FOXO3a Nuclear Translocation. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42893445](https://pubmed.ncbi.nlm.nih.gov/42893445/) | Thioredoxin-2 Alleviates Osteoporosis by Restraining FOXO3a ... |
-| 2026 | Energy-Based Devices for GLP-1 Receptor Agonist-Associated Facial Aging: A Tissue-Specific Safety Framework. | Clinical, cosmetic and investigational dermatology | [42893183](https://pubmed.ncbi.nlm.nih.gov/42893183/) | Energy-Based Devices for GLP-1 Receptor Agonist-Associated F... |
+| 2026 Nov 2 | Declining centromere strength compromises meiotic chromosome segregation in aging oocytes. | The Journal of cell biology | [42895520](https://pubmed.ncbi.nlm.nih.gov/42895520/) | Declining centromere strength compromises meiotic chromosome... |
+| 2026 Oct 20 | Interpreting peripheral immune phenotypes in Parkinson's disease: an immune-context framework for biomarker qualification. | Reviews in the neurosciences | [42895345](https://pubmed.ncbi.nlm.nih.gov/42895345/) | Interpreting peripheral immune phenotypes in Parkinson's dis... |
+| 2026 Oct 20 | The electrical life of cancer: cancer neuroscience from circuits to patient care. | Current opinion in neurology | [42895298](https://pubmed.ncbi.nlm.nih.gov/42895298/) | The electrical life of cancer: cancer neuroscience from circ... |
+| 2026 Oct 19 | The Mitochondrial-Derived Peptide MOTS-c Improves Bioenergetics in Aging-Associated Granulosa Cells and Oocytes. | Reproduction & fertility | [42895211](https://pubmed.ncbi.nlm.nih.gov/42895211/) | The Mitochondrial-Derived Peptide MOTS-c Improves Bioenerget... |
+| 2026 Nov 20 | CD8(+) T cell transcriptional reprogramming toward TCF7-low cytotoxicity drives immune aging in viral ARDS. | iScience | [42894802](https://pubmed.ncbi.nlm.nih.gov/42894802/) | CD8(+) T cell transcriptional reprogramming toward TCF7-low ... |
 
 ### NAD+ 与线粒体
 
