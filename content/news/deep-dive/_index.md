@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[CAND1 Promotes Lung Cancer Tumorigenesis by Mitochondrial DNA Release mediated Neutrophil Infiltration.](./2026-10-20-weekly/)** — 2026年10月20日
+  - *Experimental cell research* · PMID: 42896749
+
 - **[Phenotyping Heart Failure With Preserved Ejection Fraction in Japan　- Position Paper on Current Evidence and Future Directions.](./2026-10-13-weekly/)** — 2026年10月13日
   - *Circulation journal : official journal of the Japanese Circulation Society* · PMID: 42864065
 
