@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 15 | [Biological characteristics of urine-derived stem cells during in vitro expansion]. | Zhongguo xiu fu chong jian wai ke za zhi = Zhongguo xiufu chongjian waike zazhi = Chinese journal of reparative and reconstructive surgery | [42897001](https://pubmed.ncbi.nlm.nih.gov/42897001/) | [Biological characteristics of urine-derived stem cells duri... |
-| 2026 Oct 19 | Insulin regulates activity-dependent mitochondrial depolarization and calcium dynamics in dentate granule cells. | The Journal of neuroscience : the official journal of the Society for Neuroscience | [42896895](https://pubmed.ncbi.nlm.nih.gov/42896895/) | Insulin regulates activity-dependent mitochondrial depolariz... |
-| 2026 Oct 19 | Melatonin attenuates dermal fibroblast senescence with suppression of CXCL9-associated inflammatory signaling and mitochondrial stress. | The Journal of investigative dermatology | [42896756](https://pubmed.ncbi.nlm.nih.gov/42896756/) | Melatonin attenuates dermal fibroblast senescence with suppr... |
-| 2026 Oct 19 | Aging, Regeneration, and Peripheral Nerve Repair: Integrated Multi-Omics Biomarkers and AI-Enabled Therapeutic Discovery Approaches. | Ageing research reviews | [42896675](https://pubmed.ncbi.nlm.nih.gov/42896675/) | Aging, Regeneration, and Peripheral Nerve Repair: Integrated... |
-| 2026 Oct 19 | The pyrin inflammasome senses OCTN2-mediated uptake of extracellular ʟ-carnitine from muscle injury or ingestion. | Cell | [42896553](https://pubmed.ncbi.nlm.nih.gov/42896553/) | The pyrin inflammasome senses OCTN2-mediated uptake of extra... |
+| 2026 Sep | Regenerative Medicine in the Management of Musculoskeletal Pain: Mechanisms, Clinical Applications, and Future Directions. | Cureus | [42898712](https://pubmed.ncbi.nlm.nih.gov/42898712/) | Regenerative Medicine in the Management of Musculoskeletal P... |
+| 2026 | Cathepsin S: a double-edged protease in barrier damage, neuroimmune inflammation, and tissue repair, with implications for dermatology. | Frontiers in immunology | [42898666](https://pubmed.ncbi.nlm.nih.gov/42898666/) | Cathepsin S: a double-edged protease in barrier damage, neur... |
+| 2027 Feb | Targeting hepatic CREBZF protects against atherosclerosis via exosomal miR-210-3p mediated inhibition of endothelial inflammation. | Genes & diseases | [42898388](https://pubmed.ncbi.nlm.nih.gov/42898388/) | Targeting hepatic CREBZF protects against atherosclerosis vi... |
+| 2026 Dec | An intrascrotal bioadhesive nanoplatform for sustained hydrogen delivery ameliorates age-associated testicular dysfunction. | Materials today. Bio | [42898181](https://pubmed.ncbi.nlm.nih.gov/42898181/) | An intrascrotal bioadhesive nanoplatform for sustained hydro... |
+| 2026 Oct 8 | Skin-Whitening and Anti-Photoaging Activities of Limosilactobacillus reuteri DS0333 Culture Supernatant Produced in Unripe Rubus occidentalis L. Extract-Supplemented Medium. | Journal of microbiology and biotechnology | [42897972](https://pubmed.ncbi.nlm.nih.gov/42897972/) | Skin-Whitening and Anti-Photoaging Activities of Limosilacto... |
 
 ### NAD+ 与线粒体
 
