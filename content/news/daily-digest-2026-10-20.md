@@ -12,36 +12,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Practice Effects on Repeated Self-Administered Digital Cognitive Assessments in Cognitively Intact Older Adults from the Framingham Heart Study: Longitudinal Observational Study.
+## 研究 1: Fibrinogen Alpha Chain (FGA) Associates With Epithelial-Mesenchymal Transition, Stemness, and the USP-Catenin Complex in Colorectal Cancer.
 
-**期刊**: JMIR aging  
-**发表日期**: 2026 Oct 19  
-**第一作者**: Christianson K 等 | **PMID**: [42896150](https://pubmed.ncbi.nlm.nih.gov/42896150/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该研究聚焦于远程自评数字认知评估中的练习效应（PE），提出PE不仅是测量噪声，更可能是认知衰退的潜在标志物。其重要性在于，随着神经退行性疾病修饰疗法的出现，纵向数字评估有望捕捉细微的认知变化。
-
-### 🔬 关键发现
-
-研究基于Framingham心脏研究队列中认知完好的老年人在FDA认证的DANA平台上的多时间点纵向数据，旨在明确PE是否存在于记忆以外的多个认知域。摘要未报告具体效应量或统计数据，但强调澄清PE在多个时间点的存在与否，是判断其能否作为纵向认知衰退指标的关键前提。
-
-### 🧪 方法简介
-
-研究采用远程、自评、数字化的DANA认知评估平台，在社区队列中开展纵向观察，突破了传统PE研究多局限于记忆任务的局限，系统考察多认知域、多时间点的练习效应。
-
-### 🏥 临床相关性
-
-若PE被证实稳定存在于多认知域，则有望成为低成本、可扩展的认知衰退早期监测指标，为抗衰老干预试验提供敏感终点。但摘要仅为研究背景与目的，尚未给出PE可作为临床标志物的结论性证据。
-
----
-
-## 研究 2: Scientists disrupt less but more persistently with career aging.
-
-**期刊**: Proceedings of the National Academy of Sciences of the United States of America  
-**发表日期**: 2026 Oct 27  
-**第一作者**: Deng N 等 | **PMID**: [42896063](https://pubmed.ncbi.nlm.nih.gov/42896063/)  
+**期刊**: Stem cells international  
+**发表日期**: 2026  
+**第一作者**: Lin H 等 | **PMID**: [42898796](https://pubmed.ncbi.nlm.nih.gov/42898796/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -62,36 +37,36 @@ type: "daily-digest"
 
 ---
 
-## 研究 3: Multigenerational sulfoxaflor selection induces tolerance but reduces fitness and predatory performance in the biological control agent Coccinella septempunctata.
+## 研究 2: TAOK1 Protects against Renal Ischemia-Reperfusion Injury in Aged Mice through the STK3/BNIP3 Mitophagy Pathway.
 
-**期刊**: Pest management science  
-**发表日期**: 2026 Oct 19  
-**第一作者**: Wang X 等 | **PMID**: [42895884](https://pubmed.ncbi.nlm.nih.gov/42895884/)  
+**期刊**: International journal of stem cells  
+**发表日期**: 2026 Oct 20  
+**第一作者**: Li Z 等 | **PMID**: [42897920](https://pubmed.ncbi.nlm.nih.gov/42897920/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次系统揭示亚致死剂量氟啶虫胺腈连续八代选择对七星瓢虫的适应性代价——虽诱导耐受性提升，却同步损害其适合度与捕食性能，为IPM中长期评估杀虫剂与生防天敌兼容性提供了关键证据。
+该研究首次揭示TAOK1在老年小鼠肾脏缺血再灌注损伤中的保护作用，核心机制在于调控线粒体自噬。这为理解衰老相关急性肾损伤的分子基础提供了新视角。
 
 ### 🔬 关键发现
 
-连续八代亚致死选择使七星瓢虫对氟啶虫胺腈产生耐受，但伴随适合度下降（生命表参数恶化）和捕食功能反应减弱，解毒酶活性与转录组谱发生适应性改变，表明耐受性进化存在明确的生态代价。
+在23~24月龄老年小鼠中，过表达TAOK1可改善肾功能、减轻组织病理损伤、炎症、NET形成及纤维化。机制上，TAOK1通过STK3/BNIP3通路增强线粒体自噬，从而发挥肾脏保护效应。
 
 ### 🧪 方法简介
 
-整合年龄-阶段两性生命表分析、功能反应测定、解毒酶活性检测与转录组 profiling 的多维度评估体系，将生理生化响应与种群适合度、生态功能表现相衔接，系统刻画多代选择下的适应性响应与代价。
+研究采用老年小鼠（23~24月龄）肾IRI模型结合TAOK1过表达干预，并综合运用Western blot与免疫荧光技术评估STK3/BNIP3通路及线粒体自噬水平，系统整合了功能、病理与分子层面验证。
 
 ### 🏥 临床相关性
 
-该研究虽聚焦农业生防领域，但其“耐受性进化伴随适合度代价”的核心逻辑对衰老干预研究具有类比启示——长期低剂量暴露诱导的适应性可能以功能衰退为代价，提示抗衰老干预需同步评估获益与机体整体功能的平衡。
+靶向TAOK1-STK3/BNIP3-线粒体自噬轴可能成为减轻老年人群AKI易感性的潜在策略，为抗衰老相关的肾脏保护干预提供候选分子靶点，但尚需临床转化验证。
 
 ---
 
-## 研究 4: Midlife physical activity trajectories are associated with reduced physical pre-frailty/frailty in older age: insights from the prospective ATTICA sub-study 2002-2024.
+## 研究 3: Caregiving burden and mental health among older East Asian American dementia caregivers: the role of perceived threat of AD/ADRD.
 
-**期刊**: The Journal of frailty & aging  
+**期刊**: Aging & mental health  
 **发表日期**: 2026 Oct 19  
-**第一作者**: Sgouropoulou D 等 | **PMID**: [42895852](https://pubmed.ncbi.nlm.nih.gov/42895852/)  
+**第一作者**: Lee M 等 | **PMID**: [42897875](https://pubmed.ncbi.nlm.nih.gov/42897875/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -112,11 +87,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 5: RUNX1-ETO oncoprotein levels determine the balance between endothelial reprogramming and pre-leukemic growth in a human ES cell model of AML.
+## 研究 4: Longitudinal associations of trajectories of physical activity and sitting time with depression during middle-to-older adulthood.
 
-**期刊**: Cell reports  
+**期刊**: Aging & mental health  
 **发表日期**: 2026 Oct 19  
-**第一作者**: Terolli K 等 | **PMID**: [42895851](https://pubmed.ncbi.nlm.nih.gov/42895851/)  
+**第一作者**: Lu S 等 | **PMID**: [42897872](https://pubmed.ncbi.nlm.nih.gov/42897872/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -134,13 +109,38 @@ type: "daily-digest"
 ### 🏥 临床相关性
 
 详见原文
+
+---
+
+## 研究 5: Acceptability and perceived value of dementia caregiving simulations in virtual reality: insights from consultation focus groups.
+
+**期刊**: Aging & mental health  
+**发表日期**: 2026 Oct 19  
+**第一作者**: Chiu M 等 | **PMID**: [42897862](https://pubmed.ncbi.nlm.nih.gov/42897862/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究聚焦失智症家庭照护者的培训需求，首次系统探讨了VR模拟培训平台（VR-SIM Carers）的可接受性与感知价值。其重要性在于将照护者培训与沉浸式技术结合，为缓解非正式照护负担提供了可扩展的干预思路。
+
+### 🔬 关键发现
+
+通过咨询焦点小组，研究识别了照护者的实际培训需求，并汇总了照护者及利益相关方（临床医生、研究者、VR开发者）对VR培训平台实施的障碍与促进因素。摘要未报告定量数据，核心产出为定性洞察。
+
+### 🧪 方法简介
+
+采用咨询焦点小组（consultation focus groups）的定性研究方法，同时纳入照护者与多学科利益相关方视角，在平台开发早期阶段即介入需求评估，体现了参与式设计思路。
+
+### 🏥 临床相关性
+
+研究为VR照护者培训平台的落地提供了用户端与实施端的双向依据，提示临床与健康从业者在设计数字化照护支持工具时，需同步关注可接受性与实施障碍，以提升干预的实际采纳率。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-20 02:42:10  
+**生成时间**: 2026-10-20 16:17:39  
 **摘要生成**: DeepSeek AI
 
 ---
