@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-20 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-21 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep | Regenerative Medicine in the Management of Musculoskeletal Pain: Mechanisms, Clinical Applications, and Future Directions. | Cureus | [42898712](https://pubmed.ncbi.nlm.nih.gov/42898712/) | Regenerative Medicine in the Management of Musculoskeletal P... |
-| 2026 | Cathepsin S: a double-edged protease in barrier damage, neuroimmune inflammation, and tissue repair, with implications for dermatology. | Frontiers in immunology | [42898666](https://pubmed.ncbi.nlm.nih.gov/42898666/) | Cathepsin S: a double-edged protease in barrier damage, neur... |
-| 2027 Feb | Targeting hepatic CREBZF protects against atherosclerosis via exosomal miR-210-3p mediated inhibition of endothelial inflammation. | Genes & diseases | [42898388](https://pubmed.ncbi.nlm.nih.gov/42898388/) | Targeting hepatic CREBZF protects against atherosclerosis vi... |
-| 2026 Dec | An intrascrotal bioadhesive nanoplatform for sustained hydrogen delivery ameliorates age-associated testicular dysfunction. | Materials today. Bio | [42898181](https://pubmed.ncbi.nlm.nih.gov/42898181/) | An intrascrotal bioadhesive nanoplatform for sustained hydro... |
-| 2026 Oct 8 | Skin-Whitening and Anti-Photoaging Activities of Limosilactobacillus reuteri DS0333 Culture Supernatant Produced in Unripe Rubus occidentalis L. Extract-Supplemented Medium. | Journal of microbiology and biotechnology | [42897972](https://pubmed.ncbi.nlm.nih.gov/42897972/) | Skin-Whitening and Anti-Photoaging Activities of Limosilacto... |
+| 2026 Dec | The Lysosomal Clock: Are We Only as Old as Our Lysosomes? | Traffic (Copenhagen, Denmark) | [42901771](https://pubmed.ncbi.nlm.nih.gov/42901771/) | The Lysosomal Clock: Are We Only as Old as Our Lysosomes? |
+| 2026 Oct 20 | Long-Term Treadmill Exercise Improves Spatial Memory and Increases SOX2-Positive Cells in the Hippocampus of Middle-Aged Male Mice. | Brain research bulletin | [42901416](https://pubmed.ncbi.nlm.nih.gov/42901416/) | Long-Term Treadmill Exercise Improves Spatial Memory and Inc... |
+| 2026 Oct 20 | Comparison of alveolar macrophages senescence between cigarette smoke-exposed and naturally aged mice and the role of P2X7R in CS-induced airway inflammation. | Toxicology and applied pharmacology | [42901355](https://pubmed.ncbi.nlm.nih.gov/42901355/) | Comparison of alveolar macrophages senescence between cigare... |
+| 2026 Oct 20 | Elastin-derived peptide VGVAPG induces redox-associated pro-inflammatory activation and early disease-associated microglia (DAM) molecular profile in a human microglia-neuron in vitro model involving NEU1/TLR4-related signaling. | Free radical biology & medicine | [42901280](https://pubmed.ncbi.nlm.nih.gov/42901280/) | Elastin-derived peptide VGVAPG induces redox-associated pro-... |
+| 2026 Oct 16 | Thermosensitive and tumor-targeted asparaginase fusion protein enables metabolic-immunotherapy for solid tumors. | Biomaterials | [42901134](https://pubmed.ncbi.nlm.nih.gov/42901134/) | Thermosensitive and tumor-targeted asparaginase fusion prote... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-20 | 自动生成*
+*最后更新：2026-10-21 | 自动生成*
