@@ -12,11 +12,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Improving optogenetic control over G(i/o)-coupled receptor signaling by optimized GIRK channel expression.
+## 研究 1: Small variant calling in the era of long-read sequencing.
 
-**期刊**: Science signaling  
+**期刊**: Nature reviews. Genetics  
 **发表日期**: 2026 Oct 20  
-**第一作者**: Mücher B 等 | **PMID**: [42900704](https://pubmed.ncbi.nlm.nih.gov/42900704/)  
+**第一作者**: Zheng Z 等 | **PMID**: [42902030](https://pubmed.ncbi.nlm.nih.gov/42902030/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -37,61 +37,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 2: Development and validation of the anxious behaviors questionnaire (ABQ) in older adults.
+## 研究 2: The architectural and functional landscape of transposon-derived chimeric RNAs.
 
-**期刊**: Aging & mental health  
-**发表日期**: 2026 Oct 20  
-**第一作者**: Brisson M 等 | **PMID**: [42900650](https://pubmed.ncbi.nlm.nih.gov/42900650/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该研究开发并验证了首个针对老年人广泛性焦虑障碍（GAD）相关外显行为的自评工具——焦虑行为问卷（ABQ），填补了老年GAD行为评估工具的空白，为提升老年GAD诊断准确性提供了年龄适配的测量手段。
-
-### 🔬 关键发现
-
-研究通过两项子研究完成问卷开发与心理测量学评估：研究1采用探索性因子分析（EFA）探索因子结构，研究2采用验证性因子分析（CFA）验证所得结构并检验其他心理测量学属性，但摘要未报告具体因子数目、载荷值或信效度数据。
-
-### 🧪 方法简介
-
-采用分阶段心理测量学开发策略，先以EFA探索因子结构，再以CFA交叉验证，形成“探索—验证”两步骤的问卷开发范式，增强了量表结构的稳健性。
-
-### 🏥 临床相关性
-
-ABQ为临床识别老年人GAD相关行为提供了标准化自评工具，有望辅助早期筛查与诊断；但摘要未报告效度数据，其临床效用尚待完整心理测量学结果及后续干预研究验证。
-
----
-
-## 研究 3: Longitudinal Association Between Prefrailty/Frailty and HIV-associated Neurocognitive Disorder (HAND): a Mexican Prospective Study.
-
-**期刊**: The journals of gerontology. Series A, Biological sciences and medical sciences  
-**发表日期**: 2026 Oct 20  
-**第一作者**: Esteva López JA 等 | **PMID**: [42900505](https://pubmed.ncbi.nlm.nih.gov/42900505/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-这是首个在墨西哥及拉美人群中描述老年HIV感染者HAND轨迹与衰弱关系的前瞻性研究。核心发现是基线衰弱/前衰弱并不能预测HAND的进展，挑战了“衰弱驱动认知恶化”的简单假设。
-
-### 🔬 关键发现
-
-194名≥50岁感染者随访中位2.3年，仅32例HAND进展；调整混杂因素后，前衰弱/衰弱与HAND进展无显著关联（调整HR=0.63，95%CI 0.27-1.48，p=0.29），多数人认知保持稳定。
-
-### 🧪 方法简介
-
-采用至少间隔一年的两次标准化老年评估，以Fried表型定义衰弱、Antinori标准定义HAND，并运用基于有向无环图筛选混杂因素的逆概率加权Cox模型进行纵向分析。
-
-### 🏥 临床相关性
-
-提示临床不应将衰弱简单视为HAND的预测指标，二者或为并行但相对独立的衰老表型；对老年HIV感染者应分别评估与干预衰弱和认知，而非寄望改善衰弱即可延缓认知下降。
-
----
-
-## 研究 4: Low-Carbohydrate Diets, Nutritional Adequacy, Glycemia, and Perinatal Outcomes in Women With Gestational Diabetes Mellitus: A Secondary Analysis of the DiGest Trial.
-
-**期刊**: Diabetes care  
-**发表日期**: 2026 Oct 20  
-**第一作者**: Ahmad E 等 | **PMID**: [42900778](https://pubmed.ncbi.nlm.nih.gov/42900778/)  
+**期刊**: RNA biology  
+**发表日期**: 2026 Dec  
+**第一作者**: Xiang Y 等 | **PMID**: [42902538](https://pubmed.ncbi.nlm.nih.gov/42902538/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -112,11 +62,11 @@ ABQ为临床识别老年人GAD相关行为提供了标准化自评工具，有�
 
 ---
 
-## 研究 5: Accelerated Epigenetic Ageing in Diabetic Kidney Disease: A Comparison of 10 Epigenetic Clock Measures in Individuals With Type 1 Diabetes.
+## 研究 3: Abscopal effect-induced acephalic spermatozoa and testicular dysfunction implicate Cep112 and PI3K/Akt-mTOR signaling.
 
-**期刊**: Diabetes  
+**期刊**: Asian journal of andrology  
 **发表日期**: 2026 Oct 20  
-**第一作者**: Hill C 等 | **PMID**: [42900742](https://pubmed.ncbi.nlm.nih.gov/42900742/)  
+**第一作者**: Mao ZX 等 | **PMID**: [42902524](https://pubmed.ncbi.nlm.nih.gov/42902524/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -134,13 +84,63 @@ ABQ为临床识别老年人GAD相关行为提供了标准化自评工具，有�
 ### 🏥 临床相关性
 
 详见原文
+
+---
+
+## 研究 4: Premature Occlusal Contacts Induce MRONJ in Osseointegrated Dental Implants: An Experimental In Vivo Study.
+
+**期刊**: Clinical oral implants research  
+**发表日期**: 2026 Oct 20  
+**第一作者**: Bae EB 等 | **PMID**: [42902500](https://pubmed.ncbi.nlm.nih.gov/42902500/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究首次在动物模型中证实，过早咬合接触（POC）所导致的咬合创伤可独立于细菌因素诱发种植体周围MRONJ，提示生物力学因素在IPTO中的致病作用被长期低估。
+
+### 🔬 关键发现
+
+在骨整合良好的种植体周围，施加过早咬合接触可诱导MRONJ样病变，表明咬合创伤是IPTO的潜在触发因素，而不仅限于细菌相关种植体周围炎。
+
+### 🧪 方法简介
+
+研究建立了新型小鼠种植体过早咬合接触模型，将咬合创伤变量与细菌因素分离，为在体内系统评估生物力学负荷对MRONJ发生的影响提供了可控实验平台。
+
+### 🏥 临床相关性
+
+提示临床在管理接受抗骨吸收药物治疗的患者种植修复时，应重视咬合设计与调𬌗，控制异常咬合力可能成为预防种植体周围MRONJ的潜在干预靶点。
+
+---
+
+## 研究 5: EXPRESS: Cardio‑Glymphatic Association: Left‑Heart Dysfunction in CSVD and Its Association With Glymphatic‑Related Cognitive Impairment.
+
+**期刊**: Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism  
+**发表日期**: 2026 Oct 20  
+**第一作者**: Zhan C 等 | **PMID**: [42902481](https://pubmed.ncbi.nlm.nih.gov/42902481/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究首次在脑小血管病（CSVD）人群中揭示了“左心功能—类淋巴系统—认知”的关联通路，提出类淋巴功能障碍可能是连接左心功能不全与认知损害的关键中介环节，为CSVD相关认知障碍的上游机制提供了新视角。
+
+### 🔬 关键发现
+
+DTI-ALPS指数呈NC > CSVD-NCI > CSVD-VCI的梯度下降，且与LVEF正相关、与LAD负相关，并关联多个认知域。中介分析显示，DTI-ALPS指数显著介导了LVEF和LAD对认知表现的影响。
+
+### 🧪 方法简介
+
+研究整合了心脏超声（LVEF、LVEDD、LAD）、脑MRI的DTI-ALPS指数（评估类淋巴活动）及神经心理学评估，采用中介分析统计框架，将系统性心脏指标、类淋巴功能与认知结局纳入同一分析模型。
+
+### 🏥 临床相关性
+
+提示左心功能评估或可作为CSVD认知损害风险的早期预警窗口，类淋巴系统有望成为连接心血管健康与脑认知老化的干预靶点，为抗衰老策略中“心—脑轴”的整合管理提供初步依据。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-21 02:35:57  
+**生成时间**: 2026-10-21 16:17:41  
 **摘要生成**: DeepSeek AI
 
 ---
