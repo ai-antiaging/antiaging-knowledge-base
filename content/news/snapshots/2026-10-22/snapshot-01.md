@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-10-22 #1"
 date: 2026-10-22
-description: "Response to the correspondence regarding "Association between anticholinergic an..."
+description: "Response to the correspondence regarding 'Association between anticholinergic an...'"
 draft: false
 type: "snapshot"
 ---
