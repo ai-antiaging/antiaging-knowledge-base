@@ -15,31 +15,39 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 4 | Ferro-aging: a potential driver of degenerative bone and joint diseases. | Cell communication and signaling : CCS | [42907920](https://pubmed.ncbi.nlm.nih.gov/42907920/) | Ferro-aging: a potential driver of degenerative bone and joi... |
-| 2026 Jul 27 | Plasma biomarkers of immune regulation and senescence are associated with incident skeletal-related events in people with HIV: a case-cohort study. | Immunity & ageing : I & A | [42907879](https://pubmed.ncbi.nlm.nih.gov/42907879/) | Plasma biomarkers of immune regulation and senescence are as... |
-| 2026 Jul 26 | A circRNA platform for safe partial reprogramming and rejuvenation of mesenchymal stem cells without pluripotent conversion. | Stem cell research & therapy | [42907856](https://pubmed.ncbi.nlm.nih.gov/42907856/) | A circRNA platform for safe partial reprogramming and rejuve... |
-| 2026 Jul 27 | A large palindromic segmental duplication on mouse chromosome 12 marks an evolutionarily fragile genomic interval. | BMC genomics | [42907760](https://pubmed.ncbi.nlm.nih.gov/42907760/) | A large palindromic segmental duplication on mouse chromosom... |
-| 2026 Oct 22 | Correction to: Brain cellular senescence in mouse models of Alzheimer's disease. | GeroScience | [42907666](https://pubmed.ncbi.nlm.nih.gov/42907666/) | Correction to: Brain cellular senescence in mouse models of ... |
+| 2026 Oct | Near-infrared fluorescent probe-mediated high-throughput discovery of a natural β-galactosidase inhibitor for senescence-associated atherosclerosis therapy. | Journal of pharmaceutical analysis | [42908895](https://pubmed.ncbi.nlm.nih.gov/42908895/) | Near-infrared fluorescent probe-mediated high-throughput dis... |
+| 2026 Oct | Whole genome sequencing identifies genetic variants associated with senescence-accelerated phenotype of OXYS rats. | Vavilovskii zhurnal genetiki i selektsii | [42908879](https://pubmed.ncbi.nlm.nih.gov/42908879/) | Whole genome sequencing identifies genetic variants associat... |
+| 2026 | Persistent CCL3 expression sustains neutrophil recruitment and contributes to delayed wound healing in advanced age. | Frontiers in immunology | [42908654](https://pubmed.ncbi.nlm.nih.gov/42908654/) | Persistent CCL3 expression sustains neutrophil recruitment a... |
+| 2026 | Mapping the aging kidney: a bibliometric atlas of cellular senescence and future frontiers since the 20th century. | Frontiers in nephrology | [42908614](https://pubmed.ncbi.nlm.nih.gov/42908614/) | Mapping the aging kidney: a bibliometric atlas of cellular s... |
+| 2026 | Commentary: Calcium arrhythmogenicity of Purkinje fibers: importance of the animal model. | Frontiers in physiology | [42908537](https://pubmed.ncbi.nlm.nih.gov/42908537/) | Commentary: Calcium arrhythmogenicity of Purkinje fibers: im... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Nov 20 | Overexpression of endoplasmic reticulum acetyl-CoA transporter AT-1 alters neuronal metabolism, growth, and synaptic activity. | iScience | [42909095](https://pubmed.ncbi.nlm.nih.gov/42909095/) | Overexpression of endoplasmic reticulum acetyl-CoA transport... |
 | 2026 Oct 21 | PPR9 mediates mitochondrial nad transcript maturation required for complex I biogenesis and early plant development in Arabidopsis. | Plant molecular biology | [42907608](https://pubmed.ncbi.nlm.nih.gov/42907608/) | PPR9 mediates mitochondrial nad transcript maturation requir... |
 | 2026 Oct 27 | Mitochondrial subpopulations promote cellular responses to changes in metabolic demand and signal transduction. | Proceedings of the National Academy of Sciences of the United States of America | [42905544](https://pubmed.ncbi.nlm.nih.gov/42905544/) | Mitochondrial subpopulations promote cellular responses to c... |
 | 2026 Oct | Rapid Wound Healing Observed Following Oral LathMized NAD+ Supplementation: A Case Study. | Plastic and reconstructive surgery. Global open | [42903495](https://pubmed.ncbi.nlm.nih.gov/42903495/) | Rapid Wound Healing Observed Following Oral LathMized NAD+ S... |
 | 2026 Nov | A Cilia-Centered Nicotinamide Adenine Dinucleotide (NAD(+)) Signaling Network Regulates Hypothalamic Lysosomal Homeostasis and Metabolic Aging. | Aging cell | [42902820](https://pubmed.ncbi.nlm.nih.gov/42902820/) | A Cilia-Centered Nicotinamide Adenine Dinucleotide (NAD(+)) ... |
-| 2026 Oct | SIRT6 Activation Improves Intervertebral Disc Health in the Aging Spine. | Aging cell | [42895774](https://pubmed.ncbi.nlm.nih.gov/42895774/) | SIRT6 Activation Improves Intervertebral Disc Health in the ... |
 
 ### 尿石素 A 与线粒体自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 | Natural products targeting mitochondrial homeostasis: a four-dimensional framework integrating dynamics, mitophagy, pharmacokinetics, and translational safety. | Frontiers in pharmacology | [42889944](https://pubmed.ncbi.nlm.nih.gov/42889944/) | Natural products targeting mitochondrial homeostasis: a four... |
+| 2026 Oct 16 | Topical application of urolithin A activates mitophagy and enhances mitochondrial function to promote skin longevity. | iScience | [42866687](https://pubmed.ncbi.nlm.nih.gov/42866687/) | Topical application of urolithin A activates mitophagy and e... |
+| 2027 Mar | An ultrasound-responsive hydrogel with piezoelectric-enhanced bioelectric-vesicular coupling alleviates mitochondrial dysfunction and inflammation for osteoarthritis therapy. | Bioactive materials | [42861280](https://pubmed.ncbi.nlm.nih.gov/42861280/) | An ultrasound-responsive hydrogel with piezoelectric-enhance... |
+| 2026 Sep 28 | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Flux, Measurement Gaps, and Human Translation. | Aging and disease | [42858326](https://pubmed.ncbi.nlm.nih.gov/42858326/) | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Fl... |
+| 2026 Oct 1 | Urolithin A and Endothelial and Cerebrovascular Function in Middle-Aged Adults With Obesity: A Randomized Clinical Trial. | JAMA network open | [42853569](https://pubmed.ncbi.nlm.nih.gov/42853569/) | Urolithin A and Endothelial and Cerebrovascular Function in ... |
 
 ### 亚精胺与自噬
 
-*暂无最新文献*
-
+| 日期 | 标题 | 期刊 | PMID | 关键发现 |
+|------|------|------|------|---------|
+| 2026 Oct 10 | Correction: Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42859229](https://pubmed.ncbi.nlm.nih.gov/42859229/) | Correction: Longitudinal association of dietary spermidine w... |
+| 2026 Oct 2 | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evidentiary Limits, and Translational Requirements. | Aging and disease | [42858331](https://pubmed.ncbi.nlm.nih.gov/42858331/) | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evide... |
+| 2026 Oct 9 | Effects of Spermidine Supplementation on Vascular Brain Health in Older Individuals with Subjective Cognitive Decline - An Exploratory MRI Analysis. | Aging and disease | [42858321](https://pubmed.ncbi.nlm.nih.gov/42858321/) | Effects of Spermidine Supplementation on Vascular Brain Heal... |
 
 ---
 
