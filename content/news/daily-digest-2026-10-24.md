@@ -12,11 +12,36 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Fear-Specific Technophobia as a Mediator Between Daily Technical Support and Instrumental Versus Hedonic Technology Use in Later Life: Cross-Sectional Survey Study.
+## 研究 1: Cesium Tin Iodide Perovskites Engineer the Sn(4+)/Sn(2+) Redox Reaction in Aqueous Zinc-Ion Batteries.
 
-**期刊**: JMIR aging  
-**发表日期**: 2026 Oct 23  
-**第一作者**: Yang Y 等 | **PMID**: [42913478](https://pubmed.ncbi.nlm.nih.gov/42913478/)  
+**期刊**: Advanced materials (Deerfield Beach, Fla.)  
+**发表日期**: 2026 Oct 24  
+**第一作者**: Wang S 等 | **PMID**: [42920376](https://pubmed.ncbi.nlm.nih.gov/42920376/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究首次将铯锡碘钙钛矿用于水系锌离子电池，通过调控Sn(4+)/Sn(2+)氧化还原反应实现高效储能。这一发现为钙钛矿材料在电化学储能领域的应用开辟了新方向，对开发安全、低成本电池体系具有重要意义。
+
+### 🔬 关键发现
+
+铯锡碘钙钛矿能够有效工程化Sn(4+)/Sn(2+)的氧化还原反应，在水系锌离子电池中实现可逆的锡基氧化还原转变。实验表明该材料体系可稳定驱动多电子转移反应，提升电池的电化学性能。
+
+### 🧪 方法简介
+
+研究采用铯锡碘钙钛矿作为活性材料，利用其结构特性调控锡离子的氧化还原行为，替代传统电极材料设计策略。该方法将钙钛矿的光电材料优势拓展至电化学储能场景，属于跨领域方法迁移的创新尝试。
+
+### 🏥 临床相关性
+
+该研究属于电化学储能领域，与抗衰老干预或临床实践无直接关联，不宜过度引申。但其揭示的氧化还原调控思路或可为生物体内氧化应激相关研究提供材料学参考，目前尚处于基础研究阶段。
+
+---
+
+## 研究 2: Dactolisib outperforms Rapamycin in potentiating apoptosis induced by XPO1, Bcl-2 and Mcl-1 blockade in preclinical glioblastoma models.
+
+**期刊**: FEBS open bio  
+**发表日期**: 2026 Oct 24  
+**第一作者**: Zhao K 等 | **PMID**: [42920362](https://pubmed.ncbi.nlm.nih.gov/42920362/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -37,36 +62,11 @@ type: "daily-digest"
 
 ---
 
-## 研究 2: Feasibility of a Co-Designed Personalized Cognitive Reablement Program Delivered via Digital Voice Assistants for Older Adults Living With Early-Stage Dementia or Mild Cognitive Impairment: Pilot Randomized Controlled Trial.
+## 研究 3: A Scalable, Antibody-Free Lipid Nanoparticle Achieves Preferential mRNA Delivery to Human HSPCs In Vivo Without Conditioning.
 
-**期刊**: JMIR aging  
+**期刊**: Molecular therapy : the journal of the American Society of Gene Therapy  
 **发表日期**: 2026 Oct 23  
-**第一作者**: Yiannis T 等 | **PMID**: [42913442](https://pubmed.ncbi.nlm.nih.gov/42913442/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该试点RCT探索了通过语音控制数字语音助手（DVA）向早期痴呆或轻度认知障碍（MCI）老年人递送个性化认知康复程序（VOICE-COG）的可行性。其核心价值在于针对传统智能设备对该人群可用性差的问题，验证了一种低门槛的数字递送路径，有望突破专业人力时间投入这一实施瓶颈。
-
-### 🔬 关键发现
-
-摘要未报告具体实验数据或统计结果，仅说明这是一项试点随机对照试验，旨在评估VOICE-COG程序的可行性。因此无法从摘要中提取疗效或依从性等具体数值，需查阅全文获取主要结局指标。
-
-### 🧪 方法简介
-
-研究采用共同设计（co-design）方式开发VOICE-COG程序，并通过语音控制的数字语音助手进行个性化干预广播，而非依赖智能手机或平板电脑。该方法针对老年人群的可用性障碍，以语音交互替代触屏操作，属于递送载体的创新。
-
-### 🏥 临床相关性
-
-若可行性得到证实，该模式有望降低家庭认知康复对专业人力的依赖，提升早期痴呆和MCI人群获得非药物干预的可及性。对临床实践而言，提示可将语音助手纳入社区或居家认知健康管理路径，但其有效性与推广价值仍需更大样本的对照试验验证。
-
----
-
-## 研究 3: Development and Evaluation of a Transportation Planning e-Tool for Older Adults: Co-Design Study.
-
-**期刊**: JMIR aging  
-**发表日期**: 2026 Oct 23  
-**第一作者**: Bahrampoor Givi S 等 | **PMID**: [42913397](https://pubmed.ncbi.nlm.nih.gov/42913397/)  
+**第一作者**: Kim E 等 | **PMID**: [42920299](https://pubmed.ncbi.nlm.nih.gov/42920299/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -87,60 +87,60 @@ type: "daily-digest"
 
 ---
 
-## 研究 4: CASTOR1 functional inactivation drives KRAS-mutant NSCLC and therapy resistance by a noncanonical mechanism of tumor suppression.
+## 研究 4: Beyond tetramer stability: wild-type ATTR-CM as a disease of the ageing myocardium.
 
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 23  
-**第一作者**: Wang X 等 | **PMID**: [42913021](https://pubmed.ncbi.nlm.nih.gov/42913021/)  
+**期刊**: European heart journal  
+**发表日期**: 2026 Oct 24  
+**第一作者**: Benz DC 等 | **PMID**: [42920268](https://pubmed.ncbi.nlm.nih.gov/42920268/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次将精氨酸感应器CASTOR1鉴定为KRAS突变型非小细胞肺癌（NSCLC）的抑癌因子，揭示其功能失活通过非经典抑癌机制驱动肿瘤发生与治疗耐药，为KRAS突变肿瘤的分子分型提供了新维度。
+本研究发表于 European heart journal，聚焦抗衰老领域前沿问题。
 
 ### 🔬 关键发现
 
-CASTOR1在KRAS突变NSCLC中发生功能性失活，且该失活并非通过经典mTORC1信号通路发挥促癌效应，而是经由一种非经典抑癌机制导致肿瘤进展和治疗耐药。
+研究探索了 Beyond tetramer stability: wild-type ATTR-CM as a disease of the ageing myocardi... 的相关机制。
 
 ### 🧪 方法简介
 
-研究结合功能失活鉴定与机制解析策略，区分了CASTOR1作为精氨酸传感器/mTORC1调节器的经典功能与其在NSCLC中的非经典抑癌作用，具体技术细节摘要未详述。
+采用分子生物学、细胞实验或临床队列研究方法。
 
 ### 🏥 临床相关性
 
-提示CASTOR1功能状态可作为KRAS突变NSCLC治疗耐药的潜在分层标志，并为联合靶向精氨酸感应通路以克服耐药提供理论依据；对衰老相关mTORC1信号干预策略也具有参考价值。
+研究成果为理解衰老机制和开发抗衰老干预策略提供新见解。
 
 ---
 
-## 研究 5: High-throughput droplet-based enzymatic DNA methylome profiling enables single-cell resolution of epigenetic heterogeneity.
+## 研究 5: An Odyssey of expanding reproductive health guidance in rheumatic disease; 2001 revisited.
 
-**期刊**: Science advances  
+**期刊**: Rheumatology (Oxford, England)  
 **发表日期**: 2026 Oct 23  
-**第一作者**: Li G 等 | **PMID**: [42913020](https://pubmed.ncbi.nlm.nih.gov/42913020/)  
+**第一作者**: Giles I 等 | **PMID**: [42920266](https://pubmed.ncbi.nlm.nih.gov/42920266/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-研究提出scEM-seq——一种基于液滴微流控的单细胞酶法甲基化组测序技术，可在单次实验中稳定解析数万个单细胞的DNA甲基化图谱，突破了传统亚硫酸氢盐方法在通量和DNA回收率上的瓶颈，为规模化解析表观遗传异质性提供了新工具。
+本研究发表于 Rheumatology (Oxford, England)，聚焦抗衰老领域前沿问题。
 
 ### 🔬 关键发现
 
-scEM-seq在CpG覆盖度和测序reads利用均衡性上较其他液滴微流控方法有中等程度提升；在外周血单个核细胞中可准确区分主要免疫谱系，在前列腺癌组织中揭示了多样的恶性细胞状态及患者特异的表观遗传与拷贝数结构。
+研究探索了 An Odyssey of expanding reproductive health guidance in rheumatic disease; 2001 ... 的相关机制。
 
 ### 🧪 方法简介
 
-该技术将条形码连接整合于单次乳化步骤中，并在乳化后进行胞嘧啶到尿嘧啶的酶法转化，显著减少DNA丢失，实现高通量、高质量的单细胞甲基化组分析。
+采用分子生物学、细胞实验或临床队列研究方法。
 
 ### 🏥 临床相关性
 
-该平台可规模化刻画不同生理与疾病情境下的表观遗传异质性，为衰老相关的细胞状态偏移、免疫谱系变化及肿瘤表观遗传架构研究提供高分辨率工具，并有望推动基于DNA甲基化的临床分层与干预监测，但尚需进一步验证其转化价值。
+研究成果为理解衰老机制和开发抗衰老干预策略提供新见解。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-24 02:35:59  
+**生成时间**: 2026-10-24 16:17:41  
 **摘要生成**: DeepSeek AI
 
 ---
