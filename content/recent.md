@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 22 | Long-Term Expandable Periosteal Organoids Reconstruct a Functional Regenerative Niche That Support Hematopoietic Stem Cell Maintenance and Bone Repair. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42919465](https://pubmed.ncbi.nlm.nih.gov/42919465/) | Long-Term Expandable Periosteal Organoids Reconstruct a Func... |
-| 2026 Jul 28 | Ovarian fibrosis in polyendocrine metabolic ovarian syndrome: emerging mechanisms and therapeutic implications. | Reproductive biology and endocrinology : RB&E | [42919370](https://pubmed.ncbi.nlm.nih.gov/42919370/) | Ovarian fibrosis in polyendocrine metabolic ovarian syndrome... |
-| 2026 Oct 22 | Mitochondrial dysfunction in microglia: a novel perspective of depression pathogenesis. | Inflammation and regeneration | [42919365](https://pubmed.ncbi.nlm.nih.gov/42919365/) | Mitochondrial dysfunction in microglia: a novel perspective ... |
-| 2026 Oct 22 | Author Correction: Malonyl-CoA is a conserved endogenous ATP-competitive mTORC1 inhibitor. | Nature cell biology | [42918817](https://pubmed.ncbi.nlm.nih.gov/42918817/) | Author Correction: Malonyl-CoA is a conserved endogenous ATP... |
-| 2026 Sep 23 | Inducible chronic NAD deficiency in mice reveals multi-systemic phenotypical, metabolic, and transcriptional changes. | Nature communications | [42918808](https://pubmed.ncbi.nlm.nih.gov/42918808/) | Inducible chronic NAD deficiency in mice reveals multi-syste... |
+| 2026 Oct 23 | A putative iron-related evolving framework in Alzheimer's disease: From iron dyshomeostasis and ferro-aging to ferroptosis. | Journal of Alzheimer's disease : JAD | [42920252](https://pubmed.ncbi.nlm.nih.gov/42920252/) | A putative iron-related evolving framework in Alzheimer's di... |
+| 2026 Jul 25 | Ischemic stroke: molecular mechanisms of blood-brain barrier dysfunction and opportunities for drug development. | Fluids and barriers of the CNS | [42920188](https://pubmed.ncbi.nlm.nih.gov/42920188/) | Ischemic stroke: molecular mechanisms of blood-brain barrier... |
+| 2026 Jul 27 | Genetic prioritization of HSDL2 in suicide and intentional self-harm: multi-omics evidence linking lipid metabolism and neuronal vulnerability. | BMC medicine | [42920133](https://pubmed.ncbi.nlm.nih.gov/42920133/) | Genetic prioritization of HSDL2 in suicide and intentional s... |
+| 2026 Oct 23 | Uncovering the transcriptional hallmarks of endothelial cell aging via integrated single-cell analysis. | Nature aging | [42919924](https://pubmed.ncbi.nlm.nih.gov/42919924/) | Uncovering the transcriptional hallmarks of endothelial cell... |
+| 2026 Oct 23 | Type 2 immunity as a counter-regulatory axis in aging. | Nature aging | [42919923](https://pubmed.ncbi.nlm.nih.gov/42919923/) | Type 2 immunity as a counter-regulatory axis in aging. |
 
 ### NAD+ 与线粒体
 
