@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-23 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-24 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct | Near-infrared fluorescent probe-mediated high-throughput discovery of a natural β-galactosidase inhibitor for senescence-associated atherosclerosis therapy. | Journal of pharmaceutical analysis | [42908895](https://pubmed.ncbi.nlm.nih.gov/42908895/) | Near-infrared fluorescent probe-mediated high-throughput dis... |
-| 2026 Oct | Whole genome sequencing identifies genetic variants associated with senescence-accelerated phenotype of OXYS rats. | Vavilovskii zhurnal genetiki i selektsii | [42908879](https://pubmed.ncbi.nlm.nih.gov/42908879/) | Whole genome sequencing identifies genetic variants associat... |
-| 2026 | Persistent CCL3 expression sustains neutrophil recruitment and contributes to delayed wound healing in advanced age. | Frontiers in immunology | [42908654](https://pubmed.ncbi.nlm.nih.gov/42908654/) | Persistent CCL3 expression sustains neutrophil recruitment a... |
-| 2026 | Mapping the aging kidney: a bibliometric atlas of cellular senescence and future frontiers since the 20th century. | Frontiers in nephrology | [42908614](https://pubmed.ncbi.nlm.nih.gov/42908614/) | Mapping the aging kidney: a bibliometric atlas of cellular s... |
-| 2026 | Commentary: Calcium arrhythmogenicity of Purkinje fibers: importance of the animal model. | Frontiers in physiology | [42908537](https://pubmed.ncbi.nlm.nih.gov/42908537/) | Commentary: Calcium arrhythmogenicity of Purkinje fibers: im... |
+| 2026 Oct 22 | Long-Term Expandable Periosteal Organoids Reconstruct a Functional Regenerative Niche That Support Hematopoietic Stem Cell Maintenance and Bone Repair. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42919465](https://pubmed.ncbi.nlm.nih.gov/42919465/) | Long-Term Expandable Periosteal Organoids Reconstruct a Func... |
+| 2026 Jul 28 | Ovarian fibrosis in polyendocrine metabolic ovarian syndrome: emerging mechanisms and therapeutic implications. | Reproductive biology and endocrinology : RB&E | [42919370](https://pubmed.ncbi.nlm.nih.gov/42919370/) | Ovarian fibrosis in polyendocrine metabolic ovarian syndrome... |
+| 2026 Oct 22 | Mitochondrial dysfunction in microglia: a novel perspective of depression pathogenesis. | Inflammation and regeneration | [42919365](https://pubmed.ncbi.nlm.nih.gov/42919365/) | Mitochondrial dysfunction in microglia: a novel perspective ... |
+| 2026 Oct 22 | Author Correction: Malonyl-CoA is a conserved endogenous ATP-competitive mTORC1 inhibitor. | Nature cell biology | [42918817](https://pubmed.ncbi.nlm.nih.gov/42918817/) | Author Correction: Malonyl-CoA is a conserved endogenous ATP... |
+| 2026 Sep 23 | Inducible chronic NAD deficiency in mice reveals multi-systemic phenotypical, metabolic, and transcriptional changes. | Nature communications | [42918808](https://pubmed.ncbi.nlm.nih.gov/42918808/) | Inducible chronic NAD deficiency in mice reveals multi-syste... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Sep 23 | Inducible chronic NAD deficiency in mice reveals multi-systemic phenotypical, metabolic, and transcriptional changes. | Nature communications | [42918808](https://pubmed.ncbi.nlm.nih.gov/42918808/) | Inducible chronic NAD deficiency in mice reveals multi-syste... |
+| 2026 Oct 22 | Revealing NMN-induced biomacromolecular complex and conformational regulation of digestive enzymes (Trypsin, Pepsin, α-Amylase): Insights from molecular dynamics simulation and multi-spectroscopy. | Biochemical pharmacology | [42913802](https://pubmed.ncbi.nlm.nih.gov/42913802/) | Revealing NMN-induced biomacromolecular complex and conforma... |
+| 2026 Oct 22 | Development of Organocatalytic Switches of OGG1 that Protect Mitochondria under Oxidative Stress. | Journal of medicinal chemistry | [42911704](https://pubmed.ncbi.nlm.nih.gov/42911704/) | Development of Organocatalytic Switches of OGG1 that Protect... |
+| 2026 Oct 22 | Resveratroloside alleviates senescence-associated phenotypes in vitro through the coordinated regulation of mitochondrial function and chromatin structure. | Biogerontology | [42911431](https://pubmed.ncbi.nlm.nih.gov/42911431/) | Resveratroloside alleviates senescence-associated phenotypes... |
 | 2026 Nov 20 | Overexpression of endoplasmic reticulum acetyl-CoA transporter AT-1 alters neuronal metabolism, growth, and synaptic activity. | iScience | [42909095](https://pubmed.ncbi.nlm.nih.gov/42909095/) | Overexpression of endoplasmic reticulum acetyl-CoA transport... |
-| 2026 Oct 21 | PPR9 mediates mitochondrial nad transcript maturation required for complex I biogenesis and early plant development in Arabidopsis. | Plant molecular biology | [42907608](https://pubmed.ncbi.nlm.nih.gov/42907608/) | PPR9 mediates mitochondrial nad transcript maturation requir... |
-| 2026 Oct 27 | Mitochondrial subpopulations promote cellular responses to changes in metabolic demand and signal transduction. | Proceedings of the National Academy of Sciences of the United States of America | [42905544](https://pubmed.ncbi.nlm.nih.gov/42905544/) | Mitochondrial subpopulations promote cellular responses to c... |
-| 2026 Oct | Rapid Wound Healing Observed Following Oral LathMized NAD+ Supplementation: A Case Study. | Plastic and reconstructive surgery. Global open | [42903495](https://pubmed.ncbi.nlm.nih.gov/42903495/) | Rapid Wound Healing Observed Following Oral LathMized NAD+ S... |
-| 2026 Nov | A Cilia-Centered Nicotinamide Adenine Dinucleotide (NAD(+)) Signaling Network Regulates Hypothalamic Lysosomal Homeostasis and Metabolic Aging. | Aging cell | [42902820](https://pubmed.ncbi.nlm.nih.gov/42902820/) | A Cilia-Centered Nicotinamide Adenine Dinucleotide (NAD(+)) ... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-23 | 自动生成*
+*最后更新：2026-10-24 | 自动生成*
