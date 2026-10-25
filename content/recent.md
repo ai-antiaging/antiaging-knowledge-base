@@ -15,39 +15,26 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 23 | A putative iron-related evolving framework in Alzheimer's disease: From iron dyshomeostasis and ferro-aging to ferroptosis. | Journal of Alzheimer's disease : JAD | [42920252](https://pubmed.ncbi.nlm.nih.gov/42920252/) | A putative iron-related evolving framework in Alzheimer's di... |
-| 2026 Jul 25 | Ischemic stroke: molecular mechanisms of blood-brain barrier dysfunction and opportunities for drug development. | Fluids and barriers of the CNS | [42920188](https://pubmed.ncbi.nlm.nih.gov/42920188/) | Ischemic stroke: molecular mechanisms of blood-brain barrier... |
-| 2026 Jul 27 | Genetic prioritization of HSDL2 in suicide and intentional self-harm: multi-omics evidence linking lipid metabolism and neuronal vulnerability. | BMC medicine | [42920133](https://pubmed.ncbi.nlm.nih.gov/42920133/) | Genetic prioritization of HSDL2 in suicide and intentional s... |
-| 2026 Oct 23 | Uncovering the transcriptional hallmarks of endothelial cell aging via integrated single-cell analysis. | Nature aging | [42919924](https://pubmed.ncbi.nlm.nih.gov/42919924/) | Uncovering the transcriptional hallmarks of endothelial cell... |
-| 2026 Oct 23 | Type 2 immunity as a counter-regulatory axis in aging. | Nature aging | [42919923](https://pubmed.ncbi.nlm.nih.gov/42919923/) | Type 2 immunity as a counter-regulatory axis in aging. |
+| 2026 Oct 24 | O-linked β-N-acetylglucosamine homeostasis in brain health and disease: From physiology to neurodevelopmental and neurodegenerative disorders. | Neural regeneration research | [42927476](https://pubmed.ncbi.nlm.nih.gov/42927476/) | O-linked β-N-acetylglucosamine homeostasis in brain health a... |
+| 2026 Oct | Does the Exercise Delay Age-Related Cognitive Impairment: Conversation Between White Matter, Myelin Sheath, and Oligodendrocyte During Exercise? | Journal of cellular physiology | [42927467](https://pubmed.ncbi.nlm.nih.gov/42927467/) | Does the Exercise Delay Age-Related Cognitive Impairment: Co... |
+| 2026 | Machine learning-derived intracellular protein-based prognostic model reflecting a senescence-associated secretory phenotype-driven immunosuppressive microenvironment in lung adenocarcinoma. | PeerJ | [42927379](https://pubmed.ncbi.nlm.nih.gov/42927379/) | Machine learning-derived intracellular protein-based prognos... |
+| 2026 Dec | Aged microenvironment-triggered nanoreactors rejuvenate senescent LepR(+) cells to remodel aged bone marrow. | Materials today. Bio | [42927243](https://pubmed.ncbi.nlm.nih.gov/42927243/) | Aged microenvironment-triggered nanoreactors rejuvenate sene... |
+| 2026 Nov | Intrinsically photosensitive retinal ganglion cells: Context-Dependent resilience and vulnerability. | Neurobiology of sleep and circadian rhythms | [42927207](https://pubmed.ncbi.nlm.nih.gov/42927207/) | Intrinsically photosensitive retinal ganglion cells: Context... |
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Sep 23 | Inducible chronic NAD deficiency in mice reveals multi-systemic phenotypical, metabolic, and transcriptional changes. | Nature communications | [42918808](https://pubmed.ncbi.nlm.nih.gov/42918808/) | Inducible chronic NAD deficiency in mice reveals multi-syste... |
-| 2026 Oct 22 | Revealing NMN-induced biomacromolecular complex and conformational regulation of digestive enzymes (Trypsin, Pepsin, α-Amylase): Insights from molecular dynamics simulation and multi-spectroscopy. | Biochemical pharmacology | [42913802](https://pubmed.ncbi.nlm.nih.gov/42913802/) | Revealing NMN-induced biomacromolecular complex and conforma... |
-| 2026 Oct 22 | Development of Organocatalytic Switches of OGG1 that Protect Mitochondria under Oxidative Stress. | Journal of medicinal chemistry | [42911704](https://pubmed.ncbi.nlm.nih.gov/42911704/) | Development of Organocatalytic Switches of OGG1 that Protect... |
-| 2026 Oct 22 | Resveratroloside alleviates senescence-associated phenotypes in vitro through the coordinated regulation of mitochondrial function and chromatin structure. | Biogerontology | [42911431](https://pubmed.ncbi.nlm.nih.gov/42911431/) | Resveratroloside alleviates senescence-associated phenotypes... |
-| 2026 Nov 20 | Overexpression of endoplasmic reticulum acetyl-CoA transporter AT-1 alters neuronal metabolism, growth, and synaptic activity. | iScience | [42909095](https://pubmed.ncbi.nlm.nih.gov/42909095/) | Overexpression of endoplasmic reticulum acetyl-CoA transport... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 | Natural products targeting mitochondrial homeostasis: a four-dimensional framework integrating dynamics, mitophagy, pharmacokinetics, and translational safety. | Frontiers in pharmacology | [42889944](https://pubmed.ncbi.nlm.nih.gov/42889944/) | Natural products targeting mitochondrial homeostasis: a four... |
-| 2026 Oct 16 | Topical application of urolithin A activates mitophagy and enhances mitochondrial function to promote skin longevity. | iScience | [42866687](https://pubmed.ncbi.nlm.nih.gov/42866687/) | Topical application of urolithin A activates mitophagy and e... |
-| 2027 Mar | An ultrasound-responsive hydrogel with piezoelectric-enhanced bioelectric-vesicular coupling alleviates mitochondrial dysfunction and inflammation for osteoarthritis therapy. | Bioactive materials | [42861280](https://pubmed.ncbi.nlm.nih.gov/42861280/) | An ultrasound-responsive hydrogel with piezoelectric-enhance... |
-| 2026 Sep 28 | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Flux, Measurement Gaps, and Human Translation. | Aging and disease | [42858326](https://pubmed.ncbi.nlm.nih.gov/42858326/) | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Fl... |
-| 2026 Oct 1 | Urolithin A and Endothelial and Cerebrovascular Function in Middle-Aged Adults With Obesity: A Randomized Clinical Trial. | JAMA network open | [42853569](https://pubmed.ncbi.nlm.nih.gov/42853569/) | Urolithin A and Endothelial and Cerebrovascular Function in ... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Oct 10 | Correction: Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42859229](https://pubmed.ncbi.nlm.nih.gov/42859229/) | Correction: Longitudinal association of dietary spermidine w... |
-| 2026 Oct 2 | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evidentiary Limits, and Translational Requirements. | Aging and disease | [42858331](https://pubmed.ncbi.nlm.nih.gov/42858331/) | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evide... |
-| 2026 Oct 9 | Effects of Spermidine Supplementation on Vascular Brain Health in Older Individuals with Subjective Cognitive Decline - An Exploratory MRI Analysis. | Aging and disease | [42858321](https://pubmed.ncbi.nlm.nih.gov/42858321/) | Effects of Spermidine Supplementation on Vascular Brain Heal... |
+*暂无最新文献*
+
 
 ---
 
