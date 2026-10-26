@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 25 | Steaming-associated physicochemical changes in Panax ginseng polysaccharides and their protective effects against H₂O₂-induced senescence-like injury. | International journal of biological macromolecules | [42927815](https://pubmed.ncbi.nlm.nih.gov/42927815/) | Steaming-associated physicochemical changes in Panax ginseng... |
-| 2026 Oct | Accelerated Senescence of Fibroblast-Like Cells Derived from Induced Pluripotent Stem Cells of a Patient with Wiedemann-Rautenstrauch Progeroid Syndrome. | Biochemistry. Biokhimiia | [42927762](https://pubmed.ncbi.nlm.nih.gov/42927762/) | Accelerated Senescence of Fibroblast-Like Cells Derived from... |
-| 2026 Oct | Modulation of Energy Metabolism in Tumor Cells by 2-DG to Overcome Drug Resistance to Doxorubicin. | Biochemistry. Biokhimiia | [42927759](https://pubmed.ncbi.nlm.nih.gov/42927759/) | Modulation of Energy Metabolism in Tumor Cells by 2-DG to Ov... |
-| 2026 Oct | Sestrins as Multifunctional Regulators of Cell Viability on the Pathways from Stress to Aging. | Biochemistry. Biokhimiia | [42927748](https://pubmed.ncbi.nlm.nih.gov/42927748/) | Sestrins as Multifunctional Regulators of Cell Viability on ... |
-| 2026 Oct | Role of Cell Death in Differentiation of Skin Keratinocytes. | Biochemistry. Biokhimiia | [42927746](https://pubmed.ncbi.nlm.nih.gov/42927746/) | Role of Cell Death in Differentiation of Skin Keratinocytes. |
+| 2026 Oct 20 | Disruption of the Muscle-Brain Axis in Ageing: Role of Myokines in Sarcopenia and Neurodegeneration. | Cells | [42929882](https://pubmed.ncbi.nlm.nih.gov/42929882/) | Disruption of the Muscle-Brain Axis in Ageing: Role of Myoki... |
+| 2026 Oct 12 | Attenuated β2 Integrin Expression in Neutrophils Alters Dendritic Cell Stimulation and T Cell Activation in Old Mice. | Cells | [42929825](https://pubmed.ncbi.nlm.nih.gov/42929825/) | Attenuated β2 Integrin Expression in Neutrophils Alters Dend... |
+| 2026 Oct 10 | Regulated Cell Death in Reproductive Biology: Mechanisms and Therapeutic Opportunities. | Cells | [42929810](https://pubmed.ncbi.nlm.nih.gov/42929810/) | Regulated Cell Death in Reproductive Biology: Mechanisms and... |
+| 2026 Oct 24 | Neuronal DNA repair mediates systemic mitochondrial maintenance through acetylcholine signaling. | Nucleic acids research | [42929695](https://pubmed.ncbi.nlm.nih.gov/42929695/) | Neuronal DNA repair mediates systemic mitochondrial maintena... |
+| 2026 Oct 26 | Nutrimental Determinants of Chronological Aging and Competitiveness in the snf1Δ Warburg Model. | Yeast (Chichester, England) | [42929353](https://pubmed.ncbi.nlm.nih.gov/42929353/) | Nutrimental Determinants of Chronological Aging and Competit... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | SIRT2 in metabolism, aging, and longevity. | Frontiers in molecular biosciences | [42928844](https://pubmed.ncbi.nlm.nih.gov/42928844/) | SIRT2 in metabolism, aging, and longevity. |
 | 2026 Oct 16 | Smpd2 m(6)A modification contributes to hypoxic pulmonary hypertension via an alveolar epithelial cell senescence-associated phenotype. | Tissue & cell | [42925667](https://pubmed.ncbi.nlm.nih.gov/42925667/) | Smpd2 m(6)A modification contributes to hypoxic pulmonary hy... |
 | 2026 Oct 24 | Divergent Immunometabolic Regulatory Networks Mediated by FOXO3 During Musculoskeletal Aging: Implications for Tissue-Adapted Precision Therapeutics. | Cell biochemistry and biophysics | [42925474](https://pubmed.ncbi.nlm.nih.gov/42925474/) | Divergent Immunometabolic Regulatory Networks Mediated by FO... |
 | 2026 Sep 23 | Inducible chronic NAD deficiency in mice reveals multi-systemic phenotypical, metabolic, and transcriptional changes. | Nature communications | [42918808](https://pubmed.ncbi.nlm.nih.gov/42918808/) | Inducible chronic NAD deficiency in mice reveals multi-syste... |
 | 2026 Oct 22 | Revealing NMN-induced biomacromolecular complex and conformational regulation of digestive enzymes (Trypsin, Pepsin, α-Amylase): Insights from molecular dynamics simulation and multi-spectroscopy. | Biochemical pharmacology | [42913802](https://pubmed.ncbi.nlm.nih.gov/42913802/) | Revealing NMN-induced biomacromolecular complex and conforma... |
-| 2026 Oct 22 | Development of Organocatalytic Switches of OGG1 that Protect Mitochondria under Oxidative Stress. | Journal of medicinal chemistry | [42911704](https://pubmed.ncbi.nlm.nih.gov/42911704/) | Development of Organocatalytic Switches of OGG1 that Protect... |
 
 ### 尿石素 A 与线粒体自噬
 
