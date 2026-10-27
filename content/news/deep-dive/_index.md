@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[One-shot learning of paired association navigation with biologically plausible schemas.](./2026-10-27-weekly/)** — 2026年10月27日
+  - *The Journal of neuroscience : the official journal of the Society for Neuroscience* · PMID: 42933903
+
 - **[CAND1 Promotes Lung Cancer Tumorigenesis by Mitochondrial DNA Release mediated Neutrophil Infiltration.](./2026-10-20-weekly/)** — 2026年10月20日
   - *Experimental cell research* · PMID: 42896749
 
