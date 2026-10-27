@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 26 | Chromosome-scale genome assembly and annotation of Octodon degus. | Genome research | [42933985](https://pubmed.ncbi.nlm.nih.gov/42933985/) | Chromosome-scale genome assembly and annotation of Octodon d... |
-| 2026 Oct 26 | A Rare Sugar, D-Allulose, Attenuates Cognitive Impairment and Brain Pathologies in D-Galactose-Accelerated Aging Rats. | The Journal of nutrition | [42933653](https://pubmed.ncbi.nlm.nih.gov/42933653/) | A Rare Sugar, D-Allulose, Attenuates Cognitive Impairment an... |
-| 2026 Oct 26 | Structural characterization and antioxidant-associated anti-aging effects of polysaccharides from the aerial parts of Bupleurum chinense DC.: Insights from cellular and Drosophila models. | International journal of biological macromolecules | [42933614](https://pubmed.ncbi.nlm.nih.gov/42933614/) | Structural characterization and antioxidant-associated anti-... |
-| 2026 Oct 26 | Remak bundle size, structure, and function are regulated by the Schwann cell basal lamina. | Neuron | [42933411](https://pubmed.ncbi.nlm.nih.gov/42933411/) | Remak bundle size, structure, and function are regulated by ... |
-| 2026 Oct 26 | The antimicrobial peptide pileup promotes enterocyte shedding to maintain gut homeostasis in aging Drosophila. | Current biology : CB | [42933406](https://pubmed.ncbi.nlm.nih.gov/42933406/) | The antimicrobial peptide pileup promotes enterocyte sheddin... |
+| 2026 Sep 24 | Can Herpesvirus Infections Influence When and How We Age? | Viruses | [42943982](https://pubmed.ncbi.nlm.nih.gov/42943982/) | Can Herpesvirus Infections Influence When and How We Age? |
+| 2026 Oct 7 | Ganoderma lucidum Sporoderm-Broken Spore Powder (GLSP) Remodels the Gut Microbiota and Promotes Tryptophan-Derived Indole Metabolites to Maintain Intestinal Homeostasis. | Microorganisms | [42943521](https://pubmed.ncbi.nlm.nih.gov/42943521/) | Ganoderma lucidum Sporoderm-Broken Spore Powder (GLSP) Remod... |
+| 2026 Sep 30 | P2X7 Receptor Antagonist A740003 Mitigates Cardiac Senescence by Inhibiting Inflammaging Through the NF-κB Pathway. | Pharmaceuticals (Basel, Switzerland) | [42943245](https://pubmed.ncbi.nlm.nih.gov/42943245/) | P2X7 Receptor Antagonist A740003 Mitigates Cardiac Senescenc... |
+| 2026 Sep 25 | Changes in Adrenergic and Cholinergic Receptors on Human Cerebral Vessels. | Pharmaceuticals (Basel, Switzerland) | [42943215](https://pubmed.ncbi.nlm.nih.gov/42943215/) | Changes in Adrenergic and Cholinergic Receptors on Human Cer... |
+| 2026 Oct 9 | Serum Vitamin A in Relation to Genomic Biomarkers in Children: A Prospective Study. | Nutrients | [42942884](https://pubmed.ncbi.nlm.nih.gov/42942884/) | Serum Vitamin A in Relation to Genomic Biomarkers in Childre... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 26 | Hydroxyproline Enhances Branched-Chain Amino Acid Effects on Lifespan and Healthspan in Caenorhabditis elegans. | The Journal of nutrition | [42933652](https://pubmed.ncbi.nlm.nih.gov/42933652/) | Hydroxyproline Enhances Branched-Chain Amino Acid Effects on... |
-| 2026 | SIRT2 in metabolism, aging, and longevity. | Frontiers in molecular biosciences | [42928844](https://pubmed.ncbi.nlm.nih.gov/42928844/) | SIRT2 in metabolism, aging, and longevity. |
-| 2026 Oct 16 | Smpd2 m(6)A modification contributes to hypoxic pulmonary hypertension via an alveolar epithelial cell senescence-associated phenotype. | Tissue & cell | [42925667](https://pubmed.ncbi.nlm.nih.gov/42925667/) | Smpd2 m(6)A modification contributes to hypoxic pulmonary hy... |
-| 2026 Oct 24 | Divergent Immunometabolic Regulatory Networks Mediated by FOXO3 During Musculoskeletal Aging: Implications for Tissue-Adapted Precision Therapeutics. | Cell biochemistry and biophysics | [42925474](https://pubmed.ncbi.nlm.nih.gov/42925474/) | Divergent Immunometabolic Regulatory Networks Mediated by FO... |
-| 2026 Sep 23 | Inducible chronic NAD deficiency in mice reveals multi-systemic phenotypical, metabolic, and transcriptional changes. | Nature communications | [42918808](https://pubmed.ncbi.nlm.nih.gov/42918808/) | Inducible chronic NAD deficiency in mice reveals multi-syste... |
+| 2026 Oct 1 | Lysine Acetylation as a Regulatory Mechanism in Cardiometabolic Disease: A Focus on Sirtuins. | Pharmaceuticals (Basel, Switzerland) | [42943256](https://pubmed.ncbi.nlm.nih.gov/42943256/) | Lysine Acetylation as a Regulatory Mechanism in Cardiometabo... |
+| 2026 Oct 7 | Targeting of Protein Persulfidation in Aging and Age-Related Disorders. | Pharmaceutics | [42942798](https://pubmed.ncbi.nlm.nih.gov/42942798/) | Targeting of Protein Persulfidation in Aging and Age-Related... |
+| 2026 Oct 21 | Mitochondrial C1-FDX Depletion Perturbs ROS Homeostasis and Iron Metabolism in Arabidopsis. | International journal of molecular sciences | [42942115](https://pubmed.ncbi.nlm.nih.gov/42942115/) | Mitochondrial C1-FDX Depletion Perturbs ROS Homeostasis and ... |
+| 2026 Oct 10 | Acute Exercise-Associated Metabolomic Remodeling and Associations with Oxidative State in Human Skeletal Muscle. | Metabolites | [42941238](https://pubmed.ncbi.nlm.nih.gov/42941238/) | Acute Exercise-Associated Metabolomic Remodeling and Associa... |
+| 2026 Oct 15 | Nicotinamide Mononucleotide-Producing Probiotic Strain B12-N Attenuates Aging and Cognitive Decline in a Caenorhabditis elegans Model of Alzheimer's Disease: Efficacy and Underlying Mechanisms. | Foods (Basel, Switzerland) | [42940294](https://pubmed.ncbi.nlm.nih.gov/42940294/) | Nicotinamide Mononucleotide-Producing Probiotic Strain B12-N... |
 
 ### 尿石素 A 与线粒体自噬
 
