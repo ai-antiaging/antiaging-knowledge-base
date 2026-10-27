@@ -12,11 +12,36 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Rethinking why "Cognitive dysfunction" predicts some, but not all, transdiagnostic symptom dimensions in older adults: Commentary on Hoy et al. (2026).
+## 研究 1: Sex-Specific Associations of Gestational OPE Exposure with Offspring Digit Ratio: A Birth Cohort Study.
 
-**期刊**: Journal of psychopathology and clinical science  
-**发表日期**: 2026 Oct 26  
-**第一作者**: Grégoire C 等 | **PMID**: [42932801](https://pubmed.ncbi.nlm.nih.gov/42932801/)  
+**期刊**: Environmental science & technology  
+**发表日期**: 2026 Oct 27  
+**第一作者**: Lian H 等 | **PMID**: [42937504](https://pubmed.ncbi.nlm.nih.gov/42937504/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+首次基于出生队列揭示孕期有机磷阻燃剂（OPEs）暴露与子代2D:4D指长比的性别特异性关联，并探索胎盘PPAR通路基因DNA甲基化的潜在介导作用，为发育编程的性别差异提供了新证据。
+
+### 🔬 关键发现
+
+孕早期BBOEP、BEHP、DBP、DPP暴露与男孩2D:4D升高相关，而DBP、DCP与女孩2D:4D降低相关；BKMR识别烷基-OPEs（尤其BBOEP）为男孩中的主要贡献者；RXRA、ACAA1、ACADM高甲基化与全人群2D:4D降低相关，女孩中ACAA1甲基化提示潜在介导通路但未达统计学显著。
+
+### 🧪 方法简介
+
+整合多线性回归、贝叶斯核机器回归（BKMR）与因果中介分析，结合孕早期尿液OPE代谢物检测、胎盘PPAR通路基因DNAm测定及4-6岁子代2D:4D评估，系统解析混合暴露效应与表观遗传介导路径。
+
+### 🏥 临床相关性
+
+提示孕期OPE暴露可能通过胎盘表观遗传编程性别特异性地影响子代发育轨迹，为发育源性疾病风险的早期识别提供潜在生物标志物，但胎盘DNAm的介导作用尚需进一步验证，暂不宜据此制定临床干预策略。
+
+---
+
+## 研究 2: In Situ Antibiotic Accumulation on Microplastics in Wastewater Treatment Plants: Roles of Biofilm Colonization, Water Chemistry, and Substrate Aging.
+
+**期刊**: Environmental science & technology  
+**发表日期**: 2026 Oct 27  
+**第一作者**: Song K 等 | **PMID**: [42937465](https://pubmed.ncbi.nlm.nih.gov/42937465/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -37,86 +62,61 @@ type: "daily-digest"
 
 ---
 
-## 研究 2: Older adults' engagement with young children is associated with reduced mortality.
+## 研究 3: Nadifloxacin-Loaded Thermosensitive In Situ Gel Formulations with a Quality by Design Approach.
 
-**期刊**: Psychology and aging  
-**发表日期**: 2026 Oct 26  
-**第一作者**: Growney CM 等 | **PMID**: [42932794](https://pubmed.ncbi.nlm.nih.gov/42932794/)  
+**期刊**: Turkish journal of pharmaceutical sciences  
+**发表日期**: 2026 Oct 27  
+**第一作者**: Özcan Bülbül E 等 | **PMID**: [42937416](https://pubmed.ncbi.nlm.nih.gov/42937416/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究首次基于大规模纵向队列揭示，老年人参与隔代互动活动与12年生存率提升显著相关，且该关联独立于人口学背景、身体健康和总体社交水平。这为“社会参与延寿”提供了新的行为学靶点。
+该研究首次将那地沙星（NDF）——一种用于痤疮及浅表皮肤感染治疗的抗菌药——制备为局部温敏原位凝胶，并引入质量源于设计（QbD）理念进行处方开发。其核心价值在于为皮肤局部给药提供了一种兼具温敏原位凝胶优势与系统化质量控制的制剂策略。
 
 ### 🔬 关键发现
 
-对6,775名健康与退休研究参与者的分析显示，2010年与儿童（亲属或非亲属）互动越频繁，至2022年的生存率越高；Cox模型证实该效应在控制混杂因素后仍成立，且在年长参与者中更强，但与是否为人祖父母无关。
+摘要显示研究成功制备了含NDF的温敏原位凝胶，并完成了表征研究以评估其性能。摘要未披露具体表征数据或实验结果，故无法在此报告具体数值。
 
 ### 🧪 方法简介
 
-研究采用Cox比例风险模型，将隔代互动频率作为连续暴露变量，并系统校正人口学、身体健康及总体社交活动水平，从而分离出隔代互动对死亡率的独立效应，增强了因果推断的稳健性。
+研究采用温敏原位凝胶（thermosensitive in situ gel）作为局部递送载体，使制剂在室温下为液体、接触皮肤温度后原位胶凝。同时引入质量源于设计（QbD）方法指导处方设计与优化，强调以预设质量目标为导向的系统化开发路径。
 
 ### 🏥 临床相关性
 
-提示将隔代互动纳入老年健康促进方案可能具有延寿潜力，且不限于祖孙关系，社区跨代项目或可成为低成本、高可及性的抗衰老社会干预手段。
+该工作为痤疮及浅表皮肤感染的局部抗菌治疗提供了新的制剂思路，QbD框架有助于提升处方稳健性与可放大性。对衰老相关皮肤问题而言，温敏原位凝胶可作为一种潜在的局部递送平台，但摘要未涉及抗衰老终点，相关外推需谨慎。
 
 ---
 
-## 研究 3: Spontaneous replication fork collapse regulates telomere length homeostasis in wild-type yeast.
+## 研究 4: Investigation of the Effect of Calcitriol on Radiofrequency Radiation-Exposed Breast Cancer Cell Lines.
 
-**期刊**: Proceedings of the National Academy of Sciences of the United States of America  
-**发表日期**: 2026 Nov 3  
-**第一作者**: Paschini M 等 | **PMID**: [42932661](https://pubmed.ncbi.nlm.nih.gov/42932661/)  
+**期刊**: Turkish journal of pharmaceutical sciences  
+**发表日期**: 2026 Oct 27  
+**第一作者**: Miser Salihoğlu E 等 | **PMID**: [42937328](https://pubmed.ncbi.nlm.nih.gov/42937328/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+该研究首次探讨了维生素D活性形式骨化三醇对射频辐射暴露乳腺癌细胞的潜在保护作用，将环境致癌因素与营养干预联系起来，为射频辐射的健康风险评估提供了新视角。
 
 ### 🔬 关键发现
 
-详见原文
+研究显示2.1-GHz W-CDMA调制射频辐射可影响MCF-7和MDA-MB-231乳腺癌细胞的活力、自由基形成及炎症水平，而骨化三醇对这些辐射诱导效应表现出一定的干预潜力（具体数据需参见全文）。
 
 ### 🧪 方法简介
 
-详见原文
+采用2.1-GHz W-CDMA调制射频辐射对两种不同分子亚型乳腺癌细胞系（MCF-7与MDA-MB-231）进行暴露实验，并结合细胞活力、自由基和炎症指标进行多维评估。
 
 ### 🏥 临床相关性
 
-详见原文
+提示骨化三醇可能作为缓解射频辐射相关氧化应激与炎症的候选干预手段，为环境暴露相关健康防护及抗衰老营养策略提供了初步实验依据，但尚需体内研究验证。
 
 ---
 
-## 研究 4: E2 displacement of CIP2A from TOPBP1 activates the DNA damage response during papillomavirus life cycles.
+## 研究 5: Turn Shield into Sword: Pathological Hydroxyapatite-Targeting Micelles Drive Metabolic Stress-Induced Autophagy Dysfunction for Bone Metastasis Therapy.
 
-**期刊**: Cell reports  
-**发表日期**: 2026 Oct 26  
-**第一作者**: Prabhakar AT 等 | **PMID**: [42932311](https://pubmed.ncbi.nlm.nih.gov/42932311/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-乳头瘤病毒E2蛋白通过置换CIP2A与TOPBP1的结合，激活DNA损伤应答（DDR），揭示病毒利用分化过程操控宿主基因组稳定性监测的新机制。该发现将DDR激活与病毒生命周期直接关联，为HPV相关疾病治疗提供新靶点。
-
-### 🔬 关键发现
-
-E2在分化过程中抑制SIRT1活性、增强DDR因子乙酰化，并将CIP2A从TOPBP1上置换下来，导致PP2A被抑制、ATM被激活；同时E2与TOPBP1/ATM结合、减少TOPBP1-ATR复合物，形成“ATM高、ATR低”的DDR表型，促进病毒复制和细胞增殖。该现象在E2表达角质细胞、HPV16阳性细胞、MmuPV1诱导病变及HPV阳性头颈癌细胞中均被观察到。
-
-### 🧪 方法简介
-
-研究结合E2表达角质细胞、HPV16阳性细胞系、MmuPV1诱导的小鼠病变模型及患者来源异种移植瘤（PDX）等多层次体系，系统验证DDR激活表型；并通过ATM抑制实验评估其对E2表达细胞的选择性杀伤作用。
-
-### 🏥 临床相关性
-
-ATM信号通路可作为保留E2表达和游离基因组HPV相关疾病（如HPV阳性头颈癌）的潜在治疗靶点；ATM抑制优先杀伤E2表达细胞，提示基于病毒蛋白功能的精准干预策略，为HPV相关肿瘤治疗提供新思路。
-
----
-
-## 研究 5: SIR2-mediated filament assembly activates the NLR-like protein Avs5 for bacterial antiviral defense.
-
-**期刊**: Cell reports  
-**发表日期**: 2026 Oct 26  
-**第一作者**: Wang C 等 | **PMID**: [42932305](https://pubmed.ncbi.nlm.nih.gov/42932305/)  
+**期刊**: ACS nano  
+**发表日期**: 2026 Oct 27  
+**第一作者**: Ye Y 等 | **PMID**: [42937568](https://pubmed.ncbi.nlm.nih.gov/42937568/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -140,7 +140,7 @@ ATM信号通路可作为保留E2表达和游离基因组HPV相关疾病（如HPV
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-27 02:59:04  
+**生成时间**: 2026-10-27 16:17:52  
 **摘要生成**: DeepSeek AI
 
 ---
