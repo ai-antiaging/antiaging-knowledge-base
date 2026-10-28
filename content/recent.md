@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 27 | Which trial do we need? Antifungal prophylaxis to prevent intra-abdominal candidiasis - addressing the evidence gap after high-risk abdominal surgery. | Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases | [42946167](https://pubmed.ncbi.nlm.nih.gov/42946167/) | Which trial do we need? Antifungal prophylaxis to prevent in... |
-| 2026 Oct 27 | Mitochondrial Transplantation as a Therapeutic Strategy: From Energy Replacement to Metabolic and Immune Reprogramming. | Pharmacological research | [42946149](https://pubmed.ncbi.nlm.nih.gov/42946149/) | Mitochondrial Transplantation as a Therapeutic Strategy: Fro... |
-| 2026 Oct 27 | Updated guide to the assessment of mammalian cellular senescence. | Molecules and cells | [42946057](https://pubmed.ncbi.nlm.nih.gov/42946057/) | Updated guide to the assessment of mammalian cellular senesc... |
-| 2026 Oct 26 | Neurotropic herpesviruses as accelerators of brain aging: The role of latency and reactivation in neurodegeneration. | Virology | [42945857](https://pubmed.ncbi.nlm.nih.gov/42945857/) | Neurotropic herpesviruses as accelerators of brain aging: Th... |
-| 2026 Oct 27 | Molecular mechanisms and therapeutic potential of Rasayana in cellular protection and healthy aging. | Journal of Ayurveda and integrative medicine | [42945831](https://pubmed.ncbi.nlm.nih.gov/42945831/) | Molecular mechanisms and therapeutic potential of Rasayana i... |
+| 2026 Oct 28 | A Bi-Adjuvant Senolytic Nanovaccine Modulating Dendritic Cell Senescence Ameliorates Aging-Related Metabolic Dysfunction. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42949633](https://pubmed.ncbi.nlm.nih.gov/42949633/) | A Bi-Adjuvant Senolytic Nanovaccine Modulating Dendritic Cel... |
+| 2026 Oct 28 | Survey of the human proteostasis network: the autophagy-lysosome pathway. | Autophagy | [42949363](https://pubmed.ncbi.nlm.nih.gov/42949363/) | Survey of the human proteostasis network: the autophagy-lyso... |
+| 2026 | Mitochondrial Reprogramming Along the Gut-Brain Axis in Chemotherapy-Induced Cognitive Impairment: A Narrative Review. | Oxidative medicine and cellular longevity | [42949236](https://pubmed.ncbi.nlm.nih.gov/42949236/) | Mitochondrial Reprogramming Along the Gut-Brain Axis in Chem... |
+| 2026 Oct 27 | Isolation of Ventricular Cardiomyocytes from the Annual Killifish Nothobranchius furzeri for Whole-Cell Patch Clamp Recordings. | Journal of visualized experiments : JoVE | [42949163](https://pubmed.ncbi.nlm.nih.gov/42949163/) | Isolation of Ventricular Cardiomyocytes from the Annual Kill... |
+| 2026 Oct 28 | MUC5B Overproduction Disrupts Club Cell Mediated Alveolar Repair in COPD. | American journal of respiratory cell and molecular biology | [42949073](https://pubmed.ncbi.nlm.nih.gov/42949073/) | MUC5B Overproduction Disrupts Club Cell Mediated Alveolar Re... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct 17 | Mitochondrial dysfunction in diabetic neuropathy: a core pathogenic hub and therapeutic implications. | Journal of translational medicine | [42947140](https://pubmed.ncbi.nlm.nih.gov/42947140/) | Mitochondrial dysfunction in diabetic neuropathy: a core pat... |
 | 2026 Oct 1 | Lysine Acetylation as a Regulatory Mechanism in Cardiometabolic Disease: A Focus on Sirtuins. | Pharmaceuticals (Basel, Switzerland) | [42943256](https://pubmed.ncbi.nlm.nih.gov/42943256/) | Lysine Acetylation as a Regulatory Mechanism in Cardiometabo... |
 | 2026 Oct 7 | Targeting of Protein Persulfidation in Aging and Age-Related Disorders. | Pharmaceutics | [42942798](https://pubmed.ncbi.nlm.nih.gov/42942798/) | Targeting of Protein Persulfidation in Aging and Age-Related... |
 | 2026 Oct 21 | Mitochondrial C1-FDX Depletion Perturbs ROS Homeostasis and Iron Metabolism in Arabidopsis. | International journal of molecular sciences | [42942115](https://pubmed.ncbi.nlm.nih.gov/42942115/) | Mitochondrial C1-FDX Depletion Perturbs ROS Homeostasis and ... |
 | 2026 Oct 10 | Acute Exercise-Associated Metabolomic Remodeling and Associations with Oxidative State in Human Skeletal Muscle. | Metabolites | [42941238](https://pubmed.ncbi.nlm.nih.gov/42941238/) | Acute Exercise-Associated Metabolomic Remodeling and Associa... |
-| 2026 Oct 15 | Nicotinamide Mononucleotide-Producing Probiotic Strain B12-N Attenuates Aging and Cognitive Decline in a Caenorhabditis elegans Model of Alzheimer's Disease: Efficacy and Underlying Mechanisms. | Foods (Basel, Switzerland) | [42940294](https://pubmed.ncbi.nlm.nih.gov/42940294/) | Nicotinamide Mononucleotide-Producing Probiotic Strain B12-N... |
 
 ### 尿石素 A 与线粒体自噬
 
