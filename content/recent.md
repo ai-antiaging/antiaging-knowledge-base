@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-27 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-28 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Sep 24 | Can Herpesvirus Infections Influence When and How We Age? | Viruses | [42943982](https://pubmed.ncbi.nlm.nih.gov/42943982/) | Can Herpesvirus Infections Influence When and How We Age? |
-| 2026 Oct 7 | Ganoderma lucidum Sporoderm-Broken Spore Powder (GLSP) Remodels the Gut Microbiota and Promotes Tryptophan-Derived Indole Metabolites to Maintain Intestinal Homeostasis. | Microorganisms | [42943521](https://pubmed.ncbi.nlm.nih.gov/42943521/) | Ganoderma lucidum Sporoderm-Broken Spore Powder (GLSP) Remod... |
-| 2026 Sep 30 | P2X7 Receptor Antagonist A740003 Mitigates Cardiac Senescence by Inhibiting Inflammaging Through the NF-κB Pathway. | Pharmaceuticals (Basel, Switzerland) | [42943245](https://pubmed.ncbi.nlm.nih.gov/42943245/) | P2X7 Receptor Antagonist A740003 Mitigates Cardiac Senescenc... |
-| 2026 Sep 25 | Changes in Adrenergic and Cholinergic Receptors on Human Cerebral Vessels. | Pharmaceuticals (Basel, Switzerland) | [42943215](https://pubmed.ncbi.nlm.nih.gov/42943215/) | Changes in Adrenergic and Cholinergic Receptors on Human Cer... |
-| 2026 Oct 9 | Serum Vitamin A in Relation to Genomic Biomarkers in Children: A Prospective Study. | Nutrients | [42942884](https://pubmed.ncbi.nlm.nih.gov/42942884/) | Serum Vitamin A in Relation to Genomic Biomarkers in Childre... |
+| 2026 Oct 27 | Which trial do we need? Antifungal prophylaxis to prevent intra-abdominal candidiasis - addressing the evidence gap after high-risk abdominal surgery. | Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases | [42946167](https://pubmed.ncbi.nlm.nih.gov/42946167/) | Which trial do we need? Antifungal prophylaxis to prevent in... |
+| 2026 Oct 27 | Mitochondrial Transplantation as a Therapeutic Strategy: From Energy Replacement to Metabolic and Immune Reprogramming. | Pharmacological research | [42946149](https://pubmed.ncbi.nlm.nih.gov/42946149/) | Mitochondrial Transplantation as a Therapeutic Strategy: Fro... |
+| 2026 Oct 27 | Updated guide to the assessment of mammalian cellular senescence. | Molecules and cells | [42946057](https://pubmed.ncbi.nlm.nih.gov/42946057/) | Updated guide to the assessment of mammalian cellular senesc... |
+| 2026 Oct 26 | Neurotropic herpesviruses as accelerators of brain aging: The role of latency and reactivation in neurodegeneration. | Virology | [42945857](https://pubmed.ncbi.nlm.nih.gov/42945857/) | Neurotropic herpesviruses as accelerators of brain aging: Th... |
+| 2026 Oct 27 | Molecular mechanisms and therapeutic potential of Rasayana in cellular protection and healthy aging. | Journal of Ayurveda and integrative medicine | [42945831](https://pubmed.ncbi.nlm.nih.gov/42945831/) | Molecular mechanisms and therapeutic potential of Rasayana i... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-27 | 自动生成*
+*最后更新：2026-10-28 | 自动生成*
