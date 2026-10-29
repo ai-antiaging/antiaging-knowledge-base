@@ -12,36 +12,111 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: NMI suppresses BEFV replication and is degraded by BEFV-induced NIX-dependent selective autophagy.
+## 研究 1: Allelic tuning of PtoRLK609 kinase activity shapes adaptive xylem remodeling in Populus tomentosa.
 
-**期刊**: Cellular signalling  
-**发表日期**: 2026 Oct 28  
-**第一作者**: Zhu H 等 | **PMID**: [42951229](https://pubmed.ncbi.nlm.nih.gov/42951229/)  
+**期刊**: The Plant cell  
+**发表日期**: 2026 Oct 29  
+**第一作者**: Qi W 等 | **PMID**: [42952428](https://pubmed.ncbi.nlm.nih.gov/42952428/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-首次揭示NMI通过IRF3-IFN轴抑制BEFV复制，而病毒利用NIX介导的选择性自噬降解NMI实现免疫逃逸，阐明了宿主抗病毒防御与病毒免疫逃逸之间的动态博弈机制。
+该研究在毛白杨中鉴定出细胞壁关联激酶PtoRLK609的自然变异通过调控木质素合成驱动气候适应性木质部重塑，揭示了树木长期适应气候变化的分子遗传基础，为理解多年生木本植物的适应性进化提供了新视角。
 
 ### 🔬 关键发现
 
-NMI过表达降低病毒核蛋白基因表达和病毒载量，NMI缺失则增强病毒复制；NMI与IRF3互作促进其磷酸化及核转位，上调Ifnb及ISG15、IFITM3、Mx1等下游效应因子；BEFV感染通过NIX依赖的选择性自噬时间依赖性降解NMI，自噬抑制或NIX敲除可阻断该降解。
+在302份毛白杨种质中，PtoRLK609的Hap2单倍型在干冷北方群体中接近固定，且与木质素含量升高相关；Hap2蛋白激酶活性更高，能更高效地磷酸化转录因子PtoERF105（Ser171位点），进而激活PtoLAC4、PtoCCoAOMT1及PtoVND7表达，促进次生壁木质化、提高S/G比和导管密度，并在水分亏缺下更好维持茎干水分状态。
 
 ### 🧪 方法简介
 
-采用NIX基因敲除与过表达结合药理学自噬抑制的策略，系统验证NIX作为选择性自噬受体介导NMI降解的特异性，并通过病毒载量与干扰素通路效应分子的转录分析定量评估NMI的抗病毒功能。
+整合了302份自然群体的转录组学与群体基因组学分析，结合气候关联选择信号扫描，从49个候选受体样激酶中锁定PtoRLK609，并通过单倍型功能比较（激酶活性、磷酸化效率）与增益/缺失功能实验验证其表型效应。
 
 ### 🏥 临床相关性
 
-揭示了选择性自噬受体NIX在调控关键免疫衔接蛋白周转中的作用，为理解衰老相关免疫功能下降中自噬-免疫 Crosstalk 失衡提供了分子线索，并提示靶向NIX-自噬轴可能成为增强宿主抗病毒免疫的潜在干预策略。
+该研究虽为林木基础研究，但所揭示的RLK-转录因子磷酸化模块调控次生细胞壁木质化的机制，为理解细胞外基质重塑与组织稳态维持提供了参考；PtoRLK609作为气候适应相关位点，对林木抗逆育种具有直接价值，其与衰老相关组织纤维化的潜在关联值得在哺乳动物体系中进一步探索。
 
 ---
 
-## 研究 2: Alginate Oligosaccharide Alleviates Age-Related Hearing Loss via TFEB-Associated Autophagy Restoration to Attenuate Oxidative Stress and Inflammation.
+## 研究 2: The detection of latent fingermarks on semi-porous substrates with UV-C and the full spectrum imaging system (FSIS-II).
 
-**期刊**: European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences  
-**发表日期**: 2026 Oct 28  
-**第一作者**: Su S 等 | **PMID**: [42951215](https://pubmed.ncbi.nlm.nih.gov/42951215/)  
+**期刊**: Journal of forensic sciences  
+**发表日期**: 2026 Oct 29  
+**第一作者**: Williamson KJ 等 | **PMID**: [42952290](https://pubmed.ncbi.nlm.nih.gov/42952290/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究首次系统评估了UV-C全光谱成像系统（FSIS-II）在半多孔表面潜指纹检测中的效果，发现氰基丙烯酸酯（CA）熏蒸后辅以UV-C成像可将指纹检出率提升最高达十倍，为半多孔基底的指纹显现提供了有效替代方案。
+
+### 🔬 关键发现
+
+CA熏蒸单独使用时高质量指纹产出较少，但后续UV-C检查使Phase 2试验检出率提升至十倍、Phase 3提升至四倍，归因于CA聚合物对UV-C光的增强散射；UV-A仅 marginally 增加检出数量，而CA熏蒸前的UV-C/UV-A预处理无效。
+
+### 🧪 方法简介
+
+研究采用FSIS-II全光谱成像系统，设计了Phase 2实验室试验与Phase 3伪操作试验相结合的多变量评估框架，系统比较了UV-C、UV-A、CA熏蒸及黑色磁粉的增强序列对不同供体、基底、老化时间和消耗系列的指纹质量影响。
+
+### 🏥 临床相关性
+
+该发现虽属法庭科学领域，但其方法学启示可迁移至抗衰老研究中的生物标志物检测与表面分析——UV-C与聚合物增强策略的联合使用提示，多模态成像序列的优化组合可显著提升低丰度信号的检出灵敏度，为皮肤老化标志物的高灵敏检测技术开发提供思路借鉴。
+
+---
+
+## 研究 3: Clinical risk features and genetic findings in essential thrombocythemia and polycythemia vera of childhood and adolescence: prospective insights from the German MPN Childhood Registry.
+
+**期刊**: Haematologica  
+**发表日期**: 2026 Oct 29  
+**第一作者**: Behrens YL 等 | **PMID**: [42952458](https://pubmed.ncbi.nlm.nih.gov/42952458/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+这是首个针对儿童及青少年ET/PV的前瞻性注册研究，揭示了儿科MPN患者在确诊时即存在高比例的临床不良预后标志物，并首次报道了无已知体细胞驱动突变患者中可能存在胚系易感变异。
+
+### 🔬 关键发现
+
+45例患者中69%在确诊时至少携带一项不良预后标志（高黏滞/微循环障碍症状或脾肿大各占49%）；44%携带JAK2V617F，18%携带CALR致病性变异，31%未检出经典驱动突变；5例无驱动突变患者中发现JAK2、THPO、FLT3、SAMHD1等可能致病性胚系变异。
+
+### 🧪 方法简介
+
+研究采用前瞻性注册登记设计，系统采集儿童及青少年MPN患者的临床与遗传数据，并结合靶向测序在经典驱动基因阴性患者中筛查胚系变异，突破了以往仅依赖回顾性分析的局限。
+
+### 🏥 临床相关性
+
+研究提示儿科MPN具有显著的早期疾病负担，胚系易感变异的发现对癌症监测和个体化治疗策略具有潜在指导价值，也为理解MPN的早期发病机制及衰老相关克隆演进的起点提供了新视角。
+
+---
+
+## 研究 4: Acute Endocrine Alterations After Traumatic Brain Injury and 6-Month Functional Outcome.
+
+**期刊**: Annals of clinical and translational neurology  
+**发表日期**: 2026 Oct 29  
+**第一作者**: Xu B 等 | **PMID**: [42952457](https://pubmed.ncbi.nlm.nih.gov/42952457/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究系统刻画了创伤性脑损伤（TBI）后急性期多轴内分泌紊乱的时间演变模式，并首次将其与6个月功能结局及早期炎症标志物建立关联，填补了TBI后急性内分泌变化全程特征的认识空白。
+
+### 🔬 关键发现
+
+TBI后急性期存在多内分泌轴的同时异常改变，且这些改变呈现特定的时间动态模式；内分泌紊乱与6个月功能结局及早期炎症标志物之间存在显著关联，提示急性内分泌变化可能参与TBI后远期功能恢复的病理生理过程。
+
+### 🧪 方法简介
+
+研究采用多轴内分泌激素的时序性动态监测策略，结合6个月功能结局评估与早期炎症标志物分析，构建了从急性内分泌反应到远期神经功能恢复的纵向关联框架。
+
+### 🏥 临床相关性
+
+提示临床应重视TBI后急性期内分泌功能的系统评估，内分泌轴紊乱或可作为功能预后判断的早期生物学线索；同时为探索靶向内分泌-炎症轴的干预策略以改善TBI后长期功能恢复提供了依据。
+
+---
+
+## 研究 5: Real-world analysis of thromboprophylaxis use during autologous hematopoietic stem cell transplantation for multiple myeloma.
+
+**期刊**: Haematologica  
+**发表日期**: 2026 Oct 29  
+**第一作者**: Lee H 等 | **PMID**: [42952455](https://pubmed.ncbi.nlm.nih.gov/42952455/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -59,88 +134,13 @@ NMI过表达降低病毒核蛋白基因表达和病毒载量，NMI缺失则增�
 ### 🏥 临床相关性
 
 详见原文
-
----
-
-## 研究 3: Bacteroidota-derived glycine lipids differentially regulate skeletal muscle mitochondrial adaptation during Western diet feeding in male Ldlr(-/-) mice.
-
-**期刊**: The Journal of physiology  
-**发表日期**: 2026 Oct 28  
-**第一作者**: Kim S 等 | **PMID**: [42951697](https://pubmed.ncbi.nlm.nih.gov/42951697/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该研究首次揭示拟杆菌门来源的两种结构相关甘氨酸脂质（L654与L1256）在西方饮食喂养的Ldlr(-/-)雄性小鼠中差异化调控骨骼肌线粒体适应性，为肠道菌群代谢物影响宿主肌肉代谢提供了直接证据。
-
-### 🔬 关键发现
-
-在西方饮食背景下，L654与L1256对骨骼肌线粒体重塑表现出差异性的调控作用，提示结构相近的细菌脂质可产生截然不同的宿主代谢效应，但具体方向性数据需参见全文。
-
-### 🧪 方法简介
-
-研究采用两种结构相关的细菌甘氨酸脂质进行对比干预，结合Ldlr(-/-)小鼠西方饮食模型，系统评估骨骼肌线粒体适应性与氧化代谢指标，构建了菌群代谢物—骨骼肌线粒体功能的研究范式。
-
-### 🏥 临床相关性
-
-提示特定肠道菌群脂质代谢物可能成为靶向骨骼肌线粒体功能的新型干预节点，为西方饮食相关肌肉代谢紊乱及衰老相关肌少症的微生态干预策略提供理论依据。
-
----
-
-## 研究 4: Use of Opioids and Opioid Potentiators Among Nursing Home Residents in the United States: National Prevalence and Correlates.
-
-**期刊**: Journal of the American Geriatrics Society  
-**发表日期**: 2026 Oct 28  
-**第一作者**: Jiao Y 等 | **PMID**: [42951674](https://pubmed.ncbi.nlm.nih.gov/42951674/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-这是首项针对美国养老院居民阿片类药物与增效剂（苯二氮䓬类、非苯二氮䓬类及加巴喷丁类）联合使用情况的研究，填补了该高风险人群用药安全领域的证据空白。
-
-### 🔬 关键发现
-
-摘要未提供具体患病率数据，但明确指出联合用药可增加住院和死亡等不良结局风险，且此前尚无研究系统考察美国养老院中此类合并用药的流行情况与相关因素。
-
-### 🧪 方法简介
-
-研究采用全国性调查数据，首次在美国养老院人群中系统评估阿片类药物与三类增效剂的合并使用模式及其相关因素，属于药物流行病学层面的方法学推进。
-
-### 🏥 临床相关性
-
-提示养老院需加强阿片类与增效剂合并使用的监测与处方审核，对共病多、衰弱程度高的老年人群尤应警惕药物相互作用风险，为优化老年用药安全提供依据。
-
----
-
-## 研究 5: A mixed methods feasibility evaluation of a shared decision-making intervention for community dwelling adults living with dementia, family carers and practitioners.
-
-**期刊**: BMJ open  
-**发表日期**: 2026 Oct 28  
-**第一作者**: Aworinde J 等 | **PMID**: [42951298](https://pubmed.ncbi.nlm.nih.gov/42951298/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-本研究发表于 BMJ open，聚焦抗衰老领域前沿问题。
-
-### 🔬 关键发现
-
-研究探索了 A mixed methods feasibility evaluation of a shared decision-making intervention ... 的相关机制。
-
-### 🧪 方法简介
-
-采用分子生物学、细胞实验或临床队列研究方法。
-
-### 🏥 临床相关性
-
-研究成果为理解衰老机制和开发抗衰老干预策略提供新见解。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-29 03:35:16  
+**生成时间**: 2026-10-29 16:17:45  
 **摘要生成**: DeepSeek AI
 
 ---
