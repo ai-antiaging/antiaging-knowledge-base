@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-28 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-29 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 28 | A Bi-Adjuvant Senolytic Nanovaccine Modulating Dendritic Cell Senescence Ameliorates Aging-Related Metabolic Dysfunction. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [42949633](https://pubmed.ncbi.nlm.nih.gov/42949633/) | A Bi-Adjuvant Senolytic Nanovaccine Modulating Dendritic Cel... |
-| 2026 Oct 28 | Survey of the human proteostasis network: the autophagy-lysosome pathway. | Autophagy | [42949363](https://pubmed.ncbi.nlm.nih.gov/42949363/) | Survey of the human proteostasis network: the autophagy-lyso... |
-| 2026 | Mitochondrial Reprogramming Along the Gut-Brain Axis in Chemotherapy-Induced Cognitive Impairment: A Narrative Review. | Oxidative medicine and cellular longevity | [42949236](https://pubmed.ncbi.nlm.nih.gov/42949236/) | Mitochondrial Reprogramming Along the Gut-Brain Axis in Chem... |
-| 2026 Oct 27 | Isolation of Ventricular Cardiomyocytes from the Annual Killifish Nothobranchius furzeri for Whole-Cell Patch Clamp Recordings. | Journal of visualized experiments : JoVE | [42949163](https://pubmed.ncbi.nlm.nih.gov/42949163/) | Isolation of Ventricular Cardiomyocytes from the Annual Kill... |
-| 2026 Oct 28 | MUC5B Overproduction Disrupts Club Cell Mediated Alveolar Repair in COPD. | American journal of respiratory cell and molecular biology | [42949073](https://pubmed.ncbi.nlm.nih.gov/42949073/) | MUC5B Overproduction Disrupts Club Cell Mediated Alveolar Re... |
+| 2026 Oct 28 | Bacteroidota-derived glycine lipids differentially regulate skeletal muscle mitochondrial adaptation during Western diet feeding in male Ldlr(-/-) mice. | The Journal of physiology | [42951697](https://pubmed.ncbi.nlm.nih.gov/42951697/) | Bacteroidota-derived glycine lipids differentially regulate ... |
+| 2026 | [Dysregulated control of hematopoietic stem cells in myeloid malignancies]. | [Rinsho ketsueki] The Japanese journal of clinical hematology | [42951619](https://pubmed.ncbi.nlm.nih.gov/42951619/) | [Dysregulated control of hematopoietic stem cells in myeloid... |
+| 2026 | [Y chromosome loss in hematopoietic cells and its clinical implications]. | [Rinsho ketsueki] The Japanese journal of clinical hematology | [42951618](https://pubmed.ncbi.nlm.nih.gov/42951618/) | [Y chromosome loss in hematopoietic cells and its clinical i... |
+| 2026 Dec 1 | Comprehensive gas and electrolyte analysis in aged automotive lithium-ion cells cycled in various voltage windows. | Analytica chimica acta | [42951516](https://pubmed.ncbi.nlm.nih.gov/42951516/) | Comprehensive gas and electrolyte analysis in aged automotiv... |
+| 2026 Oct 28 | Alginate Oligosaccharide Alleviates Age-Related Hearing Loss via TFEB-Associated Autophagy Restoration to Attenuate Oxidative Stress and Inflammation. | European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences | [42951215](https://pubmed.ncbi.nlm.nih.gov/42951215/) | Alginate Oligosaccharide Alleviates Age-Related Hearing Loss... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-28 | 自动生成*
+*最后更新：2026-10-29 | 自动生成*
