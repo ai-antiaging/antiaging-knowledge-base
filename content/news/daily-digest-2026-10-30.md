@@ -12,95 +12,70 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: [Contribution of DNA methylation profiling to the diagnosis of primary central nervous system tumors].
+## 研究 1: G-quadruplex ligand-mediated CHK1 and ERα suppression in endocrine-sensitive and endocrine-resistant luminal breast cancer cells.
 
-**期刊**: Annales de pathologie  
-**发表日期**: 2026 Oct 29  
-**第一作者**: Biny P 等 | **PMID**: [42957470](https://pubmed.ncbi.nlm.nih.gov/42957470/)  
+**期刊**: Cell cycle (Georgetown, Tex.)  
+**发表日期**: 2026 Dec  
+**第一作者**: Valenzuela M 等 | **PMID**: [42961335](https://pubmed.ncbi.nlm.nih.gov/42961335/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-本研究评估了DNA甲基化谱分析自2021年引入科室以来对中枢神经系统肿瘤诊断的实际贡献。在2021 WHO分类推动整合诊断的背景下，该研究为这一新技术的临床价值提供了实践层面的验证依据。
+研究合成并筛选出RHPS4衍生物——化合物190，能优先抑制内分泌敏感型乳腺癌细胞MCF7增殖，且毒性特征优于原药RHPS4。这为开发低心脏毒性的G4配体抗肿瘤药物提供了新候选。
 
 ### 🔬 关键发现
 
-DNA甲基化谱分析对部分中枢神经系统肿瘤的诊断具有关键作用，尤其在儿科病例中贡献突出。但研究同时提示，基于人工智能算法生成的结果需谨慎解读，不能盲目采信。
+化合物190对MCF7细胞的抗增殖作用与端粒DNA损伤关联较弱，主要通过诱导复制应激、下调CHK1并抑制ERα实现。其对肿瘤细胞的选择性优于非致瘤性乳腺上皮细胞和正常成纤维细胞。
 
 ### 🧪 方法简介
 
-研究采用DNA甲基化谱分析技术，结合人工智能算法辅助诊断，践行了2021 WHO分类倡导的“组织分子整合诊断”模式，并对该技术在真实临床环境中的应用效果进行了系统评估。
+研究采用RHPS4结构类似物合成策略，在保留G4稳定活性的同时改善毒理特征，并在MCF7、MDA-MB-231、HCC1937及正常细胞中进行选择性比较评价。
 
 ### 🏥 临床相关性
 
-该研究为中枢神经系统肿瘤的精准诊断提供了新技术路径的实践参考，有助于推动整合诊断的规范化应用。对健康领域从业者而言，需认识到AI辅助的甲基化分析结果应结合临床审慎判读，避免过度依赖算法输出。
+化合物190同时靶向CHK1和ERα，提示G4配体可能为内分泌敏感及耐药型luminal乳腺癌提供新干预思路，并因心脏毒性降低而具备更好的临床转化潜力。
 
 ---
 
-## 研究 2: Interleukin 4-receptor-α blockade in localised scleroderma: a phase 2 proof-of-concept study.
+## 研究 2: KDM3B regulates hair follicle stem cell differentiation by activating the mTOR-dependent translation program.
 
-**期刊**: Annals of the rheumatic diseases  
-**发表日期**: 2026 Oct 29  
-**第一作者**: Eming SA 等 | **PMID**: [42957460](https://pubmed.ncbi.nlm.nih.gov/42957460/)  
+**期刊**: Journal of molecular cell biology  
+**发表日期**: 2026 Oct 30  
+**第一作者**: Lv C 等 | **PMID**: [42961046](https://pubmed.ncbi.nlm.nih.gov/42961046/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究首次在局限性硬皮病患者中验证IL-4受体α阻断的疗效，为纤维化疾病提供了免疫靶向治疗的新概念验证。纤维化疾病治疗选择极为有限，该结果支持IL-4/IL-13轴作为可干预的抗纤维化靶点。
+首次揭示组蛋白去甲基化酶KDM3B是毛囊干细胞分化的关键表观遗传驱动因子，填补了从表观遗传调控到mTOR翻译程序之间的机制空白，确立了“KDM3B-mTORC1-LARP1-核糖体”这一完整信号轴。
 
 ### 🔬 关键发现
 
-这项2期概念验证研究显示，IL-4受体α阻断在局限性硬皮病患者中产生了可测量的临床应答，支持IL-4通路在人类纤维化中的致病作用。具体效应量数据需参见全文，但摘要层面已确认靶向阻断在患者中具有生物学与临床活性。
+条件性敲除KDM3B导致出生后毛囊发育严重缺陷及毛囊干细胞分化障碍；机制上KDM3B激活mTORC1信号，进而上调TOP mRNA结合蛋白LARP1，驱动核糖体生物合成与全局蛋白翻译。
 
 ### 🧪 方法简介
 
-研究采用2期概念验证设计，在局限性硬皮病患者中直接检验IL-4受体α阻断的临床效果，将基础研究中IL-4/T辅助通路与纤维化的关联转化为人体干预验证。该设计为纤维化疾病的小规模靶向验证提供了可参考范式。
+整合高通量测序数据与条件性基因敲除小鼠模型，系统解析KDM3B在毛囊干细胞中的功能，并结合翻译组学层面证据锁定下游mTORC1-LARP1-核糖体通路。
 
 ### 🏥 临床相关性
 
-该发现提示IL-4受体α阻断可能成为纤维化相关疾病的候选干预策略，为器官纤维化这一衰老相关表型的免疫治疗开辟方向。对健康领域从业者而言，需关注后续更大样本研究以确认获益幅度与安全性。
+为毛囊再生障碍及脱发相关疾病提供了新的表观遗传靶点；KDM3B-mTORC1-LARP1轴作为连接营养感知与蛋白翻译的节点，对理解组织干细胞衰老及开发靶向翻译程序的抗衰老干预具有潜在转化价值。
 
 ---
 
-## 研究 3: The effects of wrist and elbow restrictions on vascular complications and agitation in mechanically ventilated children: a randomized crossover trial.
+## 研究 3: FIFA 2026 and Beyond: Advancing Nursing Education, Public Health Preparedness, and a Canadian Research Agenda for Mass Gatherings.
 
-**期刊**: Journal of pediatric nursing  
-**发表日期**: 2026 Oct 29  
-**第一作者**: Shishavan RS 等 | **PMID**: [42957451](https://pubmed.ncbi.nlm.nih.gov/42957451/)  
+**期刊**: The Canadian journal of nursing research = Revue canadienne de recherche en sciences infirmieres  
+**发表日期**: 2026 Oct 30  
+**第一作者**: Al-Hamad A 等 | **PMID**: [42960888](https://pubmed.ncbi.nlm.nih.gov/42960888/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究首次通过随机交叉试验直接比较腕部与肘部约束对机械通气患儿血管并发症及躁动的影响，为儿科重症护理中约束方式的选择提供了循证依据，提示约束部位可能直接影响并发症风险。
+本研究发表于 The Canadian journal of nursing research = Revue canadienne de recherche en sciences infirmieres，聚焦抗衰老领域前沿问题。
 
 ### 🔬 关键发现
 
-摘要未提供具体数据，但研究核心在于比较两种约束方式下血管并发症与躁动的差异，结果将揭示哪种约束策略在保障管路安全的同时减少不良事件。
-
-### 🧪 方法简介
-
-采用随机交叉试验设计，使同一患儿先后接受两种约束方式，有效控制个体差异，提升比较的统计效能，这在儿科约束研究中较为少见。
-
-### 🏥 临床相关性
-
-若某种约束方式显著降低血管并发症和躁动，将直接优化儿科ICU约束规范，减少压力性损伤与镇静需求，间接支持患儿安全与舒适化护理实践。
-
----
-
-## 研究 4: European innovation alliance for musculoskeletal health literacy in the digital era (Digi4MSK project): protocol for a prospective multi-country two parallel evaluation of digital educational interventions for musculoskeletal health literacy.
-
-**期刊**: BMJ open  
-**发表日期**: 2026 Oct 29  
-**第一作者**: Bellosta-López P 等 | **PMID**: [42957289](https://pubmed.ncbi.nlm.nih.gov/42957289/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-本研究发表于 BMJ open，聚焦抗衰老领域前沿问题。
-
-### 🔬 关键发现
-
-研究探索了 European innovation alliance for musculoskeletal health literacy in the digital ... 的相关机制。
+研究探索了 FIFA 2026 and Beyond: Advancing Nursing Education, Public Health Preparedness, a... 的相关机制。
 
 ### 🧪 方法简介
 
@@ -112,11 +87,36 @@ DNA甲基化谱分析对部分中枢神经系统肿瘤的诊断具有关键作�
 
 ---
 
-## 研究 5: State and Local Policymakers' Engagement with Neuroscience to Improve Health Policy in the United States.
+## 研究 4: A Multi-Structural Radiomic Digital Phenotyping Framework for Deciphering Preclinical Evolution of Degenerative Meniscal Tears.
 
-**期刊**: eNeuro  
-**发表日期**: 2026 Oct  
-**第一作者**: Levine AS 等 | **PMID**: [42957287](https://pubmed.ncbi.nlm.nih.gov/42957287/)  
+**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
+**发表日期**: 2026 Oct 30  
+**第一作者**: Li S 等 | **PMID**: [42960748](https://pubmed.ncbi.nlm.nih.gov/42960748/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+详见原文
+
+### 🔬 关键发现
+
+详见原文
+
+### 🧪 方法简介
+
+详见原文
+
+### 🏥 临床相关性
+
+详见原文
+
+---
+
+## 研究 5: Whey protein hydrolysate rich in branched-chain amino acid-containing oligopeptide as a novel nutritional strategy to attenuate age-related muscle weakness.
+
+**期刊**: Food & function  
+**发表日期**: 2026 Oct 30  
+**第一作者**: Sun W 等 | **PMID**: [42961298](https://pubmed.ncbi.nlm.nih.gov/42961298/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -140,7 +140,7 @@ DNA甲基化谱分析对部分中枢神经系统肿瘤的诊断具有关键作�
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-30 03:38:19  
+**生成时间**: 2026-10-30 16:17:38  
 **摘要生成**: DeepSeek AI
 
 ---
