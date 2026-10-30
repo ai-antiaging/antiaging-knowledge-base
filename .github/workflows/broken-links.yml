@@ -23,6 +23,7 @@ jobs:
         run: hugo -D --minify
       
       - name: Check links
+        id: lychee
         uses: lycheeverse/lychee-action@v1
         with:
           args: >
@@ -37,12 +38,13 @@ jobs:
             --exclude '^https://www\.ncbi\.nlm\.nih\.gov/'
             --exclude '^https://clinicaltrials\.gov/'
             ./public
-          fail: true
+          fail: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Create Issue On Fail
-        if: failure()
+        # 检出死链是预期结果而非任务失败：不再以失败收场，避免 GitHub 每天发失败邮件
+        if: env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: 发现失效链接
