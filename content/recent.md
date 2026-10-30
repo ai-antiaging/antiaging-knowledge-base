@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-10-29 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-10-30 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Dec 31 | Sustained release of metformin through an injectable hydrogel for synergistic macrophage reprogramming and ROS scavenging in the analgesic treatment of osteoarthritis. | Drug delivery | [42952350](https://pubmed.ncbi.nlm.nih.gov/42952350/) | Sustained release of metformin through an injectable hydroge... |
-| 2026 Dec | Identification of ageing-related genes in prostate cancer with type 2 Diabetes using machine learning: a multi-omics study focusing on SOX4, PRNP, and FOXO4. | Artificial cells, nanomedicine, and biotechnology | [42952172](https://pubmed.ncbi.nlm.nih.gov/42952172/) | Identification of ageing-related genes in prostate cancer wi... |
-| 2026 Oct 28 | Alzheimer's disease genetics converges on microglial and neuronal dysregulation. | Nature | [42951976](https://pubmed.ncbi.nlm.nih.gov/42951976/) | Alzheimer's disease genetics converges on microglial and neu... |
-| 2026 Oct 28 | Cellular-resolution three-photon ultra-deep imaging (TrUDI) of neuronal population activity at 2-mm depth in the mammalian brain. | Nature methods | [42951943](https://pubmed.ncbi.nlm.nih.gov/42951943/) | Cellular-resolution three-photon ultra-deep imaging (TrUDI) ... |
-| 2026 Oct 29 | Synaptic transmission and plasticity: molecular mechanisms, biological functions and therapeutic opportunities in neurodegenerative diseases. | Signal transduction and targeted therapy | [42951886](https://pubmed.ncbi.nlm.nih.gov/42951886/) | Synaptic transmission and plasticity: molecular mechanisms, ... |
+| 2026 Nov 1 | PAK4 as a cardiometabolic node: tissue-specific metabolic control, cardiovascular remodeling, and therapeutic trade-offs. | The Korean journal of physiology & pharmacology : official journal of the Korean Physiological Society and the Korean Society of Pharmacology | [42957434](https://pubmed.ncbi.nlm.nih.gov/42957434/) | PAK4 as a cardiometabolic node: tissue-specific metabolic co... |
+| 2026 Nov-Dec | Increased GluA1 Expression, c-Fos Activation, and MAP2 Loss During Early Cerebral Ischemia-reperfusion. | In vivo (Athens, Greece) | [42957249](https://pubmed.ncbi.nlm.nih.gov/42957249/) | Increased GluA1 Expression, c-Fos Activation, and MAP2 Loss ... |
+| 2026 Oct 29 | Mitochondrial acquisition after the Asgard revolution: Reconstructing eukaryogenesis with insights for mitochondrial transplantation. | Experimental gerontology | [42956947](https://pubmed.ncbi.nlm.nih.gov/42956947/) | Mitochondrial acquisition after the Asgard revolution: Recon... |
+| 2026 Oct 29 | Distinct Thermosensitive Activation of HSF1 and HSF2 in Immune Cells During Aging. | Mechanisms of ageing and development | [42956943](https://pubmed.ncbi.nlm.nih.gov/42956943/) | Distinct Thermosensitive Activation of HSF1 and HSF2 in Immu... |
+| 2026 Oct 29 | Calorie restriction uncouples mutation rate from lifespan. | Cell | [42956715](https://pubmed.ncbi.nlm.nih.gov/42956715/) | Calorie restriction uncouples mutation rate from lifespan. |
 
 ### NAD+ 与线粒体
 
@@ -35,11 +35,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Nov-Dec | Urolithin A Attenuates Noise-induced Hearing Loss and Is Associated With Increased Cochlear Mitophagy Markers. | In vivo (Athens, Greece) | [42957222](https://pubmed.ncbi.nlm.nih.gov/42957222/) | Urolithin A Attenuates Noise-induced Hearing Loss and Is Ass... |
 | 2026 | Natural products targeting mitochondrial homeostasis: a four-dimensional framework integrating dynamics, mitophagy, pharmacokinetics, and translational safety. | Frontiers in pharmacology | [42889944](https://pubmed.ncbi.nlm.nih.gov/42889944/) | Natural products targeting mitochondrial homeostasis: a four... |
 | 2026 Oct 16 | Topical application of urolithin A activates mitophagy and enhances mitochondrial function to promote skin longevity. | iScience | [42866687](https://pubmed.ncbi.nlm.nih.gov/42866687/) | Topical application of urolithin A activates mitophagy and e... |
 | 2027 Mar | An ultrasound-responsive hydrogel with piezoelectric-enhanced bioelectric-vesicular coupling alleviates mitochondrial dysfunction and inflammation for osteoarthritis therapy. | Bioactive materials | [42861280](https://pubmed.ncbi.nlm.nih.gov/42861280/) | An ultrasound-responsive hydrogel with piezoelectric-enhance... |
 | 2026 Sep 28 | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Flux, Measurement Gaps, and Human Translation. | Aging and disease | [42858326](https://pubmed.ncbi.nlm.nih.gov/42858326/) | Lysosomal Competence in Skeletal Muscle Aging: Autophagic Fl... |
-| 2026 Oct 1 | Urolithin A and Endothelial and Cerebrovascular Function in Middle-Aged Adults With Obesity: A Randomized Clinical Trial. | JAMA network open | [42853569](https://pubmed.ncbi.nlm.nih.gov/42853569/) | Urolithin A and Endothelial and Cerebrovascular Function in ... |
 
 ### 亚精胺与自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-10-29 | 自动生成*
+*最后更新：2026-10-30 | 自动生成*
