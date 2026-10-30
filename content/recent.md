@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Nov 1 | PAK4 as a cardiometabolic node: tissue-specific metabolic control, cardiovascular remodeling, and therapeutic trade-offs. | The Korean journal of physiology & pharmacology : official journal of the Korean Physiological Society and the Korean Society of Pharmacology | [42957434](https://pubmed.ncbi.nlm.nih.gov/42957434/) | PAK4 as a cardiometabolic node: tissue-specific metabolic co... |
-| 2026 Nov-Dec | Increased GluA1 Expression, c-Fos Activation, and MAP2 Loss During Early Cerebral Ischemia-reperfusion. | In vivo (Athens, Greece) | [42957249](https://pubmed.ncbi.nlm.nih.gov/42957249/) | Increased GluA1 Expression, c-Fos Activation, and MAP2 Loss ... |
-| 2026 Oct 29 | Mitochondrial acquisition after the Asgard revolution: Reconstructing eukaryogenesis with insights for mitochondrial transplantation. | Experimental gerontology | [42956947](https://pubmed.ncbi.nlm.nih.gov/42956947/) | Mitochondrial acquisition after the Asgard revolution: Recon... |
-| 2026 Oct 29 | Distinct Thermosensitive Activation of HSF1 and HSF2 in Immune Cells During Aging. | Mechanisms of ageing and development | [42956943](https://pubmed.ncbi.nlm.nih.gov/42956943/) | Distinct Thermosensitive Activation of HSF1 and HSF2 in Immu... |
-| 2026 Oct 29 | Calorie restriction uncouples mutation rate from lifespan. | Cell | [42956715](https://pubmed.ncbi.nlm.nih.gov/42956715/) | Calorie restriction uncouples mutation rate from lifespan. |
+| 2026 Nov | Bazi Bushen Attenuates Skeletal Muscle Decline Associated With Oestrogen Deficiency and Modulates FGFR1/ERK Signalling. | Journal of cellular and molecular medicine | [42961165](https://pubmed.ncbi.nlm.nih.gov/42961165/) | Bazi Bushen Attenuates Skeletal Muscle Decline Associated Wi... |
+| 2026 Sep 1 | A blood aging clock defines disease-induced deviation from healthy molecular aging. | Briefings in bioinformatics | [42960996](https://pubmed.ncbi.nlm.nih.gov/42960996/) | A blood aging clock defines disease-induced deviation from h... |
+| 2026 Oct 30 | Euphabeones A-D, Rearranged Jatrophane Diterpenoids from Euphorbia hylonoma: Isolation, Structural Elucidation, and Anti-Senescence Evaluation. | Organic letters | [42960931](https://pubmed.ncbi.nlm.nih.gov/42960931/) | Euphabeones A-D, Rearranged Jatrophane Diterpenoids from Eup... |
+| 2026 Nov 1 | Visualizing the epigenetic landscape of aging and cellular reprogramming - optimized ATAC-see for cells and tissues. | Journal of cell science | [42960674](https://pubmed.ncbi.nlm.nih.gov/42960674/) | Visualizing the epigenetic landscape of aging and cellular r... |
+| 2026 Dec | YTHDF1 aggravates the progression of atherosclerosis by enhancing BRD4 mRNA stability and promoting EndMT transition in an m6A-Dependent manner. | Atherosclerosis plus | [42960007](https://pubmed.ncbi.nlm.nih.gov/42960007/) | YTHDF1 aggravates the progression of atherosclerosis by enha... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | DZIP3 is associated with the cytoskeletal dynamics in glioblastoma and mitochondrial machinery regulation. | Frontiers in bioinformatics | [42959642](https://pubmed.ncbi.nlm.nih.gov/42959642/) | DZIP3 is associated with the cytoskeletal dynamics in gliobl... |
+| 2026 Oct 30 | NAD+ replenishment reduces cardiomyocyte senescence and improves diastolic function in the aged male heart. | Cardiovascular research | [42958931](https://pubmed.ncbi.nlm.nih.gov/42958931/) | NAD+ replenishment reduces cardiomyocyte senescence and impr... |
 | 2026 Oct 29 | Energetic metabolism in bipolar disorder: from markers to precision therapeutics. | Acta neuropsychiatrica | [42952324](https://pubmed.ncbi.nlm.nih.gov/42952324/) | Energetic metabolism in bipolar disorder: from markers to pr... |
 | 2026 Oct 28 | ADP-ribose induces neuronal ferroptosis through ENT2-mediated nucleotide rewiring. | Nature chemical biology | [42951909](https://pubmed.ncbi.nlm.nih.gov/42951909/) | ADP-ribose induces neuronal ferroptosis through ENT2-mediate... |
 | 2026 Oct 17 | Mitochondrial dysfunction in diabetic neuropathy: a core pathogenic hub and therapeutic implications. | Journal of translational medicine | [42947140](https://pubmed.ncbi.nlm.nih.gov/42947140/) | Mitochondrial dysfunction in diabetic neuropathy: a core pat... |
-| 2026 Oct 1 | Lysine Acetylation as a Regulatory Mechanism in Cardiometabolic Disease: A Focus on Sirtuins. | Pharmaceuticals (Basel, Switzerland) | [42943256](https://pubmed.ncbi.nlm.nih.gov/42943256/) | Lysine Acetylation as a Regulatory Mechanism in Cardiometabo... |
-| 2026 Oct 7 | Targeting of Protein Persulfidation in Aging and Age-Related Disorders. | Pharmaceutics | [42942798](https://pubmed.ncbi.nlm.nih.gov/42942798/) | Targeting of Protein Persulfidation in Aging and Age-Related... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Oct 30 | Spermidine disrupts mitochondrial respiration and redox homeostasis in aged CD44+ CD49d- CD8+ T cells. | International immunology | [42958929](https://pubmed.ncbi.nlm.nih.gov/42958929/) | Spermidine disrupts mitochondrial respiration and redox home... |
 | 2026 Oct 10 | Correction: Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42859229](https://pubmed.ncbi.nlm.nih.gov/42859229/) | Correction: Longitudinal association of dietary spermidine w... |
 | 2026 Oct 2 | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evidentiary Limits, and Translational Requirements. | Aging and disease | [42858331](https://pubmed.ncbi.nlm.nih.gov/42858331/) | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evide... |
-| 2026 Oct 9 | Effects of Spermidine Supplementation on Vascular Brain Health in Older Individuals with Subjective Cognitive Decline - An Exploratory MRI Analysis. | Aging and disease | [42858321](https://pubmed.ncbi.nlm.nih.gov/42858321/) | Effects of Spermidine Supplementation on Vascular Brain Heal... |
 
 ---
 
