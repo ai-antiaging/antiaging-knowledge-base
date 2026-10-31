@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Nov | Inhibition of 3-Phosphoinositide-Dependent Kinase 1 Improves Age-Associated Epidermal Dysfunction. | Experimental dermatology | [42963119](https://pubmed.ncbi.nlm.nih.gov/42963119/) | Inhibition of 3-Phosphoinositide-Dependent Kinase 1 Improves... |
-| 2026 Oct 30 | AGE-RELATED BIOMECHANICAL AND STRUCTURAL REMODELING OF HUMAN MIDDLE CEREBRAL ARTERIES. | Acta biomaterialia | [42962843](https://pubmed.ncbi.nlm.nih.gov/42962843/) | AGE-RELATED BIOMECHANICAL AND STRUCTURAL REMODELING OF HUMAN... |
-| 2026 Oct 30 | Genomic structural equation modeling elucidates the shared genetic architecture of vascular ageing. | Experimental gerontology | [42962776](https://pubmed.ncbi.nlm.nih.gov/42962776/) | Genomic structural equation modeling elucidates the shared g... |
-| 2026 Oct 30 | Evidence of active whole-genome doubling (WGD) subclones in non-WGD tumors. | Science advances | [42962034](https://pubmed.ncbi.nlm.nih.gov/42962034/) | Evidence of active whole-genome doubling (WGD) subclones in ... |
-| 2026 Oct 1 | TLR7 stimulation promotes altered X chromosome inactivation maintenance at the TLR7 and CXorf21/TASL loci in female age-associated B cells and plasmablasts. | Journal of immunology (Baltimore, Md. : 1950) | [42961647](https://pubmed.ncbi.nlm.nih.gov/42961647/) | TLR7 stimulation promotes altered X chromosome inactivation ... |
+| 2026 | Regulatory network remodeling and potential non-canonical associations of the transcription factor SP1 during inflammation-to-cancer transformation in esophageal squamous cell carcinoma. | Frontiers in immunology | [42964320](https://pubmed.ncbi.nlm.nih.gov/42964320/) | Regulatory network remodeling and potential non-canonical as... |
+| 2026 | Rutin interferes with hnRNP L phase separation and modulates the PKM2-lactate-H3K9la axis in pulmonary fibrosis. | Frontiers in pharmacology | [42964013](https://pubmed.ncbi.nlm.nih.gov/42964013/) | Rutin interferes with hnRNP L phase separation and modulates... |
+| 2026 Oct 31 | Prevalence of many comorbidities is similar irrespective of the time since HIV diagnosis in persons ageing with HIV who have survived to age 65 years. | HIV medicine | [42963988](https://pubmed.ncbi.nlm.nih.gov/42963988/) | Prevalence of many comorbidities is similar irrespective of ... |
+| 2026 Nov | Peripheral and Placental KLRG1(+) Senescence-Associated T Cells in Placenta Accreta Spectrum: Diagnostic and Clinical Correlations. | American journal of reproductive immunology (New York, N.Y. : 1989) | [42963923](https://pubmed.ncbi.nlm.nih.gov/42963923/) | Peripheral and Placental KLRG1(+) Senescence-Associated T Ce... |
+| 2026 Oct 31 | LncAAT-mediated decline in energy metabolism is essential for vascular endothelial senescence in advancing age. | Cardiovascular research | [42963870](https://pubmed.ncbi.nlm.nih.gov/42963870/) | LncAAT-mediated decline in energy metabolism is essential fo... |
 
 ### NAD+ 与线粒体
 
