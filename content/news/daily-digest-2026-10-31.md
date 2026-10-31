@@ -12,135 +12,135 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Metabolic licensing of innate immune memory.
+## 研究 1: Drp1-Mediated Mitochondrial Fission Coordinates Mineral Precursor Transport and Mitochondrial Homeostasis During Osteogenesis.
 
-**期刊**: Science immunology  
-**发表日期**: 2026 Oct 30  
-**第一作者**: Mhlanga MM 等 | **PMID**: [42962054](https://pubmed.ncbi.nlm.nih.gov/42962054/)  
+**期刊**: Medical science monitor : international medical journal of experimental and clinical research  
+**发表日期**: 2026 Oct 31  
+**第一作者**: Lu QA 等 | **PMID**: [42963854](https://pubmed.ncbi.nlm.nih.gov/42963854/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究揭示NAD⁺代谢是先天免疫记忆的“许可”信号，即代谢状态决定免疫细胞能否建立记忆。这为理解衰老过程中免疫记忆衰退与代谢下降的关联提供了新视角。
+该研究首次揭示Drp1介导的线粒体分裂在成骨分化中协调无定形磷酸钙（ACP）前体运输与线粒体功能稳态的双重角色，提出“分裂-清除-再生”循环是成骨分化的关键调控节点。
 
 ### 🔬 关键发现
 
-摘要仅提及NAD，具体数据未给出。基于标题可推断：NAD⁺水平或代谢通量是先天免疫细胞形成记忆的必要条件，代谢受限时免疫记忆建立受阻。
+成骨诱导后Drp1 Ser616磷酸化升高、Ser637降低，线粒体分裂产生约450 nm片段以包裹ACP；敲低Drp1导致线粒体异常延长、ACP蓄积、ATP降至59.2%，RUNX2/ALPL表达及矿化面积（降至36.7%）显著受抑；斑马鱼中Mdivi-1或CsA同样抑制颅面矿化。
 
 ### 🧪 方法简介
 
-摘要信息有限，无法确定具体技术。推测涉及NAD⁺代谢调控（如补充/抑制）结合先天免疫记忆模型（如训练免疫）的功能验证。
+结合shRNA基因敲低与药理抑制剂（Mdivi-1、CsA）双策略，采用透射电镜观察线粒体形态与ACP运输，并以斑马鱼模型进行在体骨矿化表型验证，实现从细胞到活体的多层面证据链。
 
 ### 🏥 临床相关性
 
-提示维持NAD⁺代谢稳态可能改善老年人先天免疫记忆功能，为抗衰老免疫干预（如NAD⁺前体补充）提供理论依据，但需进一步临床验证。
+Drp1介导的线粒体动力学或成为骨代谢疾病与衰老相关骨丢失的潜在干预靶点，提示维持线粒体分裂-清除-再生平衡对骨骼健康的重要性，值得在骨代谢疾病模型中进一步验证。
 
 ---
 
-## 研究 2: Nuclear NAD(+) promotes innate immune memory by inhibiting KDM5A-dependent histone demethylation.
+## 研究 2: Social Engagement and Cognitive Function Among Chinese Older Adults During the COVID-19 Outbreak: Gender and Urban-Rural Disparities.
 
-**期刊**: Science immunology  
+**期刊**: Journal of aging and health  
 **发表日期**: 2026 Oct 30  
-**第一作者**: Jin H 等 | **PMID**: [42962052](https://pubmed.ncbi.nlm.nih.gov/42962052/)  
+**第一作者**: Zhang K 等 | **PMID**: [42963837](https://pubmed.ncbi.nlm.nih.gov/42963837/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究揭示核内NAD⁺通过抑制KDM5A依赖的组蛋白去甲基化，促进先天免疫记忆（训练免疫）的形成，首次将NAD⁺代谢与染色质重塑及免疫记忆建立直接关联，为理解代谢-表观遗传协同调控免疫记忆提供了新机制。
+详见原文
 
 ### 🔬 关键发现
 
-训练免疫诱导可提升细胞核内NAD⁺水平；核NAD⁺通过抑制KDM5A的组蛋白去甲基化活性，维持有利于免疫记忆建立的染色质状态，从而支持长期先天免疫记忆的巩固。
+详见原文
 
 ### 🧪 方法简介
 
-研究聚焦核内NAD⁺水平变化与KDM5A组蛋白去甲基化活性的调控关系，结合训练免疫诱导模型，在染色质层面解析代谢物对表观遗传酶的抑制机制（摘要未披露具体技术细节）。
+详见原文
 
 ### 🏥 临床相关性
 
-提示提升核NAD⁺或靶向KDM5A可能增强先天免疫记忆，为抗衰老领域通过代谢-表观遗传干预改善老年人群免疫监视功能提供了潜在策略方向。
+详见原文
 
 ---
 
-## 研究 3: Evidence of active whole-genome doubling (WGD) subclones in non-WGD tumors.
+## 研究 3: Prevalence of many comorbidities is similar irrespective of the time since HIV diagnosis in persons ageing with HIV who have survived to age 65 years.
 
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 30  
-**第一作者**: He F 等 | **PMID**: [42962034](https://pubmed.ncbi.nlm.nih.gov/42962034/)  
+**期刊**: HIV medicine  
+**发表日期**: 2026 Oct 31  
+**第一作者**: Zhabokritsky A 等 | **PMID**: [42963988](https://pubmed.ncbi.nlm.nih.gov/42963988/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-研究颠覆了“非WGD肿瘤不含WGD细胞”的传统分类认知，发现WGD亚克隆在nWGD肿瘤中普遍存在且处于活跃演化状态，提示WGD是动态、持续的过程而非一次性事件。
+该研究发现，在存活至65岁及以上的HIV感染者中，多种合并症的患病率与HIV确诊后的时间长短无关。这一结果挑战了“感染时间越长、合并症越多”的直觉预期，提示衰老相关共病可能更多由衰老本身驱动。
 
 ### 🔬 关键发现
 
-单细胞数据分析显示，WGD细胞在被归类为nWGD的肿瘤中广泛存在；这些WGD亚克隆在扩增过程中持续获得体细胞拷贝数改变，表明其正在进行活跃的基因组演化。
+研究比较了不同HIV确诊时长（自确诊至65岁）的老年HIV感染者合并症患病率，结果显示多种合并症的患病率在各组间相似，即合并症负担不随感染持续时间延长而显著增加。
 
 ### 🧪 方法简介
 
-研究整合了bulk、单细胞和空间多组学数据解析WGD亚克隆动态，并开发了基于基因表达的方法WAGES，经严格验证可在bulk肿瘤中定位WGD细胞的克隆比例。
+研究采用基于HIV确诊后时间分组的横断面比较设计，在≥65岁且存活至老年的HIV感染者人群中，系统对比不同感染时长组的合并症患病率，以隔离“感染时间”这一变量对共病的影响。
 
 ### 🏥 临床相关性
 
-WAGES可用于在常规bulk测序中识别被漏判的活跃WGD亚克隆，为肿瘤演化监测和耐药风险评估提供新工具；对衰老相关基因组不稳定研究亦提示需关注亚克隆层面的动态变化。
+提示对老年HIV感染者的健康管理应聚焦于衰老相关的共病筛查与干预，而非仅依据感染年限评估风险；同时为HIV感染者抗衰老干预研究提供了“感染时长非主导因素”的假设依据，支持将此类人群纳入常规老年健康管理路径。
 
 ---
 
-## 研究 4: Photosynthetic chimeric stem cells function as mitochondrial batteries.
+## 研究 4: Cancer in Seychelles: A Population-Based Study on Incidence, Trends and Stage at Diagnosis (2005-2024).
 
-**期刊**: Science advances  
-**发表日期**: 2026 Oct 30  
-**第一作者**: Chen Z 等 | **PMID**: [42962029](https://pubmed.ncbi.nlm.nih.gov/42962029/)  
+**期刊**: International journal of cancer  
+**发表日期**: 2026 Oct 31  
+**第一作者**: Finesse A 等 | **PMID**: [42963954](https://pubmed.ncbi.nlm.nih.gov/42963954/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-研究构建了光合赋能跨物种嵌合干细胞（PCS），作为“线粒体电池”为能量缺陷细胞供能，突破了间充质干细胞作为线粒体供体的移植效率低、异常分化风险高等瓶颈。
+塞舌尔作为非洲人均GDP最高的小国，其20年癌症登记数据首次系统揭示了快速社会经济发展下的流行病学转变——从感染相关癌症向老龄化与生活方式相关癌症过渡，癌症谱系正趋同于高收入国家。
 
 ### 🔬 关键发现
 
-通过引入植物来源类囊体基人工核，PCS实现了光合赋能与线粒体转移的结合；摘要未披露具体定量数据，需查阅全文获取移植效率与功能修复的实测结果。
+男性前列腺癌发病率最高（ASR 73.9/10万，AAPC +6.7%），女性乳腺癌居首（ASR 54.7/10万，年均增长3.4%，近十年达70.5/10万，接近欧洲水平）；结直肠癌、宫颈癌及子宫体癌亦显著上升，而食管癌和喉癌显著下降。前列腺癌、乳腺癌、结直肠癌和宫颈癌四大癌种确诊时多处于较晚期。
 
 ### 🧪 方法简介
 
-采用跨物种嵌合策略，将植物类囊体基人工核导入干细胞，构建兼具光合能力与线粒体供体功能的新型细胞体系，属合成生物学与线粒体治疗交叉技术。
+基于塞舌尔国家癌症登记处（SNCR）20年（2005-2024）全人群数据，计算年龄标化发病率（ASR）、平均年度变化百分比（AAPC）及四大癌种诊断分期，并与部分非洲国家及高HDI国家进行同期发病率对比。
 
 ### 🏥 临床相关性
 
-为线粒体功能障碍相关衰老及能量匮乏性疾病的细胞治疗提供新思路，有望提升线粒体转移疗法的效率与安全性；目前尚处早期探索阶段，临床转化需进一步验证。
+癌症谱系向高收入国家模式转变，提示需将防控重心转向老龄化与生活方式相关癌种；四大主要癌症晚期确诊的现实凸显了早期筛查与及时诊断体系建设的紧迫性，对快速转型国家的癌症防控策略具有直接参考价值。
 
 ---
 
-## 研究 5: Oxygen-dependent constraint of glycolysis through the mitochondrial electron transport chain.
+## 研究 5: Characterization and in Vitro Radiation Response Analysis of Patient-Derived Heterogeneous Cells From Canine Oral Melanoma.
 
-**期刊**: Science advances  
+**期刊**: Veterinary and comparative oncology  
 **发表日期**: 2026 Oct 30  
-**第一作者**: Guajardo-Grence A 等 | **PMID**: [42962020](https://pubmed.ncbi.nlm.nih.gov/42962020/)  
+**第一作者**: Hwang G 等 | **PMID**: [42963937](https://pubmed.ncbi.nlm.nih.gov/42963937/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-研究发现即使HIF通路组成性激活的ccRCC细胞，仍能独立响应缺氧——缺氧通过诱发NADH还原应激，在细胞外丙酮酸供应受限时抑制乳酸释放，揭示了线粒体电子传递链对糖酵解的氧依赖性约束机制。
+该研究成功建立了犬口腔黑色素瘤患者来源的低传代异质性细胞培养体系，并证实其能更好地反映肿瘤异质性。这为放疗反应研究提供了比传统细胞系更具转化相关性的模型。
 
 ### 🔬 关键发现
 
-缺氧条件下NADH还原应激增强，当细胞外丙酮酸供应不足时乳酸释放显著减少；异位表达胞质型和线粒体靶向的NADH氧化酶可恢复乳酸释放，证明该响应依赖NADH再氧化能力。
+所建培养体系通过形态学特征及干细胞标志物CD133表达确认了细胞异质性；该异质性培养物表现出特定的体外放射反应特征，提示肿瘤干细胞样亚群可能影响放疗敏感性。
 
 ### 🧪 方法简介
 
-研究采用胞质与线粒体靶向的NADH氧化酶异位表达策略，结合缺氧干预与丙酮酸供应调控，区分了HIF经典激活与非经典缺氧响应，精准解析NADH还原应激在糖酵解调控中的作用。
+采用患者来源的低传代异质性细胞培养技术，替代传统均质化癌细胞系，并结合形态学与干细胞标志物（CD133）表达进行异质性验证。
 
 ### 🏥 临床相关性
 
-该发现提示NADH还原应激与线粒体-糖酵解偶联是代谢干预的潜在靶点，为理解衰老相关代谢重编程及ccRCC等HIF驱动肿瘤的缺氧适应性提供新视角，但尚需在衰老模型中的直接验证。
+该模型有助于更真实地评估肿瘤放疗反应，为识别放疗抵抗相关干细胞亚群提供工具；对比较肿瘤学及抗衰老相关组织稳态研究具有参考价值，但需进一步体内验证。
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-10-31 03:22:29  
+**生成时间**: 2026-10-31 16:17:52  
 **摘要生成**: DeepSeek AI
 
 ---
