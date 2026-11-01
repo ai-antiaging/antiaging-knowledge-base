@@ -12,11 +12,36 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: Drp1-Mediated Mitochondrial Fission Coordinates Mineral Precursor Transport and Mitochondrial Homeostasis During Osteogenesis.
+## 研究 1: Single-Cell Insights Into Pathogenic Profile of Orchitis and SREBP2-Associated Cholesterol Dysregulation in Spermatogenic Failure.
 
-**期刊**: Medical science monitor : international medical journal of experimental and clinical research  
+**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
 **发表日期**: 2026 Oct 31  
-**第一作者**: Lu QA 等 | **PMID**: [42963854](https://pubmed.ncbi.nlm.nih.gov/42963854/)  
+**第一作者**: Tang Y 等 | **PMID**: [42966894](https://pubmed.ncbi.nlm.nih.gov/42966894/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+该研究首次在单细胞水平系统描绘睾丸炎的生精失败图谱，揭示SREBP2相关胆固醇调控紊乱是核心致病环节，为男性不育的靶向干预提供了新方向。
+
+### 🔬 关键发现
+
+研究分析了66,147个单细胞转录组，发现睾丸炎患者睾丸细胞组成显著重塑，CD8⁺T细胞明显浸润，并伴随生精细胞进行性丢失及SREBP2介导的胆固醇代谢失调。
+
+### 🧪 方法简介
+
+采用单细胞转录组测序（scRNA-seq）对患者与健康对照睾丸组织进行高分辨率细胞图谱构建，并结合组织学验证，实现从细胞组成到分子通路的系统解析。
+
+### 🏥 临床相关性
+
+SREBP2及胆固醇代谢通路可作为睾丸炎相关生精障碍的潜在干预靶点，为开发靶向治疗及男性生殖衰老相关的生育力保护策略提供依据。
+
+---
+
+## 研究 2: 3'-UTR Hypermethylation and ABA Signaling Coordinate Transcriptional Activation of SWEET14 for High Sugar Accumulation in Citrus.
+
+**期刊**: Advanced science (Weinheim, Baden-Wurttemberg, Germany)  
+**发表日期**: 2026 Oct 31  
+**第一作者**: Zeng Y 等 | **PMID**: [42966890](https://pubmed.ncbi.nlm.nih.gov/42966890/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
@@ -37,110 +62,85 @@ type: "daily-digest"
 
 ---
 
-## 研究 2: Lifespan and reproductive aging in captive Northern tree shrews (Tupaia belangeri).
+## 研究 3: Extracellular matrix in dental pulp and dentin regeneration: from compositional and mechanical cues to scaffold-based translational strategies.
 
-**期刊**: GeroScience  
+**期刊**: International journal of oral science  
 **发表日期**: 2026 Oct 31  
-**第一作者**: Bynum JC 等 | **PMID**: [42963494](https://pubmed.ncbi.nlm.nih.gov/42963494/)  
+**第一作者**: Yan W 等 | **PMID**: [42966771](https://pubmed.ncbi.nlm.nih.gov/42966771/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究首次系统揭示了圈养北树鼩的寿命与生殖衰老规律，发现雄性中位寿命长于雌性，但两性在最高寿命与死亡率上无差异。这填补了树鼩基础种群统计学空白，为将其作为灵长类替代模型提供了关键年龄选择依据。
+详见原文
 
 ### 🔬 关键发现
 
-UAB繁殖群体中，雄性树鼩中位寿命显著高于雌性，但90%生存率对应的最高寿命及死亡率无性别差异。生殖衰老证据总体不足，仅发现双亲年龄均偏大时繁殖产出略有下降。
+详见原文
 
 ### 🧪 方法简介
 
-研究利用阿拉巴马大学伯明翰分校树鼩种群长达数十年的现有繁殖与存活记录，进行回顾性种群统计分析，而非依赖新实验干预。该方法高效挖掘了历史数据，系统评估年龄对繁殖成功及寿命性别差异的影响。
+详见原文
 
 ### 🏥 临床相关性
 
-提示树鼩两性衰老轨迹存在差异，临床前研究需按性别和年龄分层设计；生殖衰老不显著的特点使其适合研究非生殖系统的衰老干预。这为选择树鼩模型开展抗衰老临床前试验提供了基础参数。
+详见原文
 
 ---
 
-## 研究 3: The systemic administration of multipotent mesenchymal stromal cells alters the inflammatory response in the lung during murine polymicrobial sepsis.
+## 研究 4: A 5' tRNA-derived fragment tDR-Glu-TTC exacerbates intestinal ischemia/reperfusion injury via ADAR1/autophagy/ROS/necroptosis signaling axis.
 
-**期刊**: Cell and tissue research  
+**期刊**: Cell death and differentiation  
 **发表日期**: 2026 Oct 31  
-**第一作者**: Kanewska A 等 | **PMID**: [42963429](https://pubmed.ncbi.nlm.nih.gov/42963429/)  
+**第一作者**: Zhang W 等 | **PMID**: [42966767](https://pubmed.ncbi.nlm.nih.gov/42966767/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究首次在同一CLP脓毒症模型中头对头比较了骨髓与脂肪来源间充质干细胞对肺部炎症的早期调控效果，发现MSC治疗仅产生适度、时间依赖性的肺部免疫调节作用，且未能改善肺组织结构损伤。
+首次揭示tDR-Glu-TTC通过ADAR1/自噬/ROS/坏死性凋亡轴加剧肠缺血再灌注损伤，并发现ROS可反向促进其生成，形成正反馈环路，为肠I/R损伤提供了全新机制解释。
 
 ### 🔬 关键发现
 
-MSC治疗未显著降低全身促炎介质水平；肺组织中NLRP3表达在两种MSC组均下降，脂肪来源MSC还额外降低了早期Il6和C3ar mRNA表达；但IL-1β、IL-6、TNF-α蛋白水平及肺损伤组织学评分无显著变化，两来源间亦无差异。
+tDR-Glu-TTC在肠组织、血浆及临床样本中显著上调且与损伤严重度正相关；其直接结合并抑制ADAR1，削弱ATG18和Lamp2的A-to-I编辑，抑制自噬导致ROS累积，进而促进TNF-α分泌和坏死性凋亡。
 
 ### 🧪 方法简介
 
-研究采用符合GMP标准制备的人源骨髓与脂肪间充质干细胞，在CLP小鼠模型中于8、24、72小时多时间点动态评估，结合多重因子检测、mRNA/蛋白表达、组织学和免疫荧光多维度分析肺部炎症。
+采用tDR测序鉴定差异表达的tRNA衍生小RNA，结合临床样本验证；并通过N-乙酰半胱氨酸联合tDR-Glu-TTC-antagomir的双靶干预在体内验证疗效。
 
 ### 🏥 临床相关性
 
-提示MSC治疗脓毒症相关肺损伤的免疫调节效应有限且来源间无显著优势，为抗衰老领域将MSC作为炎症调控干预手段的预期管理提供了审慎依据，强调需进一步优化给药策略与疗效终点选择。
+tDR-Glu-TTC可作为肠I/R损伤的潜在生物标志物和 therapeutic target；NAC联合antagomir的双靶策略为临床防治肠I/R损伤提供了可转化的干预方案，也为衰老相关肠屏障损伤研究提供新思路。
 
 ---
 
-## 研究 4: A Novel Peptide Targeting the USP25-SIRT1 Interaction Activates SIRT1 to Suppress Cell Senescence.
+## 研究 5: ADA2 controls autophagy-dependent mitochondrial fitness to restrain type I interferon activation.
 
-**期刊**: Aging cell  
-**发表日期**: 2026 Nov  
-**第一作者**: Zhou Y 等 | **PMID**: [42963318](https://pubmed.ncbi.nlm.nih.gov/42963318/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-首次揭示去泛素化酶USP25是细胞衰老的核心调控因子，其通过抑制SIRT1去乙酰化酶活性驱动衰老进程。该发现填补了SIRT1活性调控通路的关键空白，并将USP25-SIRT1轴确立为抗衰老干预的新靶点。
-
-### 🔬 关键发现
-
-USP25直接结合SIRT1，通过K63连接的多聚泛素化修饰SIRT1的K506和K513位点，抑制其去乙酰化酶活性，进而升高P53和PGC1α乙酰化水平，加速细胞衰老。USP25缺失小鼠表现出年龄相关表型减轻和生理功能改善。
-
-### 🧪 方法简介
-
-研究团队开发了细胞穿透肽pSirt1-4，可高效阻断USP25-SIRT1相互作用，恢复SIRT1去乙酰化酶活性并延缓细胞衰老，为靶向蛋白互作界面的肽类干预提供了概念验证。
-
-### 🏥 临床相关性
-
-USP25-SIRT1轴为衰老相关疾病提供了可成药靶点，pSirt1-4肽的可行性提示靶向蛋白互作界面有望成为抗衰老干预的新策略，但尚需体内验证和临床前安全性评估。
-
----
-
-## 研究 5: Prevalence of many comorbidities is similar irrespective of the time since HIV diagnosis in persons ageing with HIV who have survived to age 65 years.
-
-**期刊**: HIV medicine  
+**期刊**: Cell death and differentiation  
 **发表日期**: 2026 Oct 31  
-**第一作者**: Zhabokritsky A 等 | **PMID**: [42963988](https://pubmed.ncbi.nlm.nih.gov/42963988/)  
+**第一作者**: Bulté D 等 | **PMID**: [42966766](https://pubmed.ncbi.nlm.nih.gov/42966766/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-该研究发现，在存活至65岁及以上的HIV感染者中，多种合并症的患病率与HIV确诊时间长短无关。这一结果提示，长期HIV感染本身可能并非合并症负担的主要驱动因素，对老龄化HIV感染者的健康管理策略具有重要参考价值。
+详见原文
 
 ### 🔬 关键发现
 
-基于对≥65岁HIV感染者合并症患病率的比较，研究显示无论从HIV确诊至今的时间长短，多种合并症的患病率均相似。这表明确诊时间较长的感染者并未表现出更高的合并症风险。
+详见原文
 
 ### 🧪 方法简介
 
-研究采用按HIV确诊时间分组比较合并症患病率的横断面分析策略，聚焦于已存活至65岁及以上的HIV感染者这一特定老龄人群，从而控制年龄因素、单独考察确诊时间对合并症的影响。
+详见原文
 
 ### 🏥 临床相关性
 
-提示对老龄HIV感染者的合并症筛查与管理不应仅依据确诊时间长短进行风险分层，应同等重视所有老年感染者的综合健康评估。同时为HIV感染者抗衰老干预研究提供了线索，即合并症负担可能更多与老龄化本身而非感染持续时间相关。
+详见原文
 
 ---
 
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-11-01 03:22:24  
+**生成时间**: 2026-11-01 16:18:06  
 **摘要生成**: DeepSeek AI
 
 ---
