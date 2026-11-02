@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-11-01 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-11-02 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Oct 31 | The Senescent Macrophage as a Central Hub in Skeletal Aging: Mechanisms, Niche Disruption, and Systemic Consequences. | Ageing research reviews | [42966513](https://pubmed.ncbi.nlm.nih.gov/42966513/) | The Senescent Macrophage as a Central Hub in Skeletal Aging:... |
-| 2026 Oct 31 | Immunosenescence in radio-immunotherapy: from biological mechanisms to therapeutic opportunities? | Ageing research reviews | [42966512](https://pubmed.ncbi.nlm.nih.gov/42966512/) | Immunosenescence in radio-immunotherapy: from biological mec... |
-| 2026 Oct 31 | Beyond 5mC: 5hmC in the aging epigenome. | Experimental gerontology | [42966422](https://pubmed.ncbi.nlm.nih.gov/42966422/) | Beyond 5mC: 5hmC in the aging epigenome. |
-| 2026 Oct 31 | Proteostasis network dysregulation in aging skeletal muscle: Mechanisms and therapeutic targets in sarcopenia and muscle wasting. | Experimental gerontology | [42966421](https://pubmed.ncbi.nlm.nih.gov/42966421/) | Proteostasis network dysregulation in aging skeletal muscle:... |
-| 2026 Oct 31 | microRNA-Loaded Extracellular Vesicles: Mechanisms and Therapeutic Potential in Senescence and Ageing. | Mechanisms of ageing and development | [42966409](https://pubmed.ncbi.nlm.nih.gov/42966409/) | microRNA-Loaded Extracellular Vesicles: Mechanisms and Thera... |
+| 2026 Nov 1 | Stiff Extracellular Matrix Rejuvenates Aged Mesenchymal Stem Cells via PI3K-AKT Signaling. | Advanced healthcare materials | [42967875](https://pubmed.ncbi.nlm.nih.gov/42967875/) | Stiff Extracellular Matrix Rejuvenates Aged Mesenchymal Stem... |
+| 2026 Nov | Long-Term Post-Mitotic Culture of Human Fibroblasts Recapitulates and Accelerates Features of In Vivo Aging and Enables Dynamic Testing of Anti-Aging Compounds. | Aging cell | [42967595](https://pubmed.ncbi.nlm.nih.gov/42967595/) | Long-Term Post-Mitotic Culture of Human Fibroblasts Recapitu... |
+| 2026 Nov 1 | Ziyu glycoside I suppresses senescence and ameliorates age-related functional decline by stabilizing LDHA and restoring lactate output. | Journal of advanced research | [42967527](https://pubmed.ncbi.nlm.nih.gov/42967527/) | Ziyu glycoside I suppresses senescence and ameliorates age-r... |
+| 2026 Nov 1 | An Asp49 phospholipase A(2) from Bothrops pictus impairs triple-negative breast cancer cell proliferation, migration, and promotes stromal inflammatory responses with altered integrin expression. | International journal of biological macromolecules | [42967513](https://pubmed.ncbi.nlm.nih.gov/42967513/) | An Asp49 phospholipase A(2) from Bothrops pictus impairs tri... |
+| 2026 Nov | Repurposing Regulatory Rodent Toxicology Safety Archives to Identify Candidate Hormetic Longevity Agents Highlights Emergent Mitochondrial Mechanisms. | Aging cell | [42967495](https://pubmed.ncbi.nlm.nih.gov/42967495/) | Repurposing Regulatory Rodent Toxicology Safety Archives to ... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-11-01 | 自动生成*
+*最后更新：2026-11-02 | 自动生成*
