@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Nov 1 | Stiff Extracellular Matrix Rejuvenates Aged Mesenchymal Stem Cells via PI3K-AKT Signaling. | Advanced healthcare materials | [42967875](https://pubmed.ncbi.nlm.nih.gov/42967875/) | Stiff Extracellular Matrix Rejuvenates Aged Mesenchymal Stem... |
-| 2026 Nov | Long-Term Post-Mitotic Culture of Human Fibroblasts Recapitulates and Accelerates Features of In Vivo Aging and Enables Dynamic Testing of Anti-Aging Compounds. | Aging cell | [42967595](https://pubmed.ncbi.nlm.nih.gov/42967595/) | Long-Term Post-Mitotic Culture of Human Fibroblasts Recapitu... |
-| 2026 Nov 1 | Ziyu glycoside I suppresses senescence and ameliorates age-related functional decline by stabilizing LDHA and restoring lactate output. | Journal of advanced research | [42967527](https://pubmed.ncbi.nlm.nih.gov/42967527/) | Ziyu glycoside I suppresses senescence and ameliorates age-r... |
-| 2026 Nov 1 | An Asp49 phospholipase A(2) from Bothrops pictus impairs triple-negative breast cancer cell proliferation, migration, and promotes stromal inflammatory responses with altered integrin expression. | International journal of biological macromolecules | [42967513](https://pubmed.ncbi.nlm.nih.gov/42967513/) | An Asp49 phospholipase A(2) from Bothrops pictus impairs tri... |
-| 2026 Nov | Repurposing Regulatory Rodent Toxicology Safety Archives to Identify Candidate Hormetic Longevity Agents Highlights Emergent Mitochondrial Mechanisms. | Aging cell | [42967495](https://pubmed.ncbi.nlm.nih.gov/42967495/) | Repurposing Regulatory Rodent Toxicology Safety Archives to ... |
+| 2026 Sep 10 | Multiple Sclerosis in Patients Over 50: Immunosenescence, Comorbidities, and the Role of Cladribine Tablets. | Current neuropharmacology | [42968611](https://pubmed.ncbi.nlm.nih.gov/42968611/) | Multiple Sclerosis in Patients Over 50: Immunosenescence, Co... |
+| 2026 Nov 1 | Biological and epigenetic pathways linking PTSD to accelerated aging: a systematic review and narrative synthesis. | Epigenomics | [42968558](https://pubmed.ncbi.nlm.nih.gov/42968558/) | Biological and epigenetic pathways linking PTSD to accelerat... |
+| 2026 Nov 2 | Hallmarks of Aesthetic Ageing: A Proposed Tissue-Level Framework for Facial Aging and Precision Regenerative Aesthetics. | Aesthetic surgery journal | [42968556](https://pubmed.ncbi.nlm.nih.gov/42968556/) | Hallmarks of Aesthetic Ageing: A Proposed Tissue-Level Frame... |
+| 2026 Oct 6 | Comparison of CLSI and EUCAST broth microdilution reference methods for antifungal susceptibility testing of Candida (Candidozyma) auris using a representative international panel of isolates: a single-centre study. | The Journal of antimicrobial chemotherapy | [42968480](https://pubmed.ncbi.nlm.nih.gov/42968480/) | Comparison of CLSI and EUCAST broth microdilution reference ... |
+| 2026 Oct 30 | Senescence Biomarkers Predict Physical Function and Clinical Outcomes After Heart Failure Hospitalization: Insights From REHAB-HF. | The journals of gerontology. Series A, Biological sciences and medical sciences | [42968386](https://pubmed.ncbi.nlm.nih.gov/42968386/) | Senescence Biomarkers Predict Physical Function and Clinical... |
 
 ### NAD+ 与线粒体
 
