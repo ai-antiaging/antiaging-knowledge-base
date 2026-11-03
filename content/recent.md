@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Nov | The Dietary Polyphenol Epigallocatechin Gallate Delays Biological Aging by Activating Peroxisome Biogenesis and Peroxisomal Fatty Acid β-Oxidation. | Aging cell | [42971933](https://pubmed.ncbi.nlm.nih.gov/42971933/) | The Dietary Polyphenol Epigallocatechin Gallate Delays Biolo... |
-| 2026 Nov | TOP2A Maintains Heterochromatin Stability by Sustaining LMNB1 Expression to Counteract Senescence. | Aging cell | [42971918](https://pubmed.ncbi.nlm.nih.gov/42971918/) | TOP2A Maintains Heterochromatin Stability by Sustaining LMNB... |
-| 2026 Nov 2 | The Hypothalamic Paraventricular Nucleus as an Integrative Hub of Circadian Regulation and a Therapeutic Target in Disease. | Pharmacological research | [42971417](https://pubmed.ncbi.nlm.nih.gov/42971417/) | The Hypothalamic Paraventricular Nucleus as an Integrative H... |
-| 2026 Nov 2 | Identification of substrates for the skeletal muscle-specific lysine methyltransferases METTL21C and METTL21E. | The Journal of biological chemistry | [42971325](https://pubmed.ncbi.nlm.nih.gov/42971325/) | Identification of substrates for the skeletal muscle-specifi... |
-| 2026 Nov 2 | The Thioredoxin System in Cellular Senescence and Ageing: From Redox Homeostasis to Therapeutic Targeting. | Ageing research reviews | [42971265](https://pubmed.ncbi.nlm.nih.gov/42971265/) | The Thioredoxin System in Cellular Senescence and Ageing: Fr... |
+| 2026 Nov 2 | Unveiling the Failure Mechanisms of High-Voltage 18650-Type O3-Layered Oxide//Hard Carbon Sodium-Ion Full Cells. | Small methods | [42972971](https://pubmed.ncbi.nlm.nih.gov/42972971/) | Unveiling the Failure Mechanisms of High-Voltage 18650-Type ... |
+| 2026 Aug 1 | Distinct transcriptomic signatures discriminate hyperinflammation from immune paralysis in sepsis: a single-cell RNA sequencing study. | Critical care (London, England) | [42972580](https://pubmed.ncbi.nlm.nih.gov/42972580/) | Distinct transcriptomic signatures discriminate hyperinflamm... |
+| 2026 Aug 3 | Nanotechnology-enabled strategies to improve stem cell therapy for erectile dysfunction. | Stem cell research & therapy | [42972470](https://pubmed.ncbi.nlm.nih.gov/42972470/) | Nanotechnology-enabled strategies to improve stem cell thera... |
+| 2026 Aug 1 | Astrocyte lipid metabolism in brain health and neurodegeneration: from regulatory hub to maladaptive stressor. | Molecular neurodegeneration | [42972384](https://pubmed.ncbi.nlm.nih.gov/42972384/) | Astrocyte lipid metabolism in brain health and neurodegenera... |
+| 2026 Jul 31 | NAMPT-dependent NAD(+) decline drives energy metabolism changes in aging-related atrial fibrillation. | BMC medicine | [42972381](https://pubmed.ncbi.nlm.nih.gov/42972381/) | NAMPT-dependent NAD(+) decline drives energy metabolism chan... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Nov 2 | In vitro NAD+ supplementation increases CD4+ and CD8+ T cell function in people with HIV. | HIV medicine | [42972877](https://pubmed.ncbi.nlm.nih.gov/42972877/) | In vitro NAD+ supplementation increases CD4+ and CD8+ T cell... |
+| 2026 Jul 31 | NAMPT-dependent NAD(+) decline drives energy metabolism changes in aging-related atrial fibrillation. | BMC medicine | [42972381](https://pubmed.ncbi.nlm.nih.gov/42972381/) | NAMPT-dependent NAD(+) decline drives energy metabolism chan... |
+| 2026 Oct 5 | Fumarate hydratase deficiency triggers disulfidptosis under glucose deprivation. | Nature communications | [42972140](https://pubmed.ncbi.nlm.nih.gov/42972140/) | Fumarate hydratase deficiency triggers disulfidptosis under ... |
 | 2026 Oct 17 | PARP-CD38-Driven NAD(+) Loss in Immune Aging: An Emerging Mechanistic Framework. | Aging and disease | [42970312](https://pubmed.ncbi.nlm.nih.gov/42970312/) | PARP-CD38-Driven NAD(+) Loss in Immune Aging: An Emerging Me... |
 | 2026 Nov 20 | Inhibition of asparagine endopeptidase extends the lifespan and improves health span during aging. | iScience | [42964811](https://pubmed.ncbi.nlm.nih.gov/42964811/) | Inhibition of asparagine endopeptidase extends the lifespan ... |
-| 2026 Oct 30 | Oxygen-dependent constraint of glycolysis through the mitochondrial electron transport chain. | Science advances | [42962020](https://pubmed.ncbi.nlm.nih.gov/42962020/) | Oxygen-dependent constraint of glycolysis through the mitoch... |
-| 2026 Nov | Respirasome Persistence Without Efficient Electron Channeling in Cardiac Mitochondria From an Animal Model of Hypertension. | Annals of the New York Academy of Sciences | [42961832](https://pubmed.ncbi.nlm.nih.gov/42961832/) | Respirasome Persistence Without Efficient Electron Channelin... |
-| 2026 | DZIP3 is associated with the cytoskeletal dynamics in glioblastoma and mitochondrial machinery regulation. | Frontiers in bioinformatics | [42959642](https://pubmed.ncbi.nlm.nih.gov/42959642/) | DZIP3 is associated with the cytoskeletal dynamics in gliobl... |
 
 ### 尿石素 A 与线粒体自噬
 
