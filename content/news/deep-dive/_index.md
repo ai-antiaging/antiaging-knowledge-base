@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[The Dietary Polyphenol Epigallocatechin Gallate Delays Biological Aging by Activating Peroxisome Biogenesis and Peroxisomal Fatty Acid β-Oxidation.](./2026-11-03-weekly/)** — 2026年11月03日
+  - *Aging cell* · PMID: 42971933
+
 - **[One-shot learning of paired association navigation with biologically plausible schemas.](./2026-10-27-weekly/)** — 2026年10月27日
   - *The Journal of neuroscience : the official journal of the Society for Neuroscience* · PMID: 42933903
 
