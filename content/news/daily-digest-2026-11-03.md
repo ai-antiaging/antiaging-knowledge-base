@@ -12,120 +12,20 @@ type: "daily-digest"
 
 ---
 
-## 研究 1: The independent and joint impact of social and internet isolation on depression and loneliness among older adults: evidence from cross-cultural cohort studies.
+## 研究 1: Animal protein supply, cognitive ageing and female-male dementia disparities: a global ecological analysis.
 
-**期刊**: Aging & mental health  
-**发表日期**: 2026 Nov 2  
-**第一作者**: Xu Y 等 | **PMID**: [42971795](https://pubmed.ncbi.nlm.nih.gov/42971795/)  
+**期刊**: Future science OA  
+**发表日期**: 2027 Dec  
+**第一作者**: You W 等 | **PMID**: [42973038](https://pubmed.ncbi.nlm.nih.gov/42973038/)  
 **DOI**: [](https://doi.org/)
 
 ### 🌟 研究亮点
 
-详见原文
+本研究发表于 Future science OA，聚焦抗衰老领域前沿问题。
 
 ### 🔬 关键发现
 
-详见原文
-
-### 🧪 方法简介
-
-详见原文
-
-### 🏥 临床相关性
-
-详见原文
-
----
-
-## 研究 2: Quality of Life and Late Effects Following Haploidentical vs. Matched Unrelated Donor Allogeneic Hematopoietic Cell Transplantation: Secondary Analysis of BMT CTN 1702.
-
-**期刊**: Transplantation and cellular therapy  
-**发表日期**: 2026 Nov 2  
-**第一作者**: Farhadfar N 等 | **PMID**: [42971432](https://pubmed.ncbi.nlm.nih.gov/42971432/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-BMT CTN 1702 是首个在多中心前瞻性试验中，针对AML/ALL首次完全缓解及早期MDS这一相对同质人群，直接比较单倍体与全相合无关供者移植后长期生活质量与晚期效应的研究，填补了替代供者移植PRO证据的空白。
-
-### 🔬 关键发现
-
-摘要未披露具体QoL量表得分或晚期效应发生率数据，仅报告该子研究纳入提供额外临床与患者报告结局的患者，比较MUD与Haplo两组长期QoL，具体差异结果需查阅全文。
-
-### 🧪 方法简介
-
-在大型多中心临床试验框架内嵌入QoL次要终点子研究，通过限定疾病类型与缓解状态构建同质队列，并整合额外临床数据与患者报告结局（PRO）进行供者类型间比较。
-
-### 🏥 临床相关性
-
-为Haplo移植在缺乏MUD时的长期生存质量安全性提供证据支撑，提示临床决策应将PRO纳入供者选择评估；对衰老相关研究而言，移植后晚期效应与QoL轨迹可作为免疫衰老与治疗相关功能衰退的观察模型。
-
----
-
-## 研究 3: Deciphering molecular mechanisms of synergistic growth reduction in kinase inhibitor combinations.
-
-**期刊**: Molecular & cellular proteomics : MCP  
-**发表日期**: 2026 Nov 2  
-**第一作者**: Tsirvouli E 等 | **PMID**: [42971429](https://pubmed.ncbi.nlm.nih.gov/42971429/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-详见原文
-
-### 🔬 关键发现
-
-详见原文
-
-### 🧪 方法简介
-
-详见原文
-
-### 🏥 临床相关性
-
-详见原文
-
----
-
-## 研究 4: Nanobody-Modified Outer Membrane Vesicles Attenuate Alzheimer's Disease-Like Neurodegeneration by Modulating Mitophagy-Associated Phenotypes and cGAS-STING-Related Inflammatory Signaling.
-
-**期刊**: Advanced healthcare materials  
-**发表日期**: 2026 Nov 2  
-**第一作者**: Xiao J 等 | **PMID**: [42971925](https://pubmed.ncbi.nlm.nih.gov/42971925/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-该研究首次将抗TfR纳米抗体修饰的细菌外膜囊泡（OMVs）用于阿尔茨海默病样神经损伤干预，核心发现是工程化OMVs可通过增强受体相关递送、上调线粒体自噬相关表型并抑制cGAS-STING炎症信号，改善AD样病理与行为学结局，为AD的靶向递送与多通路干预提供了新思路。
-
-### 🔬 关键发现
-
-工程化OMVs在HT-22细胞中提高存活率、减少凋亡，并升高LC3-II、PINK1、Parkin等线粒体自噬标志物；同时降低胞质mtDNA丰度、DNA/cGAS共定位及STING/TBK1/IRF3磷酸化与炎症因子表达。APP/PS1小鼠中，OMV给药改善Morris水迷宫与转棒表现，并减轻神经炎症和组织学损伤。
-
-### 🧪 方法简介
-
-研究构建了抗TfR纳米抗体功能化的E. coli来源OMVs，并系统表征其形态、粒径、表面电荷、蛋白特征、纳米抗体负载、残余内毒素及重复暴露免疫安全性；结合PINK1/Parkin敲低与药理自噬调控，区分递送、线粒体自噬相关表型与炎症读出的贡献。
-
-### 🏥 临床相关性
-
-该策略提示“受体靶向OMV递送+线粒体自噬/cGAS-STING轴调控”可能成为AD及其他年龄相关神经退行性疾病的候选干预方向，但摘要未建立体内选择性PINK1/Parkin依赖的线粒体自噬，仍需递送系统优化与机制验证后方可推进临床转化。
-
----
-
-## 研究 5: Corrigendum to "Sculponeatin A promotes the ETS1‑SYVN1 interaction to induce SLC7A11/xCT‑dependent ferroptosis in breast cancer" [Phytomedicine 117(2023) 154921].
-
-**期刊**: Phytomedicine : international journal of phytotherapy and phytopharmacology  
-**发表日期**: 2026 Nov 2  
-**第一作者**: Peng P 等 | **PMID**: [42971875](https://pubmed.ncbi.nlm.nih.gov/42971875/)  
-**DOI**: [](https://doi.org/)
-
-### 🌟 研究亮点
-
-本研究发表于 Phytomedicine : international journal of phytotherapy and phytopharmacology，聚焦抗衰老领域前沿问题。
-
-### 🔬 关键发现
-
-研究探索了 Corrigendum to "Sculponeatin A promotes the ETS1‑SYVN1 interaction to induce SLC... 的相关机制。
+研究探索了 Animal protein supply, cognitive ageing and female-male dementia disparities: a ... 的相关机制。
 
 ### 🧪 方法简介
 
@@ -137,10 +37,110 @@ BMT CTN 1702 是首个在多中心前瞻性试验中，针对AML/ALL首次完全
 
 ---
 
+## 研究 2: Evaluation of insecticide susceptibility and biological fitness of the brown planthopper Nilaparvata lugens under different warming exposure regimes.
+
+**期刊**: Pest management science  
+**发表日期**: 2026 Nov 2  
+**第一作者**: Wu S 等 | **PMID**: [42972871](https://pubmed.ncbi.nlm.nih.gov/42972871/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+详见原文
+
+### 🔬 关键发现
+
+详见原文
+
+### 🧪 方法简介
+
+详见原文
+
+### 🏥 临床相关性
+
+详见原文
+
+---
+
+## 研究 3: A retrospective evaluation of responsiveness to platelets in plasma and pathogen-reduced platelets in platelet additive solution at a single institution.
+
+**期刊**: Transfusion  
+**发表日期**: 2026 Nov 3  
+**第一作者**: McClellan O 等 | **PMID**: [42973287](https://pubmed.ncbi.nlm.nih.gov/42973287/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+这项单中心回顾性研究在真实世界中验证了病原体灭活（PR）血小板在血小板添加液（PAS）中的输注效果，发现其增量反应可能劣于血浆悬浮血小板（PS）。该发现为临床血小板制品选择提供了现实证据，值得血液科与输血领域关注。
+
+### 🔬 关键发现
+
+研究聚焦于血小板输注无效、以血液/肿瘤为主的患者群体，比较了PS与PAS/PR血小板的输注反应。结果提示PAS/PR血小板的校正计数增量（CCI）表现更差，与既往研究观察一致，但具体数据需查阅全文确认。
+
+### 🧪 方法简介
+
+采用单机构回顾性评估设计，在真实临床环境中对比两种血小板制品的输注反应，而非严格控制的临床试验条件。研究对象特意限定为血小板输注无效患者，使结果更贴近高风险人群的实际表现。
+
+### 🏥 临床相关性
+
+提示对血小板输注无效的血液/肿瘤患者，血浆悬浮血小板可能优于PAS/PR制品，支持个体化制品选择。对输血策略优化具有参考价值，但需前瞻性研究进一步验证并明确适用人群。
+
+---
+
+## 研究 4: 2D and 3D antiproliferative properties of Schiff base and reduced Schiff base palladium(II) complexes in doxorubicin-resistant colorectal cancer cells.
+
+**期刊**: Dalton transactions (Cambridge, England : 2003)  
+**发表日期**: 2026 Nov 3  
+**第一作者**: Amiri Rudbari H 等 | **PMID**: [42973237](https://pubmed.ncbi.nlm.nih.gov/42973237/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+研究合成了三种含卤素配体的钯(II)配合物（一个席夫碱、两个还原席夫碱），并首次系统考察其在多柔比星耐药结直肠癌细胞中的抗增殖活性，为耐药肿瘤的金属药物开发提供了新候选。
+
+### 🔬 关键发现
+
+Cl2Pic(R)Pd的单晶结构显示钯中心为畸变平面四方构型，由双齿N,N螯合配体和两个氯离子配位；DFT计算与实验结构吻合，TD-DFT将低能跃迁归属于配体到金属/卤素的电荷转移。
+
+### 🧪 方法简介
+
+研究将光谱表征、单晶X射线衍射与DFT/TD-DFT理论计算相结合，从分子几何与电子结构层面解析配合物的构效关系，为后续理性设计提供依据。
+
+### 🏥 临床相关性
+
+该工作提示还原席夫碱钯配合物有望成为克服结直肠癌多柔比星耐药的候选金属药物，但目前仅为细胞层面（2D/3D）的临床前证据，尚需体内药效与安全性验证。
+
+---
+
+## 研究 5: Lutein inhibits ATF3-mediated PINK1/Parkin signaling to modulate neuronal mitophagy and alleviate Parkinson's disease progression.
+
+**期刊**: Histology and histopathology  
+**发表日期**: 2026 Nov 3  
+**第一作者**: Wen M 等 | **PMID**: [42973181](https://pubmed.ncbi.nlm.nih.gov/42973181/)  
+**DOI**: [](https://doi.org/)
+
+### 🌟 研究亮点
+
+详见原文
+
+### 🔬 关键发现
+
+详见原文
+
+### 🧪 方法简介
+
+详见原文
+
+### 🏥 临床相关性
+
+详见原文
+
+---
+
 
 **数据来源**: PubMed E-utilities  
 **筛选标准**: 高影响力期刊优先 · 过去 24 小时 · 衰老相关研究  
-**生成时间**: 2026-11-03 04:39:58  
+**生成时间**: 2026-11-03 16:17:37  
 **摘要生成**: DeepSeek AI
 
 ---
