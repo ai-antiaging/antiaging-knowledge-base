@@ -1,7 +1,7 @@
 ---
 title: "研究快照 · 2026-11-03 #2"
 date: 2026-11-03
-description: "Corrigendum to "Sculponeatin A promotes the ETS1‑SYVN1 interaction to induce SLC..."
+description: 'Corrigendum to "Sculponeatin A promotes the ETS1‑SYVN1 interaction to induce SLC..."'
 draft: false
 type: "snapshot"
 ---
