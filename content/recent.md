@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-11-03 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-11-04 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Nov 2 | Unveiling the Failure Mechanisms of High-Voltage 18650-Type O3-Layered Oxide//Hard Carbon Sodium-Ion Full Cells. | Small methods | [42972971](https://pubmed.ncbi.nlm.nih.gov/42972971/) | Unveiling the Failure Mechanisms of High-Voltage 18650-Type ... |
-| 2026 Aug 1 | Distinct transcriptomic signatures discriminate hyperinflammation from immune paralysis in sepsis: a single-cell RNA sequencing study. | Critical care (London, England) | [42972580](https://pubmed.ncbi.nlm.nih.gov/42972580/) | Distinct transcriptomic signatures discriminate hyperinflamm... |
-| 2026 Aug 3 | Nanotechnology-enabled strategies to improve stem cell therapy for erectile dysfunction. | Stem cell research & therapy | [42972470](https://pubmed.ncbi.nlm.nih.gov/42972470/) | Nanotechnology-enabled strategies to improve stem cell thera... |
-| 2026 Aug 1 | Astrocyte lipid metabolism in brain health and neurodegeneration: from regulatory hub to maladaptive stressor. | Molecular neurodegeneration | [42972384](https://pubmed.ncbi.nlm.nih.gov/42972384/) | Astrocyte lipid metabolism in brain health and neurodegenera... |
-| 2026 Jul 31 | NAMPT-dependent NAD(+) decline drives energy metabolism changes in aging-related atrial fibrillation. | BMC medicine | [42972381](https://pubmed.ncbi.nlm.nih.gov/42972381/) | NAMPT-dependent NAD(+) decline drives energy metabolism chan... |
+| 2026 Nov | Multidimensional MRI Reveals Cellular-Scale Microstructural Phenotypes in Human Brain Aging. | Aging cell | [42977708](https://pubmed.ncbi.nlm.nih.gov/42977708/) | Multidimensional MRI Reveals Cellular-Scale Microstructural ... |
+| 2026 Nov | Exploring the Role of Transposable Elements to Sex Gap in Longevity in Three Drosophila Species. | Aging cell | [42977692](https://pubmed.ncbi.nlm.nih.gov/42977692/) | Exploring the Role of Transposable Elements to Sex Gap in Lo... |
+| 2026 Nov | Mitochondria-Associated Membranes as a Convergent Hub of Brain Aging: From Neurodegeneration to Cerebral Ischemia. | The European journal of neuroscience | [42977507](https://pubmed.ncbi.nlm.nih.gov/42977507/) | Mitochondria-Associated Membranes as a Convergent Hub of Bra... |
+| 2026 Nov 3 | Rethinking inflammaging: spatiotemporal decoupling and the failure of inflammatory regulation. | Ageing research reviews | [42977037](https://pubmed.ncbi.nlm.nih.gov/42977037/) | Rethinking inflammaging: spatiotemporal decoupling and the f... |
+| 2026 Nov 3 | Evidence for Spermine Oxidase (SMOX) as a Regulator of Skeletal Muscle Mass Throughout the Lifespan. | Ageing research reviews | [42977036](https://pubmed.ncbi.nlm.nih.gov/42977036/) | Evidence for Spermine Oxidase (SMOX) as a Regulator of Skele... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Nov 3 | Revitalizing aging muscles: harnessing NAD⁺, sirtuins, and exercise to combat sarcopenia. | Journal of bioenergetics and biomembranes | [42975750](https://pubmed.ncbi.nlm.nih.gov/42975750/) | Revitalizing aging muscles: harnessing NAD⁺, sirtuins, and e... |
 | 2026 Nov 2 | In vitro NAD+ supplementation increases CD4+ and CD8+ T cell function in people with HIV. | HIV medicine | [42972877](https://pubmed.ncbi.nlm.nih.gov/42972877/) | In vitro NAD+ supplementation increases CD4+ and CD8+ T cell... |
 | 2026 Jul 31 | NAMPT-dependent NAD(+) decline drives energy metabolism changes in aging-related atrial fibrillation. | BMC medicine | [42972381](https://pubmed.ncbi.nlm.nih.gov/42972381/) | NAMPT-dependent NAD(+) decline drives energy metabolism chan... |
 | 2026 Oct 5 | Fumarate hydratase deficiency triggers disulfidptosis under glucose deprivation. | Nature communications | [42972140](https://pubmed.ncbi.nlm.nih.gov/42972140/) | Fumarate hydratase deficiency triggers disulfidptosis under ... |
 | 2026 Oct 17 | PARP-CD38-Driven NAD(+) Loss in Immune Aging: An Emerging Mechanistic Framework. | Aging and disease | [42970312](https://pubmed.ncbi.nlm.nih.gov/42970312/) | PARP-CD38-Driven NAD(+) Loss in Immune Aging: An Emerging Me... |
-| 2026 Nov 20 | Inhibition of asparagine endopeptidase extends the lifespan and improves health span during aging. | iScience | [42964811](https://pubmed.ncbi.nlm.nih.gov/42964811/) | Inhibition of asparagine endopeptidase extends the lifespan ... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -45,9 +45,9 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Nov 3 | Evidence for Spermine Oxidase (SMOX) as a Regulator of Skeletal Muscle Mass Throughout the Lifespan. | Ageing research reviews | [42977036](https://pubmed.ncbi.nlm.nih.gov/42977036/) | Evidence for Spermine Oxidase (SMOX) as a Regulator of Skele... |
 | 2026 Oct 30 | Spermidine disrupts mitochondrial respiration and redox homeostasis in aged CD44+ CD49d- CD8+ T cells. | International immunology | [42958929](https://pubmed.ncbi.nlm.nih.gov/42958929/) | Spermidine disrupts mitochondrial respiration and redox home... |
 | 2026 Oct 10 | Correction: Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42859229](https://pubmed.ncbi.nlm.nih.gov/42859229/) | Correction: Longitudinal association of dietary spermidine w... |
-| 2026 Oct 2 | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evidentiary Limits, and Translational Requirements. | Aging and disease | [42858331](https://pubmed.ncbi.nlm.nih.gov/42858331/) | Ginkgolide B as a Candidate Gerotherapeutic: Evidence, Evide... |
 
 ---
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-11-03 | 自动生成*
+*最后更新：2026-11-04 | 自动生成*
