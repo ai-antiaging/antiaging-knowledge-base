@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Nov | Multidimensional MRI Reveals Cellular-Scale Microstructural Phenotypes in Human Brain Aging. | Aging cell | [42977708](https://pubmed.ncbi.nlm.nih.gov/42977708/) | Multidimensional MRI Reveals Cellular-Scale Microstructural ... |
-| 2026 Nov | Exploring the Role of Transposable Elements to Sex Gap in Longevity in Three Drosophila Species. | Aging cell | [42977692](https://pubmed.ncbi.nlm.nih.gov/42977692/) | Exploring the Role of Transposable Elements to Sex Gap in Lo... |
-| 2026 Nov | Mitochondria-Associated Membranes as a Convergent Hub of Brain Aging: From Neurodegeneration to Cerebral Ischemia. | The European journal of neuroscience | [42977507](https://pubmed.ncbi.nlm.nih.gov/42977507/) | Mitochondria-Associated Membranes as a Convergent Hub of Bra... |
-| 2026 Nov 3 | Rethinking inflammaging: spatiotemporal decoupling and the failure of inflammatory regulation. | Ageing research reviews | [42977037](https://pubmed.ncbi.nlm.nih.gov/42977037/) | Rethinking inflammaging: spatiotemporal decoupling and the f... |
-| 2026 Nov 3 | Evidence for Spermine Oxidase (SMOX) as a Regulator of Skeletal Muscle Mass Throughout the Lifespan. | Ageing research reviews | [42977036](https://pubmed.ncbi.nlm.nih.gov/42977036/) | Evidence for Spermine Oxidase (SMOX) as a Regulator of Skele... |
+| 2026 | Impact of habitual physical activity and age on T cell metabolism and activation via β(2)-adrenergic receptor modulation. | Frontiers in aging | [42978825](https://pubmed.ncbi.nlm.nih.gov/42978825/) | Impact of habitual physical activity and age on T cell metab... |
+| 2026 Nov 4 | Fluorinated Fullerene Derivatives for Thermally Stable Perovskite Solar Cells. | Angewandte Chemie (International ed. in English) | [42978460](https://pubmed.ncbi.nlm.nih.gov/42978460/) | Fluorinated Fullerene Derivatives for Thermally Stable Perov... |
+| 2026 Nov | MKP-2 Genetic Depletion Modulates Adipose Lipid Composition, Cellular Senescence, and Aging in Mice. | Aging cell | [42978383](https://pubmed.ncbi.nlm.nih.gov/42978383/) | MKP-2 Genetic Depletion Modulates Adipose Lipid Composition,... |
+| 2026 Nov 3 | The role of methionine-driven epigenetic modulation in the regulation of health and disease: a comprehensive review. | Nucleosides, nucleotides & nucleic acids | [42978102](https://pubmed.ncbi.nlm.nih.gov/42978102/) | The role of methionine-driven epigenetic modulation in the r... |
+| 2026 Nov 3 | Small Nucleolar RNAs, Big Impact: Biogenesis, Mechanisms, and Roles in Health and Disease. | American journal of physiology. Cell physiology | [42978034](https://pubmed.ncbi.nlm.nih.gov/42978034/) | Small Nucleolar RNAs, Big Impact: Biogenesis, Mechanisms, an... |
 
 ### NAD+ 与线粒体
 
