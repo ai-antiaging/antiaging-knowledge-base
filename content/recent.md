@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-11-06 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-11-07 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,31 +15,26 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Nov | Extracellular Vesicles for Space Biomedical Research. | Journal of extracellular vesicles | [42988730](https://pubmed.ncbi.nlm.nih.gov/42988730/) | Extracellular Vesicles for Space Biomedical Research. |
-| 2026 Nov 6 | Glioma-neuron interactions: from basics to therapy. | Trends in cancer | [42988664](https://pubmed.ncbi.nlm.nih.gov/42988664/) | Glioma-neuron interactions: from basics to therapy. |
-| 2026 Nov 5 | Circulating miRNAs associated with frailty in old people with cardiovascular diseases promote cellular senescence and inflammation. | Experimental gerontology | [42988019](https://pubmed.ncbi.nlm.nih.gov/42988019/) | Circulating miRNAs associated with frailty in old people wit... |
-| 2026 Nov 5 | Ageing and Platelet-Rich Therapies: Biological Determinants of Regenerative Potential. | Mechanisms of ageing and development | [42987986](https://pubmed.ncbi.nlm.nih.gov/42987986/) | Ageing and Platelet-Rich Therapies: Biological Determinants ... |
-| 2026 Nov 5 | Not born in the brain: Bone marrow-derived microglia in human aging. | Cell stem cell | [42987795](https://pubmed.ncbi.nlm.nih.gov/42987795/) | Not born in the brain: Bone marrow-derived microglia in huma... |
+| 2026 Nov | Sparse Firing and Connectivity in Neurogenesis Improve Pattern Separation and Memory in a Simulated Dentate Gyrus. | Hippocampus | [42995150](https://pubmed.ncbi.nlm.nih.gov/42995150/) | Sparse Firing and Connectivity in Neurogenesis Improve Patte... |
+| 2026 Nov | Integrative Genetic and Single-Cell Analysis Reveals Macrophages as Key Mediators Linking Aging and Osteoporosis. | Aging cell | [42995149](https://pubmed.ncbi.nlm.nih.gov/42995149/) | Integrative Genetic and Single-Cell Analysis Reveals Macroph... |
+| 2026 Nov 6 | AgRP neurons as an integrative node linking the somatotropic and reproductive axes. | The Journal of neuroscience : the official journal of the Society for Neuroscience | [42994993](https://pubmed.ncbi.nlm.nih.gov/42994993/) | AgRP neurons as an integrative node linking the somatotropic... |
+| 2026 Nov 6 | Metformin alleviates dry eye-associated corneal epithelial senescence and oxidative stress via AMPK activation. | Experimental eye research | [42994719](https://pubmed.ncbi.nlm.nih.gov/42994719/) | Metformin alleviates dry eye-associated corneal epithelial s... |
+| 2026 Nov 6 | Cancer as an Informational Attractor Transition. A Prigoginian Informational Dissipation (PID) Hypothesis. | Bio Systems | [42994556](https://pubmed.ncbi.nlm.nih.gov/42994556/) | Cancer as an Informational Attractor Transition. A Prigogini... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Nov 6 | From NAD(+) elevation to clinical benefit: tissue-specific regulation and translational barriers in aging and age-related disease. | Pharmacological research | [42994542](https://pubmed.ncbi.nlm.nih.gov/42994542/) | From NAD(+) elevation to clinical benefit: tissue-specific r... |
+| 2026 Oct 6 | Dipeptidyl Peptidase-4 Inhibitor Enhances the Efficacy of Docetaxel via Adenosine Triphosphate Depletion and Modulation of Mitochondrial Fusion-Fission in Castration-Resistant Prostate Cancer. | The world journal of men's health | [42989555](https://pubmed.ncbi.nlm.nih.gov/42989555/) | Dipeptidyl Peptidase-4 Inhibitor Enhances the Efficacy of Do... |
 | 2026 Aug 7 | Mitochondrial subpopulations in oocytes and cumulus cells exhibit distinct age-associated changes and selective plasticity in response to NMN supplementation. | Journal of ovarian research | [42983453](https://pubmed.ncbi.nlm.nih.gov/42983453/) | Mitochondrial subpopulations in oocytes and cumulus cells ex... |
 | 2026 Aug 5 | Mitochondrial aging and dysfunction in periodontitis. | Journal of translational medicine | [42983437](https://pubmed.ncbi.nlm.nih.gov/42983437/) | Mitochondrial aging and dysfunction in periodontitis. |
 | 2026 Nov 4 | Whole-blood NAD levels track cardiovascular disease but not chronological age. | Nature metabolism | [42983021](https://pubmed.ncbi.nlm.nih.gov/42983021/) | Whole-blood NAD levels track cardiovascular disease but not ... |
-| 2026 Nov 4 | The bleeding edge of NAD in human ageing. | Nature metabolism | [42983020](https://pubmed.ncbi.nlm.nih.gov/42983020/) | The bleeding edge of NAD in human ageing. |
-| 2026 Nov 4 | Cancer cells differentially modulate mitochondrial respiration to alter redox state and enable biomass synthesis in nutrient-limited environments. | eLife | [42981214](https://pubmed.ncbi.nlm.nih.gov/42981214/) | Cancer cells differentially modulate mitochondrial respirati... |
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Oct 30 | Deficiency of mitophagy receptor FUNDC1 accentuates E-cigarette component propylene glycol-evoked myocardial anomalies through cuproptosis. | Acta biochimica et biophysica Sinica | [42961771](https://pubmed.ncbi.nlm.nih.gov/42961771/) | Deficiency of mitophagy receptor FUNDC1 accentuates E-cigare... |
-| 2026 Nov-Dec | Urolithin A Attenuates Noise-induced Hearing Loss and Is Associated With Increased Cochlear Mitophagy Markers. | In vivo (Athens, Greece) | [42957222](https://pubmed.ncbi.nlm.nih.gov/42957222/) | Urolithin A Attenuates Noise-induced Hearing Loss and Is Ass... |
-| 2026 | Natural products targeting mitochondrial homeostasis: a four-dimensional framework integrating dynamics, mitophagy, pharmacokinetics, and translational safety. | Frontiers in pharmacology | [42889944](https://pubmed.ncbi.nlm.nih.gov/42889944/) | Natural products targeting mitochondrial homeostasis: a four... |
-| 2026 Oct 16 | Topical application of urolithin A activates mitophagy and enhances mitochondrial function to promote skin longevity. | iScience | [42866687](https://pubmed.ncbi.nlm.nih.gov/42866687/) | Topical application of urolithin A activates mitophagy and e... |
-| 2027 Mar | An ultrasound-responsive hydrogel with piezoelectric-enhanced bioelectric-vesicular coupling alleviates mitochondrial dysfunction and inflammation for osteoarthritis therapy. | Bioactive materials | [42861280](https://pubmed.ncbi.nlm.nih.gov/42861280/) | An ultrasound-responsive hydrogel with piezoelectric-enhance... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
@@ -61,4 +56,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-11-06 | 自动生成*
+*最后更新：2026-11-07 | 自动生成*
