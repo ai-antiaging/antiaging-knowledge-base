@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-11-07 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-11-08 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -23,13 +23,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### NAD+ 与线粒体
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Nov 6 | From NAD(+) elevation to clinical benefit: tissue-specific regulation and translational barriers in aging and age-related disease. | Pharmacological research | [42994542](https://pubmed.ncbi.nlm.nih.gov/42994542/) | From NAD(+) elevation to clinical benefit: tissue-specific r... |
-| 2026 Oct 6 | Dipeptidyl Peptidase-4 Inhibitor Enhances the Efficacy of Docetaxel via Adenosine Triphosphate Depletion and Modulation of Mitochondrial Fusion-Fission in Castration-Resistant Prostate Cancer. | The world journal of men's health | [42989555](https://pubmed.ncbi.nlm.nih.gov/42989555/) | Dipeptidyl Peptidase-4 Inhibitor Enhances the Efficacy of Do... |
-| 2026 Aug 7 | Mitochondrial subpopulations in oocytes and cumulus cells exhibit distinct age-associated changes and selective plasticity in response to NMN supplementation. | Journal of ovarian research | [42983453](https://pubmed.ncbi.nlm.nih.gov/42983453/) | Mitochondrial subpopulations in oocytes and cumulus cells ex... |
-| 2026 Aug 5 | Mitochondrial aging and dysfunction in periodontitis. | Journal of translational medicine | [42983437](https://pubmed.ncbi.nlm.nih.gov/42983437/) | Mitochondrial aging and dysfunction in periodontitis. |
-| 2026 Nov 4 | Whole-blood NAD levels track cardiovascular disease but not chronological age. | Nature metabolism | [42983021](https://pubmed.ncbi.nlm.nih.gov/42983021/) | Whole-blood NAD levels track cardiovascular disease but not ... |
+*暂无最新文献*
+
 
 ### 尿石素 A 与线粒体自噬
 
@@ -38,11 +33,8 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Nov 3 | Evidence for spermine oxidase (SMOX) as a regulator of skeletal muscle mass throughout the lifespan. | Ageing research reviews | [42977036](https://pubmed.ncbi.nlm.nih.gov/42977036/) | Evidence for spermine oxidase (SMOX) as a regulator of skele... |
-| 2026 Oct 30 | Spermidine disrupts mitochondrial respiration and redox homeostasis in aged CD44+ CD49d- CD8+ T cells. | International immunology | [42958929](https://pubmed.ncbi.nlm.nih.gov/42958929/) | Spermidine disrupts mitochondrial respiration and redox home... |
-| 2026 Oct 10 | Correction: Longitudinal association of dietary spermidine with hepatic function indexes and cardiometabolic traits in older adults with metabolic syndrome. | European journal of nutrition | [42859229](https://pubmed.ncbi.nlm.nih.gov/42859229/) | Correction: Longitudinal association of dietary spermidine w... |
+*暂无最新文献*
+
 
 ---
 
@@ -56,4 +48,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-11-07 | 自动生成*
+*最后更新：2026-11-08 | 自动生成*
