@@ -13,6 +13,7 @@ draft: false
 
 ## 最新快照
 
+- [2026-11-09](/news/snapshots/2026-11-09/)
 - [2026-11-08](/news/snapshots/2026-11-08/)
 - [2026-11-07](/news/snapshots/2026-11-07/)
 - [2026-11-06](/news/snapshots/2026-11-06/)
