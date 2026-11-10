@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[Regional cortical thinning in cerebral small vessel disease: associations with disease burden and cognitive and motor impairment.](./2026-11-10-weekly/)** — 2026年11月10日
+  - *Neuroscience* · PMID: 43003199
+
 - **[The Dietary Polyphenol Epigallocatechin Gallate Delays Biological Aging by Activating Peroxisome Biogenesis and Peroxisomal Fatty Acid β-Oxidation.](./2026-11-03-weekly/)** — 2026年11月03日
   - *Aging cell* · PMID: 42971933
 
