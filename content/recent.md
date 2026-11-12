@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-11-11 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-11-12 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,31 +15,31 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Nov | H3K18 Lactylation in Degenerated Nucleus Pulposus Cells Suppresses CD248 Through Transcriptional and Post-Translational Modifications to Promote Apoptosis and Extracellular Matrix Degradation. | Aging cell | [43009446](https://pubmed.ncbi.nlm.nih.gov/43009446/) | H3K18 Lactylation in Degenerated Nucleus Pulposus Cells Supp... |
-| 2026 Nov | Lysergic Acid Diethylamide Induces Transcriptional Changes Opposing Signatures of Brain Ageing and Neurodegeneration. | Aging cell | [43009443](https://pubmed.ncbi.nlm.nih.gov/43009443/) | Lysergic Acid Diethylamide Induces Transcriptional Changes O... |
-| 2026 Nov | Profiling of the T Cell Receptor Repertoire Reveals Different Immunological Signatures Between Mild and Severe H1N1 Infection. | APMIS : acta pathologica, microbiologica, et immunologica Scandinavica | [43009144](https://pubmed.ncbi.nlm.nih.gov/43009144/) | Profiling of the T Cell Receptor Repertoire Reveals Differen... |
-| 2026 Nov 10 | Particulate Matter Induces Apoptotic Death of Brain Vascular Endothelial Cells in Association with Oxidative Damage, DNA Damage Response, and MAPK/NF-κB Signaling. | Environmental toxicology and pharmacology | [43008884](https://pubmed.ncbi.nlm.nih.gov/43008884/) | Particulate Matter Induces Apoptotic Death of Brain Vascular... |
-| 2026 Nov 9 | Insights into the mechanism of oaky flavor enhancement by Brettanomyces bruxellensis 23 during beer fermentation. | Food chemistry | [43008623](https://pubmed.ncbi.nlm.nih.gov/43008623/) | Insights into the mechanism of oaky flavor enhancement by Br... |
+| 2026 Nov | Targeting peripheral cathepsin E restricts CD8(+) T-cell neuroinvasion and ameliorates Alzheimer's disease pathology. | Alzheimer's & dementia : the journal of the Alzheimer's Association | [43015247](https://pubmed.ncbi.nlm.nih.gov/43015247/) | Targeting peripheral cathepsin E restricts CD8(+) T-cell neu... |
+| 2026 Nov 11 | Beyond Transcriptomes and Dissociated Cells: Spatial Proteomics for Mechanistic Neurobiology. | The Journal of neuroscience : the official journal of the Society for Neuroscience | [43015110](https://pubmed.ncbi.nlm.nih.gov/43015110/) | Beyond Transcriptomes and Dissociated Cells: Spatial Proteom... |
+| 2026 Oct 27 | The mask of sanity: Cancer and autoimmunity as complementary failures of semiotic classification. | Mathematical biosciences and engineering : MBE | [43014810](https://pubmed.ncbi.nlm.nih.gov/43014810/) | The mask of sanity: Cancer and autoimmunity as complementary... |
+| 2026 | Relationship between age-related factors and Lewy body scores in Parkinson's disease. | The journal of medical investigation : JMI | [43014781](https://pubmed.ncbi.nlm.nih.gov/43014781/) | Relationship between age-related factors and Lewy body score... |
+| 2026 | Indican, a major component of Indigo leaves, induces AhR-dependent DNA damage stronger than its metabolite indoxyl sulfate in endothelial cells. | The journal of medical investigation : JMI | [43014776](https://pubmed.ncbi.nlm.nih.gov/43014776/) | Indican, a major component of Indigo leaves, induces AhR-dep... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Nov 17 | Lipid droplets buffer hydrogen sulfide-induced redox imbalance. | Proceedings of the National Academy of Sciences of the United States of America | [43013553](https://pubmed.ncbi.nlm.nih.gov/43013553/) | Lipid droplets buffer hydrogen sulfide-induced redox imbalan... |
+| 2026 Nov | Blueberry Anthocyanins Alleviate Testicular Aging in Middle-Aged Mice by Targeting Inflammaging and Reprogramming the cAMP-Wnt and Methionine-NAD(+) Metabolic Axes. | Journal of cellular physiology | [43013414](https://pubmed.ncbi.nlm.nih.gov/43013414/) | Blueberry Anthocyanins Alleviate Testicular Aging in Middle-... |
+| 2026 | Enhanced mitochondrial respiratory metabolism in UV-damaged HDF cells based on metabolomics analysis of fermented Galla rhois gallnut extract. | Frontiers in pharmacology | [43011815](https://pubmed.ncbi.nlm.nih.gov/43011815/) | Enhanced mitochondrial respiratory metabolism in UV-damaged ... |
 | 2026 Nov 10 | Combined loss of mitochondrial MDH1 and NAD-malic enzyme impairs Arabidopsis growth and photosynthesis under energy-limiting conditions. | Plant physiology | [43008142](https://pubmed.ncbi.nlm.nih.gov/43008142/) | Combined loss of mitochondrial MDH1 and NAD-malic enzyme imp... |
 | 2026 | A combination of melatonin and nicotinamide mononucleotide alleviates inflammation and enhances isolated heart function in aged rats following ischemia-reperfusion injury. | Veterinary research forum : an international quarterly journal | [43005678](https://pubmed.ncbi.nlm.nih.gov/43005678/) | A combination of melatonin and nicotinamide mononucleotide a... |
-| 2026 Nov | Polydeoxyribonucleotide Attenuates Human Dermal Fibroblast Senescence and Preserves Extracellular Matrix-Related Protein Expression. | Experimental dermatology | [43004568](https://pubmed.ncbi.nlm.nih.gov/43004568/) | Polydeoxyribonucleotide Attenuates Human Dermal Fibroblast S... |
-| 2025 Dec | [Nicotinamide adenine dinucleotide and male reproductive health]. | Zhonghua nan ke xue = National journal of andrology | [43001721](https://pubmed.ncbi.nlm.nih.gov/43001721/) | [Nicotinamide adenine dinucleotide and male reproductive hea... |
-| 2026 | CD38 inhibition increases neuronal survival and reduces α-synuclein in vitro, elevates brain NAD(+), and reduces motor deficits in a Parkinson's disease model. | Frontiers in pharmacology | [42996606](https://pubmed.ncbi.nlm.nih.gov/42996606/) | CD38 inhibition increases neuronal survival and reduces α-sy... |
 
 ### 尿石素 A 与线粒体自噬
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | Enhanced mitochondrial respiratory metabolism in UV-damaged HDF cells based on metabolomics analysis of fermented Galla rhois gallnut extract. | Frontiers in pharmacology | [43011815](https://pubmed.ncbi.nlm.nih.gov/43011815/) | Enhanced mitochondrial respiratory metabolism in UV-damaged ... |
 | 2026 Nov 10 | Urolithin A plus EGCG enhances mitophagy associated pathways, mitochondrial dynamics, and bioenergetic function in humanized amyloid-β knock-in mice. | Mitochondrion | [43009032](https://pubmed.ncbi.nlm.nih.gov/43009032/) | Urolithin A plus EGCG enhances mitophagy associated pathways... |
 | 2026 Oct 30 | Deficiency of mitophagy receptor FUNDC1 accentuates E-cigarette component propylene glycol-evoked myocardial anomalies through cuproptosis. | Acta biochimica et biophysica Sinica | [42961771](https://pubmed.ncbi.nlm.nih.gov/42961771/) | Deficiency of mitophagy receptor FUNDC1 accentuates E-cigare... |
 | 2026 Nov-Dec | Urolithin A Attenuates Noise-induced Hearing Loss and Is Associated With Increased Cochlear Mitophagy Markers. | In vivo (Athens, Greece) | [42957222](https://pubmed.ncbi.nlm.nih.gov/42957222/) | Urolithin A Attenuates Noise-induced Hearing Loss and Is Ass... |
 | 2026 | Natural products targeting mitochondrial homeostasis: a four-dimensional framework integrating dynamics, mitophagy, pharmacokinetics, and translational safety. | Frontiers in pharmacology | [42889944](https://pubmed.ncbi.nlm.nih.gov/42889944/) | Natural products targeting mitochondrial homeostasis: a four... |
-| 2026 Oct 16 | Topical application of urolithin A activates mitophagy and enhances mitochondrial function to promote skin longevity. | iScience | [42866687](https://pubmed.ncbi.nlm.nih.gov/42866687/) | Topical application of urolithin A activates mitophagy and e... |
 
 ### 亚精胺与自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-11-11 | 自动生成*
+*最后更新：2026-11-12 | 自动生成*
