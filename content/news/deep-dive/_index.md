@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[An open agentic AI co-scientist for clinical and biomedical discovery.](./2026-11-17-weekly/)** — 2026年11月17日
+  - *Nature medicine* · PMID: 43039361
+
 - **[Regional cortical thinning in cerebral small vessel disease: associations with disease burden and cognitive and motor impairment.](./2026-11-10-weekly/)** — 2026年11月10日
   - *Neuroscience* · PMID: 43003199
 
