@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-11-19 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-11-20 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Nov | Identification of immune- and cellular senescence-related genes in keloids through integrated transcriptomic and single-cell analysis. | The Journal of international medical research | [43052049](https://pubmed.ncbi.nlm.nih.gov/43052049/) | Identification of immune- and cellular senescence-related ge... |
-| 2026 Nov 18 | DNA-PKcs-DNMT3A Axis Triggers Aging-Like Deteriorations in Mouse Pluripotent Stem Cells. | Advanced science (Weinheim, Baden-Wurttemberg, Germany) | [43052002](https://pubmed.ncbi.nlm.nih.gov/43052002/) | DNA-PKcs-DNMT3A Axis Triggers Aging-Like Deteriorations in M... |
-| 2026 Dec 31 | Ubiquitinomics analysis of key modification pathways in beef tenderization during postmortem aging. | Food research international (Ottawa, Ont.) | [43051848](https://pubmed.ncbi.nlm.nih.gov/43051848/) | Ubiquitinomics analysis of key modification pathways in beef... |
-| 2026 Nov 18 | The senescent tumor microenvironment: Roles in glioblastoma progression. | Biochimica et biophysica acta. Reviews on cancer | [43051604](https://pubmed.ncbi.nlm.nih.gov/43051604/) | The senescent tumor microenvironment: Roles in glioblastoma ... |
-| 2026 Nov 18 | Phenolic Phytonutrients and Brain Mitochondrial Function in Aging: From Flavonoids to Phenolic Monoterpenoids. | Biochimie | [43051446](https://pubmed.ncbi.nlm.nih.gov/43051446/) | Phenolic Phytonutrients and Brain Mitochondrial Function in ... |
+| 2026 Nov 19 | Established replicative senescence alters cellular homeostasis and reduces susceptibility to uremic toxin-induced cytotoxicity in renal tubular epithelial cells. | Chemico-biological interactions | [43057666](https://pubmed.ncbi.nlm.nih.gov/43057666/) | Established replicative senescence alters cellular homeostas... |
+| 2026 Nov 19 | SPOP mutations impair CRL3(SPOP)-mediated survivin degradation to confer chemotherapy resistance in prostate cancer: implications for survivin-targeted therapy. | Pharmacological research | [43057632](https://pubmed.ncbi.nlm.nih.gov/43057632/) | SPOP mutations impair CRL3(SPOP)-mediated survivin degradati... |
+| 2026 Nov 19 | Supplementation with hyodeoxycholic acid alleviated senescence and promoted nerve repair in aged rats post-peripheral nerve injury through upregulating E2F2. | Life sciences | [43057418](https://pubmed.ncbi.nlm.nih.gov/43057418/) | Supplementation with hyodeoxycholic acid alleviated senescen... |
+| 2026 Nov 19 | Targeting Microglial Senescence in Brain Ageing and Alzheimer's Disease: Mechanistic Evidence and the Therapeutic Potential of Natural Products. | Ageing research reviews | [43057397](https://pubmed.ncbi.nlm.nih.gov/43057397/) | Targeting Microglial Senescence in Brain Ageing and Alzheime... |
+| 2026 Nov 19 | Failure to Reverse Hypoxic Adaptation in Cardiovascular Aging: HIF-1α-Mitochondrial Decoupling and Intercellular Relay Signaling. | Ageing research reviews | [43057395](https://pubmed.ncbi.nlm.nih.gov/43057395/) | Failure to Reverse Hypoxic Adaptation in Cardiovascular Agin... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 Nov 19 | BOD-20, a Curcumin-Inspired PARP-1 Inhibitor, Activates PERK/eIF2α/ATF-4/CHOP Signaling and Induces Mitochondria-Mediated Apoptosis in Triple-Negative Breast Cancer Cells. | Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association | [43057364](https://pubmed.ncbi.nlm.nih.gov/43057364/) | BOD-20, a Curcumin-Inspired PARP-1 Inhibitor, Activates PERK... |
+| 2026 Aug 1 | Epigenetics drives oocyte aging: from mechanisms to interventions. | npj aging | [43052276](https://pubmed.ncbi.nlm.nih.gov/43052276/) | Epigenetics drives oocyte aging: from mechanisms to interven... |
 | 2026 Dec 10 | [Beyond nucleotide pool sanitization: The non-enzymatic scaffold function of NUDT5 and its mitochondrial regulation in lung cancer]. | Zhonghua yi xue yi chuan xue za zhi = Zhonghua yixue yichuanxue zazhi = Chinese journal of medical genetics | [43052038](https://pubmed.ncbi.nlm.nih.gov/43052038/) | [Beyond nucleotide pool sanitization: The non-enzymatic scaf... |
 | 2026 Nov 18 | Human mitochondrial DNA variants influence telomere length. | eLife | [43049752](https://pubmed.ncbi.nlm.nih.gov/43049752/) | Human mitochondrial DNA variants influence telomere length. |
 | 2026 Sep | Effects of a Dietary Supplement on Systemic Aging Related Biomarkers and Skin Aging Outcomes in Middle-Aged Women: In Vitro and Clinical Studies. | Journal of cosmetic dermatology | [43047167](https://pubmed.ncbi.nlm.nih.gov/43047167/) | Effects of a Dietary Supplement on Systemic Aging Related Bi... |
-| 2026 Nov | Palmitate Drives Mitochondrial and Endoplasmic Reticulum Stress Through Disruption of Adenosine Signaling. | Cell biochemistry and function | [43046709](https://pubmed.ncbi.nlm.nih.gov/43046709/) | Palmitate Drives Mitochondrial and Endoplasmic Reticulum Str... |
-| 2026 Nov 17 | Inflammation at the Crossroads of UV Radiation and Pollution: The Molecular Synergy Behind Accelerated Skin Aging. | Toxicology letters | [43044695](https://pubmed.ncbi.nlm.nih.gov/43044695/) | Inflammation at the Crossroads of UV Radiation and Pollution... |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-11-19 | 自动生成*
+*最后更新：2026-11-20 | 自动生成*
