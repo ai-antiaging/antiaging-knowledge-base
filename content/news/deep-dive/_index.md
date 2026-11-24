@@ -13,6 +13,9 @@ draft: false
 
 ## 最新解读
 
+- **[Failure in an infant with IL2RG-related severe combined immunodeficiency: a case report.](./2026-11-24-weekly/)** — 2026年11月24日
+  - *Open life sciences* · PMID: 43075315
+
 - **[An open agentic AI co-scientist for clinical and biomedical discovery.](./2026-11-17-weekly/)** — 2026年11月17日
   - *Nature medicine* · PMID: 43039361
 
